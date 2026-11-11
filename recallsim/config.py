@@ -2,8 +2,12 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+from datetime import date
 
 SEED = 20261022
+# The generated world is "as of" this date. Later phases never create events after it,
+# except planned work orders that start in the future.
+AS_OF = date(2026, 11, 1)
 
 
 @dataclass(frozen=True)

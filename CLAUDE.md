@@ -26,14 +26,15 @@ Python 3.11+, stdlib only for the generator (csv, json, sqlite3, hashlib, random
 - "Recalled stock still for sale" = finished lot in recall scope with on-hand (qty_produced minus delivered) greater than 0 and no QUARANTINE action.
 - Each stage uses its own RNG: `stage_rng(seed, "stage.name")`.
 
-## Done so far (all tests executed and passing: 24 passed)
+## Done so far (all tests executed and passing: 43 passed)
 - Phase 0: `recallsim/schema.py`, `ddl.py`, `dictionary.py`, `sql/schema.sql`, `docs/DATA_DICTIONARY.md`, `tests/test_schema.py`. Regenerate docs: `python -m recallsim docs`.
 - Phase 1: `config.py`, `rng.py`, `ids.py`, `db.py`, `generate/master.py`, `tests/test_master.py`. Full scale output: 500 / 1500 / 40 / 217 BOM lines, 9 products with two recipe versions.
+- Phase 2: `generate/production.py`, `tests/test_production.py`, `AS_OF = 2026-11-01` in config. Full scale output: 10000 raw lots, 5000 WOs (4500 completed, 200 cancelled, 200 in progress, 100 planned), 28048 wo_input_lot rows, 8000 finished lots, 1977 unused raw lots (19.8%), zero shortages, runs in about 2 s. Design: demand-driven supply (factor 1.25), FEFO with running balance in integer grams, loss 1 to 4 percent, only COMPLETED jobs consume or produce.
 - Known gap (honest): supplier country is weighted but not linked to material origin. Optional P3.
 - Git: repo initialised, 2 commits (Phase 0, Phase 1), authored as Donthoju Sai Kiran. Remote: https://github.com/Donthoju-SaiKiran/recall-system.git (push done by the candidate, Claude had no push access). Not done: README, all later phases.
 
 ## Next phases
-2. Raw lots, production orders, wo_input_lot consumption, finished lots (hardest, quantities reconcile by construction). Draft design to explain first:
+2. DONE (see above). Original draft design kept for reference:
    - Raw lots: dates across 2026, supplier weighted by tier, received_date >= supplier onboarded_date, 1 to 3 materials per supplier (derived, no table), qty about 500 to 5000 kg, expiry by material.
    - Work orders: product weighted to ACTIVE, status mostly COMPLETED, few IN_PROGRESS and CANCELLED (cancelled consume nothing). Use BOM version effective on start_date.
    - Consume from raw lots of the right material received before start date, track remaining balance per lot, split across lots when needed (this creates the N:M rows). Decide produced packs, then consume required kg with a small loss factor. Never exceed lot balance.
