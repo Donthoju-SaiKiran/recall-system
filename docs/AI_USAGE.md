@@ -12,6 +12,7 @@ Columns marked **YOU FILL** must be completed honestly by the candidate. They ar
 | 4 | 2026-11-12 | Claude (chat) | Handoff notes for continuing in Claude Code | `CLAUDE.md`, this file, prompt history file | YOU FILL | YOU FILL | n/a |
 | 5 | 2026-11-12 | Claude (chat) | Phase 2: raw lots, work orders, FEFO consumption, finished lots, tests | `generate/production.py`, `tests/test_production.py`, `AS_OF` in `config.py` | YOU FILL | YOU FILL | `pytest`: 43 passed total (executed in the AI session), output statistics printed |
 | 6 | 2026-11-12 | Claude (chat) | Phase 3: shipments and deliveries generator, shared allocate helper, tests | `generate/distribution.py`, `util.py`, `tests/test_distribution.py` | YOU FILL | YOU FILL | `pytest`: 56 passed total (executed in the AI session), statistics printed |
+| 7 | 2026-11-12 | Claude (chat) | Phase 4: recall engine (trace, planner, action simulation) and tests | `recall.py`, `tests/test_recall.py` | YOU FILL | YOU FILL | `pytest`: 70 passed total (executed in the AI session), BFS vs SQL CTE agree on all cases |
 
 ## Where AI accelerated work
 Design, boilerplate, code generation, test writing, documentation drafting.
