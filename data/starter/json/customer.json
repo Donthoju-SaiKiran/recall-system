@@ -1,0 +1,602 @@
+[
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00001",
+    "customer_name": "Central Grocers South",
+    "customer_type": "RETAILER",
+    "region": "WEST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00002",
+    "customer_name": "Sunnyside Grocers East",
+    "customer_type": "RETAILER",
+    "region": "SOUTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00003",
+    "customer_name": "Tanglewood Mart North",
+    "customer_type": "RETAILER",
+    "region": "SOUTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00004",
+    "customer_name": "Garden Kitchen North",
+    "customer_type": "FOODSERVICE",
+    "region": "SOUTH",
+    "status": "INACTIVE"
+  },
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00005",
+    "customer_name": "Tanglewood Canteen South",
+    "customer_type": "RETAILER",
+    "region": "NORTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PHONE",
+    "customer_id": "C00006",
+    "customer_name": "Central Mart West",
+    "customer_type": "RETAILER",
+    "region": "EAST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00007",
+    "customer_name": "Bayview Cafe West",
+    "customer_type": "DISTRIBUTOR",
+    "region": "SOUTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PHONE",
+    "customer_id": "C00008",
+    "customer_name": "Eastside Market South",
+    "customer_type": "RETAILER",
+    "region": "NORTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PHONE",
+    "customer_id": "C00009",
+    "customer_name": "Cedar Supermarket West",
+    "customer_type": "RETAILER",
+    "region": "WEST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00010",
+    "customer_name": "Westgate Market South",
+    "customer_type": "RETAILER",
+    "region": "CENTRAL",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00011",
+    "customer_name": "Rosewood Canteen North",
+    "customer_type": "RETAILER",
+    "region": "NORTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00012",
+    "customer_name": "Westgate Canteen North",
+    "customer_type": "FOODSERVICE",
+    "region": "WEST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PHONE",
+    "customer_id": "C00013",
+    "customer_name": "Orchard Bazaar North",
+    "customer_type": "RETAILER",
+    "region": "SOUTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00014",
+    "customer_name": "Lakeview Canteen South",
+    "customer_type": "RETAILER",
+    "region": "NORTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00015",
+    "customer_name": "Elmwood Cafe North",
+    "customer_type": "RETAILER",
+    "region": "SOUTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00016",
+    "customer_name": "Fernhill Cafe North",
+    "customer_type": "RETAILER",
+    "region": "CENTRAL",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PHONE",
+    "customer_id": "C00017",
+    "customer_name": "Riverside Kitchen South",
+    "customer_type": "RETAILER",
+    "region": "NORTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00018",
+    "customer_name": "Fernhill Cafe East",
+    "customer_type": "RETAILER",
+    "region": "NORTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00019",
+    "customer_name": "Tanglewood Supermarket West",
+    "customer_type": "RETAILER",
+    "region": "EAST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00020",
+    "customer_name": "Highpoint Supermarket North",
+    "customer_type": "FOODSERVICE",
+    "region": "CENTRAL",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00021",
+    "customer_name": "Eastside Provisions East",
+    "customer_type": "RETAILER",
+    "region": "EAST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00022",
+    "customer_name": "Sunnyside Bazaar East",
+    "customer_type": "FOODSERVICE",
+    "region": "EAST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00023",
+    "customer_name": "Elmwood Wholesale West",
+    "customer_type": "RETAILER",
+    "region": "EAST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00024",
+    "customer_name": "Greenfield Foods South",
+    "customer_type": "RETAILER",
+    "region": "EAST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00025",
+    "customer_name": "Highpoint Wholesale West",
+    "customer_type": "FOODSERVICE",
+    "region": "SOUTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00026",
+    "customer_name": "Valley Foods North",
+    "customer_type": "RETAILER",
+    "region": "SOUTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00027",
+    "customer_name": "Eastside Bazaar South",
+    "customer_type": "RETAILER",
+    "region": "EAST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00028",
+    "customer_name": "Eastside Supermarket West",
+    "customer_type": "FOODSERVICE",
+    "region": "SOUTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00029",
+    "customer_name": "Fairmont Provisions West",
+    "customer_type": "FOODSERVICE",
+    "region": "WEST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00030",
+    "customer_name": "Orchard Grocers South",
+    "customer_type": "RETAILER",
+    "region": "WEST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00031",
+    "customer_name": "Valley Cafe West",
+    "customer_type": "FOODSERVICE",
+    "region": "NORTH",
+    "status": "INACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00032",
+    "customer_name": "Garden Mart South",
+    "customer_type": "DISTRIBUTOR",
+    "region": "NORTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00033",
+    "customer_name": "Northgate Kitchen North",
+    "customer_type": "FOODSERVICE",
+    "region": "SOUTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00034",
+    "customer_name": "Fernhill Kitchen South",
+    "customer_type": "FOODSERVICE",
+    "region": "SOUTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00035",
+    "customer_name": "Garden Market East",
+    "customer_type": "RETAILER",
+    "region": "WEST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PHONE",
+    "customer_id": "C00036",
+    "customer_name": "Southpoint Stores North",
+    "customer_type": "FOODSERVICE",
+    "region": "SOUTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00037",
+    "customer_name": "Eastside Market East",
+    "customer_type": "FOODSERVICE",
+    "region": "SOUTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00038",
+    "customer_name": "Lakeview Market South",
+    "customer_type": "RETAILER",
+    "region": "CENTRAL",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00039",
+    "customer_name": "Oakridge Grocers West",
+    "customer_type": "RETAILER",
+    "region": "WEST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00040",
+    "customer_name": "Lakeview Kitchen North",
+    "customer_type": "FOODSERVICE",
+    "region": "NORTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00041",
+    "customer_name": "Eastside Wholesale North",
+    "customer_type": "RETAILER",
+    "region": "NORTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00042",
+    "customer_name": "Riverside Grocers South",
+    "customer_type": "RETAILER",
+    "region": "SOUTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00043",
+    "customer_name": "Garden Canteen West",
+    "customer_type": "RETAILER",
+    "region": "CENTRAL",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00044",
+    "customer_name": "Fernhill Provisions West",
+    "customer_type": "DISTRIBUTOR",
+    "region": "EAST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00045",
+    "customer_name": "Westgate Canteen East",
+    "customer_type": "RETAILER",
+    "region": "WEST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00046",
+    "customer_name": "Fernhill Mart East",
+    "customer_type": "FOODSERVICE",
+    "region": "NORTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00047",
+    "customer_name": "Brookside Bazaar East",
+    "customer_type": "FOODSERVICE",
+    "region": "EAST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PHONE",
+    "customer_id": "C00048",
+    "customer_name": "Bayview Mart North",
+    "customer_type": "RETAILER",
+    "region": "EAST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00049",
+    "customer_name": "Central Foods North",
+    "customer_type": "DISTRIBUTOR",
+    "region": "WEST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00050",
+    "customer_name": "Sunnyside Foods East",
+    "customer_type": "RETAILER",
+    "region": "SOUTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PHONE",
+    "customer_id": "C00051",
+    "customer_name": "Lakeview Mart North",
+    "customer_type": "FOODSERVICE",
+    "region": "NORTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00052",
+    "customer_name": "Rosewood Mart East",
+    "customer_type": "DISTRIBUTOR",
+    "region": "WEST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00053",
+    "customer_name": "Brookside Supermarket East",
+    "customer_type": "RETAILER",
+    "region": "SOUTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00054",
+    "customer_name": "Northgate Cafe South",
+    "customer_type": "RETAILER",
+    "region": "CENTRAL",
+    "status": "INACTIVE"
+  },
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00055",
+    "customer_name": "Elmwood Market West",
+    "customer_type": "RETAILER",
+    "region": "SOUTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PHONE",
+    "customer_id": "C00056",
+    "customer_name": "Oakridge Canteen North",
+    "customer_type": "RETAILER",
+    "region": "EAST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00057",
+    "customer_name": "Lakeview Market East",
+    "customer_type": "DISTRIBUTOR",
+    "region": "EAST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00058",
+    "customer_name": "Queens Mart West",
+    "customer_type": "RETAILER",
+    "region": "SOUTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00059",
+    "customer_name": "Fernhill Mart South",
+    "customer_type": "FOODSERVICE",
+    "region": "WEST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00060",
+    "customer_name": "Central Supermarket North",
+    "customer_type": "FOODSERVICE",
+    "region": "SOUTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PHONE",
+    "customer_id": "C00061",
+    "customer_name": "Millbrook Stores West",
+    "customer_type": "RETAILER",
+    "region": "SOUTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PHONE",
+    "customer_id": "C00062",
+    "customer_name": "Elmwood Grocers West",
+    "customer_type": "RETAILER",
+    "region": "NORTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00063",
+    "customer_name": "Kingsway Cafe East",
+    "customer_type": "FOODSERVICE",
+    "region": "CENTRAL",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PHONE",
+    "customer_id": "C00064",
+    "customer_name": "Tanglewood Foods East",
+    "customer_type": "FOODSERVICE",
+    "region": "NORTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00065",
+    "customer_name": "Orchard Cafe South",
+    "customer_type": "RETAILER",
+    "region": "CENTRAL",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00066",
+    "customer_name": "Orchard Wholesale West",
+    "customer_type": "RETAILER",
+    "region": "WEST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00067",
+    "customer_name": "Westgate Market East",
+    "customer_type": "RETAILER",
+    "region": "CENTRAL",
+    "status": "INACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00068",
+    "customer_name": "Highpoint Cafe East",
+    "customer_type": "FOODSERVICE",
+    "region": "NORTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00069",
+    "customer_name": "Sunnyside Stores West",
+    "customer_type": "RETAILER",
+    "region": "WEST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PHONE",
+    "customer_id": "C00070",
+    "customer_name": "Hilltop Mart West",
+    "customer_type": "DISTRIBUTOR",
+    "region": "SOUTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00071",
+    "customer_name": "Sunnyside Stores North",
+    "customer_type": "RETAILER",
+    "region": "NORTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00072",
+    "customer_name": "Central Kitchen South",
+    "customer_type": "DISTRIBUTOR",
+    "region": "WEST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00073",
+    "customer_name": "Linden Grocers North",
+    "customer_type": "FOODSERVICE",
+    "region": "NORTH",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "EMAIL",
+    "customer_id": "C00074",
+    "customer_name": "Park Canteen East",
+    "customer_type": "RETAILER",
+    "region": "WEST",
+    "status": "ACTIVE"
+  },
+  {
+    "contact_channel": "PORTAL",
+    "customer_id": "C00075",
+    "customer_name": "Pinecrest Provisions East",
+    "customer_type": "DISTRIBUTOR",
+    "region": "NORTH",
+    "status": "ACTIVE"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "anomaly_id": "ANOM-0001",
+    "corrupted_value": "RAWLOT-S0009-2026-900001",
+    "detail": "{\"in_recall_scope\": true, \"wo_id\": \"WO-2026-000182\"}",
+    "field": "raw_lot_id",
+    "issue_type": "ORPHAN_INPUT_LOT",
+    "original_value": "RAWLOT-S0009-2026-000143",
+    "recall_id": "REC-2026-000003",
+    "row_key": "WO-2026-000182|RAWLOT-S0009-2026-000143",
+    "rule": "wo_input_lot.raw_lot_id replaced by a well-formed id that is absent from material_lot; up to 2 rows chosen from raw-trigger recall scopes (the trigger edge), rest outside all scopes",
+    "table": "wo_input_lot"
+  },
+  {
+    "anomaly_id": "ANOM-0002",
+    "corrupted_value": "RAWLOT-S0008-2026-900002",
+    "detail": "{\"in_recall_scope\": false, \"wo_id\": \"WO-2026-000235\"}",
+    "field": "raw_lot_id",
+    "issue_type": "ORPHAN_INPUT_LOT",
+    "original_value": "RAWLOT-S0008-2026-000442",
+    "recall_id": null,
+    "row_key": "WO-2026-000235|RAWLOT-S0008-2026-000442",
+    "rule": "wo_input_lot.raw_lot_id replaced by a well-formed id that is absent from material_lot; up to 2 rows chosen from raw-trigger recall scopes (the trigger edge), rest outside all scopes",
+    "table": "wo_input_lot"
+  },
+  {
+    "anomaly_id": "ANOM-0003",
+    "corrupted_value": 3881,
+    "detail": "{\"finished_lot_id\": \"FINLOT-2026-000109\", \"qty_produced\": 4162, \"total_delivered_after\": 4799}",
+    "field": "qty_delivered",
+    "issue_type": "DELIVERED_EXCEEDS_PRODUCED",
+    "original_value": 2662,
+    "recall_id": null,
+    "row_key": "DEL-2026-000273",
+    "rule": "largest non-failed delivery of a lot outside all recall scopes raised so shipped > produced",
+    "table": "delivery"
+  },
+  {
+    "anomaly_id": "ANOM-0004",
+    "corrupted_value": 1478,
+    "detail": "{\"finished_lot_id\": \"FINLOT-2026-000396\", \"qty_produced\": 1539, \"total_delivered_after\": 1692}",
+    "field": "qty_delivered",
+    "issue_type": "DELIVERED_EXCEEDS_PRODUCED",
+    "original_value": 310,
+    "recall_id": null,
+    "row_key": "DEL-2026-000999",
+    "rule": "largest non-failed delivery of a lot outside all recall scopes raised so shipped > produced",
+    "table": "delivery"
+  },
+  {
+    "anomaly_id": "ANOM-0005",
+    "corrupted_value": "deleted",
+    "detail": "{\"customer_id\": \"C00022\", \"delivery_id\": \"DEL-2026-000217\", \"removed_action_ids\": [\"ACT-2026-000045\", \"ACT-2026-000303\"]}",
+    "field": "(rows deleted)",
+    "issue_type": "RECALL_MISSED_CUSTOMER",
+    "original_value": "present",
+    "recall_id": "REC-2026-000003",
+    "row_key": "ACT-2026-000045,ACT-2026-000303",
+    "rule": "NOTIFY and RECOVER actions removed for a delivery whose customer has no other delivery in that recall scope, so the customer is never notified",
+    "table": "recall_action"
+  },
+  {
+    "anomaly_id": "ANOM-0006",
+    "corrupted_value": "deleted",
+    "detail": "{\"customer_id\": \"C00042\", \"delivery_id\": \"DEL-2026-000514\", \"removed_action_ids\": [\"ACT-2026-000002\", \"ACT-2026-000004\"]}",
+    "field": "(rows deleted)",
+    "issue_type": "RECALL_MISSED_CUSTOMER",
+    "original_value": "present",
+    "recall_id": "REC-2026-000001",
+    "row_key": "ACT-2026-000002,ACT-2026-000004",
+    "rule": "NOTIFY and RECOVER actions removed for a delivery whose customer has no other delivery in that recall scope, so the customer is never notified",
+    "table": "recall_action"
+  },
+  {
+    "anomaly_id": "ANOM-0007",
+    "corrupted_value": "AVAILABLE",
+    "detail": "{}",
+    "field": "sale_status",
+    "issue_type": "RECALLED_STILL_AVAILABLE",
+    "original_value": "RECALLED",
+    "recall_id": "REC-2026-000001",
+    "row_key": "FINLOT-2026-000170",
+    "rule": "finished lot with a QUARANTINE action set to sale_status AVAILABLE",
+    "table": "finished_lot"
+  },
+  {
+    "anomaly_id": "ANOM-0008",
+    "corrupted_value": "AVAILABLE",
+    "detail": "{}",
+    "field": "sale_status",
+    "issue_type": "RECALLED_STILL_AVAILABLE",
+    "original_value": "RECALLED",
+    "recall_id": "REC-2026-000003",
+    "row_key": "FINLOT-2026-000231",
+    "rule": "finished lot with a QUARANTINE action set to sale_status AVAILABLE",
+    "table": "finished_lot"
+  }
+]

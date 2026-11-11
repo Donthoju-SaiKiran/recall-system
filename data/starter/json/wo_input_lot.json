@@ -1,0 +1,7040 @@
+[
+  {
+    "consumed_date": "2026-02-10",
+    "qty_consumed": 915.385,
+    "raw_lot_id": "RAWLOT-S0007-2026-000010",
+    "wo_id": "WO-2026-000005"
+  },
+  {
+    "consumed_date": "2026-02-09",
+    "qty_consumed": 664.131,
+    "raw_lot_id": "RAWLOT-S0010-2026-000031",
+    "wo_id": "WO-2026-000005"
+  },
+  {
+    "consumed_date": "2026-02-07",
+    "qty_consumed": 609.986,
+    "raw_lot_id": "RAWLOT-S0011-2026-000005",
+    "wo_id": "WO-2026-000005"
+  },
+  {
+    "consumed_date": "2026-02-10",
+    "qty_consumed": 493.659,
+    "raw_lot_id": "RAWLOT-S0015-2026-000016",
+    "wo_id": "WO-2026-000005"
+  },
+  {
+    "consumed_date": "2026-02-08",
+    "qty_consumed": 963.113,
+    "raw_lot_id": "RAWLOT-S0022-2026-000007",
+    "wo_id": "WO-2026-000005"
+  },
+  {
+    "consumed_date": "2026-02-06",
+    "qty_consumed": 631.513,
+    "raw_lot_id": "RAWLOT-S0024-2026-000040",
+    "wo_id": "WO-2026-000005"
+  },
+  {
+    "consumed_date": "2026-02-11",
+    "qty_consumed": 477.799,
+    "raw_lot_id": "RAWLOT-S0001-2026-000030",
+    "wo_id": "WO-2026-000007"
+  },
+  {
+    "consumed_date": "2026-02-11",
+    "qty_consumed": 1262.901,
+    "raw_lot_id": "RAWLOT-S0003-2026-000023",
+    "wo_id": "WO-2026-000007"
+  },
+  {
+    "consumed_date": "2026-02-10",
+    "qty_consumed": 737.847,
+    "raw_lot_id": "RAWLOT-S0007-2026-000008",
+    "wo_id": "WO-2026-000007"
+  },
+  {
+    "consumed_date": "2026-02-10",
+    "qty_consumed": 20.43,
+    "raw_lot_id": "RAWLOT-S0007-2026-000010",
+    "wo_id": "WO-2026-000007"
+  },
+  {
+    "consumed_date": "2026-02-11",
+    "qty_consumed": 537.001,
+    "raw_lot_id": "RAWLOT-S0011-2026-000013",
+    "wo_id": "WO-2026-000007"
+  },
+  {
+    "consumed_date": "2026-02-11",
+    "qty_consumed": 73.915,
+    "raw_lot_id": "RAWLOT-S0011-2026-000026",
+    "wo_id": "WO-2026-000007"
+  },
+  {
+    "consumed_date": "2026-02-10",
+    "qty_consumed": 269.621,
+    "raw_lot_id": "RAWLOT-S0024-2026-000037",
+    "wo_id": "WO-2026-000007"
+  },
+  {
+    "consumed_date": "2026-02-11",
+    "qty_consumed": 153.213,
+    "raw_lot_id": "RAWLOT-S0024-2026-000040",
+    "wo_id": "WO-2026-000007"
+  },
+  {
+    "consumed_date": "2026-02-11",
+    "qty_consumed": 258.888,
+    "raw_lot_id": "RAWLOT-S0010-2026-000031",
+    "wo_id": "WO-2026-000008"
+  },
+  {
+    "consumed_date": "2026-02-13",
+    "qty_consumed": 356.416,
+    "raw_lot_id": "RAWLOT-S0011-2026-000003",
+    "wo_id": "WO-2026-000008"
+  },
+  {
+    "consumed_date": "2026-02-14",
+    "qty_consumed": 494.745,
+    "raw_lot_id": "RAWLOT-S0011-2026-000026",
+    "wo_id": "WO-2026-000008"
+  },
+  {
+    "consumed_date": "2026-02-12",
+    "qty_consumed": 348.154,
+    "raw_lot_id": "RAWLOT-S0011-2026-000058",
+    "wo_id": "WO-2026-000008"
+  },
+  {
+    "consumed_date": "2026-02-15",
+    "qty_consumed": 543.601,
+    "raw_lot_id": "RAWLOT-S0011-2026-000059",
+    "wo_id": "WO-2026-000008"
+  },
+  {
+    "consumed_date": "2026-02-12",
+    "qty_consumed": 173.899,
+    "raw_lot_id": "RAWLOT-S0015-2026-000016",
+    "wo_id": "WO-2026-000008"
+  },
+  {
+    "consumed_date": "2026-02-11",
+    "qty_consumed": 738.692,
+    "raw_lot_id": "RAWLOT-S0022-2026-000006",
+    "wo_id": "WO-2026-000008"
+  },
+  {
+    "consumed_date": "2026-02-13",
+    "qty_consumed": 1114.055,
+    "raw_lot_id": "RAWLOT-S0024-2026-000037",
+    "wo_id": "WO-2026-000008"
+  },
+  {
+    "consumed_date": "2026-02-12",
+    "qty_consumed": 197.41,
+    "raw_lot_id": "RAWLOT-S0010-2026-000031",
+    "wo_id": "WO-2026-000010"
+  },
+  {
+    "consumed_date": "2026-02-13",
+    "qty_consumed": 179.265,
+    "raw_lot_id": "RAWLOT-S0010-2026-000060",
+    "wo_id": "WO-2026-000010"
+  },
+  {
+    "consumed_date": "2026-02-16",
+    "qty_consumed": 865.143,
+    "raw_lot_id": "RAWLOT-S0011-2026-000059",
+    "wo_id": "WO-2026-000010"
+  },
+  {
+    "consumed_date": "2026-02-13",
+    "qty_consumed": 279.988,
+    "raw_lot_id": "RAWLOT-S0015-2026-000016",
+    "wo_id": "WO-2026-000010"
+  },
+  {
+    "consumed_date": "2026-02-13",
+    "qty_consumed": 159.185,
+    "raw_lot_id": "RAWLOT-S0022-2026-000006",
+    "wo_id": "WO-2026-000010"
+  },
+  {
+    "consumed_date": "2026-02-15",
+    "qty_consumed": 745.237,
+    "raw_lot_id": "RAWLOT-S0024-2026-000011",
+    "wo_id": "WO-2026-000010"
+  },
+  {
+    "consumed_date": "2026-02-14",
+    "qty_consumed": 506.974,
+    "raw_lot_id": "RAWLOT-S0010-2026-000060",
+    "wo_id": "WO-2026-000011"
+  },
+  {
+    "consumed_date": "2026-02-14",
+    "qty_consumed": 304.81,
+    "raw_lot_id": "RAWLOT-S0011-2026-000057",
+    "wo_id": "WO-2026-000011"
+  },
+  {
+    "consumed_date": "2026-02-13",
+    "qty_consumed": 859.604,
+    "raw_lot_id": "RAWLOT-S0011-2026-000059",
+    "wo_id": "WO-2026-000011"
+  },
+  {
+    "consumed_date": "2026-02-14",
+    "qty_consumed": 289.678,
+    "raw_lot_id": "RAWLOT-S0015-2026-000016",
+    "wo_id": "WO-2026-000011"
+  },
+  {
+    "consumed_date": "2026-02-13",
+    "qty_consumed": 87.164,
+    "raw_lot_id": "RAWLOT-S0023-2026-000028",
+    "wo_id": "WO-2026-000011"
+  },
+  {
+    "consumed_date": "2026-02-14",
+    "qty_consumed": 1217.28,
+    "raw_lot_id": "RAWLOT-S0024-2026-000011",
+    "wo_id": "WO-2026-000011"
+  },
+  {
+    "consumed_date": "2026-02-14",
+    "qty_consumed": 1501.816,
+    "raw_lot_id": "RAWLOT-S0007-2026-000071",
+    "wo_id": "WO-2026-000014"
+  },
+  {
+    "consumed_date": "2026-02-15",
+    "qty_consumed": 245.603,
+    "raw_lot_id": "RAWLOT-S0010-2026-000060",
+    "wo_id": "WO-2026-000014"
+  },
+  {
+    "consumed_date": "2026-02-15",
+    "qty_consumed": 151.662,
+    "raw_lot_id": "RAWLOT-S0011-2026-000057",
+    "wo_id": "WO-2026-000014"
+  },
+  {
+    "consumed_date": "2026-02-14",
+    "qty_consumed": 162.371,
+    "raw_lot_id": "RAWLOT-S0022-2026-000024",
+    "wo_id": "WO-2026-000014"
+  },
+  {
+    "consumed_date": "2026-02-14",
+    "qty_consumed": 556.248,
+    "raw_lot_id": "RAWLOT-S0022-2026-000055",
+    "wo_id": "WO-2026-000014"
+  },
+  {
+    "consumed_date": "2026-02-14",
+    "qty_consumed": 164.976,
+    "raw_lot_id": "RAWLOT-S0023-2026-000028",
+    "wo_id": "WO-2026-000014"
+  },
+  {
+    "consumed_date": "2026-02-14",
+    "qty_consumed": 1039.054,
+    "raw_lot_id": "RAWLOT-S0024-2026-000011",
+    "wo_id": "WO-2026-000014"
+  },
+  {
+    "consumed_date": "2026-02-21",
+    "qty_consumed": 418.626,
+    "raw_lot_id": "RAWLOT-S0010-2026-000060",
+    "wo_id": "WO-2026-000019"
+  },
+  {
+    "consumed_date": "2026-02-21",
+    "qty_consumed": 961.496,
+    "raw_lot_id": "RAWLOT-S0011-2026-000057",
+    "wo_id": "WO-2026-000019"
+  },
+  {
+    "consumed_date": "2026-02-22",
+    "qty_consumed": 367.522,
+    "raw_lot_id": "RAWLOT-S0022-2026-000024",
+    "wo_id": "WO-2026-000019"
+  },
+  {
+    "consumed_date": "2026-02-22",
+    "qty_consumed": 637.627,
+    "raw_lot_id": "RAWLOT-S0022-2026-000061",
+    "wo_id": "WO-2026-000019"
+  },
+  {
+    "consumed_date": "2026-02-22",
+    "qty_consumed": 311.171,
+    "raw_lot_id": "RAWLOT-S0023-2026-000028",
+    "wo_id": "WO-2026-000019"
+  },
+  {
+    "consumed_date": "2026-03-01",
+    "qty_consumed": 579.139,
+    "raw_lot_id": "RAWLOT-S0003-2026-000018",
+    "wo_id": "WO-2026-000026"
+  },
+  {
+    "consumed_date": "2026-03-02",
+    "qty_consumed": 687.924,
+    "raw_lot_id": "RAWLOT-S0007-2026-000096",
+    "wo_id": "WO-2026-000026"
+  },
+  {
+    "consumed_date": "2026-03-02",
+    "qty_consumed": 299.515,
+    "raw_lot_id": "RAWLOT-S0010-2026-000060",
+    "wo_id": "WO-2026-000026"
+  },
+  {
+    "consumed_date": "2026-03-02",
+    "qty_consumed": 140.018,
+    "raw_lot_id": "RAWLOT-S0022-2026-000061",
+    "wo_id": "WO-2026-000026"
+  },
+  {
+    "consumed_date": "2026-03-02",
+    "qty_consumed": 222.634,
+    "raw_lot_id": "RAWLOT-S0023-2026-000028",
+    "wo_id": "WO-2026-000026"
+  },
+  {
+    "consumed_date": "2026-03-08",
+    "qty_consumed": 51.873,
+    "raw_lot_id": "RAWLOT-S0001-2026-000030",
+    "wo_id": "WO-2026-000029"
+  },
+  {
+    "consumed_date": "2026-03-08",
+    "qty_consumed": 242.59,
+    "raw_lot_id": "RAWLOT-S0003-2026-000018",
+    "wo_id": "WO-2026-000029"
+  },
+  {
+    "consumed_date": "2026-03-09",
+    "qty_consumed": 139.362,
+    "raw_lot_id": "RAWLOT-S0007-2026-000096",
+    "wo_id": "WO-2026-000029"
+  },
+  {
+    "consumed_date": "2026-03-09",
+    "qty_consumed": 1338.206,
+    "raw_lot_id": "RAWLOT-S0011-2026-000088",
+    "wo_id": "WO-2026-000029"
+  },
+  {
+    "consumed_date": "2026-03-09",
+    "qty_consumed": 177.642,
+    "raw_lot_id": "RAWLOT-S0011-2026-000109",
+    "wo_id": "WO-2026-000029"
+  },
+  {
+    "consumed_date": "2026-03-08",
+    "qty_consumed": 525.736,
+    "raw_lot_id": "RAWLOT-S0015-2026-000098",
+    "wo_id": "WO-2026-000029"
+  },
+  {
+    "consumed_date": "2026-03-08",
+    "qty_consumed": 962.397,
+    "raw_lot_id": "RAWLOT-S0024-2026-000034",
+    "wo_id": "WO-2026-000029"
+  },
+  {
+    "consumed_date": "2026-03-09",
+    "qty_consumed": 832.889,
+    "raw_lot_id": "RAWLOT-S0024-2026-000038",
+    "wo_id": "WO-2026-000029"
+  },
+  {
+    "consumed_date": "2026-03-12",
+    "qty_consumed": 198.04,
+    "raw_lot_id": "RAWLOT-S0006-2026-000118",
+    "wo_id": "WO-2026-000031"
+  },
+  {
+    "consumed_date": "2026-03-14",
+    "qty_consumed": 146.509,
+    "raw_lot_id": "RAWLOT-S0008-2026-000124",
+    "wo_id": "WO-2026-000031"
+  },
+  {
+    "consumed_date": "2026-03-16",
+    "qty_consumed": 207.625,
+    "raw_lot_id": "RAWLOT-S0011-2026-000057",
+    "wo_id": "WO-2026-000031"
+  },
+  {
+    "consumed_date": "2026-03-15",
+    "qty_consumed": 505.725,
+    "raw_lot_id": "RAWLOT-S0011-2026-000109",
+    "wo_id": "WO-2026-000031"
+  },
+  {
+    "consumed_date": "2026-03-14",
+    "qty_consumed": 415.618,
+    "raw_lot_id": "RAWLOT-S0022-2026-000021",
+    "wo_id": "WO-2026-000031"
+  },
+  {
+    "consumed_date": "2026-03-12",
+    "qty_consumed": 722.104,
+    "raw_lot_id": "RAWLOT-S0024-2026-000038",
+    "wo_id": "WO-2026-000031"
+  },
+  {
+    "consumed_date": "2026-03-14",
+    "qty_consumed": 348.07,
+    "raw_lot_id": "RAWLOT-S0006-2026-000118",
+    "wo_id": "WO-2026-000032"
+  },
+  {
+    "consumed_date": "2026-03-15",
+    "qty_consumed": 574.268,
+    "raw_lot_id": "RAWLOT-S0007-2026-000081",
+    "wo_id": "WO-2026-000032"
+  },
+  {
+    "consumed_date": "2026-03-17",
+    "qty_consumed": 257.501,
+    "raw_lot_id": "RAWLOT-S0008-2026-000124",
+    "wo_id": "WO-2026-000032"
+  },
+  {
+    "consumed_date": "2026-03-13",
+    "qty_consumed": 20.627,
+    "raw_lot_id": "RAWLOT-S0011-2026-000057",
+    "wo_id": "WO-2026-000032"
+  },
+  {
+    "consumed_date": "2026-03-14",
+    "qty_consumed": 658.867,
+    "raw_lot_id": "RAWLOT-S0011-2026-000105",
+    "wo_id": "WO-2026-000032"
+  },
+  {
+    "consumed_date": "2026-03-13",
+    "qty_consumed": 623.563,
+    "raw_lot_id": "RAWLOT-S0022-2026-000021",
+    "wo_id": "WO-2026-000032"
+  },
+  {
+    "consumed_date": "2026-03-13",
+    "qty_consumed": 837.611,
+    "raw_lot_id": "RAWLOT-S0022-2026-000027",
+    "wo_id": "WO-2026-000032"
+  },
+  {
+    "consumed_date": "2026-03-13",
+    "qty_consumed": 538.452,
+    "raw_lot_id": "RAWLOT-S0024-2026-000033",
+    "wo_id": "WO-2026-000032"
+  },
+  {
+    "consumed_date": "2026-03-17",
+    "qty_consumed": 782.572,
+    "raw_lot_id": "RAWLOT-S0007-2026-000132",
+    "wo_id": "WO-2026-000034"
+  },
+  {
+    "consumed_date": "2026-03-16",
+    "qty_consumed": 342.104,
+    "raw_lot_id": "RAWLOT-S0010-2026-000110",
+    "wo_id": "WO-2026-000034"
+  },
+  {
+    "consumed_date": "2026-03-20",
+    "qty_consumed": 1117.008,
+    "raw_lot_id": "RAWLOT-S0011-2026-000133",
+    "wo_id": "WO-2026-000034"
+  },
+  {
+    "consumed_date": "2026-03-19",
+    "qty_consumed": 403.576,
+    "raw_lot_id": "RAWLOT-S0011-2026-000134",
+    "wo_id": "WO-2026-000034"
+  },
+  {
+    "consumed_date": "2026-03-19",
+    "qty_consumed": 418.918,
+    "raw_lot_id": "RAWLOT-S0022-2026-000027",
+    "wo_id": "WO-2026-000034"
+  },
+  {
+    "consumed_date": "2026-03-16",
+    "qty_consumed": 2029.374,
+    "raw_lot_id": "RAWLOT-S0022-2026-000127",
+    "wo_id": "WO-2026-000034"
+  },
+  {
+    "consumed_date": "2026-03-20",
+    "qty_consumed": 229.797,
+    "raw_lot_id": "RAWLOT-S0023-2026-000028",
+    "wo_id": "WO-2026-000034"
+  },
+  {
+    "consumed_date": "2026-03-21",
+    "qty_consumed": 614.863,
+    "raw_lot_id": "RAWLOT-S0010-2026-000110",
+    "wo_id": "WO-2026-000035"
+  },
+  {
+    "consumed_date": "2026-03-19",
+    "qty_consumed": 1412.213,
+    "raw_lot_id": "RAWLOT-S0011-2026-000134",
+    "wo_id": "WO-2026-000035"
+  },
+  {
+    "consumed_date": "2026-03-21",
+    "qty_consumed": 255.346,
+    "raw_lot_id": "RAWLOT-S0022-2026-000127",
+    "wo_id": "WO-2026-000035"
+  },
+  {
+    "consumed_date": "2026-03-18",
+    "qty_consumed": 457.038,
+    "raw_lot_id": "RAWLOT-S0023-2026-000028",
+    "wo_id": "WO-2026-000035"
+  },
+  {
+    "consumed_date": "2026-03-19",
+    "qty_consumed": 1220.984,
+    "raw_lot_id": "RAWLOT-S0024-2026-000080",
+    "wo_id": "WO-2026-000035"
+  },
+  {
+    "consumed_date": "2026-03-21",
+    "qty_consumed": 58.543,
+    "raw_lot_id": "RAWLOT-S0002-2026-000104",
+    "wo_id": "WO-2026-000036"
+  },
+  {
+    "consumed_date": "2026-03-21",
+    "qty_consumed": 806.777,
+    "raw_lot_id": "RAWLOT-S0007-2026-000081",
+    "wo_id": "WO-2026-000036"
+  },
+  {
+    "consumed_date": "2026-03-22",
+    "qty_consumed": 194.756,
+    "raw_lot_id": "RAWLOT-S0011-2026-000134",
+    "wo_id": "WO-2026-000036"
+  },
+  {
+    "consumed_date": "2026-03-20",
+    "qty_consumed": 616.952,
+    "raw_lot_id": "RAWLOT-S0019-2026-000012",
+    "wo_id": "WO-2026-000036"
+  },
+  {
+    "consumed_date": "2026-03-20",
+    "qty_consumed": 274.795,
+    "raw_lot_id": "RAWLOT-S0001-2026-000030",
+    "wo_id": "WO-2026-000037"
+  },
+  {
+    "consumed_date": "2026-03-22",
+    "qty_consumed": 316.431,
+    "raw_lot_id": "RAWLOT-S0003-2026-000048",
+    "wo_id": "WO-2026-000037"
+  },
+  {
+    "consumed_date": "2026-03-23",
+    "qty_consumed": 121.816,
+    "raw_lot_id": "RAWLOT-S0006-2026-000118",
+    "wo_id": "WO-2026-000037"
+  },
+  {
+    "consumed_date": "2026-03-19",
+    "qty_consumed": 15.589,
+    "raw_lot_id": "RAWLOT-S0007-2026-000081",
+    "wo_id": "WO-2026-000037"
+  },
+  {
+    "consumed_date": "2026-03-23",
+    "qty_consumed": 150.146,
+    "raw_lot_id": "RAWLOT-S0008-2026-000124",
+    "wo_id": "WO-2026-000037"
+  },
+  {
+    "consumed_date": "2026-03-23",
+    "qty_consumed": 1089.257,
+    "raw_lot_id": "RAWLOT-S0011-2026-000017",
+    "wo_id": "WO-2026-000037"
+  },
+  {
+    "consumed_date": "2026-03-23",
+    "qty_consumed": 181.308,
+    "raw_lot_id": "RAWLOT-S0011-2026-000046",
+    "wo_id": "WO-2026-000037"
+  },
+  {
+    "consumed_date": "2026-03-23",
+    "qty_consumed": 976.805,
+    "raw_lot_id": "RAWLOT-S0024-2026-000080",
+    "wo_id": "WO-2026-000037"
+  },
+  {
+    "consumed_date": "2026-03-21",
+    "qty_consumed": 489.321,
+    "raw_lot_id": "RAWLOT-S0003-2026-000048",
+    "wo_id": "WO-2026-000038"
+  },
+  {
+    "consumed_date": "2026-03-21",
+    "qty_consumed": 85.175,
+    "raw_lot_id": "RAWLOT-S0006-2026-000118",
+    "wo_id": "WO-2026-000038"
+  },
+  {
+    "consumed_date": "2026-03-21",
+    "qty_consumed": 63.012,
+    "raw_lot_id": "RAWLOT-S0008-2026-000124",
+    "wo_id": "WO-2026-000038"
+  },
+  {
+    "consumed_date": "2026-03-21",
+    "qty_consumed": 306.803,
+    "raw_lot_id": "RAWLOT-S0011-2026-000017",
+    "wo_id": "WO-2026-000038"
+  },
+  {
+    "consumed_date": "2026-03-23",
+    "qty_consumed": 269.096,
+    "raw_lot_id": "RAWLOT-S0003-2026-000048",
+    "wo_id": "WO-2026-000039"
+  },
+  {
+    "consumed_date": "2026-03-23",
+    "qty_consumed": 90.664,
+    "raw_lot_id": "RAWLOT-S0010-2026-000110",
+    "wo_id": "WO-2026-000039"
+  },
+  {
+    "consumed_date": "2026-03-22",
+    "qty_consumed": 457.056,
+    "raw_lot_id": "RAWLOT-S0011-2026-000017",
+    "wo_id": "WO-2026-000039"
+  },
+  {
+    "consumed_date": "2026-03-20",
+    "qty_consumed": 153.324,
+    "raw_lot_id": "RAWLOT-S0011-2026-000090",
+    "wo_id": "WO-2026-000039"
+  },
+  {
+    "consumed_date": "2026-03-21",
+    "qty_consumed": 379.748,
+    "raw_lot_id": "RAWLOT-S0022-2026-000095",
+    "wo_id": "WO-2026-000039"
+  },
+  {
+    "consumed_date": "2026-03-20",
+    "qty_consumed": 60.901,
+    "raw_lot_id": "RAWLOT-S0023-2026-000028",
+    "wo_id": "WO-2026-000039"
+  },
+  {
+    "consumed_date": "2026-03-21",
+    "qty_consumed": 105.762,
+    "raw_lot_id": "RAWLOT-S0006-2026-000118",
+    "wo_id": "WO-2026-000040"
+  },
+  {
+    "consumed_date": "2026-03-21",
+    "qty_consumed": 78.242,
+    "raw_lot_id": "RAWLOT-S0008-2026-000124",
+    "wo_id": "WO-2026-000040"
+  },
+  {
+    "consumed_date": "2026-03-25",
+    "qty_consumed": 380.96,
+    "raw_lot_id": "RAWLOT-S0011-2026-000090",
+    "wo_id": "WO-2026-000040"
+  },
+  {
+    "consumed_date": "2026-03-23",
+    "qty_consumed": 607.593,
+    "raw_lot_id": "RAWLOT-S0022-2026-000095",
+    "wo_id": "WO-2026-000040"
+  },
+  {
+    "consumed_date": "2026-03-23",
+    "qty_consumed": 87.291,
+    "raw_lot_id": "RAWLOT-S0006-2026-000118",
+    "wo_id": "WO-2026-000041"
+  },
+  {
+    "consumed_date": "2026-03-23",
+    "qty_consumed": 64.577,
+    "raw_lot_id": "RAWLOT-S0008-2026-000124",
+    "wo_id": "WO-2026-000041"
+  },
+  {
+    "consumed_date": "2026-03-21",
+    "qty_consumed": 314.425,
+    "raw_lot_id": "RAWLOT-S0011-2026-000090",
+    "wo_id": "WO-2026-000041"
+  },
+  {
+    "consumed_date": "2026-03-21",
+    "qty_consumed": 501.477,
+    "raw_lot_id": "RAWLOT-S0022-2026-000095",
+    "wo_id": "WO-2026-000041"
+  },
+  {
+    "consumed_date": "2026-03-23",
+    "qty_consumed": 99.177,
+    "raw_lot_id": "RAWLOT-S0001-2026-000030",
+    "wo_id": "WO-2026-000043"
+  },
+  {
+    "consumed_date": "2026-03-23",
+    "qty_consumed": 882.235,
+    "raw_lot_id": "RAWLOT-S0011-2026-000066",
+    "wo_id": "WO-2026-000043"
+  },
+  {
+    "consumed_date": "2026-03-23",
+    "qty_consumed": 521.343,
+    "raw_lot_id": "RAWLOT-S0011-2026-000090",
+    "wo_id": "WO-2026-000043"
+  },
+  {
+    "consumed_date": "2026-03-23",
+    "qty_consumed": 390.621,
+    "raw_lot_id": "RAWLOT-S0015-2026-000074",
+    "wo_id": "WO-2026-000043"
+  },
+  {
+    "consumed_date": "2026-03-23",
+    "qty_consumed": 1187.776,
+    "raw_lot_id": "RAWLOT-S0022-2026-000009",
+    "wo_id": "WO-2026-000043"
+  },
+  {
+    "consumed_date": "2026-03-23",
+    "qty_consumed": 540.294,
+    "raw_lot_id": "RAWLOT-S0022-2026-000095",
+    "wo_id": "WO-2026-000043"
+  },
+  {
+    "consumed_date": "2026-03-26",
+    "qty_consumed": 52.624,
+    "raw_lot_id": "RAWLOT-S0006-2026-000118",
+    "wo_id": "WO-2026-000044"
+  },
+  {
+    "consumed_date": "2026-03-26",
+    "qty_consumed": 37.714,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000044"
+  },
+  {
+    "consumed_date": "2026-03-24",
+    "qty_consumed": 43.853,
+    "raw_lot_id": "RAWLOT-S0011-2026-000046",
+    "wo_id": "WO-2026-000044"
+  },
+  {
+    "consumed_date": "2026-03-26",
+    "qty_consumed": 245.1,
+    "raw_lot_id": "RAWLOT-S0011-2026-000066",
+    "wo_id": "WO-2026-000044"
+  },
+  {
+    "consumed_date": "2026-03-26",
+    "qty_consumed": 277.63,
+    "raw_lot_id": "RAWLOT-S0011-2026-000076",
+    "wo_id": "WO-2026-000044"
+  },
+  {
+    "consumed_date": "2026-03-24",
+    "qty_consumed": 84.198,
+    "raw_lot_id": "RAWLOT-S0015-2026-000074",
+    "wo_id": "WO-2026-000044"
+  },
+  {
+    "consumed_date": "2026-03-23",
+    "qty_consumed": 508.697,
+    "raw_lot_id": "RAWLOT-S0022-2026-000009",
+    "wo_id": "WO-2026-000044"
+  },
+  {
+    "consumed_date": "2026-03-26",
+    "qty_consumed": 610.682,
+    "raw_lot_id": "RAWLOT-S0003-2026-000032",
+    "wo_id": "WO-2026-000045"
+  },
+  {
+    "consumed_date": "2026-03-26",
+    "qty_consumed": 87.027,
+    "raw_lot_id": "RAWLOT-S0006-2026-000118",
+    "wo_id": "WO-2026-000045"
+  },
+  {
+    "consumed_date": "2026-03-26",
+    "qty_consumed": 231.934,
+    "raw_lot_id": "RAWLOT-S0007-2026-000075",
+    "wo_id": "WO-2026-000045"
+  },
+  {
+    "consumed_date": "2026-03-24",
+    "qty_consumed": 62.369,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000045"
+  },
+  {
+    "consumed_date": "2026-03-26",
+    "qty_consumed": 72.523,
+    "raw_lot_id": "RAWLOT-S0011-2026-000046",
+    "wo_id": "WO-2026-000045"
+  },
+  {
+    "consumed_date": "2026-03-25",
+    "qty_consumed": 632.535,
+    "raw_lot_id": "RAWLOT-S0011-2026-000076",
+    "wo_id": "WO-2026-000045"
+  },
+  {
+    "consumed_date": "2026-03-24",
+    "qty_consumed": 139.243,
+    "raw_lot_id": "RAWLOT-S0015-2026-000074",
+    "wo_id": "WO-2026-000045"
+  },
+  {
+    "consumed_date": "2026-03-26",
+    "qty_consumed": 230.58,
+    "raw_lot_id": "RAWLOT-S0022-2026-000009",
+    "wo_id": "WO-2026-000045"
+  },
+  {
+    "consumed_date": "2026-03-28",
+    "qty_consumed": 486.063,
+    "raw_lot_id": "RAWLOT-S0003-2026-000032",
+    "wo_id": "WO-2026-000047"
+  },
+  {
+    "consumed_date": "2026-03-29",
+    "qty_consumed": 0.012,
+    "raw_lot_id": "RAWLOT-S0008-2026-000124",
+    "wo_id": "WO-2026-000047"
+  },
+  {
+    "consumed_date": "2026-03-29",
+    "qty_consumed": 119.302,
+    "raw_lot_id": "RAWLOT-S0008-2026-000152",
+    "wo_id": "WO-2026-000047"
+  },
+  {
+    "consumed_date": "2026-03-29",
+    "qty_consumed": 365.948,
+    "raw_lot_id": "RAWLOT-S0011-2026-000154",
+    "wo_id": "WO-2026-000047"
+  },
+  {
+    "consumed_date": "2026-03-27",
+    "qty_consumed": 600.148,
+    "raw_lot_id": "RAWLOT-S0003-2026-000032",
+    "wo_id": "WO-2026-000048"
+  },
+  {
+    "consumed_date": "2026-03-27",
+    "qty_consumed": 62.084,
+    "raw_lot_id": "RAWLOT-S0006-2026-000118",
+    "wo_id": "WO-2026-000048"
+  },
+  {
+    "consumed_date": "2026-03-27",
+    "qty_consumed": 206.242,
+    "raw_lot_id": "RAWLOT-S0007-2026-000075",
+    "wo_id": "WO-2026-000048"
+  },
+  {
+    "consumed_date": "2026-03-27",
+    "qty_consumed": 44.494,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000048"
+  },
+  {
+    "consumed_date": "2026-03-28",
+    "qty_consumed": 51.737,
+    "raw_lot_id": "RAWLOT-S0011-2026-000046",
+    "wo_id": "WO-2026-000048"
+  },
+  {
+    "consumed_date": "2026-03-28",
+    "qty_consumed": 410.462,
+    "raw_lot_id": "RAWLOT-S0011-2026-000154",
+    "wo_id": "WO-2026-000048"
+  },
+  {
+    "consumed_date": "2026-03-28",
+    "qty_consumed": 99.335,
+    "raw_lot_id": "RAWLOT-S0015-2026-000074",
+    "wo_id": "WO-2026-000048"
+  },
+  {
+    "consumed_date": "2026-03-28",
+    "qty_consumed": 69.307,
+    "raw_lot_id": "RAWLOT-S0007-2026-000075",
+    "wo_id": "WO-2026-000049"
+  },
+  {
+    "consumed_date": "2026-03-31",
+    "qty_consumed": 19.44,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000049"
+  },
+  {
+    "consumed_date": "2026-03-28",
+    "qty_consumed": 14.369,
+    "raw_lot_id": "RAWLOT-S0014-2026-000155",
+    "wo_id": "WO-2026-000049"
+  },
+  {
+    "consumed_date": "2026-03-31",
+    "qty_consumed": 98.467,
+    "raw_lot_id": "RAWLOT-S0019-2026-000012",
+    "wo_id": "WO-2026-000049"
+  },
+  {
+    "consumed_date": "2026-03-29",
+    "qty_consumed": 150.658,
+    "raw_lot_id": "RAWLOT-S0003-2026-000032",
+    "wo_id": "WO-2026-000050"
+  },
+  {
+    "consumed_date": "2026-03-28",
+    "qty_consumed": 101.77,
+    "raw_lot_id": "RAWLOT-S0006-2026-000118",
+    "wo_id": "WO-2026-000050"
+  },
+  {
+    "consumed_date": "2026-03-29",
+    "qty_consumed": 923.035,
+    "raw_lot_id": "RAWLOT-S0007-2026-000075",
+    "wo_id": "WO-2026-000050"
+  },
+  {
+    "consumed_date": "2026-03-29",
+    "qty_consumed": 125.438,
+    "raw_lot_id": "RAWLOT-S0008-2026-000152",
+    "wo_id": "WO-2026-000050"
+  },
+  {
+    "consumed_date": "2026-03-28",
+    "qty_consumed": 151.472,
+    "raw_lot_id": "RAWLOT-S0011-2026-000046",
+    "wo_id": "WO-2026-000050"
+  },
+  {
+    "consumed_date": "2026-03-28",
+    "qty_consumed": 229.575,
+    "raw_lot_id": "RAWLOT-S0015-2026-000074",
+    "wo_id": "WO-2026-000050"
+  },
+  {
+    "consumed_date": "2026-03-28",
+    "qty_consumed": 929.766,
+    "raw_lot_id": "RAWLOT-S0022-2026-000084",
+    "wo_id": "WO-2026-000050"
+  },
+  {
+    "consumed_date": "2026-03-28",
+    "qty_consumed": 116.193,
+    "raw_lot_id": "RAWLOT-S0006-2026-000118",
+    "wo_id": "WO-2026-000051"
+  },
+  {
+    "consumed_date": "2026-03-28",
+    "qty_consumed": 483.968,
+    "raw_lot_id": "RAWLOT-S0007-2026-000075",
+    "wo_id": "WO-2026-000051"
+  },
+  {
+    "consumed_date": "2026-03-29",
+    "qty_consumed": 83.272,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000051"
+  },
+  {
+    "consumed_date": "2026-03-28",
+    "qty_consumed": 670.214,
+    "raw_lot_id": "RAWLOT-S0011-2026-000015",
+    "wo_id": "WO-2026-000051"
+  },
+  {
+    "consumed_date": "2026-03-28",
+    "qty_consumed": 96.827,
+    "raw_lot_id": "RAWLOT-S0011-2026-000046",
+    "wo_id": "WO-2026-000051"
+  },
+  {
+    "consumed_date": "2026-03-28",
+    "qty_consumed": 185.908,
+    "raw_lot_id": "RAWLOT-S0015-2026-000074",
+    "wo_id": "WO-2026-000051"
+  },
+  {
+    "consumed_date": "2026-03-29",
+    "qty_consumed": 257.834,
+    "raw_lot_id": "RAWLOT-S0022-2026-000069",
+    "wo_id": "WO-2026-000051"
+  },
+  {
+    "consumed_date": "2026-03-29",
+    "qty_consumed": 865.363,
+    "raw_lot_id": "RAWLOT-S0022-2026-000084",
+    "wo_id": "WO-2026-000051"
+  },
+  {
+    "consumed_date": "2026-04-01",
+    "qty_consumed": 233.056,
+    "raw_lot_id": "RAWLOT-S0006-2026-000118",
+    "wo_id": "WO-2026-000052"
+  },
+  {
+    "consumed_date": "2026-04-02",
+    "qty_consumed": 172.414,
+    "raw_lot_id": "RAWLOT-S0008-2026-000152",
+    "wo_id": "WO-2026-000052"
+  },
+  {
+    "consumed_date": "2026-03-31",
+    "qty_consumed": 696.593,
+    "raw_lot_id": "RAWLOT-S0011-2026-000015",
+    "wo_id": "WO-2026-000052"
+  },
+  {
+    "consumed_date": "2026-04-01",
+    "qty_consumed": 142.883,
+    "raw_lot_id": "RAWLOT-S0011-2026-000106",
+    "wo_id": "WO-2026-000052"
+  },
+  {
+    "consumed_date": "2026-04-01",
+    "qty_consumed": 511.413,
+    "raw_lot_id": "RAWLOT-S0022-2026-000069",
+    "wo_id": "WO-2026-000052"
+  },
+  {
+    "consumed_date": "2026-03-31",
+    "qty_consumed": 827.468,
+    "raw_lot_id": "RAWLOT-S0022-2026-000087",
+    "wo_id": "WO-2026-000052"
+  },
+  {
+    "consumed_date": "2026-03-31",
+    "qty_consumed": 165.879,
+    "raw_lot_id": "RAWLOT-S0002-2026-000104",
+    "wo_id": "WO-2026-000053"
+  },
+  {
+    "consumed_date": "2026-04-01",
+    "qty_consumed": 67.428,
+    "raw_lot_id": "RAWLOT-S0006-2026-000082",
+    "wo_id": "WO-2026-000053"
+  },
+  {
+    "consumed_date": "2026-04-01",
+    "qty_consumed": 430.209,
+    "raw_lot_id": "RAWLOT-S0006-2026-000118",
+    "wo_id": "WO-2026-000053"
+  },
+  {
+    "consumed_date": "2026-03-31",
+    "qty_consumed": 164.169,
+    "raw_lot_id": "RAWLOT-S0015-2026-000074",
+    "wo_id": "WO-2026-000053"
+  },
+  {
+    "consumed_date": "2026-03-31",
+    "qty_consumed": 442.973,
+    "raw_lot_id": "RAWLOT-S0022-2026-000087",
+    "wo_id": "WO-2026-000053"
+  },
+  {
+    "consumed_date": "2026-04-01",
+    "qty_consumed": 220.543,
+    "raw_lot_id": "RAWLOT-S0022-2026-000147",
+    "wo_id": "WO-2026-000053"
+  },
+  {
+    "consumed_date": "2026-03-31",
+    "qty_consumed": 37.622,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000053"
+  },
+  {
+    "consumed_date": "2026-04-03",
+    "qty_consumed": 43.123,
+    "raw_lot_id": "RAWLOT-S0006-2026-000082",
+    "wo_id": "WO-2026-000055"
+  },
+  {
+    "consumed_date": "2026-04-01",
+    "qty_consumed": 30.905,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000055"
+  },
+  {
+    "consumed_date": "2026-04-02",
+    "qty_consumed": 35.936,
+    "raw_lot_id": "RAWLOT-S0011-2026-000046",
+    "wo_id": "WO-2026-000055"
+  },
+  {
+    "consumed_date": "2026-04-02",
+    "qty_consumed": 428.355,
+    "raw_lot_id": "RAWLOT-S0011-2026-000106",
+    "wo_id": "WO-2026-000055"
+  },
+  {
+    "consumed_date": "2026-04-02",
+    "qty_consumed": 68.997,
+    "raw_lot_id": "RAWLOT-S0015-2026-000074",
+    "wo_id": "WO-2026-000055"
+  },
+  {
+    "consumed_date": "2026-04-03",
+    "qty_consumed": 416.856,
+    "raw_lot_id": "RAWLOT-S0022-2026-000147",
+    "wo_id": "WO-2026-000055"
+  },
+  {
+    "consumed_date": "2026-04-06",
+    "qty_consumed": 76.601,
+    "raw_lot_id": "RAWLOT-S0002-2026-000104",
+    "wo_id": "WO-2026-000056"
+  },
+  {
+    "consumed_date": "2026-04-04",
+    "qty_consumed": 229.803,
+    "raw_lot_id": "RAWLOT-S0006-2026-000082",
+    "wo_id": "WO-2026-000056"
+  },
+  {
+    "consumed_date": "2026-04-07",
+    "qty_consumed": 75.811,
+    "raw_lot_id": "RAWLOT-S0015-2026-000074",
+    "wo_id": "WO-2026-000056"
+  },
+  {
+    "consumed_date": "2026-04-08",
+    "qty_consumed": 17.373,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000056"
+  },
+  {
+    "consumed_date": "2026-04-03",
+    "qty_consumed": 306.404,
+    "raw_lot_id": "RAWLOT-S0024-2026-000168",
+    "wo_id": "WO-2026-000056"
+  },
+  {
+    "consumed_date": "2026-04-08",
+    "qty_consumed": 585.425,
+    "raw_lot_id": "RAWLOT-S0010-2026-000166",
+    "wo_id": "WO-2026-000057"
+  },
+  {
+    "consumed_date": "2026-04-06",
+    "qty_consumed": 1143.25,
+    "raw_lot_id": "RAWLOT-S0011-2026-000004",
+    "wo_id": "WO-2026-000057"
+  },
+  {
+    "consumed_date": "2026-04-08",
+    "qty_consumed": 201.349,
+    "raw_lot_id": "RAWLOT-S0011-2026-000106",
+    "wo_id": "WO-2026-000057"
+  },
+  {
+    "consumed_date": "2026-04-07",
+    "qty_consumed": 825.109,
+    "raw_lot_id": "RAWLOT-S0022-2026-000147",
+    "wo_id": "WO-2026-000057"
+  },
+  {
+    "consumed_date": "2026-04-06",
+    "qty_consumed": 435.155,
+    "raw_lot_id": "RAWLOT-S0023-2026-000028",
+    "wo_id": "WO-2026-000057"
+  },
+  {
+    "consumed_date": "2026-04-08",
+    "qty_consumed": 580.537,
+    "raw_lot_id": "RAWLOT-S0024-2026-000168",
+    "wo_id": "WO-2026-000057"
+  },
+  {
+    "consumed_date": "2026-04-08",
+    "qty_consumed": 118.299,
+    "raw_lot_id": "RAWLOT-S0010-2026-000166",
+    "wo_id": "WO-2026-000058"
+  },
+  {
+    "consumed_date": "2026-04-07",
+    "qty_consumed": 19.681,
+    "raw_lot_id": "RAWLOT-S0011-2026-000004",
+    "wo_id": "WO-2026-000058"
+  },
+  {
+    "consumed_date": "2026-04-08",
+    "qty_consumed": 776.748,
+    "raw_lot_id": "RAWLOT-S0011-2026-000112",
+    "wo_id": "WO-2026-000058"
+  },
+  {
+    "consumed_date": "2026-04-10",
+    "qty_consumed": 846.617,
+    "raw_lot_id": "RAWLOT-S0022-2026-000147",
+    "wo_id": "WO-2026-000058"
+  },
+  {
+    "consumed_date": "2026-04-08",
+    "qty_consumed": 79.464,
+    "raw_lot_id": "RAWLOT-S0023-2026-000028",
+    "wo_id": "WO-2026-000058"
+  },
+  {
+    "consumed_date": "2026-04-08",
+    "qty_consumed": 174.181,
+    "raw_lot_id": "RAWLOT-S0006-2026-000082",
+    "wo_id": "WO-2026-000059"
+  },
+  {
+    "consumed_date": "2026-04-09",
+    "qty_consumed": 128.858,
+    "raw_lot_id": "RAWLOT-S0008-2026-000152",
+    "wo_id": "WO-2026-000059"
+  },
+  {
+    "consumed_date": "2026-04-11",
+    "qty_consumed": 627.406,
+    "raw_lot_id": "RAWLOT-S0011-2026-000112",
+    "wo_id": "WO-2026-000059"
+  },
+  {
+    "consumed_date": "2026-04-07",
+    "qty_consumed": 670.894,
+    "raw_lot_id": "RAWLOT-S0022-2026-000147",
+    "wo_id": "WO-2026-000059"
+  },
+  {
+    "consumed_date": "2026-04-08",
+    "qty_consumed": 329.756,
+    "raw_lot_id": "RAWLOT-S0024-2026-000093",
+    "wo_id": "WO-2026-000059"
+  },
+  {
+    "consumed_date": "2026-04-11",
+    "qty_consumed": 289.161,
+    "raw_lot_id": "RAWLOT-S0003-2026-000149",
+    "wo_id": "WO-2026-000061"
+  },
+  {
+    "consumed_date": "2026-04-12",
+    "qty_consumed": 105.098,
+    "raw_lot_id": "RAWLOT-S0006-2026-000082",
+    "wo_id": "WO-2026-000061"
+  },
+  {
+    "consumed_date": "2026-04-11",
+    "qty_consumed": 77.751,
+    "raw_lot_id": "RAWLOT-S0008-2026-000152",
+    "wo_id": "WO-2026-000061"
+  },
+  {
+    "consumed_date": "2026-04-11",
+    "qty_consumed": 378.566,
+    "raw_lot_id": "RAWLOT-S0011-2026-000182",
+    "wo_id": "WO-2026-000061"
+  },
+  {
+    "consumed_date": "2026-04-12",
+    "qty_consumed": 314.614,
+    "raw_lot_id": "RAWLOT-S0024-2026-000093",
+    "wo_id": "WO-2026-000061"
+  },
+  {
+    "consumed_date": "2026-04-14",
+    "qty_consumed": 98.12,
+    "raw_lot_id": "RAWLOT-S0001-2026-000170",
+    "wo_id": "WO-2026-000062"
+  },
+  {
+    "consumed_date": "2026-04-14",
+    "qty_consumed": 99.142,
+    "raw_lot_id": "RAWLOT-S0002-2026-000104",
+    "wo_id": "WO-2026-000062"
+  },
+  {
+    "consumed_date": "2026-04-11",
+    "qty_consumed": 396.569,
+    "raw_lot_id": "RAWLOT-S0003-2026-000149",
+    "wo_id": "WO-2026-000062"
+  },
+  {
+    "consumed_date": "2026-04-11",
+    "qty_consumed": 297.427,
+    "raw_lot_id": "RAWLOT-S0006-2026-000082",
+    "wo_id": "WO-2026-000062"
+  },
+  {
+    "consumed_date": "2026-04-11",
+    "qty_consumed": 22.486,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000062"
+  },
+  {
+    "consumed_date": "2026-04-12",
+    "qty_consumed": 71.022,
+    "raw_lot_id": "RAWLOT-S0001-2026-000170",
+    "wo_id": "WO-2026-000063"
+  },
+  {
+    "consumed_date": "2026-04-14",
+    "qty_consumed": 350.736,
+    "raw_lot_id": "RAWLOT-S0003-2026-000149",
+    "wo_id": "WO-2026-000063"
+  },
+  {
+    "consumed_date": "2026-04-12",
+    "qty_consumed": 44.389,
+    "raw_lot_id": "RAWLOT-S0006-2026-000082",
+    "wo_id": "WO-2026-000063"
+  },
+  {
+    "consumed_date": "2026-04-14",
+    "qty_consumed": 440.931,
+    "raw_lot_id": "RAWLOT-S0007-2026-000185",
+    "wo_id": "WO-2026-000063"
+  },
+  {
+    "consumed_date": "2026-04-13",
+    "qty_consumed": 31.812,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000063"
+  },
+  {
+    "consumed_date": "2026-04-13",
+    "qty_consumed": 36.991,
+    "raw_lot_id": "RAWLOT-S0011-2026-000046",
+    "wo_id": "WO-2026-000063"
+  },
+  {
+    "consumed_date": "2026-04-12",
+    "qty_consumed": 78.358,
+    "raw_lot_id": "RAWLOT-S0022-2026-000171",
+    "wo_id": "WO-2026-000063"
+  },
+  {
+    "consumed_date": "2026-04-13",
+    "qty_consumed": 97.27,
+    "raw_lot_id": "RAWLOT-S0001-2026-000170",
+    "wo_id": "WO-2026-000064"
+  },
+  {
+    "consumed_date": "2026-04-13",
+    "qty_consumed": 60.794,
+    "raw_lot_id": "RAWLOT-S0006-2026-000082",
+    "wo_id": "WO-2026-000064"
+  },
+  {
+    "consumed_date": "2026-04-13",
+    "qty_consumed": 603.887,
+    "raw_lot_id": "RAWLOT-S0007-2026-000185",
+    "wo_id": "WO-2026-000064"
+  },
+  {
+    "consumed_date": "2026-04-13",
+    "qty_consumed": 43.569,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000064"
+  },
+  {
+    "consumed_date": "2026-04-12",
+    "qty_consumed": 50.662,
+    "raw_lot_id": "RAWLOT-S0011-2026-000046",
+    "wo_id": "WO-2026-000064"
+  },
+  {
+    "consumed_date": "2026-04-13",
+    "qty_consumed": 587.675,
+    "raw_lot_id": "RAWLOT-S0022-2026-000171",
+    "wo_id": "WO-2026-000064"
+  },
+  {
+    "consumed_date": "2026-04-15",
+    "qty_consumed": 40.18,
+    "raw_lot_id": "RAWLOT-S0007-2026-000185",
+    "wo_id": "WO-2026-000065"
+  },
+  {
+    "consumed_date": "2026-04-14",
+    "qty_consumed": 11.27,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000065"
+  },
+  {
+    "consumed_date": "2026-04-15",
+    "qty_consumed": 57.085,
+    "raw_lot_id": "RAWLOT-S0019-2026-000012",
+    "wo_id": "WO-2026-000065"
+  },
+  {
+    "consumed_date": "2026-04-14",
+    "qty_consumed": 8.33,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000065"
+  },
+  {
+    "consumed_date": "2026-04-14",
+    "qty_consumed": 174.764,
+    "raw_lot_id": "RAWLOT-S0001-2026-000170",
+    "wo_id": "WO-2026-000066"
+  },
+  {
+    "consumed_date": "2026-04-13",
+    "qty_consumed": 109.227,
+    "raw_lot_id": "RAWLOT-S0006-2026-000082",
+    "wo_id": "WO-2026-000066"
+  },
+  {
+    "consumed_date": "2026-04-15",
+    "qty_consumed": 1084.992,
+    "raw_lot_id": "RAWLOT-S0007-2026-000185",
+    "wo_id": "WO-2026-000066"
+  },
+  {
+    "consumed_date": "2026-04-13",
+    "qty_consumed": 78.28,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000066"
+  },
+  {
+    "consumed_date": "2026-04-16",
+    "qty_consumed": 91.023,
+    "raw_lot_id": "RAWLOT-S0011-2026-000046",
+    "wo_id": "WO-2026-000066"
+  },
+  {
+    "consumed_date": "2026-04-15",
+    "qty_consumed": 972.683,
+    "raw_lot_id": "RAWLOT-S0022-2026-000171",
+    "wo_id": "WO-2026-000066"
+  },
+  {
+    "consumed_date": "2026-04-14",
+    "qty_consumed": 83.181,
+    "raw_lot_id": "RAWLOT-S0024-2026-000049",
+    "wo_id": "WO-2026-000066"
+  },
+  {
+    "consumed_date": "2026-04-20",
+    "qty_consumed": 244.198,
+    "raw_lot_id": "RAWLOT-S0006-2026-000082",
+    "wo_id": "WO-2026-000068"
+  },
+  {
+    "consumed_date": "2026-04-21",
+    "qty_consumed": 89.387,
+    "raw_lot_id": "RAWLOT-S0007-2026-000185",
+    "wo_id": "WO-2026-000068"
+  },
+  {
+    "consumed_date": "2026-04-16",
+    "qty_consumed": 180.657,
+    "raw_lot_id": "RAWLOT-S0008-2026-000152",
+    "wo_id": "WO-2026-000068"
+  },
+  {
+    "consumed_date": "2026-04-16",
+    "qty_consumed": 790.226,
+    "raw_lot_id": "RAWLOT-S0011-2026-000187",
+    "wo_id": "WO-2026-000068"
+  },
+  {
+    "consumed_date": "2026-04-21",
+    "qty_consumed": 434.083,
+    "raw_lot_id": "RAWLOT-S0024-2026-000041",
+    "wo_id": "WO-2026-000068"
+  },
+  {
+    "consumed_date": "2026-04-17",
+    "qty_consumed": 968.812,
+    "raw_lot_id": "RAWLOT-S0024-2026-000049",
+    "wo_id": "WO-2026-000068"
+  },
+  {
+    "consumed_date": "2026-04-17",
+    "qty_consumed": 226.564,
+    "raw_lot_id": "RAWLOT-S0010-2026-000166",
+    "wo_id": "WO-2026-000069"
+  },
+  {
+    "consumed_date": "2026-04-17",
+    "qty_consumed": 520.37,
+    "raw_lot_id": "RAWLOT-S0011-2026-000187",
+    "wo_id": "WO-2026-000069"
+  },
+  {
+    "consumed_date": "2026-04-17",
+    "qty_consumed": 63.746,
+    "raw_lot_id": "RAWLOT-S0023-2026-000028",
+    "wo_id": "WO-2026-000069"
+  },
+  {
+    "consumed_date": "2026-04-17",
+    "qty_consumed": 104.662,
+    "raw_lot_id": "RAWLOT-S0023-2026-000126",
+    "wo_id": "WO-2026-000069"
+  },
+  {
+    "consumed_date": "2026-04-16",
+    "qty_consumed": 543.996,
+    "raw_lot_id": "RAWLOT-S0024-2026-000041",
+    "wo_id": "WO-2026-000069"
+  },
+  {
+    "consumed_date": "2026-04-16",
+    "qty_consumed": 24.439,
+    "raw_lot_id": "RAWLOT-S0002-2026-000104",
+    "wo_id": "WO-2026-000070"
+  },
+  {
+    "consumed_date": "2026-04-18",
+    "qty_consumed": 189.443,
+    "raw_lot_id": "RAWLOT-S0011-2026-000182",
+    "wo_id": "WO-2026-000070"
+  },
+  {
+    "consumed_date": "2026-04-17",
+    "qty_consumed": 228.649,
+    "raw_lot_id": "RAWLOT-S0011-2026-000187",
+    "wo_id": "WO-2026-000070"
+  },
+  {
+    "consumed_date": "2026-04-17",
+    "qty_consumed": 257.548,
+    "raw_lot_id": "RAWLOT-S0019-2026-000012",
+    "wo_id": "WO-2026-000070"
+  },
+  {
+    "consumed_date": "2026-04-20",
+    "qty_consumed": 1816.753,
+    "raw_lot_id": "RAWLOT-S0003-2026-000136",
+    "wo_id": "WO-2026-000071"
+  },
+  {
+    "consumed_date": "2026-04-20",
+    "qty_consumed": 134.751,
+    "raw_lot_id": "RAWLOT-S0006-2026-000065",
+    "wo_id": "WO-2026-000071"
+  },
+  {
+    "consumed_date": "2026-04-18",
+    "qty_consumed": 221.079,
+    "raw_lot_id": "RAWLOT-S0006-2026-000082",
+    "wo_id": "WO-2026-000071"
+  },
+  {
+    "consumed_date": "2026-04-18",
+    "qty_consumed": 263.242,
+    "raw_lot_id": "RAWLOT-S0008-2026-000152",
+    "wo_id": "WO-2026-000071"
+  },
+  {
+    "consumed_date": "2026-04-18",
+    "qty_consumed": 1281.716,
+    "raw_lot_id": "RAWLOT-S0011-2026-000182",
+    "wo_id": "WO-2026-000071"
+  },
+  {
+    "consumed_date": "2026-04-18",
+    "qty_consumed": 227.457,
+    "raw_lot_id": "RAWLOT-S0024-2026-000041",
+    "wo_id": "WO-2026-000071"
+  },
+  {
+    "consumed_date": "2026-04-21",
+    "qty_consumed": 54.817,
+    "raw_lot_id": "RAWLOT-S0007-2026-000001",
+    "wo_id": "WO-2026-000072"
+  },
+  {
+    "consumed_date": "2026-04-21",
+    "qty_consumed": 29.751,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000072"
+  },
+  {
+    "consumed_date": "2026-04-22",
+    "qty_consumed": 8.163,
+    "raw_lot_id": "RAWLOT-S0011-2026-000112",
+    "wo_id": "WO-2026-000072"
+  },
+  {
+    "consumed_date": "2026-04-21",
+    "qty_consumed": 43.087,
+    "raw_lot_id": "RAWLOT-S0011-2026-000182",
+    "wo_id": "WO-2026-000072"
+  },
+  {
+    "consumed_date": "2026-04-22",
+    "qty_consumed": 150.693,
+    "raw_lot_id": "RAWLOT-S0019-2026-000012",
+    "wo_id": "WO-2026-000072"
+  },
+  {
+    "consumed_date": "2026-04-22",
+    "qty_consumed": 21.99,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000072"
+  },
+  {
+    "consumed_date": "2026-04-22",
+    "qty_consumed": 16.559,
+    "raw_lot_id": "RAWLOT-S0003-2026-000136",
+    "wo_id": "WO-2026-000073"
+  },
+  {
+    "consumed_date": "2026-04-22",
+    "qty_consumed": 8.348,
+    "raw_lot_id": "RAWLOT-S0010-2026-000060",
+    "wo_id": "WO-2026-000073"
+  },
+  {
+    "consumed_date": "2026-04-23",
+    "qty_consumed": 157.939,
+    "raw_lot_id": "RAWLOT-S0010-2026-000110",
+    "wo_id": "WO-2026-000073"
+  },
+  {
+    "consumed_date": "2026-04-22",
+    "qty_consumed": 256.054,
+    "raw_lot_id": "RAWLOT-S0010-2026-000166",
+    "wo_id": "WO-2026-000073"
+  },
+  {
+    "consumed_date": "2026-04-23",
+    "qty_consumed": 970.028,
+    "raw_lot_id": "RAWLOT-S0011-2026-000202",
+    "wo_id": "WO-2026-000073"
+  },
+  {
+    "consumed_date": "2026-04-26",
+    "qty_consumed": 581.923,
+    "raw_lot_id": "RAWLOT-S0022-2026-000131",
+    "wo_id": "WO-2026-000073"
+  },
+  {
+    "consumed_date": "2026-04-26",
+    "qty_consumed": 415.587,
+    "raw_lot_id": "RAWLOT-S0022-2026-000181",
+    "wo_id": "WO-2026-000073"
+  },
+  {
+    "consumed_date": "2026-04-22",
+    "qty_consumed": 313.932,
+    "raw_lot_id": "RAWLOT-S0023-2026-000126",
+    "wo_id": "WO-2026-000073"
+  },
+  {
+    "consumed_date": "2026-04-25",
+    "qty_consumed": 32.187,
+    "raw_lot_id": "RAWLOT-S0001-2026-000170",
+    "wo_id": "WO-2026-000074"
+  },
+  {
+    "consumed_date": "2026-04-25",
+    "qty_consumed": 32.522,
+    "raw_lot_id": "RAWLOT-S0002-2026-000104",
+    "wo_id": "WO-2026-000074"
+  },
+  {
+    "consumed_date": "2026-04-26",
+    "qty_consumed": 97.567,
+    "raw_lot_id": "RAWLOT-S0006-2026-000065",
+    "wo_id": "WO-2026-000074"
+  },
+  {
+    "consumed_date": "2026-04-25",
+    "qty_consumed": 130.089,
+    "raw_lot_id": "RAWLOT-S0022-2026-000181",
+    "wo_id": "WO-2026-000074"
+  },
+  {
+    "consumed_date": "2026-04-25",
+    "qty_consumed": 7.376,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000074"
+  },
+  {
+    "consumed_date": "2026-04-29",
+    "qty_consumed": 107.13,
+    "raw_lot_id": "RAWLOT-S0010-2026-000060",
+    "wo_id": "WO-2026-000075"
+  },
+  {
+    "consumed_date": "2026-04-25",
+    "qty_consumed": 721.231,
+    "raw_lot_id": "RAWLOT-S0011-2026-000202",
+    "wo_id": "WO-2026-000075"
+  },
+  {
+    "consumed_date": "2026-04-25",
+    "qty_consumed": 344.404,
+    "raw_lot_id": "RAWLOT-S0022-2026-000159",
+    "wo_id": "WO-2026-000075"
+  },
+  {
+    "consumed_date": "2026-04-27",
+    "qty_consumed": 422.275,
+    "raw_lot_id": "RAWLOT-S0022-2026-000181",
+    "wo_id": "WO-2026-000075"
+  },
+  {
+    "consumed_date": "2026-04-28",
+    "qty_consumed": 71.961,
+    "raw_lot_id": "RAWLOT-S0023-2026-000126",
+    "wo_id": "WO-2026-000075"
+  },
+  {
+    "consumed_date": "2026-04-28",
+    "qty_consumed": 259.043,
+    "raw_lot_id": "RAWLOT-S0010-2026-000060",
+    "wo_id": "WO-2026-000076"
+  },
+  {
+    "consumed_date": "2026-05-01",
+    "qty_consumed": 129.244,
+    "raw_lot_id": "RAWLOT-S0010-2026-000130",
+    "wo_id": "WO-2026-000076"
+  },
+  {
+    "consumed_date": "2026-04-30",
+    "qty_consumed": 655.67,
+    "raw_lot_id": "RAWLOT-S0011-2026-000202",
+    "wo_id": "WO-2026-000076"
+  },
+  {
+    "consumed_date": "2026-04-30",
+    "qty_consumed": 236.143,
+    "raw_lot_id": "RAWLOT-S0011-2026-000209",
+    "wo_id": "WO-2026-000076"
+  },
+  {
+    "consumed_date": "2026-05-01",
+    "qty_consumed": 607.105,
+    "raw_lot_id": "RAWLOT-S0022-2026-000120",
+    "wo_id": "WO-2026-000076"
+  },
+  {
+    "consumed_date": "2026-04-30",
+    "qty_consumed": 325.198,
+    "raw_lot_id": "RAWLOT-S0022-2026-000159",
+    "wo_id": "WO-2026-000076"
+  },
+  {
+    "consumed_date": "2026-04-29",
+    "qty_consumed": 288.619,
+    "raw_lot_id": "RAWLOT-S0023-2026-000126",
+    "wo_id": "WO-2026-000076"
+  },
+  {
+    "consumed_date": "2026-04-28",
+    "qty_consumed": 506.776,
+    "raw_lot_id": "RAWLOT-S0007-2026-000001",
+    "wo_id": "WO-2026-000077"
+  },
+  {
+    "consumed_date": "2026-04-28",
+    "qty_consumed": 686.057,
+    "raw_lot_id": "RAWLOT-S0007-2026-000201",
+    "wo_id": "WO-2026-000077"
+  },
+  {
+    "consumed_date": "2026-04-28",
+    "qty_consumed": 327.978,
+    "raw_lot_id": "RAWLOT-S0010-2026-000130",
+    "wo_id": "WO-2026-000077"
+  },
+  {
+    "consumed_date": "2026-04-28",
+    "qty_consumed": 29.705,
+    "raw_lot_id": "RAWLOT-S0011-2026-000022",
+    "wo_id": "WO-2026-000077"
+  },
+  {
+    "consumed_date": "2026-04-27",
+    "qty_consumed": 985.518,
+    "raw_lot_id": "RAWLOT-S0011-2026-000209",
+    "wo_id": "WO-2026-000077"
+  },
+  {
+    "consumed_date": "2026-04-27",
+    "qty_consumed": 584.024,
+    "raw_lot_id": "RAWLOT-S0022-2026-000120",
+    "wo_id": "WO-2026-000077"
+  },
+  {
+    "consumed_date": "2026-04-27",
+    "qty_consumed": 1763.174,
+    "raw_lot_id": "RAWLOT-S0022-2026-000137",
+    "wo_id": "WO-2026-000077"
+  },
+  {
+    "consumed_date": "2026-04-27",
+    "qty_consumed": 220.309,
+    "raw_lot_id": "RAWLOT-S0023-2026-000126",
+    "wo_id": "WO-2026-000077"
+  },
+  {
+    "consumed_date": "2026-04-29",
+    "qty_consumed": 631.8,
+    "raw_lot_id": "RAWLOT-S0003-2026-000068",
+    "wo_id": "WO-2026-000078"
+  },
+  {
+    "consumed_date": "2026-04-27",
+    "qty_consumed": 104.48,
+    "raw_lot_id": "RAWLOT-S0010-2026-000072",
+    "wo_id": "WO-2026-000078"
+  },
+  {
+    "consumed_date": "2026-04-29",
+    "qty_consumed": 236.148,
+    "raw_lot_id": "RAWLOT-S0010-2026-000130",
+    "wo_id": "WO-2026-000078"
+  },
+  {
+    "consumed_date": "2026-04-28",
+    "qty_consumed": 1299.446,
+    "raw_lot_id": "RAWLOT-S0011-2026-000022",
+    "wo_id": "WO-2026-000078"
+  },
+  {
+    "consumed_date": "2026-04-28",
+    "qty_consumed": 993.773,
+    "raw_lot_id": "RAWLOT-S0011-2026-000050",
+    "wo_id": "WO-2026-000078"
+  },
+  {
+    "consumed_date": "2026-04-28",
+    "qty_consumed": 776.417,
+    "raw_lot_id": "RAWLOT-S0022-2026-000137",
+    "wo_id": "WO-2026-000078"
+  },
+  {
+    "consumed_date": "2026-04-29",
+    "qty_consumed": 1029.511,
+    "raw_lot_id": "RAWLOT-S0022-2026-000176",
+    "wo_id": "WO-2026-000078"
+  },
+  {
+    "consumed_date": "2026-04-28",
+    "qty_consumed": 228.806,
+    "raw_lot_id": "RAWLOT-S0023-2026-000126",
+    "wo_id": "WO-2026-000078"
+  },
+  {
+    "consumed_date": "2026-04-28",
+    "qty_consumed": 80.287,
+    "raw_lot_id": "RAWLOT-S0001-2026-000170",
+    "wo_id": "WO-2026-000079"
+  },
+  {
+    "consumed_date": "2026-04-28",
+    "qty_consumed": 50.179,
+    "raw_lot_id": "RAWLOT-S0006-2026-000065",
+    "wo_id": "WO-2026-000079"
+  },
+  {
+    "consumed_date": "2026-04-29",
+    "qty_consumed": 35.962,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000079"
+  },
+  {
+    "consumed_date": "2026-04-30",
+    "qty_consumed": 41.816,
+    "raw_lot_id": "RAWLOT-S0011-2026-000046",
+    "wo_id": "WO-2026-000079"
+  },
+  {
+    "consumed_date": "2026-04-30",
+    "qty_consumed": 169.358,
+    "raw_lot_id": "RAWLOT-S0011-2026-000050",
+    "wo_id": "WO-2026-000079"
+  },
+  {
+    "consumed_date": "2026-04-30",
+    "qty_consumed": 329.089,
+    "raw_lot_id": "RAWLOT-S0011-2026-000077",
+    "wo_id": "WO-2026-000079"
+  },
+  {
+    "consumed_date": "2026-04-29",
+    "qty_consumed": 485.066,
+    "raw_lot_id": "RAWLOT-S0022-2026-000176",
+    "wo_id": "WO-2026-000079"
+  },
+  {
+    "consumed_date": "2026-04-30",
+    "qty_consumed": 39.693,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000080"
+  },
+  {
+    "consumed_date": "2026-04-28",
+    "qty_consumed": 141.515,
+    "raw_lot_id": "RAWLOT-S0011-2026-000077",
+    "wo_id": "WO-2026-000080"
+  },
+  {
+    "consumed_date": "2026-04-28",
+    "qty_consumed": 201.055,
+    "raw_lot_id": "RAWLOT-S0019-2026-000012",
+    "wo_id": "WO-2026-000080"
+  },
+  {
+    "consumed_date": "2026-05-01",
+    "qty_consumed": 29.339,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000080"
+  },
+  {
+    "consumed_date": "2026-04-30",
+    "qty_consumed": 492.434,
+    "raw_lot_id": "RAWLOT-S0001-2026-000170",
+    "wo_id": "WO-2026-000081"
+  },
+  {
+    "consumed_date": "2026-05-04",
+    "qty_consumed": 187.357,
+    "raw_lot_id": "RAWLOT-S0011-2026-000077",
+    "wo_id": "WO-2026-000081"
+  },
+  {
+    "consumed_date": "2026-04-29",
+    "qty_consumed": 1223.774,
+    "raw_lot_id": "RAWLOT-S0011-2026-000214",
+    "wo_id": "WO-2026-000081"
+  },
+  {
+    "consumed_date": "2026-05-02",
+    "qty_consumed": 837.433,
+    "raw_lot_id": "RAWLOT-S0022-2026-000039",
+    "wo_id": "WO-2026-000081"
+  },
+  {
+    "consumed_date": "2026-05-01",
+    "qty_consumed": 276.744,
+    "raw_lot_id": "RAWLOT-S0022-2026-000176",
+    "wo_id": "WO-2026-000081"
+  },
+  {
+    "consumed_date": "2026-05-03",
+    "qty_consumed": 623.192,
+    "raw_lot_id": "RAWLOT-S0024-2026-000177",
+    "wo_id": "WO-2026-000081"
+  },
+  {
+    "consumed_date": "2026-05-05",
+    "qty_consumed": 80.102,
+    "raw_lot_id": "RAWLOT-S0003-2026-000156",
+    "wo_id": "WO-2026-000082"
+  },
+  {
+    "consumed_date": "2026-05-05",
+    "qty_consumed": 1646.643,
+    "raw_lot_id": "RAWLOT-S0003-2026-000189",
+    "wo_id": "WO-2026-000082"
+  },
+  {
+    "consumed_date": "2026-05-03",
+    "qty_consumed": 316.991,
+    "raw_lot_id": "RAWLOT-S0006-2026-000065",
+    "wo_id": "WO-2026-000082"
+  },
+  {
+    "consumed_date": "2026-05-06",
+    "qty_consumed": 1141.815,
+    "raw_lot_id": "RAWLOT-S0011-2026-000077",
+    "wo_id": "WO-2026-000082"
+  },
+  {
+    "consumed_date": "2026-05-07",
+    "qty_consumed": 94.336,
+    "raw_lot_id": "RAWLOT-S0024-2026-000177",
+    "wo_id": "WO-2026-000082"
+  },
+  {
+    "consumed_date": "2026-05-03",
+    "qty_consumed": 234.509,
+    "raw_lot_id": "RAWLOT-S0025-2026-000196",
+    "wo_id": "WO-2026-000082"
+  },
+  {
+    "consumed_date": "2026-05-04",
+    "qty_consumed": 24.213,
+    "raw_lot_id": "RAWLOT-S0002-2026-000104",
+    "wo_id": "WO-2026-000083"
+  },
+  {
+    "consumed_date": "2026-05-05",
+    "qty_consumed": 46.114,
+    "raw_lot_id": "RAWLOT-S0011-2026-000077",
+    "wo_id": "WO-2026-000083"
+  },
+  {
+    "consumed_date": "2026-05-05",
+    "qty_consumed": 368.112,
+    "raw_lot_id": "RAWLOT-S0011-2026-000101",
+    "wo_id": "WO-2026-000083"
+  },
+  {
+    "consumed_date": "2026-05-05",
+    "qty_consumed": 255.166,
+    "raw_lot_id": "RAWLOT-S0019-2026-000012",
+    "wo_id": "WO-2026-000083"
+  },
+  {
+    "consumed_date": "2026-05-06",
+    "qty_consumed": 755.978,
+    "raw_lot_id": "RAWLOT-S0003-2026-000156",
+    "wo_id": "WO-2026-000084"
+  },
+  {
+    "consumed_date": "2026-05-06",
+    "qty_consumed": 205.704,
+    "raw_lot_id": "RAWLOT-S0010-2026-000072",
+    "wo_id": "WO-2026-000084"
+  },
+  {
+    "consumed_date": "2026-05-06",
+    "qty_consumed": 1384.864,
+    "raw_lot_id": "RAWLOT-S0011-2026-000101",
+    "wo_id": "WO-2026-000084"
+  },
+  {
+    "consumed_date": "2026-05-06",
+    "qty_consumed": 716.154,
+    "raw_lot_id": "RAWLOT-S0022-2026-000198",
+    "wo_id": "WO-2026-000084"
+  },
+  {
+    "consumed_date": "2026-05-06",
+    "qty_consumed": 138.175,
+    "raw_lot_id": "RAWLOT-S0023-2026-000126",
+    "wo_id": "WO-2026-000084"
+  },
+  {
+    "consumed_date": "2026-05-07",
+    "qty_consumed": 277.572,
+    "raw_lot_id": "RAWLOT-S0006-2026-000065",
+    "wo_id": "WO-2026-000085"
+  },
+  {
+    "consumed_date": "2026-05-08",
+    "qty_consumed": 409.019,
+    "raw_lot_id": "RAWLOT-S0007-2026-000047",
+    "wo_id": "WO-2026-000085"
+  },
+  {
+    "consumed_date": "2026-05-08",
+    "qty_consumed": 87.037,
+    "raw_lot_id": "RAWLOT-S0011-2026-000101",
+    "wo_id": "WO-2026-000085"
+  },
+  {
+    "consumed_date": "2026-05-07",
+    "qty_consumed": 503.771,
+    "raw_lot_id": "RAWLOT-S0011-2026-000146",
+    "wo_id": "WO-2026-000085"
+  },
+  {
+    "consumed_date": "2026-05-08",
+    "qty_consumed": 645.675,
+    "raw_lot_id": "RAWLOT-S0022-2026-000036",
+    "wo_id": "WO-2026-000085"
+  },
+  {
+    "consumed_date": "2026-05-08",
+    "qty_consumed": 864.56,
+    "raw_lot_id": "RAWLOT-S0022-2026-000198",
+    "wo_id": "WO-2026-000085"
+  },
+  {
+    "consumed_date": "2026-05-07",
+    "qty_consumed": 84.39,
+    "raw_lot_id": "RAWLOT-S0024-2026-000141",
+    "wo_id": "WO-2026-000085"
+  },
+  {
+    "consumed_date": "2026-05-07",
+    "qty_consumed": 205.347,
+    "raw_lot_id": "RAWLOT-S0025-2026-000196",
+    "wo_id": "WO-2026-000085"
+  },
+  {
+    "consumed_date": "2026-05-11",
+    "qty_consumed": 245.337,
+    "raw_lot_id": "RAWLOT-S0001-2026-000170",
+    "wo_id": "WO-2026-000086"
+  },
+  {
+    "consumed_date": "2026-05-09",
+    "qty_consumed": 84.924,
+    "raw_lot_id": "RAWLOT-S0006-2026-000065",
+    "wo_id": "WO-2026-000086"
+  },
+  {
+    "consumed_date": "2026-05-09",
+    "qty_consumed": 560.158,
+    "raw_lot_id": "RAWLOT-S0007-2026-000047",
+    "wo_id": "WO-2026-000086"
+  },
+  {
+    "consumed_date": "2026-05-11",
+    "qty_consumed": 223.892,
+    "raw_lot_id": "RAWLOT-S0011-2026-000044",
+    "wo_id": "WO-2026-000086"
+  },
+  {
+    "consumed_date": "2026-05-10",
+    "qty_consumed": 622.779,
+    "raw_lot_id": "RAWLOT-S0024-2026-000141",
+    "wo_id": "WO-2026-000086"
+  },
+  {
+    "consumed_date": "2026-05-09",
+    "qty_consumed": 99.507,
+    "raw_lot_id": "RAWLOT-S0025-2026-000196",
+    "wo_id": "WO-2026-000086"
+  },
+  {
+    "consumed_date": "2026-05-15",
+    "qty_consumed": 620.826,
+    "raw_lot_id": "RAWLOT-S0010-2026-000072",
+    "wo_id": "WO-2026-000088"
+  },
+  {
+    "consumed_date": "2026-05-13",
+    "qty_consumed": 905.158,
+    "raw_lot_id": "RAWLOT-S0011-2026-000237",
+    "wo_id": "WO-2026-000088"
+  },
+  {
+    "consumed_date": "2026-05-13",
+    "qty_consumed": 520.75,
+    "raw_lot_id": "RAWLOT-S0011-2026-000238",
+    "wo_id": "WO-2026-000088"
+  },
+  {
+    "consumed_date": "2026-05-14",
+    "qty_consumed": 120.383,
+    "raw_lot_id": "RAWLOT-S0017-2026-000052",
+    "wo_id": "WO-2026-000088"
+  },
+  {
+    "consumed_date": "2026-05-15",
+    "qty_consumed": 705.353,
+    "raw_lot_id": "RAWLOT-S0022-2026-000092",
+    "wo_id": "WO-2026-000088"
+  },
+  {
+    "consumed_date": "2026-05-14",
+    "qty_consumed": 341.087,
+    "raw_lot_id": "RAWLOT-S0023-2026-000126",
+    "wo_id": "WO-2026-000088"
+  },
+  {
+    "consumed_date": "2026-05-14",
+    "qty_consumed": 785.293,
+    "raw_lot_id": "RAWLOT-S0024-2026-000141",
+    "wo_id": "WO-2026-000088"
+  },
+  {
+    "consumed_date": "2026-05-19",
+    "qty_consumed": 101.39,
+    "raw_lot_id": "RAWLOT-S0001-2026-000170",
+    "wo_id": "WO-2026-000089"
+  },
+  {
+    "consumed_date": "2026-05-19",
+    "qty_consumed": 290.545,
+    "raw_lot_id": "RAWLOT-S0011-2026-000238",
+    "wo_id": "WO-2026-000089"
+  },
+  {
+    "consumed_date": "2026-05-20",
+    "qty_consumed": 357.716,
+    "raw_lot_id": "RAWLOT-S0022-2026-000092",
+    "wo_id": "WO-2026-000089"
+  },
+  {
+    "consumed_date": "2026-05-22",
+    "qty_consumed": 512.172,
+    "raw_lot_id": "RAWLOT-S0003-2026-000161",
+    "wo_id": "WO-2026-000091"
+  },
+  {
+    "consumed_date": "2026-05-21",
+    "qty_consumed": 332.251,
+    "raw_lot_id": "RAWLOT-S0006-2026-000065",
+    "wo_id": "WO-2026-000091"
+  },
+  {
+    "consumed_date": "2026-05-23",
+    "qty_consumed": 1196.783,
+    "raw_lot_id": "RAWLOT-S0011-2026-000238",
+    "wo_id": "WO-2026-000091"
+  },
+  {
+    "consumed_date": "2026-05-23",
+    "qty_consumed": 466.633,
+    "raw_lot_id": "RAWLOT-S0022-2026-000079",
+    "wo_id": "WO-2026-000091"
+  },
+  {
+    "consumed_date": "2026-05-22",
+    "qty_consumed": 102.617,
+    "raw_lot_id": "RAWLOT-S0022-2026-000092",
+    "wo_id": "WO-2026-000091"
+  },
+  {
+    "consumed_date": "2026-05-21",
+    "qty_consumed": 827.328,
+    "raw_lot_id": "RAWLOT-S0024-2026-000208",
+    "wo_id": "WO-2026-000091"
+  },
+  {
+    "consumed_date": "2026-05-21",
+    "qty_consumed": 245.798,
+    "raw_lot_id": "RAWLOT-S0025-2026-000196",
+    "wo_id": "WO-2026-000091"
+  },
+  {
+    "consumed_date": "2026-05-21",
+    "qty_consumed": 48.308,
+    "raw_lot_id": "RAWLOT-S0006-2026-000065",
+    "wo_id": "WO-2026-000092"
+  },
+  {
+    "consumed_date": "2026-05-22",
+    "qty_consumed": 330.229,
+    "raw_lot_id": "RAWLOT-S0007-2026-000047",
+    "wo_id": "WO-2026-000092"
+  },
+  {
+    "consumed_date": "2026-05-21",
+    "qty_consumed": 34.621,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000092"
+  },
+  {
+    "consumed_date": "2026-05-25",
+    "qty_consumed": 40.256,
+    "raw_lot_id": "RAWLOT-S0011-2026-000044",
+    "wo_id": "WO-2026-000092"
+  },
+  {
+    "consumed_date": "2026-05-21",
+    "qty_consumed": 133.383,
+    "raw_lot_id": "RAWLOT-S0011-2026-000089",
+    "wo_id": "WO-2026-000092"
+  },
+  {
+    "consumed_date": "2026-05-24",
+    "qty_consumed": 16.245,
+    "raw_lot_id": "RAWLOT-S0011-2026-000238",
+    "wo_id": "WO-2026-000092"
+  },
+  {
+    "consumed_date": "2026-05-24",
+    "qty_consumed": 77.292,
+    "raw_lot_id": "RAWLOT-S0015-2026-000252",
+    "wo_id": "WO-2026-000092"
+  },
+  {
+    "consumed_date": "2026-05-25",
+    "qty_consumed": 466.975,
+    "raw_lot_id": "RAWLOT-S0022-2026-000079",
+    "wo_id": "WO-2026-000092"
+  },
+  {
+    "consumed_date": "2026-05-25",
+    "qty_consumed": 62.777,
+    "raw_lot_id": "RAWLOT-S0006-2026-000065",
+    "wo_id": "WO-2026-000093"
+  },
+  {
+    "consumed_date": "2026-05-24",
+    "qty_consumed": 44.99,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000093"
+  },
+  {
+    "consumed_date": "2026-05-26",
+    "qty_consumed": 52.314,
+    "raw_lot_id": "RAWLOT-S0011-2026-000044",
+    "wo_id": "WO-2026-000093"
+  },
+  {
+    "consumed_date": "2026-05-24",
+    "qty_consumed": 623.585,
+    "raw_lot_id": "RAWLOT-S0011-2026-000089",
+    "wo_id": "WO-2026-000093"
+  },
+  {
+    "consumed_date": "2026-05-24",
+    "qty_consumed": 100.443,
+    "raw_lot_id": "RAWLOT-S0015-2026-000252",
+    "wo_id": "WO-2026-000093"
+  },
+  {
+    "consumed_date": "2026-05-23",
+    "qty_consumed": 444.797,
+    "raw_lot_id": "RAWLOT-S0022-2026-000079",
+    "wo_id": "WO-2026-000093"
+  },
+  {
+    "consumed_date": "2026-05-22",
+    "qty_consumed": 162.047,
+    "raw_lot_id": "RAWLOT-S0022-2026-000151",
+    "wo_id": "WO-2026-000093"
+  },
+  {
+    "consumed_date": "2026-05-24",
+    "qty_consumed": 118.6,
+    "raw_lot_id": "RAWLOT-S0006-2026-000065",
+    "wo_id": "WO-2026-000094"
+  },
+  {
+    "consumed_date": "2026-05-23",
+    "qty_consumed": 84.997,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000094"
+  },
+  {
+    "consumed_date": "2026-05-23",
+    "qty_consumed": 650.569,
+    "raw_lot_id": "RAWLOT-S0011-2026-000014",
+    "wo_id": "WO-2026-000094"
+  },
+  {
+    "consumed_date": "2026-05-23",
+    "qty_consumed": 98.834,
+    "raw_lot_id": "RAWLOT-S0011-2026-000044",
+    "wo_id": "WO-2026-000094"
+  },
+  {
+    "consumed_date": "2026-05-24",
+    "qty_consumed": 97.758,
+    "raw_lot_id": "RAWLOT-S0011-2026-000089",
+    "wo_id": "WO-2026-000094"
+  },
+  {
+    "consumed_date": "2026-05-23",
+    "qty_consumed": 429.771,
+    "raw_lot_id": "RAWLOT-S0011-2026-000253",
+    "wo_id": "WO-2026-000094"
+  },
+  {
+    "consumed_date": "2026-05-24",
+    "qty_consumed": 189.761,
+    "raw_lot_id": "RAWLOT-S0015-2026-000252",
+    "wo_id": "WO-2026-000094"
+  },
+  {
+    "consumed_date": "2026-05-24",
+    "qty_consumed": 318.279,
+    "raw_lot_id": "RAWLOT-S0022-2026-000025",
+    "wo_id": "WO-2026-000094"
+  },
+  {
+    "consumed_date": "2026-05-24",
+    "qty_consumed": 828.192,
+    "raw_lot_id": "RAWLOT-S0022-2026-000151",
+    "wo_id": "WO-2026-000094"
+  },
+  {
+    "consumed_date": "2026-05-25",
+    "qty_consumed": 845.303,
+    "raw_lot_id": "RAWLOT-S0003-2026-000167",
+    "wo_id": "WO-2026-000095"
+  },
+  {
+    "consumed_date": "2026-05-25",
+    "qty_consumed": 337.609,
+    "raw_lot_id": "RAWLOT-S0006-2026-000065",
+    "wo_id": "WO-2026-000095"
+  },
+  {
+    "consumed_date": "2026-05-25",
+    "qty_consumed": 414.932,
+    "raw_lot_id": "RAWLOT-S0007-2026-000259",
+    "wo_id": "WO-2026-000095"
+  },
+  {
+    "consumed_date": "2026-05-25",
+    "qty_consumed": 801.149,
+    "raw_lot_id": "RAWLOT-S0007-2026-000260",
+    "wo_id": "WO-2026-000095"
+  },
+  {
+    "consumed_date": "2026-05-25",
+    "qty_consumed": 449.171,
+    "raw_lot_id": "RAWLOT-S0022-2026-000025",
+    "wo_id": "WO-2026-000095"
+  },
+  {
+    "consumed_date": "2026-05-26",
+    "qty_consumed": 645.055,
+    "raw_lot_id": "RAWLOT-S0024-2026-000103",
+    "wo_id": "WO-2026-000095"
+  },
+  {
+    "consumed_date": "2026-05-25",
+    "qty_consumed": 249.762,
+    "raw_lot_id": "RAWLOT-S0025-2026-000196",
+    "wo_id": "WO-2026-000095"
+  },
+  {
+    "consumed_date": "2026-05-27",
+    "qty_consumed": 105.787,
+    "raw_lot_id": "RAWLOT-S0002-2026-000104",
+    "wo_id": "WO-2026-000096"
+  },
+  {
+    "consumed_date": "2026-05-28",
+    "qty_consumed": 220.093,
+    "raw_lot_id": "RAWLOT-S0003-2026-000167",
+    "wo_id": "WO-2026-000096"
+  },
+  {
+    "consumed_date": "2026-05-25",
+    "qty_consumed": 317.361,
+    "raw_lot_id": "RAWLOT-S0006-2026-000065",
+    "wo_id": "WO-2026-000096"
+  },
+  {
+    "consumed_date": "2026-05-27",
+    "qty_consumed": 104.697,
+    "raw_lot_id": "RAWLOT-S0015-2026-000252",
+    "wo_id": "WO-2026-000096"
+  },
+  {
+    "consumed_date": "2026-05-27",
+    "qty_consumed": 203.056,
+    "raw_lot_id": "RAWLOT-S0022-2026-000188",
+    "wo_id": "WO-2026-000096"
+  },
+  {
+    "consumed_date": "2026-05-27",
+    "qty_consumed": 23.993,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000096"
+  },
+  {
+    "consumed_date": "2026-05-29",
+    "qty_consumed": 539.083,
+    "raw_lot_id": "RAWLOT-S0007-2026-000258",
+    "wo_id": "WO-2026-000097"
+  },
+  {
+    "consumed_date": "2026-05-29",
+    "qty_consumed": 1243.319,
+    "raw_lot_id": "RAWLOT-S0007-2026-000260",
+    "wo_id": "WO-2026-000097"
+  },
+  {
+    "consumed_date": "2026-05-29",
+    "qty_consumed": 264.753,
+    "raw_lot_id": "RAWLOT-S0010-2026-000072",
+    "wo_id": "WO-2026-000097"
+  },
+  {
+    "consumed_date": "2026-05-29",
+    "qty_consumed": 177.839,
+    "raw_lot_id": "RAWLOT-S0017-2026-000052",
+    "wo_id": "WO-2026-000097"
+  },
+  {
+    "consumed_date": "2026-05-26",
+    "qty_consumed": 1894.721,
+    "raw_lot_id": "RAWLOT-S0022-2026-000188",
+    "wo_id": "WO-2026-000097"
+  },
+  {
+    "consumed_date": "2026-06-01",
+    "qty_consumed": 231.2,
+    "raw_lot_id": "RAWLOT-S0002-2026-000104",
+    "wo_id": "WO-2026-000098"
+  },
+  {
+    "consumed_date": "2026-05-31",
+    "qty_consumed": 461.437,
+    "raw_lot_id": "RAWLOT-S0007-2026-000054",
+    "wo_id": "WO-2026-000098"
+  },
+  {
+    "consumed_date": "2026-05-30",
+    "qty_consumed": 164.045,
+    "raw_lot_id": "RAWLOT-S0007-2026-000258",
+    "wo_id": "WO-2026-000098"
+  },
+  {
+    "consumed_date": "2026-05-31",
+    "qty_consumed": 329.518,
+    "raw_lot_id": "RAWLOT-S0011-2026-000253",
+    "wo_id": "WO-2026-000098"
+  },
+  {
+    "consumed_date": "2026-05-28",
+    "qty_consumed": 375.153,
+    "raw_lot_id": "RAWLOT-S0019-2026-000012",
+    "wo_id": "WO-2026-000098"
+  },
+  {
+    "consumed_date": "2026-06-01",
+    "qty_consumed": 427.797,
+    "raw_lot_id": "RAWLOT-S0019-2026-000135",
+    "wo_id": "WO-2026-000098"
+  },
+  {
+    "consumed_date": "2026-05-29",
+    "qty_consumed": 757.11,
+    "raw_lot_id": "RAWLOT-S0007-2026-000054",
+    "wo_id": "WO-2026-000099"
+  },
+  {
+    "consumed_date": "2026-05-29",
+    "qty_consumed": 112.459,
+    "raw_lot_id": "RAWLOT-S0010-2026-000072",
+    "wo_id": "WO-2026-000099"
+  },
+  {
+    "consumed_date": "2026-05-30",
+    "qty_consumed": 75.541,
+    "raw_lot_id": "RAWLOT-S0017-2026-000052",
+    "wo_id": "WO-2026-000099"
+  },
+  {
+    "consumed_date": "2026-05-29",
+    "qty_consumed": 3.242,
+    "raw_lot_id": "RAWLOT-S0022-2026-000188",
+    "wo_id": "WO-2026-000099"
+  },
+  {
+    "consumed_date": "2026-05-29",
+    "qty_consumed": 801.578,
+    "raw_lot_id": "RAWLOT-S0022-2026-000205",
+    "wo_id": "WO-2026-000099"
+  },
+  {
+    "consumed_date": "2026-05-30",
+    "qty_consumed": 62.95,
+    "raw_lot_id": "RAWLOT-S0006-2026-000064",
+    "wo_id": "WO-2026-000100"
+  },
+  {
+    "consumed_date": "2026-05-30",
+    "qty_consumed": 40.977,
+    "raw_lot_id": "RAWLOT-S0006-2026-000065",
+    "wo_id": "WO-2026-000100"
+  },
+  {
+    "consumed_date": "2026-05-31",
+    "qty_consumed": 444.983,
+    "raw_lot_id": "RAWLOT-S0007-2026-000054",
+    "wo_id": "WO-2026-000100"
+  },
+  {
+    "consumed_date": "2026-05-29",
+    "qty_consumed": 74.481,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000100"
+  },
+  {
+    "consumed_date": "2026-05-30",
+    "qty_consumed": 86.606,
+    "raw_lot_id": "RAWLOT-S0011-2026-000044",
+    "wo_id": "WO-2026-000100"
+  },
+  {
+    "consumed_date": "2026-05-29",
+    "qty_consumed": 587.359,
+    "raw_lot_id": "RAWLOT-S0011-2026-000051",
+    "wo_id": "WO-2026-000100"
+  },
+  {
+    "consumed_date": "2026-05-30",
+    "qty_consumed": 166.283,
+    "raw_lot_id": "RAWLOT-S0015-2026-000252",
+    "wo_id": "WO-2026-000100"
+  },
+  {
+    "consumed_date": "2026-05-30",
+    "qty_consumed": 93.068,
+    "raw_lot_id": "RAWLOT-S0022-2026-000205",
+    "wo_id": "WO-2026-000100"
+  },
+  {
+    "consumed_date": "2026-05-30",
+    "qty_consumed": 911.56,
+    "raw_lot_id": "RAWLOT-S0022-2026-000212",
+    "wo_id": "WO-2026-000100"
+  },
+  {
+    "consumed_date": "2026-05-31",
+    "qty_consumed": 41.648,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000101"
+  },
+  {
+    "consumed_date": "2026-06-01",
+    "qty_consumed": 148.483,
+    "raw_lot_id": "RAWLOT-S0011-2026-000051",
+    "wo_id": "WO-2026-000101"
+  },
+  {
+    "consumed_date": "2026-06-03",
+    "qty_consumed": 210.954,
+    "raw_lot_id": "RAWLOT-S0019-2026-000135",
+    "wo_id": "WO-2026-000101"
+  },
+  {
+    "consumed_date": "2026-06-01",
+    "qty_consumed": 30.783,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000101"
+  },
+  {
+    "consumed_date": "2026-06-04",
+    "qty_consumed": 115.794,
+    "raw_lot_id": "RAWLOT-S0002-2026-000104",
+    "wo_id": "WO-2026-000102"
+  },
+  {
+    "consumed_date": "2026-05-31",
+    "qty_consumed": 347.382,
+    "raw_lot_id": "RAWLOT-S0006-2026-000064",
+    "wo_id": "WO-2026-000102"
+  },
+  {
+    "consumed_date": "2026-06-03",
+    "qty_consumed": 114.6,
+    "raw_lot_id": "RAWLOT-S0015-2026-000252",
+    "wo_id": "WO-2026-000102"
+  },
+  {
+    "consumed_date": "2026-05-30",
+    "qty_consumed": 463.176,
+    "raw_lot_id": "RAWLOT-S0022-2026-000212",
+    "wo_id": "WO-2026-000102"
+  },
+  {
+    "consumed_date": "2026-06-01",
+    "qty_consumed": 26.263,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000102"
+  },
+  {
+    "consumed_date": "2026-05-30",
+    "qty_consumed": 1249.237,
+    "raw_lot_id": "RAWLOT-S0003-2026-000116",
+    "wo_id": "WO-2026-000103"
+  },
+  {
+    "consumed_date": "2026-06-03",
+    "qty_consumed": 977.444,
+    "raw_lot_id": "RAWLOT-S0007-2026-000002",
+    "wo_id": "WO-2026-000103"
+  },
+  {
+    "consumed_date": "2026-06-03",
+    "qty_consumed": 172.592,
+    "raw_lot_id": "RAWLOT-S0007-2026-000086",
+    "wo_id": "WO-2026-000103"
+  },
+  {
+    "consumed_date": "2026-05-30",
+    "qty_consumed": 327.435,
+    "raw_lot_id": "RAWLOT-S0010-2026-000072",
+    "wo_id": "WO-2026-000103"
+  },
+  {
+    "consumed_date": "2026-06-01",
+    "qty_consumed": 375.394,
+    "raw_lot_id": "RAWLOT-S0011-2026-000051",
+    "wo_id": "WO-2026-000103"
+  },
+  {
+    "consumed_date": "2026-06-01",
+    "qty_consumed": 678.968,
+    "raw_lot_id": "RAWLOT-S0011-2026-000125",
+    "wo_id": "WO-2026-000103"
+  },
+  {
+    "consumed_date": "2026-06-03",
+    "qty_consumed": 219.944,
+    "raw_lot_id": "RAWLOT-S0017-2026-000052",
+    "wo_id": "WO-2026-000103"
+  },
+  {
+    "consumed_date": "2026-05-30",
+    "qty_consumed": 755.05,
+    "raw_lot_id": "RAWLOT-S0022-2026-000114",
+    "wo_id": "WO-2026-000103"
+  },
+  {
+    "consumed_date": "2026-06-04",
+    "qty_consumed": 339.023,
+    "raw_lot_id": "RAWLOT-S0022-2026-000212",
+    "wo_id": "WO-2026-000103"
+  },
+  {
+    "consumed_date": "2026-06-02",
+    "qty_consumed": 178.927,
+    "raw_lot_id": "RAWLOT-S0006-2026-000064",
+    "wo_id": "WO-2026-000104"
+  },
+  {
+    "consumed_date": "2026-06-02",
+    "qty_consumed": 615.035,
+    "raw_lot_id": "RAWLOT-S0007-2026-000086",
+    "wo_id": "WO-2026-000104"
+  },
+  {
+    "consumed_date": "2026-06-01",
+    "qty_consumed": 29.466,
+    "raw_lot_id": "RAWLOT-S0011-2026-000223",
+    "wo_id": "WO-2026-000104"
+  },
+  {
+    "consumed_date": "2026-06-02",
+    "qty_consumed": 384.267,
+    "raw_lot_id": "RAWLOT-S0022-2026-000053",
+    "wo_id": "WO-2026-000104"
+  },
+  {
+    "consumed_date": "2026-05-31",
+    "qty_consumed": 83.678,
+    "raw_lot_id": "RAWLOT-S0022-2026-000114",
+    "wo_id": "WO-2026-000104"
+  },
+  {
+    "consumed_date": "2026-06-01",
+    "qty_consumed": 559.971,
+    "raw_lot_id": "RAWLOT-S0022-2026-000178",
+    "wo_id": "WO-2026-000104"
+  },
+  {
+    "consumed_date": "2026-06-01",
+    "qty_consumed": 132.369,
+    "raw_lot_id": "RAWLOT-S0025-2026-000196",
+    "wo_id": "WO-2026-000104"
+  },
+  {
+    "consumed_date": "2026-06-03",
+    "qty_consumed": 101.701,
+    "raw_lot_id": "RAWLOT-S0010-2026-000072",
+    "wo_id": "WO-2026-000105"
+  },
+  {
+    "consumed_date": "2026-06-02",
+    "qty_consumed": 5.185,
+    "raw_lot_id": "RAWLOT-S0010-2026-000229",
+    "wo_id": "WO-2026-000105"
+  },
+  {
+    "consumed_date": "2026-06-02",
+    "qty_consumed": 719.593,
+    "raw_lot_id": "RAWLOT-S0011-2026-000223",
+    "wo_id": "WO-2026-000105"
+  },
+  {
+    "consumed_date": "2026-06-01",
+    "qty_consumed": 71.797,
+    "raw_lot_id": "RAWLOT-S0017-2026-000052",
+    "wo_id": "WO-2026-000105"
+  },
+  {
+    "consumed_date": "2026-06-03",
+    "qty_consumed": 647.084,
+    "raw_lot_id": "RAWLOT-S0022-2026-000053",
+    "wo_id": "WO-2026-000105"
+  },
+  {
+    "consumed_date": "2026-06-01",
+    "qty_consumed": 117.854,
+    "raw_lot_id": "RAWLOT-S0024-2026-000035",
+    "wo_id": "WO-2026-000105"
+  },
+  {
+    "consumed_date": "2026-06-02",
+    "qty_consumed": 214.043,
+    "raw_lot_id": "RAWLOT-S0006-2026-000064",
+    "wo_id": "WO-2026-000106"
+  },
+  {
+    "consumed_date": "2026-06-01",
+    "qty_consumed": 50.216,
+    "raw_lot_id": "RAWLOT-S0008-2026-000218",
+    "wo_id": "WO-2026-000106"
+  },
+  {
+    "consumed_date": "2026-06-03",
+    "qty_consumed": 306.006,
+    "raw_lot_id": "RAWLOT-S0011-2026-000019",
+    "wo_id": "WO-2026-000106"
+  },
+  {
+    "consumed_date": "2026-06-01",
+    "qty_consumed": 464.986,
+    "raw_lot_id": "RAWLOT-S0011-2026-000223",
+    "wo_id": "WO-2026-000106"
+  },
+  {
+    "consumed_date": "2026-06-02",
+    "qty_consumed": 1229.656,
+    "raw_lot_id": "RAWLOT-S0024-2026-000035",
+    "wo_id": "WO-2026-000106"
+  },
+  {
+    "consumed_date": "2026-06-01",
+    "qty_consumed": 108.132,
+    "raw_lot_id": "RAWLOT-S0025-2026-000196",
+    "wo_id": "WO-2026-000106"
+  },
+  {
+    "consumed_date": "2026-06-04",
+    "qty_consumed": 47.371,
+    "raw_lot_id": "RAWLOT-S0002-2026-000104",
+    "wo_id": "WO-2026-000107"
+  },
+  {
+    "consumed_date": "2026-06-08",
+    "qty_consumed": 71.491,
+    "raw_lot_id": "RAWLOT-S0006-2026-000064",
+    "wo_id": "WO-2026-000107"
+  },
+  {
+    "consumed_date": "2026-06-04",
+    "qty_consumed": 70.621,
+    "raw_lot_id": "RAWLOT-S0006-2026-000180",
+    "wo_id": "WO-2026-000107"
+  },
+  {
+    "consumed_date": "2026-06-08",
+    "qty_consumed": 46.882,
+    "raw_lot_id": "RAWLOT-S0015-2026-000252",
+    "wo_id": "WO-2026-000107"
+  },
+  {
+    "consumed_date": "2026-06-07",
+    "qty_consumed": 10.744,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000107"
+  },
+  {
+    "consumed_date": "2026-06-04",
+    "qty_consumed": 2.417,
+    "raw_lot_id": "RAWLOT-S0024-2026-000029",
+    "wo_id": "WO-2026-000107"
+  },
+  {
+    "consumed_date": "2026-06-07",
+    "qty_consumed": 187.065,
+    "raw_lot_id": "RAWLOT-S0024-2026-000035",
+    "wo_id": "WO-2026-000107"
+  },
+  {
+    "consumed_date": "2026-06-08",
+    "qty_consumed": 21.141,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000108"
+  },
+  {
+    "consumed_date": "2026-06-07",
+    "qty_consumed": 75.373,
+    "raw_lot_id": "RAWLOT-S0011-2026-000282",
+    "wo_id": "WO-2026-000108"
+  },
+  {
+    "consumed_date": "2026-06-10",
+    "qty_consumed": 107.084,
+    "raw_lot_id": "RAWLOT-S0019-2026-000135",
+    "wo_id": "WO-2026-000108"
+  },
+  {
+    "consumed_date": "2026-06-10",
+    "qty_consumed": 15.626,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000108"
+  },
+  {
+    "consumed_date": "2026-06-10",
+    "qty_consumed": 435.147,
+    "raw_lot_id": "RAWLOT-S0010-2026-000229",
+    "wo_id": "WO-2026-000109"
+  },
+  {
+    "consumed_date": "2026-06-08",
+    "qty_consumed": 999.442,
+    "raw_lot_id": "RAWLOT-S0011-2026-000282",
+    "wo_id": "WO-2026-000109"
+  },
+  {
+    "consumed_date": "2026-06-09",
+    "qty_consumed": 323.451,
+    "raw_lot_id": "RAWLOT-S0017-2026-000052",
+    "wo_id": "WO-2026-000109"
+  },
+  {
+    "consumed_date": "2026-06-08",
+    "qty_consumed": 606.246,
+    "raw_lot_id": "RAWLOT-S0022-2026-000070",
+    "wo_id": "WO-2026-000109"
+  },
+  {
+    "consumed_date": "2026-06-09",
+    "qty_consumed": 438.572,
+    "raw_lot_id": "RAWLOT-S0024-2026-000029",
+    "wo_id": "WO-2026-000109"
+  },
+  {
+    "consumed_date": "2026-06-11",
+    "qty_consumed": 260.166,
+    "raw_lot_id": "RAWLOT-S0010-2026-000229",
+    "wo_id": "WO-2026-000110"
+  },
+  {
+    "consumed_date": "2026-06-11",
+    "qty_consumed": 128.576,
+    "raw_lot_id": "RAWLOT-S0010-2026-000274",
+    "wo_id": "WO-2026-000110"
+  },
+  {
+    "consumed_date": "2026-06-09",
+    "qty_consumed": 244.624,
+    "raw_lot_id": "RAWLOT-S0011-2026-000019",
+    "wo_id": "WO-2026-000110"
+  },
+  {
+    "consumed_date": "2026-06-09",
+    "qty_consumed": 606.657,
+    "raw_lot_id": "RAWLOT-S0011-2026-000163",
+    "wo_id": "WO-2026-000110"
+  },
+  {
+    "consumed_date": "2026-06-09",
+    "qty_consumed": 41.578,
+    "raw_lot_id": "RAWLOT-S0011-2026-000282",
+    "wo_id": "WO-2026-000110"
+  },
+  {
+    "consumed_date": "2026-06-10",
+    "qty_consumed": 16.38,
+    "raw_lot_id": "RAWLOT-S0017-2026-000052",
+    "wo_id": "WO-2026-000110"
+  },
+  {
+    "consumed_date": "2026-06-09",
+    "qty_consumed": 272.578,
+    "raw_lot_id": "RAWLOT-S0017-2026-000091",
+    "wo_id": "WO-2026-000110"
+  },
+  {
+    "consumed_date": "2026-06-11",
+    "qty_consumed": 471.673,
+    "raw_lot_id": "RAWLOT-S0022-2026-000070",
+    "wo_id": "WO-2026-000110"
+  },
+  {
+    "consumed_date": "2026-06-09",
+    "qty_consumed": 461.723,
+    "raw_lot_id": "RAWLOT-S0022-2026-000119",
+    "wo_id": "WO-2026-000110"
+  },
+  {
+    "consumed_date": "2026-06-10",
+    "qty_consumed": 222.089,
+    "raw_lot_id": "RAWLOT-S0010-2026-000274",
+    "wo_id": "WO-2026-000111"
+  },
+  {
+    "consumed_date": "2026-06-10",
+    "qty_consumed": 54.671,
+    "raw_lot_id": "RAWLOT-S0011-2026-000163",
+    "wo_id": "WO-2026-000111"
+  },
+  {
+    "consumed_date": "2026-06-11",
+    "qty_consumed": 455.42,
+    "raw_lot_id": "RAWLOT-S0011-2026-000215",
+    "wo_id": "WO-2026-000111"
+  },
+  {
+    "consumed_date": "2026-06-11",
+    "qty_consumed": 165.082,
+    "raw_lot_id": "RAWLOT-S0017-2026-000091",
+    "wo_id": "WO-2026-000111"
+  },
+  {
+    "consumed_date": "2026-06-11",
+    "qty_consumed": 192.618,
+    "raw_lot_id": "RAWLOT-S0022-2026-000119",
+    "wo_id": "WO-2026-000111"
+  },
+  {
+    "consumed_date": "2026-06-10",
+    "qty_consumed": 340.632,
+    "raw_lot_id": "RAWLOT-S0024-2026-000123",
+    "wo_id": "WO-2026-000111"
+  },
+  {
+    "consumed_date": "2026-06-12",
+    "qty_consumed": 441.529,
+    "raw_lot_id": "RAWLOT-S0003-2026-000100",
+    "wo_id": "WO-2026-000113"
+  },
+  {
+    "consumed_date": "2026-06-15",
+    "qty_consumed": 142.55,
+    "raw_lot_id": "RAWLOT-S0010-2026-000274",
+    "wo_id": "WO-2026-000113"
+  },
+  {
+    "consumed_date": "2026-06-12",
+    "qty_consumed": 242.201,
+    "raw_lot_id": "RAWLOT-S0011-2026-000215",
+    "wo_id": "WO-2026-000113"
+  },
+  {
+    "consumed_date": "2026-06-15",
+    "qty_consumed": 717.494,
+    "raw_lot_id": "RAWLOT-S0011-2026-000266",
+    "wo_id": "WO-2026-000113"
+  },
+  {
+    "consumed_date": "2026-06-12",
+    "qty_consumed": 95.754,
+    "raw_lot_id": "RAWLOT-S0017-2026-000091",
+    "wo_id": "WO-2026-000113"
+  },
+  {
+    "consumed_date": "2026-06-12",
+    "qty_consumed": 578.642,
+    "raw_lot_id": "RAWLOT-S0024-2026-000123",
+    "wo_id": "WO-2026-000113"
+  },
+  {
+    "consumed_date": "2026-06-12",
+    "qty_consumed": 16.402,
+    "raw_lot_id": "RAWLOT-S0003-2026-000100",
+    "wo_id": "WO-2026-000114"
+  },
+  {
+    "consumed_date": "2026-06-13",
+    "qty_consumed": 833.981,
+    "raw_lot_id": "RAWLOT-S0003-2026-000174",
+    "wo_id": "WO-2026-000114"
+  },
+  {
+    "consumed_date": "2026-06-13",
+    "qty_consumed": 148.024,
+    "raw_lot_id": "RAWLOT-S0006-2026-000180",
+    "wo_id": "WO-2026-000114"
+  },
+  {
+    "consumed_date": "2026-06-13",
+    "qty_consumed": 109.508,
+    "raw_lot_id": "RAWLOT-S0008-2026-000218",
+    "wo_id": "WO-2026-000114"
+  },
+  {
+    "consumed_date": "2026-06-14",
+    "qty_consumed": 533.189,
+    "raw_lot_id": "RAWLOT-S0011-2026-000266",
+    "wo_id": "WO-2026-000114"
+  },
+  {
+    "consumed_date": "2026-06-15",
+    "qty_consumed": 2.692,
+    "raw_lot_id": "RAWLOT-S0003-2026-000174",
+    "wo_id": "WO-2026-000115"
+  },
+  {
+    "consumed_date": "2026-06-15",
+    "qty_consumed": 158.997,
+    "raw_lot_id": "RAWLOT-S0008-2026-000152",
+    "wo_id": "WO-2026-000115"
+  },
+  {
+    "consumed_date": "2026-06-16",
+    "qty_consumed": 416.53,
+    "raw_lot_id": "RAWLOT-S0008-2026-000218",
+    "wo_id": "WO-2026-000115"
+  },
+  {
+    "consumed_date": "2026-06-15",
+    "qty_consumed": 1765.207,
+    "raw_lot_id": "RAWLOT-S0011-2026-000290",
+    "wo_id": "WO-2026-000115"
+  },
+  {
+    "consumed_date": "2026-06-16",
+    "qty_consumed": 1701.811,
+    "raw_lot_id": "RAWLOT-S0022-2026-000121",
+    "wo_id": "WO-2026-000115"
+  },
+  {
+    "consumed_date": "2026-06-15",
+    "qty_consumed": 465.074,
+    "raw_lot_id": "RAWLOT-S0022-2026-000225",
+    "wo_id": "WO-2026-000115"
+  },
+  {
+    "consumed_date": "2026-06-15",
+    "qty_consumed": 175.019,
+    "raw_lot_id": "RAWLOT-S0024-2026-000045",
+    "wo_id": "WO-2026-000115"
+  },
+  {
+    "consumed_date": "2026-06-16",
+    "qty_consumed": 225.885,
+    "raw_lot_id": "RAWLOT-S0002-2026-000104",
+    "wo_id": "WO-2026-000116"
+  },
+  {
+    "consumed_date": "2026-06-16",
+    "qty_consumed": 383.82,
+    "raw_lot_id": "RAWLOT-S0011-2026-000020",
+    "wo_id": "WO-2026-000116"
+  },
+  {
+    "consumed_date": "2026-06-19",
+    "qty_consumed": 525.332,
+    "raw_lot_id": "RAWLOT-S0011-2026-000266",
+    "wo_id": "WO-2026-000116"
+  },
+  {
+    "consumed_date": "2026-06-16",
+    "qty_consumed": 23.894,
+    "raw_lot_id": "RAWLOT-S0011-2026-000290",
+    "wo_id": "WO-2026-000116"
+  },
+  {
+    "consumed_date": "2026-06-17",
+    "qty_consumed": 563.174,
+    "raw_lot_id": "RAWLOT-S0019-2026-000067",
+    "wo_id": "WO-2026-000116"
+  },
+  {
+    "consumed_date": "2026-06-18",
+    "qty_consumed": 221.317,
+    "raw_lot_id": "RAWLOT-S0019-2026-000135",
+    "wo_id": "WO-2026-000116"
+  },
+  {
+    "consumed_date": "2026-06-20",
+    "qty_consumed": 51.407,
+    "raw_lot_id": "RAWLOT-S0002-2026-000104",
+    "wo_id": "WO-2026-000117"
+  },
+  {
+    "consumed_date": "2026-06-20",
+    "qty_consumed": 212.342,
+    "raw_lot_id": "RAWLOT-S0011-2026-000020",
+    "wo_id": "WO-2026-000117"
+  },
+  {
+    "consumed_date": "2026-06-18",
+    "qty_consumed": 178.534,
+    "raw_lot_id": "RAWLOT-S0019-2026-000067",
+    "wo_id": "WO-2026-000117"
+  },
+  {
+    "consumed_date": "2026-06-19",
+    "qty_consumed": 119.449,
+    "raw_lot_id": "RAWLOT-S0001-2026-000170",
+    "wo_id": "WO-2026-000118"
+  },
+  {
+    "consumed_date": "2026-06-18",
+    "qty_consumed": 376.15,
+    "raw_lot_id": "RAWLOT-S0007-2026-000094",
+    "wo_id": "WO-2026-000118"
+  },
+  {
+    "consumed_date": "2026-06-18",
+    "qty_consumed": 880.946,
+    "raw_lot_id": "RAWLOT-S0007-2026-000281",
+    "wo_id": "WO-2026-000118"
+  },
+  {
+    "consumed_date": "2026-06-19",
+    "qty_consumed": 355.34,
+    "raw_lot_id": "RAWLOT-S0011-2026-000020",
+    "wo_id": "WO-2026-000118"
+  },
+  {
+    "consumed_date": "2026-06-19",
+    "qty_consumed": 409.924,
+    "raw_lot_id": "RAWLOT-S0015-2026-000074",
+    "wo_id": "WO-2026-000118"
+  },
+  {
+    "consumed_date": "2026-06-19",
+    "qty_consumed": 243.883,
+    "raw_lot_id": "RAWLOT-S0015-2026-000252",
+    "wo_id": "WO-2026-000118"
+  },
+  {
+    "consumed_date": "2026-06-19",
+    "qty_consumed": 1918.888,
+    "raw_lot_id": "RAWLOT-S0024-2026-000045",
+    "wo_id": "WO-2026-000118"
+  },
+  {
+    "consumed_date": "2026-06-24",
+    "qty_consumed": 300.202,
+    "raw_lot_id": "RAWLOT-S0006-2026-000180",
+    "wo_id": "WO-2026-000119"
+  },
+  {
+    "consumed_date": "2026-06-21",
+    "qty_consumed": 825.053,
+    "raw_lot_id": "RAWLOT-S0007-2026-000144",
+    "wo_id": "WO-2026-000119"
+  },
+  {
+    "consumed_date": "2026-06-20",
+    "qty_consumed": 256.286,
+    "raw_lot_id": "RAWLOT-S0007-2026-000281",
+    "wo_id": "WO-2026-000119"
+  },
+  {
+    "consumed_date": "2026-06-25",
+    "qty_consumed": 222.088,
+    "raw_lot_id": "RAWLOT-S0008-2026-000152",
+    "wo_id": "WO-2026-000119"
+  },
+  {
+    "consumed_date": "2026-06-25",
+    "qty_consumed": 591.789,
+    "raw_lot_id": "RAWLOT-S0022-2026-000117",
+    "wo_id": "WO-2026-000119"
+  },
+  {
+    "consumed_date": "2026-06-23",
+    "qty_consumed": 36.01,
+    "raw_lot_id": "RAWLOT-S0024-2026-000045",
+    "wo_id": "WO-2026-000119"
+  },
+  {
+    "consumed_date": "2026-06-24",
+    "qty_consumed": 1096.83,
+    "raw_lot_id": "RAWLOT-S0024-2026-000073",
+    "wo_id": "WO-2026-000119"
+  },
+  {
+    "consumed_date": "2026-06-23",
+    "qty_consumed": 96.846,
+    "raw_lot_id": "RAWLOT-S0006-2026-000180",
+    "wo_id": "WO-2026-000121"
+  },
+  {
+    "consumed_date": "2026-06-22",
+    "qty_consumed": 77.888,
+    "raw_lot_id": "RAWLOT-S0007-2026-000144",
+    "wo_id": "WO-2026-000121"
+  },
+  {
+    "consumed_date": "2026-06-23",
+    "qty_consumed": 71.646,
+    "raw_lot_id": "RAWLOT-S0008-2026-000152",
+    "wo_id": "WO-2026-000121"
+  },
+  {
+    "consumed_date": "2026-06-21",
+    "qty_consumed": 270.955,
+    "raw_lot_id": "RAWLOT-S0011-2026-000115",
+    "wo_id": "WO-2026-000121"
+  },
+  {
+    "consumed_date": "2026-06-23",
+    "qty_consumed": 556.369,
+    "raw_lot_id": "RAWLOT-S0022-2026-000117",
+    "wo_id": "WO-2026-000121"
+  },
+  {
+    "consumed_date": "2026-06-28",
+    "qty_consumed": 358.964,
+    "raw_lot_id": "RAWLOT-S0010-2026-000274",
+    "wo_id": "WO-2026-000123"
+  },
+  {
+    "consumed_date": "2026-06-29",
+    "qty_consumed": 291.295,
+    "raw_lot_id": "RAWLOT-S0011-2026-000043",
+    "wo_id": "WO-2026-000123"
+  },
+  {
+    "consumed_date": "2026-06-27",
+    "qty_consumed": 317.73,
+    "raw_lot_id": "RAWLOT-S0011-2026-000115",
+    "wo_id": "WO-2026-000123"
+  },
+  {
+    "consumed_date": "2026-06-29",
+    "qty_consumed": 432.319,
+    "raw_lot_id": "RAWLOT-S0011-2026-000160",
+    "wo_id": "WO-2026-000123"
+  },
+  {
+    "consumed_date": "2026-06-27",
+    "qty_consumed": 1375.317,
+    "raw_lot_id": "RAWLOT-S0011-2026-000234",
+    "wo_id": "WO-2026-000123"
+  },
+  {
+    "consumed_date": "2026-06-27",
+    "qty_consumed": 241.122,
+    "raw_lot_id": "RAWLOT-S0017-2026-000091",
+    "wo_id": "WO-2026-000123"
+  },
+  {
+    "consumed_date": "2026-06-28",
+    "qty_consumed": 1527.597,
+    "raw_lot_id": "RAWLOT-S0022-2026-000117",
+    "wo_id": "WO-2026-000123"
+  },
+  {
+    "consumed_date": "2026-06-26",
+    "qty_consumed": 462.454,
+    "raw_lot_id": "RAWLOT-S0022-2026-000231",
+    "wo_id": "WO-2026-000123"
+  },
+  {
+    "consumed_date": "2026-06-27",
+    "qty_consumed": 578.898,
+    "raw_lot_id": "RAWLOT-S0024-2026-000199",
+    "wo_id": "WO-2026-000123"
+  },
+  {
+    "consumed_date": "2026-06-28",
+    "qty_consumed": 601.972,
+    "raw_lot_id": "RAWLOT-S0011-2026-000043",
+    "wo_id": "WO-2026-000124"
+  },
+  {
+    "consumed_date": "2026-06-29",
+    "qty_consumed": 288.68,
+    "raw_lot_id": "RAWLOT-S0015-2026-000074",
+    "wo_id": "WO-2026-000124"
+  },
+  {
+    "consumed_date": "2026-06-27",
+    "qty_consumed": 55.61,
+    "raw_lot_id": "RAWLOT-S0022-2026-000157",
+    "wo_id": "WO-2026-000124"
+  },
+  {
+    "consumed_date": "2026-06-28",
+    "qty_consumed": 660.77,
+    "raw_lot_id": "RAWLOT-S0022-2026-000231",
+    "wo_id": "WO-2026-000124"
+  },
+  {
+    "consumed_date": "2026-06-30",
+    "qty_consumed": 129.915,
+    "raw_lot_id": "RAWLOT-S0006-2026-000180",
+    "wo_id": "WO-2026-000125"
+  },
+  {
+    "consumed_date": "2026-06-29",
+    "qty_consumed": 16.947,
+    "raw_lot_id": "RAWLOT-S0008-2026-000152",
+    "wo_id": "WO-2026-000125"
+  },
+  {
+    "consumed_date": "2026-06-29",
+    "qty_consumed": 222.143,
+    "raw_lot_id": "RAWLOT-S0008-2026-000248",
+    "wo_id": "WO-2026-000125"
+  },
+  {
+    "consumed_date": "2026-06-30",
+    "qty_consumed": 410.137,
+    "raw_lot_id": "RAWLOT-S0011-2026-000043",
+    "wo_id": "WO-2026-000125"
+  },
+  {
+    "consumed_date": "2026-06-28",
+    "qty_consumed": 753.985,
+    "raw_lot_id": "RAWLOT-S0011-2026-000107",
+    "wo_id": "WO-2026-000125"
+  },
+  {
+    "consumed_date": "2026-06-29",
+    "qty_consumed": 193.269,
+    "raw_lot_id": "RAWLOT-S0021-2026-000158",
+    "wo_id": "WO-2026-000125"
+  },
+  {
+    "consumed_date": "2026-06-30",
+    "qty_consumed": 406.841,
+    "raw_lot_id": "RAWLOT-S0022-2026-000056",
+    "wo_id": "WO-2026-000125"
+  },
+  {
+    "consumed_date": "2026-06-29",
+    "qty_consumed": 980.308,
+    "raw_lot_id": "RAWLOT-S0022-2026-000157",
+    "wo_id": "WO-2026-000125"
+  },
+  {
+    "consumed_date": "2026-06-29",
+    "qty_consumed": 469.51,
+    "raw_lot_id": "RAWLOT-S0022-2026-000193",
+    "wo_id": "WO-2026-000125"
+  },
+  {
+    "consumed_date": "2026-07-02",
+    "qty_consumed": 43.889,
+    "raw_lot_id": "RAWLOT-S0008-2026-000248",
+    "wo_id": "WO-2026-000126"
+  },
+  {
+    "consumed_date": "2026-06-30",
+    "qty_consumed": 213.693,
+    "raw_lot_id": "RAWLOT-S0011-2026-000107",
+    "wo_id": "WO-2026-000126"
+  },
+  {
+    "consumed_date": "2026-06-29",
+    "qty_consumed": 59.325,
+    "raw_lot_id": "RAWLOT-S0021-2026-000158",
+    "wo_id": "WO-2026-000126"
+  },
+  {
+    "consumed_date": "2026-07-01",
+    "qty_consumed": 340.819,
+    "raw_lot_id": "RAWLOT-S0022-2026-000056",
+    "wo_id": "WO-2026-000126"
+  },
+  {
+    "consumed_date": "2026-06-30",
+    "qty_consumed": 89.828,
+    "raw_lot_id": "RAWLOT-S0008-2026-000248",
+    "wo_id": "WO-2026-000128"
+  },
+  {
+    "consumed_date": "2026-07-01",
+    "qty_consumed": 41.281,
+    "raw_lot_id": "RAWLOT-S0011-2026-000107",
+    "wo_id": "WO-2026-000128"
+  },
+  {
+    "consumed_date": "2026-07-01",
+    "qty_consumed": 396.088,
+    "raw_lot_id": "RAWLOT-S0011-2026-000271",
+    "wo_id": "WO-2026-000128"
+  },
+  {
+    "consumed_date": "2026-07-01",
+    "qty_consumed": 121.422,
+    "raw_lot_id": "RAWLOT-S0021-2026-000158",
+    "wo_id": "WO-2026-000128"
+  },
+  {
+    "consumed_date": "2026-06-30",
+    "qty_consumed": 417.559,
+    "raw_lot_id": "RAWLOT-S0022-2026-000056",
+    "wo_id": "WO-2026-000128"
+  },
+  {
+    "consumed_date": "2026-06-30",
+    "qty_consumed": 280.001,
+    "raw_lot_id": "RAWLOT-S0024-2026-000255",
+    "wo_id": "WO-2026-000128"
+  },
+  {
+    "consumed_date": "2026-07-05",
+    "qty_consumed": 227.179,
+    "raw_lot_id": "RAWLOT-S0008-2026-000248",
+    "wo_id": "WO-2026-000129"
+  },
+  {
+    "consumed_date": "2026-07-04",
+    "qty_consumed": 375.034,
+    "raw_lot_id": "RAWLOT-S0011-2026-000042",
+    "wo_id": "WO-2026-000129"
+  },
+  {
+    "consumed_date": "2026-07-05",
+    "qty_consumed": 731.093,
+    "raw_lot_id": "RAWLOT-S0011-2026-000271",
+    "wo_id": "WO-2026-000129"
+  },
+  {
+    "consumed_date": "2026-07-03",
+    "qty_consumed": 307.084,
+    "raw_lot_id": "RAWLOT-S0021-2026-000158",
+    "wo_id": "WO-2026-000129"
+  },
+  {
+    "consumed_date": "2026-07-04",
+    "qty_consumed": 403.467,
+    "raw_lot_id": "RAWLOT-S0022-2026-000102",
+    "wo_id": "WO-2026-000129"
+  },
+  {
+    "consumed_date": "2026-07-01",
+    "qty_consumed": 1360.697,
+    "raw_lot_id": "RAWLOT-S0024-2026-000255",
+    "wo_id": "WO-2026-000129"
+  },
+  {
+    "consumed_date": "2026-07-05",
+    "qty_consumed": 85.448,
+    "raw_lot_id": "RAWLOT-S0002-2026-000104",
+    "wo_id": "WO-2026-000132"
+  },
+  {
+    "consumed_date": "2026-07-07",
+    "qty_consumed": 371.56,
+    "raw_lot_id": "RAWLOT-S0004-2026-000247",
+    "wo_id": "WO-2026-000132"
+  },
+  {
+    "consumed_date": "2026-07-03",
+    "qty_consumed": 41.58,
+    "raw_lot_id": "RAWLOT-S0005-2026-000139",
+    "wo_id": "WO-2026-000132"
+  },
+  {
+    "consumed_date": "2026-07-04",
+    "qty_consumed": 125.718,
+    "raw_lot_id": "RAWLOT-S0015-2026-000074",
+    "wo_id": "WO-2026-000132"
+  },
+  {
+    "consumed_date": "2026-07-05",
+    "qty_consumed": 9.524,
+    "raw_lot_id": "RAWLOT-S0021-2026-000158",
+    "wo_id": "WO-2026-000132"
+  },
+  {
+    "consumed_date": "2026-07-04",
+    "qty_consumed": 508.112,
+    "raw_lot_id": "RAWLOT-S0022-2026-000102",
+    "wo_id": "WO-2026-000132"
+  },
+  {
+    "consumed_date": "2026-07-05",
+    "qty_consumed": 28.81,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000132"
+  },
+  {
+    "consumed_date": "2026-07-03",
+    "qty_consumed": 261.383,
+    "raw_lot_id": "RAWLOT-S0004-2026-000247",
+    "wo_id": "WO-2026-000133"
+  },
+  {
+    "consumed_date": "2026-07-05",
+    "qty_consumed": 193.37,
+    "raw_lot_id": "RAWLOT-S0008-2026-000248",
+    "wo_id": "WO-2026-000133"
+  },
+  {
+    "consumed_date": "2026-07-03",
+    "qty_consumed": 941.513,
+    "raw_lot_id": "RAWLOT-S0011-2026-000042",
+    "wo_id": "WO-2026-000133"
+  },
+  {
+    "consumed_date": "2026-07-05",
+    "qty_consumed": 669.418,
+    "raw_lot_id": "RAWLOT-S0022-2026-000102",
+    "wo_id": "WO-2026-000133"
+  },
+  {
+    "consumed_date": "2026-07-03",
+    "qty_consumed": 277.149,
+    "raw_lot_id": "RAWLOT-S0022-2026-000111",
+    "wo_id": "WO-2026-000133"
+  },
+  {
+    "consumed_date": "2026-07-05",
+    "qty_consumed": 555.053,
+    "raw_lot_id": "RAWLOT-S0024-2026-000122",
+    "wo_id": "WO-2026-000133"
+  },
+  {
+    "consumed_date": "2026-07-13",
+    "qty_consumed": 27.168,
+    "raw_lot_id": "RAWLOT-S0010-2026-000274",
+    "wo_id": "WO-2026-000136"
+  },
+  {
+    "consumed_date": "2026-07-14",
+    "qty_consumed": 272.888,
+    "raw_lot_id": "RAWLOT-S0010-2026-000335",
+    "wo_id": "WO-2026-000136"
+  },
+  {
+    "consumed_date": "2026-07-13",
+    "qty_consumed": 334.023,
+    "raw_lot_id": "RAWLOT-S0011-2026-000042",
+    "wo_id": "WO-2026-000136"
+  },
+  {
+    "consumed_date": "2026-07-13",
+    "qty_consumed": 492.813,
+    "raw_lot_id": "RAWLOT-S0011-2026-000099",
+    "wo_id": "WO-2026-000136"
+  },
+  {
+    "consumed_date": "2026-07-13",
+    "qty_consumed": 1193.236,
+    "raw_lot_id": "RAWLOT-S0011-2026-000129",
+    "wo_id": "WO-2026-000136"
+  },
+  {
+    "consumed_date": "2026-07-14",
+    "qty_consumed": 201.553,
+    "raw_lot_id": "RAWLOT-S0017-2026-000091",
+    "wo_id": "WO-2026-000136"
+  },
+  {
+    "consumed_date": "2026-07-13",
+    "qty_consumed": 723.064,
+    "raw_lot_id": "RAWLOT-S0022-2026-000063",
+    "wo_id": "WO-2026-000136"
+  },
+  {
+    "consumed_date": "2026-07-12",
+    "qty_consumed": 987.908,
+    "raw_lot_id": "RAWLOT-S0022-2026-000111",
+    "wo_id": "WO-2026-000136"
+  },
+  {
+    "consumed_date": "2026-07-13",
+    "qty_consumed": 436.397,
+    "raw_lot_id": "RAWLOT-S0022-2026-000179",
+    "wo_id": "WO-2026-000136"
+  },
+  {
+    "consumed_date": "2026-07-11",
+    "qty_consumed": 1090.709,
+    "raw_lot_id": "RAWLOT-S0003-2026-000245",
+    "wo_id": "WO-2026-000137"
+  },
+  {
+    "consumed_date": "2026-07-12",
+    "qty_consumed": 370.73,
+    "raw_lot_id": "RAWLOT-S0004-2026-000247",
+    "wo_id": "WO-2026-000137"
+  },
+  {
+    "consumed_date": "2026-07-15",
+    "qty_consumed": 274.264,
+    "raw_lot_id": "RAWLOT-S0008-2026-000248",
+    "wo_id": "WO-2026-000137"
+  },
+  {
+    "consumed_date": "2026-07-14",
+    "qty_consumed": 411.664,
+    "raw_lot_id": "RAWLOT-S0011-2026-000099",
+    "wo_id": "WO-2026-000137"
+  },
+  {
+    "consumed_date": "2026-07-11",
+    "qty_consumed": 923.719,
+    "raw_lot_id": "RAWLOT-S0011-2026-000206",
+    "wo_id": "WO-2026-000137"
+  },
+  {
+    "consumed_date": "2026-07-11",
+    "qty_consumed": 1039.095,
+    "raw_lot_id": "RAWLOT-S0022-2026-000179",
+    "wo_id": "WO-2026-000137"
+  },
+  {
+    "consumed_date": "2026-07-12",
+    "qty_consumed": 180.613,
+    "raw_lot_id": "RAWLOT-S0003-2026-000245",
+    "wo_id": "WO-2026-000138"
+  },
+  {
+    "consumed_date": "2026-07-12",
+    "qty_consumed": 135.46,
+    "raw_lot_id": "RAWLOT-S0004-2026-000247",
+    "wo_id": "WO-2026-000138"
+  },
+  {
+    "consumed_date": "2026-07-12",
+    "qty_consumed": 45.153,
+    "raw_lot_id": "RAWLOT-S0005-2026-000139",
+    "wo_id": "WO-2026-000138"
+  },
+  {
+    "consumed_date": "2026-07-13",
+    "qty_consumed": 44.688,
+    "raw_lot_id": "RAWLOT-S0015-2026-000074",
+    "wo_id": "WO-2026-000138"
+  },
+  {
+    "consumed_date": "2026-07-12",
+    "qty_consumed": 10.241,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000138"
+  },
+  {
+    "consumed_date": "2026-07-17",
+    "qty_consumed": 563.215,
+    "raw_lot_id": "RAWLOT-S0003-2026-000245",
+    "wo_id": "WO-2026-000139"
+  },
+  {
+    "consumed_date": "2026-07-17",
+    "qty_consumed": 83.318,
+    "raw_lot_id": "RAWLOT-S0004-2026-000247",
+    "wo_id": "WO-2026-000139"
+  },
+  {
+    "consumed_date": "2026-07-16",
+    "qty_consumed": 97.995,
+    "raw_lot_id": "RAWLOT-S0006-2026-000173",
+    "wo_id": "WO-2026-000139"
+  },
+  {
+    "consumed_date": "2026-07-15",
+    "qty_consumed": 134.135,
+    "raw_lot_id": "RAWLOT-S0008-2026-000248",
+    "wo_id": "WO-2026-000139"
+  },
+  {
+    "consumed_date": "2026-07-16",
+    "qty_consumed": 653.098,
+    "raw_lot_id": "RAWLOT-S0011-2026-000342",
+    "wo_id": "WO-2026-000139"
+  },
+  {
+    "consumed_date": "2026-07-14",
+    "qty_consumed": 478.412,
+    "raw_lot_id": "RAWLOT-S0022-2026-000251",
+    "wo_id": "WO-2026-000139"
+  },
+  {
+    "consumed_date": "2026-07-18",
+    "qty_consumed": 31.765,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000140"
+  },
+  {
+    "consumed_date": "2026-07-18",
+    "qty_consumed": 113.251,
+    "raw_lot_id": "RAWLOT-S0011-2026-000342",
+    "wo_id": "WO-2026-000140"
+  },
+  {
+    "consumed_date": "2026-07-17",
+    "qty_consumed": 160.899,
+    "raw_lot_id": "RAWLOT-S0019-2026-000067",
+    "wo_id": "WO-2026-000140"
+  },
+  {
+    "consumed_date": "2026-07-16",
+    "qty_consumed": 23.479,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000140"
+  },
+  {
+    "consumed_date": "2026-07-19",
+    "qty_consumed": 12.671,
+    "raw_lot_id": "RAWLOT-S0001-2026-000324",
+    "wo_id": "WO-2026-000141"
+  },
+  {
+    "consumed_date": "2026-07-19",
+    "qty_consumed": 71.584,
+    "raw_lot_id": "RAWLOT-S0005-2026-000139",
+    "wo_id": "WO-2026-000141"
+  },
+  {
+    "consumed_date": "2026-07-18",
+    "qty_consumed": 214.751,
+    "raw_lot_id": "RAWLOT-S0006-2026-000173",
+    "wo_id": "WO-2026-000141"
+  },
+  {
+    "consumed_date": "2026-07-18",
+    "qty_consumed": 58.175,
+    "raw_lot_id": "RAWLOT-S0015-2026-000074",
+    "wo_id": "WO-2026-000141"
+  },
+  {
+    "consumed_date": "2026-07-18",
+    "qty_consumed": 286.335,
+    "raw_lot_id": "RAWLOT-S0022-2026-000251",
+    "wo_id": "WO-2026-000141"
+  },
+  {
+    "consumed_date": "2026-07-17",
+    "qty_consumed": 16.235,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000141"
+  },
+  {
+    "consumed_date": "2026-07-18",
+    "qty_consumed": 145.745,
+    "raw_lot_id": "RAWLOT-S0006-2026-000173",
+    "wo_id": "WO-2026-000142"
+  },
+  {
+    "consumed_date": "2026-07-16",
+    "qty_consumed": 107.821,
+    "raw_lot_id": "RAWLOT-S0008-2026-000248",
+    "wo_id": "WO-2026-000142"
+  },
+  {
+    "consumed_date": "2026-07-16",
+    "qty_consumed": 524.978,
+    "raw_lot_id": "RAWLOT-S0011-2026-000342",
+    "wo_id": "WO-2026-000142"
+  },
+  {
+    "consumed_date": "2026-07-16",
+    "qty_consumed": 821.831,
+    "raw_lot_id": "RAWLOT-S0022-2026-000251",
+    "wo_id": "WO-2026-000142"
+  },
+  {
+    "consumed_date": "2026-07-16",
+    "qty_consumed": 15.457,
+    "raw_lot_id": "RAWLOT-S0024-2026-000062",
+    "wo_id": "WO-2026-000142"
+  },
+  {
+    "consumed_date": "2026-07-18",
+    "qty_consumed": 32.497,
+    "raw_lot_id": "RAWLOT-S0004-2026-000279",
+    "wo_id": "WO-2026-000144"
+  },
+  {
+    "consumed_date": "2026-07-17",
+    "qty_consumed": 381.98,
+    "raw_lot_id": "RAWLOT-S0006-2026-000173",
+    "wo_id": "WO-2026-000144"
+  },
+  {
+    "consumed_date": "2026-07-16",
+    "qty_consumed": 250.09,
+    "raw_lot_id": "RAWLOT-S0008-2026-000248",
+    "wo_id": "WO-2026-000144"
+  },
+  {
+    "consumed_date": "2026-07-18",
+    "qty_consumed": 389.418,
+    "raw_lot_id": "RAWLOT-S0011-2026-000342",
+    "wo_id": "WO-2026-000144"
+  },
+  {
+    "consumed_date": "2026-07-17",
+    "qty_consumed": 986.489,
+    "raw_lot_id": "RAWLOT-S0011-2026-000343",
+    "wo_id": "WO-2026-000144"
+  },
+  {
+    "consumed_date": "2026-07-18",
+    "qty_consumed": 1170.431,
+    "raw_lot_id": "RAWLOT-S0022-2026-000078",
+    "wo_id": "WO-2026-000144"
+  },
+  {
+    "consumed_date": "2026-07-18",
+    "qty_consumed": 386.533,
+    "raw_lot_id": "RAWLOT-S0022-2026-000241",
+    "wo_id": "WO-2026-000144"
+  },
+  {
+    "consumed_date": "2026-07-16",
+    "qty_consumed": 637.471,
+    "raw_lot_id": "RAWLOT-S0024-2026-000062",
+    "wo_id": "WO-2026-000144"
+  },
+  {
+    "consumed_date": "2026-07-18",
+    "qty_consumed": 66.991,
+    "raw_lot_id": "RAWLOT-S0004-2026-000279",
+    "wo_id": "WO-2026-000145"
+  },
+  {
+    "consumed_date": "2026-07-20",
+    "qty_consumed": 90.553,
+    "raw_lot_id": "RAWLOT-S0006-2026-000173",
+    "wo_id": "WO-2026-000145"
+  },
+  {
+    "consumed_date": "2026-07-19",
+    "qty_consumed": 68.903,
+    "raw_lot_id": "RAWLOT-S0011-2026-000165",
+    "wo_id": "WO-2026-000145"
+  },
+  {
+    "consumed_date": "2026-07-18",
+    "qty_consumed": 13.269,
+    "raw_lot_id": "RAWLOT-S0011-2026-000206",
+    "wo_id": "WO-2026-000145"
+  },
+  {
+    "consumed_date": "2026-07-18",
+    "qty_consumed": 244.003,
+    "raw_lot_id": "RAWLOT-S0011-2026-000343",
+    "wo_id": "WO-2026-000145"
+  },
+  {
+    "consumed_date": "2026-07-20",
+    "qty_consumed": 300.133,
+    "raw_lot_id": "RAWLOT-S0022-2026-000241",
+    "wo_id": "WO-2026-000145"
+  },
+  {
+    "consumed_date": "2026-07-18",
+    "qty_consumed": 220.084,
+    "raw_lot_id": "RAWLOT-S0022-2026-000263",
+    "wo_id": "WO-2026-000145"
+  },
+  {
+    "consumed_date": "2026-07-17",
+    "qty_consumed": 84.071,
+    "raw_lot_id": "RAWLOT-S0010-2026-000197",
+    "wo_id": "WO-2026-000146"
+  },
+  {
+    "consumed_date": "2026-07-17",
+    "qty_consumed": 605.589,
+    "raw_lot_id": "RAWLOT-S0010-2026-000335",
+    "wo_id": "WO-2026-000146"
+  },
+  {
+    "consumed_date": "2026-07-17",
+    "qty_consumed": 982.531,
+    "raw_lot_id": "RAWLOT-S0011-2026-000165",
+    "wo_id": "WO-2026-000146"
+  },
+  {
+    "consumed_date": "2026-07-17",
+    "qty_consumed": 601.474,
+    "raw_lot_id": "RAWLOT-S0011-2026-000337",
+    "wo_id": "WO-2026-000146"
+  },
+  {
+    "consumed_date": "2026-07-18",
+    "qty_consumed": 512.635,
+    "raw_lot_id": "RAWLOT-S0017-2026-000091",
+    "wo_id": "WO-2026-000146"
+  },
+  {
+    "consumed_date": "2026-07-18",
+    "qty_consumed": 240.225,
+    "raw_lot_id": "RAWLOT-S0022-2026-000097",
+    "wo_id": "WO-2026-000146"
+  },
+  {
+    "consumed_date": "2026-07-19",
+    "qty_consumed": 1415.696,
+    "raw_lot_id": "RAWLOT-S0022-2026-000263",
+    "wo_id": "WO-2026-000146"
+  },
+  {
+    "consumed_date": "2026-07-25",
+    "qty_consumed": 190.007,
+    "raw_lot_id": "RAWLOT-S0004-2026-000279",
+    "wo_id": "WO-2026-000147"
+  },
+  {
+    "consumed_date": "2026-07-25",
+    "qty_consumed": 256.836,
+    "raw_lot_id": "RAWLOT-S0006-2026-000173",
+    "wo_id": "WO-2026-000147"
+  },
+  {
+    "consumed_date": "2026-07-25",
+    "qty_consumed": 386.373,
+    "raw_lot_id": "RAWLOT-S0007-2026-000293",
+    "wo_id": "WO-2026-000147"
+  },
+  {
+    "consumed_date": "2026-07-24",
+    "qty_consumed": 45.904,
+    "raw_lot_id": "RAWLOT-S0011-2026-000145",
+    "wo_id": "WO-2026-000147"
+  },
+  {
+    "consumed_date": "2026-07-25",
+    "qty_consumed": 492.858,
+    "raw_lot_id": "RAWLOT-S0011-2026-000337",
+    "wo_id": "WO-2026-000147"
+  },
+  {
+    "consumed_date": "2026-07-25",
+    "qty_consumed": 1475.499,
+    "raw_lot_id": "RAWLOT-S0022-2026-000097",
+    "wo_id": "WO-2026-000147"
+  },
+  {
+    "consumed_date": "2026-07-24",
+    "qty_consumed": 211.642,
+    "raw_lot_id": "RAWLOT-S0010-2026-000197",
+    "wo_id": "WO-2026-000148"
+  },
+  {
+    "consumed_date": "2026-07-23",
+    "qty_consumed": 361.173,
+    "raw_lot_id": "RAWLOT-S0011-2026-000145",
+    "wo_id": "WO-2026-000148"
+  },
+  {
+    "consumed_date": "2026-07-23",
+    "qty_consumed": 1063.668,
+    "raw_lot_id": "RAWLOT-S0011-2026-000192",
+    "wo_id": "WO-2026-000148"
+  },
+  {
+    "consumed_date": "2026-07-25",
+    "qty_consumed": 142.163,
+    "raw_lot_id": "RAWLOT-S0017-2026-000091",
+    "wo_id": "WO-2026-000148"
+  },
+  {
+    "consumed_date": "2026-07-23",
+    "qty_consumed": 373.707,
+    "raw_lot_id": "RAWLOT-S0022-2026-000097",
+    "wo_id": "WO-2026-000148"
+  },
+  {
+    "consumed_date": "2026-07-24",
+    "qty_consumed": 1078.711,
+    "raw_lot_id": "RAWLOT-S0022-2026-000230",
+    "wo_id": "WO-2026-000148"
+  },
+  {
+    "consumed_date": "2026-07-25",
+    "qty_consumed": 62.211,
+    "raw_lot_id": "RAWLOT-S0024-2026-000233",
+    "wo_id": "WO-2026-000148"
+  },
+  {
+    "consumed_date": "2026-07-29",
+    "qty_consumed": 36.075,
+    "raw_lot_id": "RAWLOT-S0007-2026-000284",
+    "wo_id": "WO-2026-000149"
+  },
+  {
+    "consumed_date": "2026-07-29",
+    "qty_consumed": 26.508,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000149"
+  },
+  {
+    "consumed_date": "2026-07-25",
+    "qty_consumed": 58.433,
+    "raw_lot_id": "RAWLOT-S0011-2026-000192",
+    "wo_id": "WO-2026-000149"
+  },
+  {
+    "consumed_date": "2026-07-25",
+    "qty_consumed": 134.27,
+    "raw_lot_id": "RAWLOT-S0019-2026-000067",
+    "wo_id": "WO-2026-000149"
+  },
+  {
+    "consumed_date": "2026-07-27",
+    "qty_consumed": 19.593,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000149"
+  },
+  {
+    "consumed_date": "2026-07-26",
+    "qty_consumed": 159.77,
+    "raw_lot_id": "RAWLOT-S0004-2026-000279",
+    "wo_id": "WO-2026-000150"
+  },
+  {
+    "consumed_date": "2026-07-28",
+    "qty_consumed": 215.965,
+    "raw_lot_id": "RAWLOT-S0006-2026-000173",
+    "wo_id": "WO-2026-000150"
+  },
+  {
+    "consumed_date": "2026-07-25",
+    "qty_consumed": 777.913,
+    "raw_lot_id": "RAWLOT-S0007-2026-000284",
+    "wo_id": "WO-2026-000150"
+  },
+  {
+    "consumed_date": "2026-07-27",
+    "qty_consumed": 121.511,
+    "raw_lot_id": "RAWLOT-S0022-2026-000246",
+    "wo_id": "WO-2026-000150"
+  },
+  {
+    "consumed_date": "2026-07-28",
+    "qty_consumed": 1119.184,
+    "raw_lot_id": "RAWLOT-S0024-2026-000233",
+    "wo_id": "WO-2026-000150"
+  },
+  {
+    "consumed_date": "2026-07-31",
+    "qty_consumed": 64.418,
+    "raw_lot_id": "RAWLOT-S0001-2026-000324",
+    "wo_id": "WO-2026-000152"
+  },
+  {
+    "consumed_date": "2026-08-02",
+    "qty_consumed": 65.089,
+    "raw_lot_id": "RAWLOT-S0005-2026-000139",
+    "wo_id": "WO-2026-000152"
+  },
+  {
+    "consumed_date": "2026-07-31",
+    "qty_consumed": 195.267,
+    "raw_lot_id": "RAWLOT-S0006-2026-000173",
+    "wo_id": "WO-2026-000152"
+  },
+  {
+    "consumed_date": "2026-07-31",
+    "qty_consumed": 260.356,
+    "raw_lot_id": "RAWLOT-S0022-2026-000246",
+    "wo_id": "WO-2026-000152"
+  },
+  {
+    "consumed_date": "2026-08-02",
+    "qty_consumed": 14.762,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000152"
+  },
+  {
+    "consumed_date": "2026-08-05",
+    "qty_consumed": 67.443,
+    "raw_lot_id": "RAWLOT-S0001-2026-000324",
+    "wo_id": "WO-2026-000153"
+  },
+  {
+    "consumed_date": "2026-08-05",
+    "qty_consumed": 68.145,
+    "raw_lot_id": "RAWLOT-S0005-2026-000139",
+    "wo_id": "WO-2026-000153"
+  },
+  {
+    "consumed_date": "2026-08-01",
+    "qty_consumed": 204.436,
+    "raw_lot_id": "RAWLOT-S0006-2026-000173",
+    "wo_id": "WO-2026-000153"
+  },
+  {
+    "consumed_date": "2026-08-01",
+    "qty_consumed": 272.581,
+    "raw_lot_id": "RAWLOT-S0022-2026-000246",
+    "wo_id": "WO-2026-000153"
+  },
+  {
+    "consumed_date": "2026-08-05",
+    "qty_consumed": 15.456,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000153"
+  },
+  {
+    "consumed_date": "2026-08-06",
+    "qty_consumed": 166.896,
+    "raw_lot_id": "RAWLOT-S0007-2026-000364",
+    "wo_id": "WO-2026-000155"
+  },
+  {
+    "consumed_date": "2026-08-03",
+    "qty_consumed": 46.812,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000155"
+  },
+  {
+    "consumed_date": "2026-08-05",
+    "qty_consumed": 230.243,
+    "raw_lot_id": "RAWLOT-S0012-2026-000172",
+    "wo_id": "WO-2026-000155"
+  },
+  {
+    "consumed_date": "2026-08-01",
+    "qty_consumed": 6.871,
+    "raw_lot_id": "RAWLOT-S0019-2026-000067",
+    "wo_id": "WO-2026-000155"
+  },
+  {
+    "consumed_date": "2026-08-01",
+    "qty_consumed": 34.6,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000155"
+  },
+  {
+    "consumed_date": "2026-08-05",
+    "qty_consumed": 98.829,
+    "raw_lot_id": "RAWLOT-S0007-2026-000284",
+    "wo_id": "WO-2026-000156"
+  },
+  {
+    "consumed_date": "2026-08-07",
+    "qty_consumed": 453.358,
+    "raw_lot_id": "RAWLOT-S0007-2026-000364",
+    "wo_id": "WO-2026-000156"
+  },
+  {
+    "consumed_date": "2026-08-06",
+    "qty_consumed": 173.103,
+    "raw_lot_id": "RAWLOT-S0010-2026-000197",
+    "wo_id": "WO-2026-000156"
+  },
+  {
+    "consumed_date": "2026-08-02",
+    "qty_consumed": 613.198,
+    "raw_lot_id": "RAWLOT-S0011-2026-000369",
+    "wo_id": "WO-2026-000156"
+  },
+  {
+    "consumed_date": "2026-08-07",
+    "qty_consumed": 116.276,
+    "raw_lot_id": "RAWLOT-S0017-2026-000091",
+    "wo_id": "WO-2026-000156"
+  },
+  {
+    "consumed_date": "2026-08-07",
+    "qty_consumed": 1059.394,
+    "raw_lot_id": "RAWLOT-S0022-2026-000108",
+    "wo_id": "WO-2026-000156"
+  },
+  {
+    "consumed_date": "2026-08-06",
+    "qty_consumed": 40.494,
+    "raw_lot_id": "RAWLOT-S0022-2026-000142",
+    "wo_id": "WO-2026-000156"
+  },
+  {
+    "consumed_date": "2026-08-06",
+    "qty_consumed": 138.934,
+    "raw_lot_id": "RAWLOT-S0022-2026-000246",
+    "wo_id": "WO-2026-000156"
+  },
+  {
+    "consumed_date": "2026-08-03",
+    "qty_consumed": 556.914,
+    "raw_lot_id": "RAWLOT-S0001-2026-000324",
+    "wo_id": "WO-2026-000157"
+  },
+  {
+    "consumed_date": "2026-08-03",
+    "qty_consumed": 679.41,
+    "raw_lot_id": "RAWLOT-S0007-2026-000322",
+    "wo_id": "WO-2026-000157"
+  },
+  {
+    "consumed_date": "2026-08-04",
+    "qty_consumed": 481.896,
+    "raw_lot_id": "RAWLOT-S0011-2026-000369",
+    "wo_id": "WO-2026-000157"
+  },
+  {
+    "consumed_date": "2026-08-05",
+    "qty_consumed": 1382.018,
+    "raw_lot_id": "RAWLOT-S0022-2026-000142",
+    "wo_id": "WO-2026-000157"
+  },
+  {
+    "consumed_date": "2026-08-06",
+    "qty_consumed": 63.17,
+    "raw_lot_id": "RAWLOT-S0004-2026-000279",
+    "wo_id": "WO-2026-000158"
+  },
+  {
+    "consumed_date": "2026-08-07",
+    "qty_consumed": 85.389,
+    "raw_lot_id": "RAWLOT-S0006-2026-000173",
+    "wo_id": "WO-2026-000158"
+  },
+  {
+    "consumed_date": "2026-08-08",
+    "qty_consumed": 307.574,
+    "raw_lot_id": "RAWLOT-S0007-2026-000322",
+    "wo_id": "WO-2026-000158"
+  },
+  {
+    "consumed_date": "2026-08-07",
+    "qty_consumed": 490.55,
+    "raw_lot_id": "RAWLOT-S0022-2026-000142",
+    "wo_id": "WO-2026-000158"
+  },
+  {
+    "consumed_date": "2026-08-08",
+    "qty_consumed": 171.457,
+    "raw_lot_id": "RAWLOT-S0007-2026-000191",
+    "wo_id": "WO-2026-000159"
+  },
+  {
+    "consumed_date": "2026-08-10",
+    "qty_consumed": 491.18,
+    "raw_lot_id": "RAWLOT-S0007-2026-000322",
+    "wo_id": "WO-2026-000159"
+  },
+  {
+    "consumed_date": "2026-08-06",
+    "qty_consumed": 98.426,
+    "raw_lot_id": "RAWLOT-S0010-2026-000197",
+    "wo_id": "WO-2026-000159"
+  },
+  {
+    "consumed_date": "2026-08-08",
+    "qty_consumed": 66.115,
+    "raw_lot_id": "RAWLOT-S0017-2026-000091",
+    "wo_id": "WO-2026-000159"
+  },
+  {
+    "consumed_date": "2026-08-06",
+    "qty_consumed": 704.394,
+    "raw_lot_id": "RAWLOT-S0022-2026-000142",
+    "wo_id": "WO-2026-000159"
+  },
+  {
+    "consumed_date": "2026-08-08",
+    "qty_consumed": 616.114,
+    "raw_lot_id": "RAWLOT-S0007-2026-000191",
+    "wo_id": "WO-2026-000161"
+  },
+  {
+    "consumed_date": "2026-08-07",
+    "qty_consumed": 268.25,
+    "raw_lot_id": "RAWLOT-S0010-2026-000197",
+    "wo_id": "WO-2026-000161"
+  },
+  {
+    "consumed_date": "2026-08-08",
+    "qty_consumed": 176.171,
+    "raw_lot_id": "RAWLOT-S0017-2026-000091",
+    "wo_id": "WO-2026-000161"
+  },
+  {
+    "consumed_date": "2026-08-08",
+    "qty_consumed": 23.223,
+    "raw_lot_id": "RAWLOT-S0017-2026-000224",
+    "wo_id": "WO-2026-000161"
+  },
+  {
+    "consumed_date": "2026-08-07",
+    "qty_consumed": 478.154,
+    "raw_lot_id": "RAWLOT-S0022-2026-000128",
+    "wo_id": "WO-2026-000161"
+  },
+  {
+    "consumed_date": "2026-08-06",
+    "qty_consumed": 165.933,
+    "raw_lot_id": "RAWLOT-S0022-2026-000142",
+    "wo_id": "WO-2026-000161"
+  },
+  {
+    "consumed_date": "2026-08-09",
+    "qty_consumed": 192.44,
+    "raw_lot_id": "RAWLOT-S0004-2026-000279",
+    "wo_id": "WO-2026-000162"
+  },
+  {
+    "consumed_date": "2026-08-10",
+    "qty_consumed": 325.051,
+    "raw_lot_id": "RAWLOT-S0007-2026-000191",
+    "wo_id": "WO-2026-000162"
+  },
+  {
+    "consumed_date": "2026-08-11",
+    "qty_consumed": 299.279,
+    "raw_lot_id": "RAWLOT-S0011-2026-000244",
+    "wo_id": "WO-2026-000162"
+  },
+  {
+    "consumed_date": "2026-08-09",
+    "qty_consumed": 106.915,
+    "raw_lot_id": "RAWLOT-S0022-2026-000128",
+    "wo_id": "WO-2026-000162"
+  },
+  {
+    "consumed_date": "2026-08-11",
+    "qty_consumed": 722.337,
+    "raw_lot_id": "RAWLOT-S0024-2026-000213",
+    "wo_id": "WO-2026-000162"
+  },
+  {
+    "consumed_date": "2026-08-10",
+    "qty_consumed": 11.116,
+    "raw_lot_id": "RAWLOT-S0025-2026-000341",
+    "wo_id": "WO-2026-000162"
+  },
+  {
+    "consumed_date": "2026-08-13",
+    "qty_consumed": 167.499,
+    "raw_lot_id": "RAWLOT-S0001-2026-000324",
+    "wo_id": "WO-2026-000163"
+  },
+  {
+    "consumed_date": "2026-08-11",
+    "qty_consumed": 57.98,
+    "raw_lot_id": "RAWLOT-S0006-2026-000173",
+    "wo_id": "WO-2026-000163"
+  },
+  {
+    "consumed_date": "2026-08-10",
+    "qty_consumed": 382.437,
+    "raw_lot_id": "RAWLOT-S0011-2026-000244",
+    "wo_id": "WO-2026-000163"
+  },
+  {
+    "consumed_date": "2026-08-13",
+    "qty_consumed": 152.858,
+    "raw_lot_id": "RAWLOT-S0011-2026-000400",
+    "wo_id": "WO-2026-000163"
+  },
+  {
+    "consumed_date": "2026-08-13",
+    "qty_consumed": 425.19,
+    "raw_lot_id": "RAWLOT-S0024-2026-000213",
+    "wo_id": "WO-2026-000163"
+  },
+  {
+    "consumed_date": "2026-08-12",
+    "qty_consumed": 67.937,
+    "raw_lot_id": "RAWLOT-S0025-2026-000341",
+    "wo_id": "WO-2026-000163"
+  },
+  {
+    "consumed_date": "2026-08-10",
+    "qty_consumed": 262.6,
+    "raw_lot_id": "RAWLOT-S0010-2026-000183",
+    "wo_id": "WO-2026-000164"
+  },
+  {
+    "consumed_date": "2026-08-11",
+    "qty_consumed": 1.095,
+    "raw_lot_id": "RAWLOT-S0010-2026-000197",
+    "wo_id": "WO-2026-000164"
+  },
+  {
+    "consumed_date": "2026-08-11",
+    "qty_consumed": 547.453,
+    "raw_lot_id": "RAWLOT-S0011-2026-000221",
+    "wo_id": "WO-2026-000164"
+  },
+  {
+    "consumed_date": "2026-08-10",
+    "qty_consumed": 58.199,
+    "raw_lot_id": "RAWLOT-S0011-2026-000244",
+    "wo_id": "WO-2026-000164"
+  },
+  {
+    "consumed_date": "2026-08-11",
+    "qty_consumed": 196.008,
+    "raw_lot_id": "RAWLOT-S0017-2026-000224",
+    "wo_id": "WO-2026-000164"
+  },
+  {
+    "consumed_date": "2026-08-10",
+    "qty_consumed": 159.633,
+    "raw_lot_id": "RAWLOT-S0022-2026-000288",
+    "wo_id": "WO-2026-000164"
+  },
+  {
+    "consumed_date": "2026-08-10",
+    "qty_consumed": 473.516,
+    "raw_lot_id": "RAWLOT-S0024-2026-000213",
+    "wo_id": "WO-2026-000164"
+  },
+  {
+    "consumed_date": "2026-08-12",
+    "qty_consumed": 39.525,
+    "raw_lot_id": "RAWLOT-S0007-2026-000194",
+    "wo_id": "WO-2026-000165"
+  },
+  {
+    "consumed_date": "2026-08-16",
+    "qty_consumed": 228.891,
+    "raw_lot_id": "RAWLOT-S0010-2026-000183",
+    "wo_id": "WO-2026-000165"
+  },
+  {
+    "consumed_date": "2026-08-13",
+    "qty_consumed": 148.133,
+    "raw_lot_id": "RAWLOT-S0011-2026-000221",
+    "wo_id": "WO-2026-000165"
+  },
+  {
+    "consumed_date": "2026-08-15",
+    "qty_consumed": 1353.31,
+    "raw_lot_id": "RAWLOT-S0011-2026-000318",
+    "wo_id": "WO-2026-000165"
+  },
+  {
+    "consumed_date": "2026-08-14",
+    "qty_consumed": 153.75,
+    "raw_lot_id": "RAWLOT-S0017-2026-000224",
+    "wo_id": "WO-2026-000165"
+  },
+  {
+    "consumed_date": "2026-08-14",
+    "qty_consumed": 339.928,
+    "raw_lot_id": "RAWLOT-S0022-2026-000148",
+    "wo_id": "WO-2026-000165"
+  },
+  {
+    "consumed_date": "2026-08-17",
+    "qty_consumed": 763.277,
+    "raw_lot_id": "RAWLOT-S0022-2026-000220",
+    "wo_id": "WO-2026-000165"
+  },
+  {
+    "consumed_date": "2026-08-13",
+    "qty_consumed": 534.868,
+    "raw_lot_id": "RAWLOT-S0022-2026-000288",
+    "wo_id": "WO-2026-000165"
+  },
+  {
+    "consumed_date": "2026-08-14",
+    "qty_consumed": 130.287,
+    "raw_lot_id": "RAWLOT-S0001-2026-000324",
+    "wo_id": "WO-2026-000166"
+  },
+  {
+    "consumed_date": "2026-08-18",
+    "qty_consumed": 460.052,
+    "raw_lot_id": "RAWLOT-S0003-2026-000184",
+    "wo_id": "WO-2026-000166"
+  },
+  {
+    "consumed_date": "2026-08-13",
+    "qty_consumed": 81.429,
+    "raw_lot_id": "RAWLOT-S0006-2026-000173",
+    "wo_id": "WO-2026-000166"
+  },
+  {
+    "consumed_date": "2026-08-17",
+    "qty_consumed": 518.714,
+    "raw_lot_id": "RAWLOT-S0007-2026-000194",
+    "wo_id": "WO-2026-000166"
+  },
+  {
+    "consumed_date": "2026-08-14",
+    "qty_consumed": 58.358,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000166"
+  },
+  {
+    "consumed_date": "2026-08-17",
+    "qty_consumed": 290.152,
+    "raw_lot_id": "RAWLOT-S0011-2026-000370",
+    "wo_id": "WO-2026-000166"
+  },
+  {
+    "consumed_date": "2026-08-13",
+    "qty_consumed": 67.858,
+    "raw_lot_id": "RAWLOT-S0011-2026-000400",
+    "wo_id": "WO-2026-000166"
+  },
+  {
+    "consumed_date": "2026-08-17",
+    "qty_consumed": 327.099,
+    "raw_lot_id": "RAWLOT-S0022-2026-000148",
+    "wo_id": "WO-2026-000166"
+  },
+  {
+    "consumed_date": "2026-08-14",
+    "qty_consumed": 271.539,
+    "raw_lot_id": "RAWLOT-S0003-2026-000184",
+    "wo_id": "WO-2026-000167"
+  },
+  {
+    "consumed_date": "2026-08-15",
+    "qty_consumed": 153.933,
+    "raw_lot_id": "RAWLOT-S0006-2026-000173",
+    "wo_id": "WO-2026-000167"
+  },
+  {
+    "consumed_date": "2026-08-15",
+    "qty_consumed": 554.474,
+    "raw_lot_id": "RAWLOT-S0011-2026-000370",
+    "wo_id": "WO-2026-000167"
+  },
+  {
+    "consumed_date": "2026-08-15",
+    "qty_consumed": 612.792,
+    "raw_lot_id": "RAWLOT-S0022-2026-000257",
+    "wo_id": "WO-2026-000167"
+  },
+  {
+    "consumed_date": "2026-08-14",
+    "qty_consumed": 113.879,
+    "raw_lot_id": "RAWLOT-S0025-2026-000341",
+    "wo_id": "WO-2026-000167"
+  },
+  {
+    "consumed_date": "2026-08-16",
+    "qty_consumed": 626.837,
+    "raw_lot_id": "RAWLOT-S0007-2026-000200",
+    "wo_id": "WO-2026-000168"
+  },
+  {
+    "consumed_date": "2026-08-16",
+    "qty_consumed": 277.622,
+    "raw_lot_id": "RAWLOT-S0010-2026-000183",
+    "wo_id": "WO-2026-000168"
+  },
+  {
+    "consumed_date": "2026-08-16",
+    "qty_consumed": 901.411,
+    "raw_lot_id": "RAWLOT-S0011-2026-000140",
+    "wo_id": "WO-2026-000168"
+  },
+  {
+    "consumed_date": "2026-08-18",
+    "qty_consumed": 340.794,
+    "raw_lot_id": "RAWLOT-S0011-2026-000370",
+    "wo_id": "WO-2026-000168"
+  },
+  {
+    "consumed_date": "2026-08-18",
+    "qty_consumed": 186.484,
+    "raw_lot_id": "RAWLOT-S0017-2026-000224",
+    "wo_id": "WO-2026-000168"
+  },
+  {
+    "consumed_date": "2026-08-17",
+    "qty_consumed": 318.846,
+    "raw_lot_id": "RAWLOT-S0022-2026-000257",
+    "wo_id": "WO-2026-000168"
+  },
+  {
+    "consumed_date": "2026-08-15",
+    "qty_consumed": 558.952,
+    "raw_lot_id": "RAWLOT-S0022-2026-000320",
+    "wo_id": "WO-2026-000168"
+  },
+  {
+    "consumed_date": "2026-08-15",
+    "qty_consumed": 1109.023,
+    "raw_lot_id": "RAWLOT-S0024-2026-000339",
+    "wo_id": "WO-2026-000168"
+  },
+  {
+    "consumed_date": "2026-08-19",
+    "qty_consumed": 11.876,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000169"
+  },
+  {
+    "consumed_date": "2026-08-18",
+    "qty_consumed": 42.342,
+    "raw_lot_id": "RAWLOT-S0011-2026-000417",
+    "wo_id": "WO-2026-000169"
+  },
+  {
+    "consumed_date": "2026-08-22",
+    "qty_consumed": 60.156,
+    "raw_lot_id": "RAWLOT-S0012-2026-000172",
+    "wo_id": "WO-2026-000169"
+  },
+  {
+    "consumed_date": "2026-08-19",
+    "qty_consumed": 8.778,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000169"
+  },
+  {
+    "consumed_date": "2026-08-20",
+    "qty_consumed": 248.45,
+    "raw_lot_id": "RAWLOT-S0006-2026-000173",
+    "wo_id": "WO-2026-000170"
+  },
+  {
+    "consumed_date": "2026-08-20",
+    "qty_consumed": 894.925,
+    "raw_lot_id": "RAWLOT-S0011-2026-000417",
+    "wo_id": "WO-2026-000170"
+  },
+  {
+    "consumed_date": "2026-08-18",
+    "qty_consumed": 613.698,
+    "raw_lot_id": "RAWLOT-S0022-2026-000283",
+    "wo_id": "WO-2026-000170"
+  },
+  {
+    "consumed_date": "2026-08-19",
+    "qty_consumed": 622.276,
+    "raw_lot_id": "RAWLOT-S0024-2026-000338",
+    "wo_id": "WO-2026-000170"
+  },
+  {
+    "consumed_date": "2026-08-19",
+    "qty_consumed": 191.343,
+    "raw_lot_id": "RAWLOT-S0024-2026-000339",
+    "wo_id": "WO-2026-000170"
+  },
+  {
+    "consumed_date": "2026-08-20",
+    "qty_consumed": 183.802,
+    "raw_lot_id": "RAWLOT-S0025-2026-000341",
+    "wo_id": "WO-2026-000170"
+  },
+  {
+    "consumed_date": "2026-08-20",
+    "qty_consumed": 149.43,
+    "raw_lot_id": "RAWLOT-S0006-2026-000173",
+    "wo_id": "WO-2026-000171"
+  },
+  {
+    "consumed_date": "2026-08-24",
+    "qty_consumed": 142.217,
+    "raw_lot_id": "RAWLOT-S0006-2026-000227",
+    "wo_id": "WO-2026-000171"
+  },
+  {
+    "consumed_date": "2026-08-25",
+    "qty_consumed": 290.459,
+    "raw_lot_id": "RAWLOT-S0011-2026-000140",
+    "wo_id": "WO-2026-000171"
+  },
+  {
+    "consumed_date": "2026-08-21",
+    "qty_consumed": 111.769,
+    "raw_lot_id": "RAWLOT-S0011-2026-000306",
+    "wo_id": "WO-2026-000171"
+  },
+  {
+    "consumed_date": "2026-08-22",
+    "qty_consumed": 648.298,
+    "raw_lot_id": "RAWLOT-S0011-2026-000417",
+    "wo_id": "WO-2026-000171"
+  },
+  {
+    "consumed_date": "2026-08-20",
+    "qty_consumed": 458.465,
+    "raw_lot_id": "RAWLOT-S0022-2026-000164",
+    "wo_id": "WO-2026-000171"
+  },
+  {
+    "consumed_date": "2026-08-20",
+    "qty_consumed": 658.237,
+    "raw_lot_id": "RAWLOT-S0024-2026-000299",
+    "wo_id": "WO-2026-000171"
+  },
+  {
+    "consumed_date": "2026-08-24",
+    "qty_consumed": 12.797,
+    "raw_lot_id": "RAWLOT-S0024-2026-000338",
+    "wo_id": "WO-2026-000171"
+  },
+  {
+    "consumed_date": "2026-08-24",
+    "qty_consumed": 545.985,
+    "raw_lot_id": "RAWLOT-S0024-2026-000346",
+    "wo_id": "WO-2026-000171"
+  },
+  {
+    "consumed_date": "2026-08-21",
+    "qty_consumed": 215.76,
+    "raw_lot_id": "RAWLOT-S0025-2026-000341",
+    "wo_id": "WO-2026-000171"
+  },
+  {
+    "consumed_date": "2026-08-24",
+    "qty_consumed": 355.735,
+    "raw_lot_id": "RAWLOT-S0006-2026-000227",
+    "wo_id": "WO-2026-000172"
+  },
+  {
+    "consumed_date": "2026-08-22",
+    "qty_consumed": 595.264,
+    "raw_lot_id": "RAWLOT-S0011-2026-000301",
+    "wo_id": "WO-2026-000172"
+  },
+  {
+    "consumed_date": "2026-08-25",
+    "qty_consumed": 686.109,
+    "raw_lot_id": "RAWLOT-S0011-2026-000306",
+    "wo_id": "WO-2026-000172"
+  },
+  {
+    "consumed_date": "2026-08-26",
+    "qty_consumed": 373.275,
+    "raw_lot_id": "RAWLOT-S0022-2026-000164",
+    "wo_id": "WO-2026-000172"
+  },
+  {
+    "consumed_date": "2026-08-26",
+    "qty_consumed": 1441.878,
+    "raw_lot_id": "RAWLOT-S0022-2026-000316",
+    "wo_id": "WO-2026-000172"
+  },
+  {
+    "consumed_date": "2026-08-26",
+    "qty_consumed": 228.51,
+    "raw_lot_id": "RAWLOT-S0024-2026-000344",
+    "wo_id": "WO-2026-000172"
+  },
+  {
+    "consumed_date": "2026-08-25",
+    "qty_consumed": 263.172,
+    "raw_lot_id": "RAWLOT-S0025-2026-000341",
+    "wo_id": "WO-2026-000172"
+  },
+  {
+    "consumed_date": "2026-08-24",
+    "qty_consumed": 184.974,
+    "raw_lot_id": "RAWLOT-S0010-2026-000183",
+    "wo_id": "WO-2026-000173"
+  },
+  {
+    "consumed_date": "2026-08-23",
+    "qty_consumed": 424.846,
+    "raw_lot_id": "RAWLOT-S0011-2026-000301",
+    "wo_id": "WO-2026-000173"
+  },
+  {
+    "consumed_date": "2026-08-25",
+    "qty_consumed": 137.494,
+    "raw_lot_id": "RAWLOT-S0017-2026-000224",
+    "wo_id": "WO-2026-000173"
+  },
+  {
+    "consumed_date": "2026-08-23",
+    "qty_consumed": 444.135,
+    "raw_lot_id": "RAWLOT-S0024-2026-000344",
+    "wo_id": "WO-2026-000173"
+  },
+  {
+    "consumed_date": "2026-08-22",
+    "qty_consumed": 71.843,
+    "raw_lot_id": "RAWLOT-S0001-2026-000324",
+    "wo_id": "WO-2026-000174"
+  },
+  {
+    "consumed_date": "2026-08-24",
+    "qty_consumed": 72.592,
+    "raw_lot_id": "RAWLOT-S0005-2026-000139",
+    "wo_id": "WO-2026-000174"
+  },
+  {
+    "consumed_date": "2026-08-24",
+    "qty_consumed": 83.574,
+    "raw_lot_id": "RAWLOT-S0006-2026-000138",
+    "wo_id": "WO-2026-000174"
+  },
+  {
+    "consumed_date": "2026-08-22",
+    "qty_consumed": 134.202,
+    "raw_lot_id": "RAWLOT-S0006-2026-000227",
+    "wo_id": "WO-2026-000174"
+  },
+  {
+    "consumed_date": "2026-08-22",
+    "qty_consumed": 16.464,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000174"
+  },
+  {
+    "consumed_date": "2026-08-22",
+    "qty_consumed": 290.367,
+    "raw_lot_id": "RAWLOT-S0024-2026-000344",
+    "wo_id": "WO-2026-000174"
+  },
+  {
+    "consumed_date": "2026-08-24",
+    "qty_consumed": 134.223,
+    "raw_lot_id": "RAWLOT-S0001-2026-000324",
+    "wo_id": "WO-2026-000175"
+  },
+  {
+    "consumed_date": "2026-08-23",
+    "qty_consumed": 135.621,
+    "raw_lot_id": "RAWLOT-S0005-2026-000139",
+    "wo_id": "WO-2026-000175"
+  },
+  {
+    "consumed_date": "2026-08-23",
+    "qty_consumed": 406.864,
+    "raw_lot_id": "RAWLOT-S0006-2026-000138",
+    "wo_id": "WO-2026-000175"
+  },
+  {
+    "consumed_date": "2026-08-25",
+    "qty_consumed": 30.76,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000175"
+  },
+  {
+    "consumed_date": "2026-08-23",
+    "qty_consumed": 218.916,
+    "raw_lot_id": "RAWLOT-S0024-2026-000207",
+    "wo_id": "WO-2026-000175"
+  },
+  {
+    "consumed_date": "2026-08-24",
+    "qty_consumed": 323.57,
+    "raw_lot_id": "RAWLOT-S0024-2026-000344",
+    "wo_id": "WO-2026-000175"
+  },
+  {
+    "consumed_date": "2026-08-27",
+    "qty_consumed": 192.963,
+    "raw_lot_id": "RAWLOT-S0001-2026-000324",
+    "wo_id": "WO-2026-000176"
+  },
+  {
+    "consumed_date": "2026-08-24",
+    "qty_consumed": 144.236,
+    "raw_lot_id": "RAWLOT-S0007-2026-000295",
+    "wo_id": "WO-2026-000176"
+  },
+  {
+    "consumed_date": "2026-08-24",
+    "qty_consumed": 258.141,
+    "raw_lot_id": "RAWLOT-S0011-2026-000301",
+    "wo_id": "WO-2026-000176"
+  },
+  {
+    "consumed_date": "2026-08-26",
+    "qty_consumed": 478.85,
+    "raw_lot_id": "RAWLOT-S0024-2026-000207",
+    "wo_id": "WO-2026-000176"
+  },
+  {
+    "consumed_date": "2026-08-25",
+    "qty_consumed": 167.515,
+    "raw_lot_id": "RAWLOT-S0001-2026-000324",
+    "wo_id": "WO-2026-000177"
+  },
+  {
+    "consumed_date": "2026-08-24",
+    "qty_consumed": 456.378,
+    "raw_lot_id": "RAWLOT-S0007-2026-000295",
+    "wo_id": "WO-2026-000177"
+  },
+  {
+    "consumed_date": "2026-08-27",
+    "qty_consumed": 141.459,
+    "raw_lot_id": "RAWLOT-S0011-2026-000272",
+    "wo_id": "WO-2026-000177"
+  },
+  {
+    "consumed_date": "2026-08-24",
+    "qty_consumed": 839.389,
+    "raw_lot_id": "RAWLOT-S0011-2026-000386",
+    "wo_id": "WO-2026-000177"
+  },
+  {
+    "consumed_date": "2026-08-26",
+    "qty_consumed": 521.718,
+    "raw_lot_id": "RAWLOT-S0015-2026-000373",
+    "wo_id": "WO-2026-000177"
+  },
+  {
+    "consumed_date": "2026-08-25",
+    "qty_consumed": 1710.378,
+    "raw_lot_id": "RAWLOT-S0024-2026-000207",
+    "wo_id": "WO-2026-000177"
+  },
+  {
+    "consumed_date": "2026-08-28",
+    "qty_consumed": 1483.187,
+    "raw_lot_id": "RAWLOT-S0011-2026-000272",
+    "wo_id": "WO-2026-000178"
+  },
+  {
+    "consumed_date": "2026-08-26",
+    "qty_consumed": 136.092,
+    "raw_lot_id": "RAWLOT-S0011-2026-000302",
+    "wo_id": "WO-2026-000178"
+  },
+  {
+    "consumed_date": "2026-08-28",
+    "qty_consumed": 469.709,
+    "raw_lot_id": "RAWLOT-S0022-2026-000239",
+    "wo_id": "WO-2026-000178"
+  },
+  {
+    "consumed_date": "2026-08-28",
+    "qty_consumed": 832.711,
+    "raw_lot_id": "RAWLOT-S0024-2026-000207",
+    "wo_id": "WO-2026-000178"
+  },
+  {
+    "consumed_date": "2026-08-25",
+    "qty_consumed": 848.351,
+    "raw_lot_id": "RAWLOT-S0024-2026-000269",
+    "wo_id": "WO-2026-000178"
+  },
+  {
+    "consumed_date": "2026-08-28",
+    "qty_consumed": 527.949,
+    "raw_lot_id": "RAWLOT-S0025-2026-000341",
+    "wo_id": "WO-2026-000178"
+  },
+  {
+    "consumed_date": "2026-08-29",
+    "qty_consumed": 72.477,
+    "raw_lot_id": "RAWLOT-S0006-2026-000138",
+    "wo_id": "WO-2026-000179"
+  },
+  {
+    "consumed_date": "2026-08-29",
+    "qty_consumed": 261.065,
+    "raw_lot_id": "RAWLOT-S0011-2026-000438",
+    "wo_id": "WO-2026-000179"
+  },
+  {
+    "consumed_date": "2026-08-30",
+    "qty_consumed": 134.571,
+    "raw_lot_id": "RAWLOT-S0022-2026-000307",
+    "wo_id": "WO-2026-000179"
+  },
+  {
+    "consumed_date": "2026-08-30",
+    "qty_consumed": 281.802,
+    "raw_lot_id": "RAWLOT-S0024-2026-000269",
+    "wo_id": "WO-2026-000179"
+  },
+  {
+    "consumed_date": "2026-08-29",
+    "qty_consumed": 53.618,
+    "raw_lot_id": "RAWLOT-S0025-2026-000341",
+    "wo_id": "WO-2026-000179"
+  },
+  {
+    "consumed_date": "2026-08-30",
+    "qty_consumed": 55.303,
+    "raw_lot_id": "RAWLOT-S0005-2026-000139",
+    "wo_id": "WO-2026-000181"
+  },
+  {
+    "consumed_date": "2026-08-31",
+    "qty_consumed": 165.908,
+    "raw_lot_id": "RAWLOT-S0006-2026-000138",
+    "wo_id": "WO-2026-000181"
+  },
+  {
+    "consumed_date": "2026-09-01",
+    "qty_consumed": 54.733,
+    "raw_lot_id": "RAWLOT-S0015-2026-000373",
+    "wo_id": "WO-2026-000181"
+  },
+  {
+    "consumed_date": "2026-08-31",
+    "qty_consumed": 221.211,
+    "raw_lot_id": "RAWLOT-S0022-2026-000307",
+    "wo_id": "WO-2026-000181"
+  },
+  {
+    "consumed_date": "2026-08-31",
+    "qty_consumed": 12.543,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000181"
+  },
+  {
+    "consumed_date": "2026-09-05",
+    "qty_consumed": 84.184,
+    "raw_lot_id": "RAWLOT-S0006-2026-000138",
+    "wo_id": "WO-2026-000182"
+  },
+  {
+    "consumed_date": "2026-09-04",
+    "qty_consumed": 60.332,
+    "raw_lot_id": "RAWLOT-S0009-2026-900001",
+    "wo_id": "WO-2026-000182"
+  },
+  {
+    "consumed_date": "2026-09-03",
+    "qty_consumed": 70.153,
+    "raw_lot_id": "RAWLOT-S0011-2026-000400",
+    "wo_id": "WO-2026-000182"
+  },
+  {
+    "consumed_date": "2026-09-04",
+    "qty_consumed": 836.224,
+    "raw_lot_id": "RAWLOT-S0011-2026-000438",
+    "wo_id": "WO-2026-000182"
+  },
+  {
+    "consumed_date": "2026-09-04",
+    "qty_consumed": 47.1,
+    "raw_lot_id": "RAWLOT-S0015-2026-000228",
+    "wo_id": "WO-2026-000182"
+  },
+  {
+    "consumed_date": "2026-09-01",
+    "qty_consumed": 87.594,
+    "raw_lot_id": "RAWLOT-S0015-2026-000373",
+    "wo_id": "WO-2026-000182"
+  },
+  {
+    "consumed_date": "2026-09-01",
+    "qty_consumed": 813.775,
+    "raw_lot_id": "RAWLOT-S0022-2026-000307",
+    "wo_id": "WO-2026-000182"
+  },
+  {
+    "consumed_date": "2026-09-03",
+    "qty_consumed": 146.804,
+    "raw_lot_id": "RAWLOT-S0005-2026-000139",
+    "wo_id": "WO-2026-000183"
+  },
+  {
+    "consumed_date": "2026-09-03",
+    "qty_consumed": 440.413,
+    "raw_lot_id": "RAWLOT-S0006-2026-000138",
+    "wo_id": "WO-2026-000183"
+  },
+  {
+    "consumed_date": "2026-09-03",
+    "qty_consumed": 145.291,
+    "raw_lot_id": "RAWLOT-S0015-2026-000228",
+    "wo_id": "WO-2026-000183"
+  },
+  {
+    "consumed_date": "2026-09-07",
+    "qty_consumed": 587.217,
+    "raw_lot_id": "RAWLOT-S0022-2026-000307",
+    "wo_id": "WO-2026-000183"
+  },
+  {
+    "consumed_date": "2026-09-04",
+    "qty_consumed": 33.296,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000183"
+  },
+  {
+    "consumed_date": "2026-09-06",
+    "qty_consumed": 179.23,
+    "raw_lot_id": "RAWLOT-S0006-2026-000138",
+    "wo_id": "WO-2026-000184"
+  },
+  {
+    "consumed_date": "2026-09-04",
+    "qty_consumed": 263.186,
+    "raw_lot_id": "RAWLOT-S0011-2026-000302",
+    "wo_id": "WO-2026-000184"
+  },
+  {
+    "consumed_date": "2026-09-04",
+    "qty_consumed": 382.407,
+    "raw_lot_id": "RAWLOT-S0011-2026-000438",
+    "wo_id": "WO-2026-000184"
+  },
+  {
+    "consumed_date": "2026-09-05",
+    "qty_consumed": 1029.657,
+    "raw_lot_id": "RAWLOT-S0022-2026-000307",
+    "wo_id": "WO-2026-000184"
+  },
+  {
+    "consumed_date": "2026-09-06",
+    "qty_consumed": 132.594,
+    "raw_lot_id": "RAWLOT-S0025-2026-000341",
+    "wo_id": "WO-2026-000184"
+  },
+  {
+    "consumed_date": "2026-09-07",
+    "qty_consumed": 135.84,
+    "raw_lot_id": "RAWLOT-S0003-2026-000210",
+    "wo_id": "WO-2026-000185"
+  },
+  {
+    "consumed_date": "2026-09-05",
+    "qty_consumed": 392.802,
+    "raw_lot_id": "RAWLOT-S0011-2026-000302",
+    "wo_id": "WO-2026-000185"
+  },
+  {
+    "consumed_date": "2026-09-06",
+    "qty_consumed": 188.371,
+    "raw_lot_id": "RAWLOT-S0015-2026-000228",
+    "wo_id": "WO-2026-000185"
+  },
+  {
+    "consumed_date": "2026-09-06",
+    "qty_consumed": 331.616,
+    "raw_lot_id": "RAWLOT-S0022-2026-000307",
+    "wo_id": "WO-2026-000185"
+  },
+  {
+    "consumed_date": "2026-09-06",
+    "qty_consumed": 159.003,
+    "raw_lot_id": "RAWLOT-S0005-2026-000139",
+    "wo_id": "WO-2026-000186"
+  },
+  {
+    "consumed_date": "2026-09-07",
+    "qty_consumed": 140.758,
+    "raw_lot_id": "RAWLOT-S0007-2026-000326",
+    "wo_id": "WO-2026-000186"
+  },
+  {
+    "consumed_date": "2026-09-07",
+    "qty_consumed": 735.868,
+    "raw_lot_id": "RAWLOT-S0011-2026-000302",
+    "wo_id": "WO-2026-000186"
+  },
+  {
+    "consumed_date": "2026-09-07",
+    "qty_consumed": 508.672,
+    "raw_lot_id": "RAWLOT-S0012-2026-000172",
+    "wo_id": "WO-2026-000186"
+  },
+  {
+    "consumed_date": "2026-09-07",
+    "qty_consumed": 228.382,
+    "raw_lot_id": "RAWLOT-S0019-2026-000240",
+    "wo_id": "WO-2026-000186"
+  },
+  {
+    "consumed_date": "2026-09-08",
+    "qty_consumed": 53.223,
+    "raw_lot_id": "RAWLOT-S0023-2026-000186",
+    "wo_id": "WO-2026-000186"
+  },
+  {
+    "consumed_date": "2026-09-11",
+    "qty_consumed": 374.211,
+    "raw_lot_id": "RAWLOT-S0003-2026-000210",
+    "wo_id": "WO-2026-000187"
+  },
+  {
+    "consumed_date": "2026-09-10",
+    "qty_consumed": 926.208,
+    "raw_lot_id": "RAWLOT-S0007-2026-000326",
+    "wo_id": "WO-2026-000187"
+  },
+  {
+    "consumed_date": "2026-09-08",
+    "qty_consumed": 123.419,
+    "raw_lot_id": "RAWLOT-S0010-2026-000183",
+    "wo_id": "WO-2026-000187"
+  },
+  {
+    "consumed_date": "2026-09-06",
+    "qty_consumed": 564.058,
+    "raw_lot_id": "RAWLOT-S0010-2026-000327",
+    "wo_id": "WO-2026-000187"
+  },
+  {
+    "consumed_date": "2026-09-06",
+    "qty_consumed": 652.783,
+    "raw_lot_id": "RAWLOT-S0011-2026-000276",
+    "wo_id": "WO-2026-000187"
+  },
+  {
+    "consumed_date": "2026-09-10",
+    "qty_consumed": 272.106,
+    "raw_lot_id": "RAWLOT-S0017-2026-000150",
+    "wo_id": "WO-2026-000187"
+  },
+  {
+    "consumed_date": "2026-09-09",
+    "qty_consumed": 238.906,
+    "raw_lot_id": "RAWLOT-S0017-2026-000224",
+    "wo_id": "WO-2026-000187"
+  },
+  {
+    "consumed_date": "2026-09-07",
+    "qty_consumed": 1276.469,
+    "raw_lot_id": "RAWLOT-S0022-2026-000298",
+    "wo_id": "WO-2026-000187"
+  },
+  {
+    "consumed_date": "2026-09-08",
+    "qty_consumed": 82.776,
+    "raw_lot_id": "RAWLOT-S0006-2026-000138",
+    "wo_id": "WO-2026-000188"
+  },
+  {
+    "consumed_date": "2026-09-08",
+    "qty_consumed": 86.897,
+    "raw_lot_id": "RAWLOT-S0007-2026-000374",
+    "wo_id": "WO-2026-000188"
+  },
+  {
+    "consumed_date": "2026-09-08",
+    "qty_consumed": 441.066,
+    "raw_lot_id": "RAWLOT-S0011-2026-000276",
+    "wo_id": "WO-2026-000188"
+  },
+  {
+    "consumed_date": "2026-09-08",
+    "qty_consumed": 63.797,
+    "raw_lot_id": "RAWLOT-S0021-2026-000249",
+    "wo_id": "WO-2026-000188"
+  },
+  {
+    "consumed_date": "2026-09-08",
+    "qty_consumed": 455.163,
+    "raw_lot_id": "RAWLOT-S0022-2026-000298",
+    "wo_id": "WO-2026-000188"
+  },
+  {
+    "consumed_date": "2026-09-07",
+    "qty_consumed": 386.886,
+    "raw_lot_id": "RAWLOT-S0022-2026-000385",
+    "wo_id": "WO-2026-000188"
+  },
+  {
+    "consumed_date": "2026-09-07",
+    "qty_consumed": 108.434,
+    "raw_lot_id": "RAWLOT-S0025-2026-000341",
+    "wo_id": "WO-2026-000188"
+  },
+  {
+    "consumed_date": "2026-09-08",
+    "qty_consumed": 581.14,
+    "raw_lot_id": "RAWLOT-S0007-2026-000374",
+    "wo_id": "WO-2026-000189"
+  },
+  {
+    "consumed_date": "2026-09-09",
+    "qty_consumed": 488.614,
+    "raw_lot_id": "RAWLOT-S0019-2026-000240",
+    "wo_id": "WO-2026-000189"
+  },
+  {
+    "consumed_date": "2026-09-08",
+    "qty_consumed": 140.69,
+    "raw_lot_id": "RAWLOT-S0023-2026-000186",
+    "wo_id": "WO-2026-000189"
+  },
+  {
+    "consumed_date": "2026-09-10",
+    "qty_consumed": 1087.695,
+    "raw_lot_id": "RAWLOT-S0007-2026-000374",
+    "wo_id": "WO-2026-000190"
+  },
+  {
+    "consumed_date": "2026-09-10",
+    "qty_consumed": 255.661,
+    "raw_lot_id": "RAWLOT-S0010-2026-000327",
+    "wo_id": "WO-2026-000190"
+  },
+  {
+    "consumed_date": "2026-09-11",
+    "qty_consumed": 633.501,
+    "raw_lot_id": "RAWLOT-S0011-2026-000256",
+    "wo_id": "WO-2026-000190"
+  },
+  {
+    "consumed_date": "2026-09-10",
+    "qty_consumed": 171.732,
+    "raw_lot_id": "RAWLOT-S0017-2026-000150",
+    "wo_id": "WO-2026-000190"
+  },
+  {
+    "consumed_date": "2026-09-11",
+    "qty_consumed": 596.993,
+    "raw_lot_id": "RAWLOT-S0022-2026-000226",
+    "wo_id": "WO-2026-000190"
+  },
+  {
+    "consumed_date": "2026-09-08",
+    "qty_consumed": 881.094,
+    "raw_lot_id": "RAWLOT-S0022-2026-000362",
+    "wo_id": "WO-2026-000190"
+  },
+  {
+    "consumed_date": "2026-09-08",
+    "qty_consumed": 351.571,
+    "raw_lot_id": "RAWLOT-S0022-2026-000385",
+    "wo_id": "WO-2026-000190"
+  },
+  {
+    "consumed_date": "2026-09-10",
+    "qty_consumed": 33.231,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000191"
+  },
+  {
+    "consumed_date": "2026-09-12",
+    "qty_consumed": 157.558,
+    "raw_lot_id": "RAWLOT-S0011-2026-000256",
+    "wo_id": "WO-2026-000191"
+  },
+  {
+    "consumed_date": "2026-09-12",
+    "qty_consumed": 303.043,
+    "raw_lot_id": "RAWLOT-S0011-2026-000278",
+    "wo_id": "WO-2026-000191"
+  },
+  {
+    "consumed_date": "2026-09-11",
+    "qty_consumed": 38.641,
+    "raw_lot_id": "RAWLOT-S0011-2026-000400",
+    "wo_id": "WO-2026-000191"
+  },
+  {
+    "consumed_date": "2026-09-11",
+    "qty_consumed": 74.191,
+    "raw_lot_id": "RAWLOT-S0015-2026-000228",
+    "wo_id": "WO-2026-000191"
+  },
+  {
+    "consumed_date": "2026-09-11",
+    "qty_consumed": 46.369,
+    "raw_lot_id": "RAWLOT-S0021-2026-000249",
+    "wo_id": "WO-2026-000191"
+  },
+  {
+    "consumed_date": "2026-09-10",
+    "qty_consumed": 81.36,
+    "raw_lot_id": "RAWLOT-S0022-2026-000362",
+    "wo_id": "WO-2026-000191"
+  },
+  {
+    "consumed_date": "2026-09-11",
+    "qty_consumed": 366.876,
+    "raw_lot_id": "RAWLOT-S0024-2026-000211",
+    "wo_id": "WO-2026-000191"
+  },
+  {
+    "consumed_date": "2026-09-09",
+    "qty_consumed": 77.414,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000192"
+  },
+  {
+    "consumed_date": "2026-09-10",
+    "qty_consumed": 1073.0,
+    "raw_lot_id": "RAWLOT-S0011-2026-000278",
+    "wo_id": "WO-2026-000192"
+  },
+  {
+    "consumed_date": "2026-09-09",
+    "qty_consumed": 90.017,
+    "raw_lot_id": "RAWLOT-S0011-2026-000400",
+    "wo_id": "WO-2026-000192"
+  },
+  {
+    "consumed_date": "2026-09-10",
+    "qty_consumed": 172.832,
+    "raw_lot_id": "RAWLOT-S0015-2026-000228",
+    "wo_id": "WO-2026-000192"
+  },
+  {
+    "consumed_date": "2026-09-10",
+    "qty_consumed": 108.02,
+    "raw_lot_id": "RAWLOT-S0021-2026-000249",
+    "wo_id": "WO-2026-000192"
+  },
+  {
+    "consumed_date": "2026-09-09",
+    "qty_consumed": 115.28,
+    "raw_lot_id": "RAWLOT-S0022-2026-000175",
+    "wo_id": "WO-2026-000192"
+  },
+  {
+    "consumed_date": "2026-09-10",
+    "qty_consumed": 928.915,
+    "raw_lot_id": "RAWLOT-S0024-2026-000211",
+    "wo_id": "WO-2026-000192"
+  },
+  {
+    "consumed_date": "2026-09-11",
+    "qty_consumed": 295.792,
+    "raw_lot_id": "RAWLOT-S0011-2026-000278",
+    "wo_id": "WO-2026-000193"
+  },
+  {
+    "consumed_date": "2026-09-10",
+    "qty_consumed": 80.165,
+    "raw_lot_id": "RAWLOT-S0019-2026-000240",
+    "wo_id": "WO-2026-000193"
+  },
+  {
+    "consumed_date": "2026-09-10",
+    "qty_consumed": 168.533,
+    "raw_lot_id": "RAWLOT-S0019-2026-000254",
+    "wo_id": "WO-2026-000193"
+  },
+  {
+    "consumed_date": "2026-09-10",
+    "qty_consumed": 71.609,
+    "raw_lot_id": "RAWLOT-S0023-2026-000186",
+    "wo_id": "WO-2026-000193"
+  },
+  {
+    "consumed_date": "2026-09-14",
+    "qty_consumed": 24.228,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "wo_id": "WO-2026-000194"
+  },
+  {
+    "consumed_date": "2026-09-14",
+    "qty_consumed": 189.43,
+    "raw_lot_id": "RAWLOT-S0011-2026-000153",
+    "wo_id": "WO-2026-000194"
+  },
+  {
+    "consumed_date": "2026-09-13",
+    "qty_consumed": 282.03,
+    "raw_lot_id": "RAWLOT-S0011-2026-000278",
+    "wo_id": "WO-2026-000194"
+  },
+  {
+    "consumed_date": "2026-09-12",
+    "qty_consumed": 39.552,
+    "raw_lot_id": "RAWLOT-S0011-2026-000400",
+    "wo_id": "WO-2026-000194"
+  },
+  {
+    "consumed_date": "2026-09-16",
+    "qty_consumed": 9.787,
+    "raw_lot_id": "RAWLOT-S0011-2026-000422",
+    "wo_id": "WO-2026-000194"
+  },
+  {
+    "consumed_date": "2026-09-16",
+    "qty_consumed": 75.94,
+    "raw_lot_id": "RAWLOT-S0015-2026-000228",
+    "wo_id": "WO-2026-000194"
+  },
+  {
+    "consumed_date": "2026-09-12",
+    "qty_consumed": 47.462,
+    "raw_lot_id": "RAWLOT-S0021-2026-000249",
+    "wo_id": "WO-2026-000194"
+  },
+  {
+    "consumed_date": "2026-09-13",
+    "qty_consumed": 458.803,
+    "raw_lot_id": "RAWLOT-S0022-2026-000175",
+    "wo_id": "WO-2026-000194"
+  },
+  {
+    "consumed_date": "2026-09-17",
+    "qty_consumed": 32.327,
+    "raw_lot_id": "RAWLOT-S0015-2026-000228",
+    "wo_id": "WO-2026-000195"
+  },
+  {
+    "consumed_date": "2026-09-13",
+    "qty_consumed": 97.99,
+    "raw_lot_id": "RAWLOT-S0021-2026-000249",
+    "wo_id": "WO-2026-000195"
+  },
+  {
+    "consumed_date": "2026-09-16",
+    "qty_consumed": 130.653,
+    "raw_lot_id": "RAWLOT-S0022-2026-000175",
+    "wo_id": "WO-2026-000195"
+  },
+  {
+    "consumed_date": "2026-09-13",
+    "qty_consumed": 7.408,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000195"
+  },
+  {
+    "consumed_date": "2026-09-16",
+    "qty_consumed": 32.663,
+    "raw_lot_id": "RAWLOT-S0023-2026-000186",
+    "wo_id": "WO-2026-000195"
+  },
+  {
+    "consumed_date": "2026-09-13",
+    "qty_consumed": 135.114,
+    "raw_lot_id": "RAWLOT-S0015-2026-000228",
+    "wo_id": "WO-2026-000196"
+  },
+  {
+    "consumed_date": "2026-09-15",
+    "qty_consumed": 409.566,
+    "raw_lot_id": "RAWLOT-S0021-2026-000249",
+    "wo_id": "WO-2026-000196"
+  },
+  {
+    "consumed_date": "2026-09-14",
+    "qty_consumed": 60.333,
+    "raw_lot_id": "RAWLOT-S0022-2026-000175",
+    "wo_id": "WO-2026-000196"
+  },
+  {
+    "consumed_date": "2026-09-12",
+    "qty_consumed": 485.755,
+    "raw_lot_id": "RAWLOT-S0022-2026-000232",
+    "wo_id": "WO-2026-000196"
+  },
+  {
+    "consumed_date": "2026-09-17",
+    "qty_consumed": 30.964,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000196"
+  },
+  {
+    "consumed_date": "2026-09-14",
+    "qty_consumed": 136.522,
+    "raw_lot_id": "RAWLOT-S0023-2026-000186",
+    "wo_id": "WO-2026-000196"
+  },
+  {
+    "consumed_date": "2026-09-16",
+    "qty_consumed": 258.656,
+    "raw_lot_id": "RAWLOT-S0006-2026-000219",
+    "wo_id": "WO-2026-000197"
+  },
+  {
+    "consumed_date": "2026-09-16",
+    "qty_consumed": 194.113,
+    "raw_lot_id": "RAWLOT-S0011-2026-000153",
+    "wo_id": "WO-2026-000197"
+  },
+  {
+    "consumed_date": "2026-09-14",
+    "qty_consumed": 590.622,
+    "raw_lot_id": "RAWLOT-S0011-2026-000312",
+    "wo_id": "WO-2026-000197"
+  },
+  {
+    "consumed_date": "2026-09-13",
+    "qty_consumed": 418.172,
+    "raw_lot_id": "RAWLOT-S0011-2026-000349",
+    "wo_id": "WO-2026-000197"
+  },
+  {
+    "consumed_date": "2026-09-16",
+    "qty_consumed": 75.295,
+    "raw_lot_id": "RAWLOT-S0021-2026-000249",
+    "wo_id": "WO-2026-000197"
+  },
+  {
+    "consumed_date": "2026-09-14",
+    "qty_consumed": 842.508,
+    "raw_lot_id": "RAWLOT-S0022-2026-000232",
+    "wo_id": "WO-2026-000197"
+  },
+  {
+    "consumed_date": "2026-09-16",
+    "qty_consumed": 1076.009,
+    "raw_lot_id": "RAWLOT-S0024-2026-000330",
+    "wo_id": "WO-2026-000197"
+  },
+  {
+    "consumed_date": "2026-09-13",
+    "qty_consumed": 247.056,
+    "raw_lot_id": "RAWLOT-S0025-2026-000341",
+    "wo_id": "WO-2026-000197"
+  },
+  {
+    "consumed_date": "2026-09-13",
+    "qty_consumed": 232.596,
+    "raw_lot_id": "RAWLOT-S0011-2026-000296",
+    "wo_id": "WO-2026-000198"
+  },
+  {
+    "consumed_date": "2026-09-14",
+    "qty_consumed": 524.29,
+    "raw_lot_id": "RAWLOT-S0011-2026-000349",
+    "wo_id": "WO-2026-000198"
+  },
+  {
+    "consumed_date": "2026-09-13",
+    "qty_consumed": 636.379,
+    "raw_lot_id": "RAWLOT-S0019-2026-000254",
+    "wo_id": "WO-2026-000198"
+  },
+  {
+    "consumed_date": "2026-09-13",
+    "qty_consumed": 183.237,
+    "raw_lot_id": "RAWLOT-S0023-2026-000186",
+    "wo_id": "WO-2026-000198"
+  },
+  {
+    "consumed_date": "2026-09-18",
+    "qty_consumed": 321.181,
+    "raw_lot_id": "RAWLOT-S0011-2026-000296",
+    "wo_id": "WO-2026-000199"
+  },
+  {
+    "consumed_date": "2026-09-17",
+    "qty_consumed": 270.045,
+    "raw_lot_id": "RAWLOT-S0019-2026-000254",
+    "wo_id": "WO-2026-000199"
+  },
+  {
+    "consumed_date": "2026-09-17",
+    "qty_consumed": 77.756,
+    "raw_lot_id": "RAWLOT-S0023-2026-000186",
+    "wo_id": "WO-2026-000199"
+  },
+  {
+    "consumed_date": "2026-09-15",
+    "qty_consumed": 271.158,
+    "raw_lot_id": "RAWLOT-S0010-2026-000327",
+    "wo_id": "WO-2026-000200"
+  },
+  {
+    "consumed_date": "2026-09-16",
+    "qty_consumed": 325.454,
+    "raw_lot_id": "RAWLOT-S0011-2026-000296",
+    "wo_id": "WO-2026-000200"
+  },
+  {
+    "consumed_date": "2026-09-15",
+    "qty_consumed": 297.339,
+    "raw_lot_id": "RAWLOT-S0011-2026-000334",
+    "wo_id": "WO-2026-000200"
+  },
+  {
+    "consumed_date": "2026-09-16",
+    "qty_consumed": 201.556,
+    "raw_lot_id": "RAWLOT-S0017-2026-000150",
+    "wo_id": "WO-2026-000200"
+  },
+  {
+    "consumed_date": "2026-09-16",
+    "qty_consumed": 300.291,
+    "raw_lot_id": "RAWLOT-S0024-2026-000242",
+    "wo_id": "WO-2026-000200"
+  },
+  {
+    "consumed_date": "2026-09-16",
+    "qty_consumed": 350.778,
+    "raw_lot_id": "RAWLOT-S0024-2026-000330",
+    "wo_id": "WO-2026-000200"
+  },
+  {
+    "consumed_date": "2026-09-16",
+    "qty_consumed": 52.364,
+    "raw_lot_id": "RAWLOT-S0001-2026-000083",
+    "wo_id": "WO-2026-000201"
+  },
+  {
+    "consumed_date": "2026-09-17",
+    "qty_consumed": 46.597,
+    "raw_lot_id": "RAWLOT-S0006-2026-000219",
+    "wo_id": "WO-2026-000201"
+  },
+  {
+    "consumed_date": "2026-09-17",
+    "qty_consumed": 462.868,
+    "raw_lot_id": "RAWLOT-S0011-2026-000334",
+    "wo_id": "WO-2026-000201"
+  },
+  {
+    "consumed_date": "2026-09-16",
+    "qty_consumed": 38.831,
+    "raw_lot_id": "RAWLOT-S0011-2026-000400",
+    "wo_id": "WO-2026-000201"
+  },
+  {
+    "consumed_date": "2026-09-17",
+    "qty_consumed": 33.395,
+    "raw_lot_id": "RAWLOT-S0011-2026-000422",
+    "wo_id": "WO-2026-000201"
+  },
+  {
+    "consumed_date": "2026-09-16",
+    "qty_consumed": 22.192,
+    "raw_lot_id": "RAWLOT-S0015-2026-000228",
+    "wo_id": "WO-2026-000201"
+  },
+  {
+    "consumed_date": "2026-09-16",
+    "qty_consumed": 450.442,
+    "raw_lot_id": "RAWLOT-S0024-2026-000242",
+    "wo_id": "WO-2026-000201"
+  },
+  {
+    "consumed_date": "2026-09-18",
+    "qty_consumed": 63.175,
+    "raw_lot_id": "RAWLOT-S0006-2026-000219",
+    "wo_id": "WO-2026-000202"
+  },
+  {
+    "consumed_date": "2026-09-17",
+    "qty_consumed": 227.558,
+    "raw_lot_id": "RAWLOT-S0011-2026-000334",
+    "wo_id": "WO-2026-000202"
+  },
+  {
+    "consumed_date": "2026-09-19",
+    "qty_consumed": 144.228,
+    "raw_lot_id": "RAWLOT-S0024-2026-000242",
+    "wo_id": "WO-2026-000202"
+  },
+  {
+    "consumed_date": "2026-09-17",
+    "qty_consumed": 218.704,
+    "raw_lot_id": "RAWLOT-S0024-2026-000392",
+    "wo_id": "WO-2026-000202"
+  },
+  {
+    "consumed_date": "2026-09-19",
+    "qty_consumed": 46.736,
+    "raw_lot_id": "RAWLOT-S0025-2026-000341",
+    "wo_id": "WO-2026-000202"
+  },
+  {
+    "consumed_date": "2026-09-18",
+    "qty_consumed": 235.333,
+    "raw_lot_id": "RAWLOT-S0006-2026-000219",
+    "wo_id": "WO-2026-000203"
+  },
+  {
+    "consumed_date": "2026-09-18",
+    "qty_consumed": 4.537,
+    "raw_lot_id": "RAWLOT-S0007-2026-000399",
+    "wo_id": "WO-2026-000203"
+  },
+  {
+    "consumed_date": "2026-09-19",
+    "qty_consumed": 843.142,
+    "raw_lot_id": "RAWLOT-S0011-2026-000334",
+    "wo_id": "WO-2026-000203"
+  },
+  {
+    "consumed_date": "2026-09-21",
+    "qty_consumed": 546.564,
+    "raw_lot_id": "RAWLOT-S0022-2026-000262",
+    "wo_id": "WO-2026-000203"
+  },
+  {
+    "consumed_date": "2026-09-21",
+    "qty_consumed": 805.4,
+    "raw_lot_id": "RAWLOT-S0024-2026-000392",
+    "wo_id": "WO-2026-000203"
+  },
+  {
+    "consumed_date": "2026-09-17",
+    "qty_consumed": 114.416,
+    "raw_lot_id": "RAWLOT-S0025-2026-000294",
+    "wo_id": "WO-2026-000203"
+  },
+  {
+    "consumed_date": "2026-09-17",
+    "qty_consumed": 59.682,
+    "raw_lot_id": "RAWLOT-S0025-2026-000341",
+    "wo_id": "WO-2026-000203"
+  },
+  {
+    "consumed_date": "2026-09-21",
+    "qty_consumed": 378.824,
+    "raw_lot_id": "RAWLOT-S0001-2026-000083",
+    "wo_id": "WO-2026-000204"
+  },
+  {
+    "consumed_date": "2026-09-19",
+    "qty_consumed": 789.943,
+    "raw_lot_id": "RAWLOT-S0007-2026-000399",
+    "wo_id": "WO-2026-000204"
+  },
+  {
+    "consumed_date": "2026-09-17",
+    "qty_consumed": 385.421,
+    "raw_lot_id": "RAWLOT-S0022-2026-000262",
+    "wo_id": "WO-2026-000204"
+  },
+  {
+    "consumed_date": "2026-09-21",
+    "qty_consumed": 414.85,
+    "raw_lot_id": "RAWLOT-S0022-2026-000285",
+    "wo_id": "WO-2026-000204"
+  },
+  {
+    "consumed_date": "2026-09-22",
+    "qty_consumed": 139.805,
+    "raw_lot_id": "RAWLOT-S0022-2026-000419",
+    "wo_id": "WO-2026-000204"
+  },
+  {
+    "consumed_date": "2026-09-19",
+    "qty_consumed": 248.841,
+    "raw_lot_id": "RAWLOT-S0001-2026-000083",
+    "wo_id": "WO-2026-000205"
+  },
+  {
+    "consumed_date": "2026-09-17",
+    "qty_consumed": 101.492,
+    "raw_lot_id": "RAWLOT-S0006-2026-000219",
+    "wo_id": "WO-2026-000205"
+  },
+  {
+    "consumed_date": "2026-09-17",
+    "qty_consumed": 160.748,
+    "raw_lot_id": "RAWLOT-S0007-2026-000399",
+    "wo_id": "WO-2026-000205"
+  },
+  {
+    "consumed_date": "2026-09-18",
+    "qty_consumed": 267.569,
+    "raw_lot_id": "RAWLOT-S0011-2026-000400",
+    "wo_id": "WO-2026-000205"
+  },
+  {
+    "consumed_date": "2026-09-20",
+    "qty_consumed": 508.688,
+    "raw_lot_id": "RAWLOT-S0011-2026-000476",
+    "wo_id": "WO-2026-000205"
+  },
+  {
+    "consumed_date": "2026-09-18",
+    "qty_consumed": 44.357,
+    "raw_lot_id": "RAWLOT-S0015-2026-000169",
+    "wo_id": "WO-2026-000205"
+  },
+  {
+    "consumed_date": "2026-09-20",
+    "qty_consumed": 304.725,
+    "raw_lot_id": "RAWLOT-S0022-2026-000216",
+    "wo_id": "WO-2026-000205"
+  },
+  {
+    "consumed_date": "2026-09-19",
+    "qty_consumed": 439.548,
+    "raw_lot_id": "RAWLOT-S0022-2026-000419",
+    "wo_id": "WO-2026-000205"
+  },
+  {
+    "consumed_date": "2026-09-19",
+    "qty_consumed": 118.92,
+    "raw_lot_id": "RAWLOT-S0025-2026-000294",
+    "wo_id": "WO-2026-000205"
+  },
+  {
+    "consumed_date": "2026-09-21",
+    "qty_consumed": 88.988,
+    "raw_lot_id": "RAWLOT-S0006-2026-000219",
+    "wo_id": "WO-2026-000206"
+  },
+  {
+    "consumed_date": "2026-09-19",
+    "qty_consumed": 74.156,
+    "raw_lot_id": "RAWLOT-S0011-2026-000400",
+    "wo_id": "WO-2026-000206"
+  },
+  {
+    "consumed_date": "2026-09-20",
+    "qty_consumed": 63.774,
+    "raw_lot_id": "RAWLOT-S0011-2026-000422",
+    "wo_id": "WO-2026-000206"
+  },
+  {
+    "consumed_date": "2026-09-20",
+    "qty_consumed": 883.944,
+    "raw_lot_id": "RAWLOT-S0011-2026-000476",
+    "wo_id": "WO-2026-000206"
+  },
+  {
+    "consumed_date": "2026-09-22",
+    "qty_consumed": 142.38,
+    "raw_lot_id": "RAWLOT-S0015-2026-000169",
+    "wo_id": "WO-2026-000206"
+  },
+  {
+    "consumed_date": "2026-09-19",
+    "qty_consumed": 182.243,
+    "raw_lot_id": "RAWLOT-S0022-2026-000216",
+    "wo_id": "WO-2026-000206"
+  },
+  {
+    "consumed_date": "2026-09-19",
+    "qty_consumed": 677.971,
+    "raw_lot_id": "RAWLOT-S0022-2026-000235",
+    "wo_id": "WO-2026-000206"
+  },
+  {
+    "consumed_date": "2026-09-23",
+    "qty_consumed": 36.081,
+    "raw_lot_id": "RAWLOT-S0006-2026-000219",
+    "wo_id": "WO-2026-000207"
+  },
+  {
+    "consumed_date": "2026-09-22",
+    "qty_consumed": 91.897,
+    "raw_lot_id": "RAWLOT-S0006-2026-000243",
+    "wo_id": "WO-2026-000207"
+  },
+  {
+    "consumed_date": "2026-09-24",
+    "qty_consumed": 460.983,
+    "raw_lot_id": "RAWLOT-S0011-2026-000476",
+    "wo_id": "WO-2026-000207"
+  },
+  {
+    "consumed_date": "2026-09-23",
+    "qty_consumed": 150.484,
+    "raw_lot_id": "RAWLOT-S0022-2026-000235",
+    "wo_id": "WO-2026-000207"
+  },
+  {
+    "consumed_date": "2026-09-23",
+    "qty_consumed": 584.738,
+    "raw_lot_id": "RAWLOT-S0022-2026-000358",
+    "wo_id": "WO-2026-000207"
+  },
+  {
+    "consumed_date": "2026-09-22",
+    "qty_consumed": 94.678,
+    "raw_lot_id": "RAWLOT-S0025-2026-000294",
+    "wo_id": "WO-2026-000207"
+  },
+  {
+    "consumed_date": "2026-09-26",
+    "qty_consumed": 10.0,
+    "raw_lot_id": "RAWLOT-S0010-2026-000313",
+    "wo_id": "WO-2026-000208"
+  },
+  {
+    "consumed_date": "2026-09-24",
+    "qty_consumed": 134.105,
+    "raw_lot_id": "RAWLOT-S0010-2026-000327",
+    "wo_id": "WO-2026-000208"
+  },
+  {
+    "consumed_date": "2026-09-24",
+    "qty_consumed": 181.153,
+    "raw_lot_id": "RAWLOT-S0011-2026-000204",
+    "wo_id": "WO-2026-000208"
+  },
+  {
+    "consumed_date": "2026-09-23",
+    "qty_consumed": 149.827,
+    "raw_lot_id": "RAWLOT-S0011-2026-000476",
+    "wo_id": "WO-2026-000208"
+  },
+  {
+    "consumed_date": "2026-09-26",
+    "qty_consumed": 107.116,
+    "raw_lot_id": "RAWLOT-S0017-2026-000150",
+    "wo_id": "WO-2026-000208"
+  },
+  {
+    "consumed_date": "2026-09-24",
+    "qty_consumed": 346.007,
+    "raw_lot_id": "RAWLOT-S0022-2026-000358",
+    "wo_id": "WO-2026-000208"
+  },
+  {
+    "consumed_date": "2026-09-25",
+    "qty_consumed": 1223.25,
+    "raw_lot_id": "RAWLOT-S0011-2026-000204",
+    "wo_id": "WO-2026-000209"
+  },
+  {
+    "consumed_date": "2026-09-25",
+    "qty_consumed": 586.619,
+    "raw_lot_id": "RAWLOT-S0015-2026-000169",
+    "wo_id": "WO-2026-000209"
+  },
+  {
+    "consumed_date": "2026-09-23",
+    "qty_consumed": 32.697,
+    "raw_lot_id": "RAWLOT-S0022-2026-000358",
+    "wo_id": "WO-2026-000209"
+  },
+  {
+    "consumed_date": "2026-09-25",
+    "qty_consumed": 579.0,
+    "raw_lot_id": "RAWLOT-S0024-2026-000300",
+    "wo_id": "WO-2026-000209"
+  },
+  {
+    "consumed_date": "2026-09-23",
+    "qty_consumed": 844.038,
+    "raw_lot_id": "RAWLOT-S0024-2026-000424",
+    "wo_id": "WO-2026-000209"
+  },
+  {
+    "consumed_date": "2026-09-28",
+    "qty_consumed": 91.266,
+    "raw_lot_id": "RAWLOT-S0006-2026-000243",
+    "wo_id": "WO-2026-000210"
+  },
+  {
+    "consumed_date": "2026-09-27",
+    "qty_consumed": 328.742,
+    "raw_lot_id": "RAWLOT-S0011-2026-000204",
+    "wo_id": "WO-2026-000210"
+  },
+  {
+    "consumed_date": "2026-09-26",
+    "qty_consumed": 408.37,
+    "raw_lot_id": "RAWLOT-S0024-2026-000300",
+    "wo_id": "WO-2026-000210"
+  },
+  {
+    "consumed_date": "2026-09-26",
+    "qty_consumed": 115.941,
+    "raw_lot_id": "RAWLOT-S0024-2026-000317",
+    "wo_id": "WO-2026-000210"
+  },
+  {
+    "consumed_date": "2026-09-25",
+    "qty_consumed": 67.518,
+    "raw_lot_id": "RAWLOT-S0025-2026-000294",
+    "wo_id": "WO-2026-000210"
+  },
+  {
+    "consumed_date": "2026-09-27",
+    "qty_consumed": 316.324,
+    "raw_lot_id": "RAWLOT-S0011-2026-000494",
+    "wo_id": "WO-2026-000211"
+  },
+  {
+    "consumed_date": "2026-09-27",
+    "qty_consumed": 420.151,
+    "raw_lot_id": "RAWLOT-S0024-2026-000317",
+    "wo_id": "WO-2026-000211"
+  },
+  {
+    "consumed_date": "2026-09-27",
+    "qty_consumed": 103.134,
+    "raw_lot_id": "RAWLOT-S0025-2026-000294",
+    "wo_id": "WO-2026-000211"
+  },
+  {
+    "consumed_date": "2026-09-26",
+    "qty_consumed": 101.091,
+    "raw_lot_id": "RAWLOT-S0006-2026-000243",
+    "wo_id": "WO-2026-000212"
+  },
+  {
+    "consumed_date": "2026-09-27",
+    "qty_consumed": 364.135,
+    "raw_lot_id": "RAWLOT-S0011-2026-000494",
+    "wo_id": "WO-2026-000212"
+  },
+  {
+    "consumed_date": "2026-09-26",
+    "qty_consumed": 580.759,
+    "raw_lot_id": "RAWLOT-S0024-2026-000317",
+    "wo_id": "WO-2026-000212"
+  },
+  {
+    "consumed_date": "2026-09-26",
+    "qty_consumed": 74.787,
+    "raw_lot_id": "RAWLOT-S0025-2026-000294",
+    "wo_id": "WO-2026-000212"
+  },
+  {
+    "consumed_date": "2026-09-30",
+    "qty_consumed": 47.402,
+    "raw_lot_id": "RAWLOT-S0011-2026-000422",
+    "wo_id": "WO-2026-000213"
+  },
+  {
+    "consumed_date": "2026-09-30",
+    "qty_consumed": 168.998,
+    "raw_lot_id": "RAWLOT-S0011-2026-000494",
+    "wo_id": "WO-2026-000213"
+  },
+  {
+    "consumed_date": "2026-09-29",
+    "qty_consumed": 0.699,
+    "raw_lot_id": "RAWLOT-S0014-2026-000155",
+    "wo_id": "WO-2026-000213"
+  },
+  {
+    "consumed_date": "2026-09-28",
+    "qty_consumed": 240.1,
+    "raw_lot_id": "RAWLOT-S0019-2026-000254",
+    "wo_id": "WO-2026-000213"
+  },
+  {
+    "consumed_date": "2026-09-30",
+    "qty_consumed": 34.337,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "wo_id": "WO-2026-000213"
+  },
+  {
+    "consumed_date": "2026-09-29",
+    "qty_consumed": 311.273,
+    "raw_lot_id": "RAWLOT-S0006-2026-000243",
+    "wo_id": "WO-2026-000214"
+  },
+  {
+    "consumed_date": "2026-09-28",
+    "qty_consumed": 23.533,
+    "raw_lot_id": "RAWLOT-S0014-2026-000155",
+    "wo_id": "WO-2026-000214"
+  },
+  {
+    "consumed_date": "2026-09-30",
+    "qty_consumed": 102.688,
+    "raw_lot_id": "RAWLOT-S0015-2026-000169",
+    "wo_id": "WO-2026-000214"
+  },
+  {
+    "consumed_date": "2026-10-01",
+    "qty_consumed": 213.839,
+    "raw_lot_id": "RAWLOT-S0022-2026-000408",
+    "wo_id": "WO-2026-000214"
+  },
+  {
+    "consumed_date": "2026-10-01",
+    "qty_consumed": 103.758,
+    "raw_lot_id": "RAWLOT-S0023-2026-000186",
+    "wo_id": "WO-2026-000214"
+  },
+  {
+    "consumed_date": "2026-09-30",
+    "qty_consumed": 201.192,
+    "raw_lot_id": "RAWLOT-S0024-2026-000317",
+    "wo_id": "WO-2026-000214"
+  },
+  {
+    "consumed_date": "2026-09-29",
+    "qty_consumed": 329.591,
+    "raw_lot_id": "RAWLOT-S0010-2026-000313",
+    "wo_id": "WO-2026-000215"
+  },
+  {
+    "consumed_date": "2026-10-01",
+    "qty_consumed": 757.002,
+    "raw_lot_id": "RAWLOT-S0011-2026-000494",
+    "wo_id": "WO-2026-000215"
+  },
+  {
+    "consumed_date": "2026-10-02",
+    "qty_consumed": 172.937,
+    "raw_lot_id": "RAWLOT-S0017-2026-000113",
+    "wo_id": "WO-2026-000215"
+  },
+  {
+    "consumed_date": "2026-09-30",
+    "qty_consumed": 72.053,
+    "raw_lot_id": "RAWLOT-S0017-2026-000150",
+    "wo_id": "WO-2026-000215"
+  },
+  {
+    "consumed_date": "2026-10-01",
+    "qty_consumed": 791.371,
+    "raw_lot_id": "RAWLOT-S0022-2026-000408",
+    "wo_id": "WO-2026-000215"
+  },
+  {
+    "consumed_date": "2026-10-03",
+    "qty_consumed": 271.852,
+    "raw_lot_id": "RAWLOT-S0006-2026-000236",
+    "wo_id": "WO-2026-000216"
+  },
+  {
+    "consumed_date": "2026-10-01",
+    "qty_consumed": 53.577,
+    "raw_lot_id": "RAWLOT-S0006-2026-000243",
+    "wo_id": "WO-2026-000216"
+  },
+  {
+    "consumed_date": "2026-10-03",
+    "qty_consumed": 24.603,
+    "raw_lot_id": "RAWLOT-S0014-2026-000155",
+    "wo_id": "WO-2026-000216"
+  },
+  {
+    "consumed_date": "2026-10-03",
+    "qty_consumed": 107.358,
+    "raw_lot_id": "RAWLOT-S0015-2026-000169",
+    "wo_id": "WO-2026-000216"
+  },
+  {
+    "consumed_date": "2026-10-03",
+    "qty_consumed": 433.906,
+    "raw_lot_id": "RAWLOT-S0022-2026-000408",
+    "wo_id": "WO-2026-000216"
+  },
+  {
+    "consumed_date": "2026-10-04",
+    "qty_consumed": 108.476,
+    "raw_lot_id": "RAWLOT-S0023-2026-000186",
+    "wo_id": "WO-2026-000216"
+  },
+  {
+    "consumed_date": "2026-09-30",
+    "qty_consumed": 380.549,
+    "raw_lot_id": "RAWLOT-S0010-2026-000313",
+    "wo_id": "WO-2026-000217"
+  },
+  {
+    "consumed_date": "2026-10-01",
+    "qty_consumed": 874.042,
+    "raw_lot_id": "RAWLOT-S0011-2026-000494",
+    "wo_id": "WO-2026-000217"
+  },
+  {
+    "consumed_date": "2026-10-02",
+    "qty_consumed": 282.868,
+    "raw_lot_id": "RAWLOT-S0017-2026-000113",
+    "wo_id": "WO-2026-000217"
+  },
+  {
+    "consumed_date": "2026-10-01",
+    "qty_consumed": 478.755,
+    "raw_lot_id": "RAWLOT-S0022-2026-000264",
+    "wo_id": "WO-2026-000217"
+  },
+  {
+    "consumed_date": "2026-10-02",
+    "qty_consumed": 434.969,
+    "raw_lot_id": "RAWLOT-S0022-2026-000408",
+    "wo_id": "WO-2026-000217"
+  },
+  {
+    "consumed_date": "2026-10-03",
+    "qty_consumed": 96.361,
+    "raw_lot_id": "RAWLOT-S0006-2026-000236",
+    "wo_id": "WO-2026-000218"
+  },
+  {
+    "consumed_date": "2026-10-02",
+    "qty_consumed": 291.209,
+    "raw_lot_id": "RAWLOT-S0011-2026-000204",
+    "wo_id": "WO-2026-000218"
+  },
+  {
+    "consumed_date": "2026-09-30",
+    "qty_consumed": 80.301,
+    "raw_lot_id": "RAWLOT-S0011-2026-000400",
+    "wo_id": "WO-2026-000218"
+  },
+  {
+    "consumed_date": "2026-10-04",
+    "qty_consumed": 69.059,
+    "raw_lot_id": "RAWLOT-S0011-2026-000422",
+    "wo_id": "WO-2026-000218"
+  },
+  {
+    "consumed_date": "2026-09-30",
+    "qty_consumed": 665.974,
+    "raw_lot_id": "RAWLOT-S0011-2026-000494",
+    "wo_id": "WO-2026-000218"
+  },
+  {
+    "consumed_date": "2026-10-02",
+    "qty_consumed": 154.177,
+    "raw_lot_id": "RAWLOT-S0015-2026-000169",
+    "wo_id": "WO-2026-000218"
+  },
+  {
+    "consumed_date": "2026-10-04",
+    "qty_consumed": 538.623,
+    "raw_lot_id": "RAWLOT-S0022-2026-000264",
+    "wo_id": "WO-2026-000218"
+  },
+  {
+    "consumed_date": "2026-10-02",
+    "qty_consumed": 392.864,
+    "raw_lot_id": "RAWLOT-S0022-2026-000375",
+    "wo_id": "WO-2026-000218"
+  },
+  {
+    "consumed_date": "2026-10-04",
+    "qty_consumed": 83.596,
+    "raw_lot_id": "RAWLOT-S0010-2026-000313",
+    "wo_id": "WO-2026-000219"
+  },
+  {
+    "consumed_date": "2026-10-01",
+    "qty_consumed": 501.296,
+    "raw_lot_id": "RAWLOT-S0010-2026-000433",
+    "wo_id": "WO-2026-000219"
+  },
+  {
+    "consumed_date": "2026-10-03",
+    "qty_consumed": 570.338,
+    "raw_lot_id": "RAWLOT-S0011-2026-000203",
+    "wo_id": "WO-2026-000219"
+  },
+  {
+    "consumed_date": "2026-09-30",
+    "qty_consumed": 210.991,
+    "raw_lot_id": "RAWLOT-S0011-2026-000204",
+    "wo_id": "WO-2026-000219"
+  },
+  {
+    "consumed_date": "2026-09-30",
+    "qty_consumed": 562.046,
+    "raw_lot_id": "RAWLOT-S0011-2026-000491",
+    "wo_id": "WO-2026-000219"
+  },
+  {
+    "consumed_date": "2026-10-03",
+    "qty_consumed": 434.759,
+    "raw_lot_id": "RAWLOT-S0017-2026-000113",
+    "wo_id": "WO-2026-000219"
+  },
+  {
+    "consumed_date": "2026-09-30",
+    "qty_consumed": 753.331,
+    "raw_lot_id": "RAWLOT-S0022-2026-000375",
+    "wo_id": "WO-2026-000219"
+  },
+  {
+    "consumed_date": "2026-10-02",
+    "qty_consumed": 651.036,
+    "raw_lot_id": "RAWLOT-S0024-2026-000393",
+    "wo_id": "WO-2026-000219"
+  },
+  {
+    "consumed_date": "2026-10-02",
+    "qty_consumed": 544.688,
+    "raw_lot_id": "RAWLOT-S0011-2026-000203",
+    "wo_id": "WO-2026-000220"
+  },
+  {
+    "consumed_date": "2026-10-01",
+    "qty_consumed": 209.661,
+    "raw_lot_id": "RAWLOT-S0011-2026-000336",
+    "wo_id": "WO-2026-000220"
+  },
+  {
+    "consumed_date": "2026-10-05",
+    "qty_consumed": 361.754,
+    "raw_lot_id": "RAWLOT-S0015-2026-000169",
+    "wo_id": "WO-2026-000220"
+  },
+  {
+    "consumed_date": "2026-10-03",
+    "qty_consumed": 326.209,
+    "raw_lot_id": "RAWLOT-S0022-2026-000412",
+    "wo_id": "WO-2026-000220"
+  },
+  {
+    "consumed_date": "2026-10-03",
+    "qty_consumed": 571.508,
+    "raw_lot_id": "RAWLOT-S0024-2026-000393",
+    "wo_id": "WO-2026-000220"
+  },
+  {
+    "consumed_date": "2026-10-03",
+    "qty_consumed": 371.214,
+    "raw_lot_id": "RAWLOT-S0006-2026-000236",
+    "wo_id": "WO-2026-000221"
+  },
+  {
+    "consumed_date": "2026-10-03",
+    "qty_consumed": 674.466,
+    "raw_lot_id": "RAWLOT-S0011-2026-000310",
+    "wo_id": "WO-2026-000221"
+  },
+  {
+    "consumed_date": "2026-10-03",
+    "qty_consumed": 599.948,
+    "raw_lot_id": "RAWLOT-S0011-2026-000336",
+    "wo_id": "WO-2026-000221"
+  },
+  {
+    "consumed_date": "2026-10-04",
+    "qty_consumed": 62.715,
+    "raw_lot_id": "RAWLOT-S0011-2026-000414",
+    "wo_id": "WO-2026-000221"
+  },
+  {
+    "consumed_date": "2026-10-01",
+    "qty_consumed": 398.885,
+    "raw_lot_id": "RAWLOT-S0022-2026-000412",
+    "wo_id": "WO-2026-000221"
+  },
+  {
+    "consumed_date": "2026-10-02",
+    "qty_consumed": 1733.703,
+    "raw_lot_id": "RAWLOT-S0024-2026-000289",
+    "wo_id": "WO-2026-000221"
+  },
+  {
+    "consumed_date": "2026-10-02",
+    "qty_consumed": 274.623,
+    "raw_lot_id": "RAWLOT-S0025-2026-000294",
+    "wo_id": "WO-2026-000221"
+  },
+  {
+    "consumed_date": "2026-10-06",
+    "qty_consumed": 266.105,
+    "raw_lot_id": "RAWLOT-S0003-2026-000461",
+    "wo_id": "WO-2026-000222"
+  },
+  {
+    "consumed_date": "2026-10-04",
+    "qty_consumed": 47.388,
+    "raw_lot_id": "RAWLOT-S0004-2026-000270",
+    "wo_id": "WO-2026-000222"
+  },
+  {
+    "consumed_date": "2026-10-04",
+    "qty_consumed": 254.709,
+    "raw_lot_id": "RAWLOT-S0006-2026-000236",
+    "wo_id": "WO-2026-000222"
+  },
+  {
+    "consumed_date": "2026-10-06",
+    "qty_consumed": 363.284,
+    "raw_lot_id": "RAWLOT-S0007-2026-000217",
+    "wo_id": "WO-2026-000222"
+  },
+  {
+    "consumed_date": "2026-10-07",
+    "qty_consumed": 554.188,
+    "raw_lot_id": "RAWLOT-S0011-2026-000414",
+    "wo_id": "WO-2026-000222"
+  },
+  {
+    "consumed_date": "2026-10-03",
+    "qty_consumed": 98.011,
+    "raw_lot_id": "RAWLOT-S0024-2026-000289",
+    "wo_id": "WO-2026-000222"
+  },
+  {
+    "consumed_date": "2026-10-08",
+    "qty_consumed": 1099.161,
+    "raw_lot_id": "RAWLOT-S0024-2026-000331",
+    "wo_id": "WO-2026-000222"
+  },
+  {
+    "consumed_date": "2026-10-03",
+    "qty_consumed": 141.045,
+    "raw_lot_id": "RAWLOT-S0025-2026-000294",
+    "wo_id": "WO-2026-000222"
+  },
+  {
+    "consumed_date": "2026-10-04",
+    "qty_consumed": 1629.317,
+    "raw_lot_id": "RAWLOT-S0003-2026-000461",
+    "wo_id": "WO-2026-000223"
+  },
+  {
+    "consumed_date": "2026-10-04",
+    "qty_consumed": 213.472,
+    "raw_lot_id": "RAWLOT-S0004-2026-000270",
+    "wo_id": "WO-2026-000223"
+  },
+  {
+    "consumed_date": "2026-10-04",
+    "qty_consumed": 91.555,
+    "raw_lot_id": "RAWLOT-S0006-2026-000236",
+    "wo_id": "WO-2026-000223"
+  },
+  {
+    "consumed_date": "2026-10-04",
+    "qty_consumed": 197.0,
+    "raw_lot_id": "RAWLOT-S0006-2026-000287",
+    "wo_id": "WO-2026-000223"
+  },
+  {
+    "consumed_date": "2026-10-04",
+    "qty_consumed": 1039.388,
+    "raw_lot_id": "RAWLOT-S0007-2026-000217",
+    "wo_id": "WO-2026-000223"
+  },
+  {
+    "consumed_date": "2026-10-04",
+    "qty_consumed": 28.404,
+    "raw_lot_id": "RAWLOT-S0022-2026-000280",
+    "wo_id": "WO-2026-000223"
+  },
+  {
+    "consumed_date": "2026-10-04",
+    "qty_consumed": 76.704,
+    "raw_lot_id": "RAWLOT-S0006-2026-000287",
+    "wo_id": "WO-2026-000224"
+  },
+  {
+    "consumed_date": "2026-10-07",
+    "qty_consumed": 64.213,
+    "raw_lot_id": "RAWLOT-S0007-2026-000217",
+    "wo_id": "WO-2026-000224"
+  },
+  {
+    "consumed_date": "2026-10-07",
+    "qty_consumed": 697.718,
+    "raw_lot_id": "RAWLOT-S0007-2026-000305",
+    "wo_id": "WO-2026-000224"
+  },
+  {
+    "consumed_date": "2026-10-07",
+    "qty_consumed": 63.92,
+    "raw_lot_id": "RAWLOT-S0011-2026-000400",
+    "wo_id": "WO-2026-000224"
+  },
+  {
+    "consumed_date": "2026-10-05",
+    "qty_consumed": 54.972,
+    "raw_lot_id": "RAWLOT-S0011-2026-000422",
+    "wo_id": "WO-2026-000224"
+  },
+  {
+    "consumed_date": "2026-10-06",
+    "qty_consumed": 122.727,
+    "raw_lot_id": "RAWLOT-S0015-2026-000169",
+    "wo_id": "WO-2026-000224"
+  },
+  {
+    "consumed_date": "2026-10-05",
+    "qty_consumed": 741.476,
+    "raw_lot_id": "RAWLOT-S0022-2026-000280",
+    "wo_id": "WO-2026-000224"
+  },
+  {
+    "consumed_date": "2026-10-04",
+    "qty_consumed": 39.147,
+    "raw_lot_id": "RAWLOT-S0006-2026-000287",
+    "wo_id": "WO-2026-000225"
+  },
+  {
+    "consumed_date": "2026-10-05",
+    "qty_consumed": 388.865,
+    "raw_lot_id": "RAWLOT-S0007-2026-000305",
+    "wo_id": "WO-2026-000225"
+  },
+  {
+    "consumed_date": "2026-10-05",
+    "qty_consumed": 19.587,
+    "raw_lot_id": "RAWLOT-S0008-2026-000442",
+    "wo_id": "WO-2026-000225"
+  },
+  {
+    "consumed_date": "2026-10-06",
+    "qty_consumed": 13.036,
+    "raw_lot_id": "RAWLOT-S0011-2026-000400",
+    "wo_id": "WO-2026-000225"
+  },
+  {
+    "consumed_date": "2026-10-04",
+    "qty_consumed": 28.056,
+    "raw_lot_id": "RAWLOT-S0011-2026-000422",
+    "wo_id": "WO-2026-000225"
+  },
+  {
+    "consumed_date": "2026-10-04",
+    "qty_consumed": 62.636,
+    "raw_lot_id": "RAWLOT-S0015-2026-000169",
+    "wo_id": "WO-2026-000225"
+  },
+  {
+    "consumed_date": "2026-10-05",
+    "qty_consumed": 261.949,
+    "raw_lot_id": "RAWLOT-S0022-2026-000280",
+    "wo_id": "WO-2026-000225"
+  },
+  {
+    "consumed_date": "2026-10-04",
+    "qty_consumed": 116.476,
+    "raw_lot_id": "RAWLOT-S0022-2026-000297",
+    "wo_id": "WO-2026-000225"
+  },
+  {
+    "consumed_date": "2026-10-07",
+    "qty_consumed": 260.323,
+    "raw_lot_id": "RAWLOT-S0004-2026-000270",
+    "wo_id": "WO-2026-000226"
+  },
+  {
+    "consumed_date": "2026-10-06",
+    "qty_consumed": 351.885,
+    "raw_lot_id": "RAWLOT-S0006-2026-000287",
+    "wo_id": "WO-2026-000226"
+  },
+  {
+    "consumed_date": "2026-10-07",
+    "qty_consumed": 165.356,
+    "raw_lot_id": "RAWLOT-S0007-2026-000305",
+    "wo_id": "WO-2026-000226"
+  },
+  {
+    "consumed_date": "2026-10-07",
+    "qty_consumed": 1102.148,
+    "raw_lot_id": "RAWLOT-S0007-2026-000465",
+    "wo_id": "WO-2026-000226"
+  },
+  {
+    "consumed_date": "2026-10-06",
+    "qty_consumed": 1298.601,
+    "raw_lot_id": "RAWLOT-S0022-2026-000297",
+    "wo_id": "WO-2026-000226"
+  },
+  {
+    "consumed_date": "2026-10-07",
+    "qty_consumed": 722.943,
+    "raw_lot_id": "RAWLOT-S0022-2026-000303",
+    "wo_id": "WO-2026-000226"
+  },
+  {
+    "consumed_date": "2026-10-06",
+    "qty_consumed": 550.483,
+    "raw_lot_id": "RAWLOT-S0007-2026-000465",
+    "wo_id": "WO-2026-000227"
+  },
+  {
+    "consumed_date": "2026-10-08",
+    "qty_consumed": 410.704,
+    "raw_lot_id": "RAWLOT-S0010-2026-000433",
+    "wo_id": "WO-2026-000227"
+  },
+  {
+    "consumed_date": "2026-10-07",
+    "qty_consumed": 392.817,
+    "raw_lot_id": "RAWLOT-S0011-2026-000222",
+    "wo_id": "WO-2026-000227"
+  },
+  {
+    "consumed_date": "2026-10-06",
+    "qty_consumed": 305.282,
+    "raw_lot_id": "RAWLOT-S0017-2026-000113",
+    "wo_id": "WO-2026-000227"
+  },
+  {
+    "consumed_date": "2026-10-08",
+    "qty_consumed": 720.802,
+    "raw_lot_id": "RAWLOT-S0022-2026-000303",
+    "wo_id": "WO-2026-000227"
+  },
+  {
+    "consumed_date": "2026-10-08",
+    "qty_consumed": 265.326,
+    "raw_lot_id": "RAWLOT-S0022-2026-000357",
+    "wo_id": "WO-2026-000227"
+  },
+  {
+    "consumed_date": "2026-10-10",
+    "qty_consumed": 95.551,
+    "raw_lot_id": "RAWLOT-S0001-2026-000311",
+    "wo_id": "WO-2026-000228"
+  },
+  {
+    "consumed_date": "2026-10-10",
+    "qty_consumed": 83.189,
+    "raw_lot_id": "RAWLOT-S0006-2026-000277",
+    "wo_id": "WO-2026-000228"
+  },
+  {
+    "consumed_date": "2026-10-09",
+    "qty_consumed": 324.323,
+    "raw_lot_id": "RAWLOT-S0006-2026-000287",
+    "wo_id": "WO-2026-000228"
+  },
+  {
+    "consumed_date": "2026-10-09",
+    "qty_consumed": 30.808,
+    "raw_lot_id": "RAWLOT-S0014-2026-000155",
+    "wo_id": "WO-2026-000228"
+  },
+  {
+    "consumed_date": "2026-10-10",
+    "qty_consumed": 38.886,
+    "raw_lot_id": "RAWLOT-S0015-2026-000169",
+    "wo_id": "WO-2026-000228"
+  },
+  {
+    "consumed_date": "2026-10-09",
+    "qty_consumed": 309.974,
+    "raw_lot_id": "RAWLOT-S0022-2026-000351",
+    "wo_id": "WO-2026-000228"
+  },
+  {
+    "consumed_date": "2026-10-10",
+    "qty_consumed": 233.375,
+    "raw_lot_id": "RAWLOT-S0022-2026-000357",
+    "wo_id": "WO-2026-000228"
+  },
+  {
+    "consumed_date": "2026-10-09",
+    "qty_consumed": 135.837,
+    "raw_lot_id": "RAWLOT-S0023-2026-000186",
+    "wo_id": "WO-2026-000228"
+  },
+  {
+    "consumed_date": "2026-10-11",
+    "qty_consumed": 225.689,
+    "raw_lot_id": "RAWLOT-S0004-2026-000270",
+    "wo_id": "WO-2026-000229"
+  },
+  {
+    "consumed_date": "2026-10-12",
+    "qty_consumed": 692.213,
+    "raw_lot_id": "RAWLOT-S0011-2026-000222",
+    "wo_id": "WO-2026-000229"
+  },
+  {
+    "consumed_date": "2026-10-11",
+    "qty_consumed": 431.449,
+    "raw_lot_id": "RAWLOT-S0022-2026-000351",
+    "wo_id": "WO-2026-000229"
+  },
+  {
+    "consumed_date": "2026-10-12",
+    "qty_consumed": 487.968,
+    "raw_lot_id": "RAWLOT-S0022-2026-000430",
+    "wo_id": "WO-2026-000229"
+  },
+  {
+    "consumed_date": "2026-10-11",
+    "qty_consumed": 295.941,
+    "raw_lot_id": "RAWLOT-S0001-2026-000311",
+    "wo_id": "WO-2026-000230"
+  },
+  {
+    "consumed_date": "2026-10-12",
+    "qty_consumed": 87.327,
+    "raw_lot_id": "RAWLOT-S0004-2026-000270",
+    "wo_id": "WO-2026-000230"
+  },
+  {
+    "consumed_date": "2026-10-12",
+    "qty_consumed": 102.441,
+    "raw_lot_id": "RAWLOT-S0006-2026-000277",
+    "wo_id": "WO-2026-000230"
+  },
+  {
+    "consumed_date": "2026-10-11",
+    "qty_consumed": 32.705,
+    "raw_lot_id": "RAWLOT-S0008-2026-000363",
+    "wo_id": "WO-2026-000230"
+  },
+  {
+    "consumed_date": "2026-10-11",
+    "qty_consumed": 270.072,
+    "raw_lot_id": "RAWLOT-S0008-2026-000442",
+    "wo_id": "WO-2026-000230"
+  },
+  {
+    "consumed_date": "2026-10-11",
+    "qty_consumed": 675.698,
+    "raw_lot_id": "RAWLOT-S0011-2026-000222",
+    "wo_id": "WO-2026-000230"
+  },
+  {
+    "consumed_date": "2026-10-12",
+    "qty_consumed": 751.236,
+    "raw_lot_id": "RAWLOT-S0022-2026-000430",
+    "wo_id": "WO-2026-000230"
+  },
+  {
+    "consumed_date": "2026-10-13",
+    "qty_consumed": 2.228,
+    "raw_lot_id": "RAWLOT-S0007-2026-000190",
+    "wo_id": "WO-2026-000231"
+  },
+  {
+    "consumed_date": "2026-10-14",
+    "qty_consumed": 295.841,
+    "raw_lot_id": "RAWLOT-S0011-2026-000222",
+    "wo_id": "WO-2026-000231"
+  },
+  {
+    "consumed_date": "2026-10-13",
+    "qty_consumed": 148.676,
+    "raw_lot_id": "RAWLOT-S0019-2026-000254",
+    "wo_id": "WO-2026-000231"
+  },
+  {
+    "consumed_date": "2026-10-12",
+    "qty_consumed": 101.936,
+    "raw_lot_id": "RAWLOT-S0019-2026-000428",
+    "wo_id": "WO-2026-000231"
+  },
+  {
+    "consumed_date": "2026-10-12",
+    "qty_consumed": 72.161,
+    "raw_lot_id": "RAWLOT-S0023-2026-000186",
+    "wo_id": "WO-2026-000231"
+  },
+  {
+    "consumed_date": "2026-10-12",
+    "qty_consumed": 166.47,
+    "raw_lot_id": "RAWLOT-S0001-2026-000311",
+    "wo_id": "WO-2026-000232"
+  },
+  {
+    "consumed_date": "2026-10-12",
+    "qty_consumed": 104.044,
+    "raw_lot_id": "RAWLOT-S0006-2026-000277",
+    "wo_id": "WO-2026-000232"
+  },
+  {
+    "consumed_date": "2026-10-12",
+    "qty_consumed": 772.661,
+    "raw_lot_id": "RAWLOT-S0007-2026-000190",
+    "wo_id": "WO-2026-000232"
+  },
+  {
+    "consumed_date": "2026-10-13",
+    "qty_consumed": 86.703,
+    "raw_lot_id": "RAWLOT-S0008-2026-000442",
+    "wo_id": "WO-2026-000232"
+  },
+  {
+    "consumed_date": "2026-10-13",
+    "qty_consumed": 260.838,
+    "raw_lot_id": "RAWLOT-S0011-2026-000195",
+    "wo_id": "WO-2026-000232"
+  },
+  {
+    "consumed_date": "2026-10-12",
+    "qty_consumed": 74.565,
+    "raw_lot_id": "RAWLOT-S0011-2026-000422",
+    "wo_id": "WO-2026-000232"
+  },
+  {
+    "consumed_date": "2026-10-13",
+    "qty_consumed": 480.172,
+    "raw_lot_id": "RAWLOT-S0022-2026-000430",
+    "wo_id": "WO-2026-000232"
+  },
+  {
+    "consumed_date": "2026-10-12",
+    "qty_consumed": 525.582,
+    "raw_lot_id": "RAWLOT-S0024-2026-000273",
+    "wo_id": "WO-2026-000232"
+  },
+  {
+    "consumed_date": "2026-10-13",
+    "qty_consumed": 28.196,
+    "raw_lot_id": "RAWLOT-S0010-2026-000433",
+    "wo_id": "WO-2026-000233"
+  },
+  {
+    "consumed_date": "2026-10-13",
+    "qty_consumed": 142.259,
+    "raw_lot_id": "RAWLOT-S0010-2026-000445",
+    "wo_id": "WO-2026-000233"
+  },
+  {
+    "consumed_date": "2026-10-16",
+    "qty_consumed": 1147.561,
+    "raw_lot_id": "RAWLOT-S0011-2026-000195",
+    "wo_id": "WO-2026-000233"
+  },
+  {
+    "consumed_date": "2026-10-15",
+    "qty_consumed": 10.604,
+    "raw_lot_id": "RAWLOT-S0017-2026-000113",
+    "wo_id": "WO-2026-000233"
+  },
+  {
+    "consumed_date": "2026-10-13",
+    "qty_consumed": 262.612,
+    "raw_lot_id": "RAWLOT-S0022-2026-000286",
+    "wo_id": "WO-2026-000233"
+  },
+  {
+    "consumed_date": "2026-10-14",
+    "qty_consumed": 103.894,
+    "raw_lot_id": "RAWLOT-S0023-2026-000426",
+    "wo_id": "WO-2026-000233"
+  },
+  {
+    "consumed_date": "2026-10-16",
+    "qty_consumed": 957.263,
+    "raw_lot_id": "RAWLOT-S0024-2026-000273",
+    "wo_id": "WO-2026-000233"
+  },
+  {
+    "consumed_date": "2026-10-16",
+    "qty_consumed": 220.266,
+    "raw_lot_id": "RAWLOT-S0010-2026-000309",
+    "wo_id": "WO-2026-000234"
+  },
+  {
+    "consumed_date": "2026-10-15",
+    "qty_consumed": 326.638,
+    "raw_lot_id": "RAWLOT-S0010-2026-000445",
+    "wo_id": "WO-2026-000234"
+  },
+  {
+    "consumed_date": "2026-10-15",
+    "qty_consumed": 330.889,
+    "raw_lot_id": "RAWLOT-S0011-2026-000195",
+    "wo_id": "WO-2026-000234"
+  },
+  {
+    "consumed_date": "2026-10-15",
+    "qty_consumed": 925.235,
+    "raw_lot_id": "RAWLOT-S0011-2026-000410",
+    "wo_id": "WO-2026-000234"
+  },
+  {
+    "consumed_date": "2026-10-15",
+    "qty_consumed": 945.584,
+    "raw_lot_id": "RAWLOT-S0022-2026-000286",
+    "wo_id": "WO-2026-000234"
+  },
+  {
+    "consumed_date": "2026-10-16",
+    "qty_consumed": 367.57,
+    "raw_lot_id": "RAWLOT-S0022-2026-000371",
+    "wo_id": "WO-2026-000234"
+  },
+  {
+    "consumed_date": "2026-10-16",
+    "qty_consumed": 406.522,
+    "raw_lot_id": "RAWLOT-S0023-2026-000426",
+    "wo_id": "WO-2026-000234"
+  },
+  {
+    "consumed_date": "2026-10-15",
+    "qty_consumed": 245.58,
+    "raw_lot_id": "RAWLOT-S0001-2026-000311",
+    "wo_id": "WO-2026-000235"
+  },
+  {
+    "consumed_date": "2026-10-18",
+    "qty_consumed": 85.008,
+    "raw_lot_id": "RAWLOT-S0006-2026-000277",
+    "wo_id": "WO-2026-000235"
+  },
+  {
+    "consumed_date": "2026-10-15",
+    "qty_consumed": 99.606,
+    "raw_lot_id": "RAWLOT-S0008-2026-000363",
+    "wo_id": "WO-2026-000235"
+  },
+  {
+    "consumed_date": "2026-10-16",
+    "qty_consumed": 224.113,
+    "raw_lot_id": "RAWLOT-S0008-2026-900002",
+    "wo_id": "WO-2026-000235"
+  },
+  {
+    "consumed_date": "2026-10-17",
+    "qty_consumed": 397.925,
+    "raw_lot_id": "RAWLOT-S0011-2026-000250",
+    "wo_id": "WO-2026-000235"
+  },
+  {
+    "consumed_date": "2026-10-15",
+    "qty_consumed": 162.787,
+    "raw_lot_id": "RAWLOT-S0011-2026-000410",
+    "wo_id": "WO-2026-000235"
+  },
+  {
+    "consumed_date": "2026-10-16",
+    "qty_consumed": 182.809,
+    "raw_lot_id": "RAWLOT-S0022-2026-000365",
+    "wo_id": "WO-2026-000235"
+  },
+  {
+    "consumed_date": "2026-10-16",
+    "qty_consumed": 440.586,
+    "raw_lot_id": "RAWLOT-S0022-2026-000371",
+    "wo_id": "WO-2026-000235"
+  }
+]

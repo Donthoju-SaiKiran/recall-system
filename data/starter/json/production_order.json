@@ -1,0 +1,2252 @@
+[
+  {
+    "end_date": "2026-02-02",
+    "line_code": "LINE-02",
+    "planned_qty": 14500,
+    "product_id": "P001",
+    "start_date": "2026-02-02",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000001"
+  },
+  {
+    "end_date": "2026-02-02",
+    "line_code": "LINE-02",
+    "planned_qty": 19900,
+    "product_id": "P001",
+    "start_date": "2026-02-02",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000002"
+  },
+  {
+    "end_date": "2026-02-05",
+    "line_code": "LINE-01",
+    "planned_qty": 4300,
+    "product_id": "P008",
+    "start_date": "2026-02-05",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000003"
+  },
+  {
+    "end_date": "2026-02-06",
+    "line_code": "LINE-02",
+    "planned_qty": 7700,
+    "product_id": "P002",
+    "start_date": "2026-02-06",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000004"
+  },
+  {
+    "end_date": "2026-02-10",
+    "line_code": "LINE-03",
+    "planned_qty": 18500,
+    "product_id": "P009",
+    "start_date": "2026-02-06",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000005"
+  },
+  {
+    "end_date": "2026-02-07",
+    "line_code": "LINE-01",
+    "planned_qty": 17000,
+    "product_id": "P007",
+    "start_date": "2026-02-07",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000006"
+  },
+  {
+    "end_date": "2026-02-11",
+    "line_code": "LINE-01",
+    "planned_qty": 14800,
+    "product_id": "P004",
+    "start_date": "2026-02-10",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000007"
+  },
+  {
+    "end_date": "2026-02-15",
+    "line_code": "LINE-03",
+    "planned_qty": 13700,
+    "product_id": "P003",
+    "start_date": "2026-02-10",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000008"
+  },
+  {
+    "end_date": "2026-02-11",
+    "line_code": "LINE-02",
+    "planned_qty": 12100,
+    "product_id": "P007",
+    "start_date": "2026-02-11",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000009"
+  },
+  {
+    "end_date": "2026-02-16",
+    "line_code": "LINE-03",
+    "planned_qty": 10000,
+    "product_id": "P009",
+    "start_date": "2026-02-11",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000010"
+  },
+  {
+    "end_date": "2026-02-14",
+    "line_code": "LINE-02",
+    "planned_qty": 13200,
+    "product_id": "P009",
+    "start_date": "2026-02-13",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000011"
+  },
+  {
+    "end_date": "2026-02-13",
+    "line_code": "LINE-02",
+    "planned_qty": 10600,
+    "product_id": "P001",
+    "start_date": "2026-02-13",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000012"
+  },
+  {
+    "end_date": "2026-02-13",
+    "line_code": "LINE-05",
+    "planned_qty": 12000,
+    "product_id": "P002",
+    "start_date": "2026-02-13",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000013"
+  },
+  {
+    "end_date": "2026-02-15",
+    "line_code": "LINE-04",
+    "planned_qty": 12600,
+    "product_id": "P003",
+    "start_date": "2026-02-14",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000014"
+  },
+  {
+    "end_date": "2026-02-14",
+    "line_code": "LINE-01",
+    "planned_qty": 19300,
+    "product_id": "P001",
+    "start_date": "2026-02-14",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000015"
+  },
+  {
+    "end_date": "2026-02-18",
+    "line_code": "LINE-01",
+    "planned_qty": 6800,
+    "product_id": "P007",
+    "start_date": "2026-02-18",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000016"
+  },
+  {
+    "end_date": "2026-02-18",
+    "line_code": "LINE-03",
+    "planned_qty": 13900,
+    "product_id": "P001",
+    "start_date": "2026-02-18",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000017"
+  },
+  {
+    "end_date": "2026-02-19",
+    "line_code": "LINE-06",
+    "planned_qty": 6700,
+    "product_id": "P002",
+    "start_date": "2026-02-19",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000018"
+  },
+  {
+    "end_date": "2026-02-23",
+    "line_code": "LINE-06",
+    "planned_qty": 11100,
+    "product_id": "P009",
+    "start_date": "2026-02-21",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000019"
+  },
+  {
+    "end_date": "2026-02-21",
+    "line_code": "LINE-05",
+    "planned_qty": 2400,
+    "product_id": "P010",
+    "start_date": "2026-02-21",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000020"
+  },
+  {
+    "end_date": "2026-02-25",
+    "line_code": "LINE-01",
+    "planned_qty": 8600,
+    "product_id": "P001",
+    "start_date": "2026-02-25",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000021"
+  },
+  {
+    "end_date": "2026-02-25",
+    "line_code": "LINE-05",
+    "planned_qty": 10300,
+    "product_id": "P006",
+    "start_date": "2026-02-25",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000022"
+  },
+  {
+    "end_date": "2026-02-26",
+    "line_code": "LINE-02",
+    "planned_qty": 6400,
+    "product_id": "P001",
+    "start_date": "2026-02-26",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000023"
+  },
+  {
+    "end_date": "2026-02-26",
+    "line_code": "LINE-05",
+    "planned_qty": 10400,
+    "product_id": "P010",
+    "start_date": "2026-02-26",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000024"
+  },
+  {
+    "end_date": "2026-02-27",
+    "line_code": "LINE-06",
+    "planned_qty": 12800,
+    "product_id": "P007",
+    "start_date": "2026-02-27",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000025"
+  },
+  {
+    "end_date": "2026-03-02",
+    "line_code": "LINE-01",
+    "planned_qty": 8200,
+    "product_id": "P009",
+    "start_date": "2026-03-01",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000026"
+  },
+  {
+    "end_date": "2026-03-02",
+    "line_code": "LINE-01",
+    "planned_qty": 13200,
+    "product_id": "P005",
+    "start_date": "2026-03-02",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000027"
+  },
+  {
+    "end_date": "2026-03-06",
+    "line_code": "LINE-05",
+    "planned_qty": 8700,
+    "product_id": "P005",
+    "start_date": "2026-03-06",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000028"
+  },
+  {
+    "end_date": "2026-03-09",
+    "line_code": "LINE-03",
+    "planned_qty": 19000,
+    "product_id": "P004",
+    "start_date": "2026-03-08",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000029"
+  },
+  {
+    "end_date": "2026-03-08",
+    "line_code": "LINE-05",
+    "planned_qty": 20000,
+    "product_id": "P006",
+    "start_date": "2026-03-08",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000030"
+  },
+  {
+    "end_date": "2026-03-16",
+    "line_code": "LINE-04",
+    "planned_qty": 10500,
+    "product_id": "P001",
+    "start_date": "2026-03-12",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000031"
+  },
+  {
+    "end_date": "2026-03-17",
+    "line_code": "LINE-05",
+    "planned_qty": 17300,
+    "product_id": "P001",
+    "start_date": "2026-03-13",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000032"
+  },
+  {
+    "end_date": "2026-03-15",
+    "line_code": "LINE-04",
+    "planned_qty": 14100,
+    "product_id": "P005",
+    "start_date": "2026-03-15",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000033"
+  },
+  {
+    "end_date": "2026-03-20",
+    "line_code": "LINE-01",
+    "planned_qty": 17800,
+    "product_id": "P003",
+    "start_date": "2026-03-16",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000034"
+  },
+  {
+    "end_date": "2026-03-23",
+    "line_code": "LINE-01",
+    "planned_qty": 16400,
+    "product_id": "P009",
+    "start_date": "2026-03-18",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000035"
+  },
+  {
+    "end_date": "2026-03-23",
+    "line_code": "LINE-02",
+    "planned_qty": 9400,
+    "product_id": "P010",
+    "start_date": "2026-03-18",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000036"
+  },
+  {
+    "end_date": "2026-03-23",
+    "line_code": "LINE-06",
+    "planned_qty": 14500,
+    "product_id": "P006",
+    "start_date": "2026-03-19",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000037"
+  },
+  {
+    "end_date": "2026-03-23",
+    "line_code": "LINE-06",
+    "planned_qty": 4600,
+    "product_id": "P001",
+    "start_date": "2026-03-20",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000038"
+  },
+  {
+    "end_date": "2026-03-24",
+    "line_code": "LINE-06",
+    "planned_qty": 4800,
+    "product_id": "P003",
+    "start_date": "2026-03-20",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000039"
+  },
+  {
+    "end_date": "2026-03-25",
+    "line_code": "LINE-01",
+    "planned_qty": 5300,
+    "product_id": "P001",
+    "start_date": "2026-03-21",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000040"
+  },
+  {
+    "end_date": "2026-03-23",
+    "line_code": "LINE-03",
+    "planned_qty": 9800,
+    "product_id": "P001",
+    "start_date": "2026-03-21",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000041"
+  },
+  {
+    "end_date": "2026-03-21",
+    "line_code": "LINE-01",
+    "planned_qty": 13100,
+    "product_id": "P001",
+    "start_date": "2026-03-21",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000042"
+  },
+  {
+    "end_date": "2026-03-23",
+    "line_code": "LINE-06",
+    "planned_qty": 15600,
+    "product_id": "P004",
+    "start_date": "2026-03-22",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000043"
+  },
+  {
+    "end_date": "2026-03-26",
+    "line_code": "LINE-05",
+    "planned_qty": 9100,
+    "product_id": "P007",
+    "start_date": "2026-03-23",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000044"
+  },
+  {
+    "end_date": "2026-03-26",
+    "line_code": "LINE-02",
+    "planned_qty": 15100,
+    "product_id": "P007",
+    "start_date": "2026-03-24",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000045"
+  },
+  {
+    "end_date": "2026-03-25",
+    "line_code": "LINE-05",
+    "planned_qty": 15000,
+    "product_id": "P005",
+    "start_date": "2026-03-25",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000046"
+  },
+  {
+    "end_date": "2026-03-30",
+    "line_code": "LINE-03",
+    "planned_qty": 3900,
+    "product_id": "P008",
+    "start_date": "2026-03-27",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000047"
+  },
+  {
+    "end_date": "2026-03-28",
+    "line_code": "LINE-03",
+    "planned_qty": 10000,
+    "product_id": "P007",
+    "start_date": "2026-03-27",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000048"
+  },
+  {
+    "end_date": "2026-03-31",
+    "line_code": "LINE-05",
+    "planned_qty": 4100,
+    "product_id": "P002",
+    "start_date": "2026-03-28",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000049"
+  },
+  {
+    "end_date": "2026-03-29",
+    "line_code": "LINE-06",
+    "planned_qty": 12100,
+    "product_id": "P006",
+    "start_date": "2026-03-28",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000050"
+  },
+  {
+    "end_date": "2026-03-29",
+    "line_code": "LINE-05",
+    "planned_qty": 19400,
+    "product_id": "P007",
+    "start_date": "2026-03-28",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000051"
+  },
+  {
+    "end_date": "2026-04-02",
+    "line_code": "LINE-06",
+    "planned_qty": 12200,
+    "product_id": "P001",
+    "start_date": "2026-03-31",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000052"
+  },
+  {
+    "end_date": "2026-04-01",
+    "line_code": "LINE-04",
+    "planned_qty": 17900,
+    "product_id": "P005",
+    "start_date": "2026-03-31",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000053"
+  },
+  {
+    "end_date": "2026-04-01",
+    "line_code": "LINE-03",
+    "planned_qty": 17200,
+    "product_id": "P005",
+    "start_date": "2026-03-31",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000054"
+  },
+  {
+    "end_date": "2026-04-03",
+    "line_code": "LINE-02",
+    "planned_qty": 7400,
+    "product_id": "P007",
+    "start_date": "2026-04-01",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000055"
+  },
+  {
+    "end_date": "2026-04-08",
+    "line_code": "LINE-03",
+    "planned_qty": 8000,
+    "product_id": "P005",
+    "start_date": "2026-04-03",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000056"
+  },
+  {
+    "end_date": "2026-04-08",
+    "line_code": "LINE-06",
+    "planned_qty": 15800,
+    "product_id": "P009",
+    "start_date": "2026-04-06",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000057"
+  },
+  {
+    "end_date": "2026-04-10",
+    "line_code": "LINE-01",
+    "planned_qty": 6000,
+    "product_id": "P003",
+    "start_date": "2026-04-06",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000058"
+  },
+  {
+    "end_date": "2026-04-12",
+    "line_code": "LINE-05",
+    "planned_qty": 9300,
+    "product_id": "P001",
+    "start_date": "2026-04-07",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000059"
+  },
+  {
+    "end_date": "2026-04-10",
+    "line_code": "LINE-01",
+    "planned_qty": 4600,
+    "product_id": "P004",
+    "start_date": "2026-04-09",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000060"
+  },
+  {
+    "end_date": "2026-04-12",
+    "line_code": "LINE-02",
+    "planned_qty": 5600,
+    "product_id": "P001",
+    "start_date": "2026-04-11",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000061"
+  },
+  {
+    "end_date": "2026-04-14",
+    "line_code": "LINE-01",
+    "planned_qty": 10100,
+    "product_id": "P005",
+    "start_date": "2026-04-11",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000062"
+  },
+  {
+    "end_date": "2026-04-14",
+    "line_code": "LINE-03",
+    "planned_qty": 7700,
+    "product_id": "P007",
+    "start_date": "2026-04-12",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000063"
+  },
+  {
+    "end_date": "2026-04-13",
+    "line_code": "LINE-01",
+    "planned_qty": 10100,
+    "product_id": "P007",
+    "start_date": "2026-04-12",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000064"
+  },
+  {
+    "end_date": "2026-04-17",
+    "line_code": "LINE-06",
+    "planned_qty": 2400,
+    "product_id": "P002",
+    "start_date": "2026-04-13",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000065"
+  },
+  {
+    "end_date": "2026-04-17",
+    "line_code": "LINE-05",
+    "planned_qty": 18700,
+    "product_id": "P007",
+    "start_date": "2026-04-13",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000066"
+  },
+  {
+    "end_date": "2026-04-15",
+    "line_code": "LINE-03",
+    "planned_qty": 13000,
+    "product_id": "P004",
+    "start_date": "2026-04-14",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000067"
+  },
+  {
+    "end_date": "2026-04-21",
+    "line_code": "LINE-03",
+    "planned_qty": 13100,
+    "product_id": "P001",
+    "start_date": "2026-04-16",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000068"
+  },
+  {
+    "end_date": "2026-04-17",
+    "line_code": "LINE-01",
+    "planned_qty": 6200,
+    "product_id": "P009",
+    "start_date": "2026-04-16",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000069"
+  },
+  {
+    "end_date": "2026-04-19",
+    "line_code": "LINE-03",
+    "planned_qty": 3800,
+    "product_id": "P010",
+    "start_date": "2026-04-16",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000070"
+  },
+  {
+    "end_date": "2026-04-21",
+    "line_code": "LINE-05",
+    "planned_qty": 19100,
+    "product_id": "P001",
+    "start_date": "2026-04-18",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000071"
+  },
+  {
+    "end_date": "2026-04-22",
+    "line_code": "LINE-03",
+    "planned_qty": 6900,
+    "product_id": "P002",
+    "start_date": "2026-04-21",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000072"
+  },
+  {
+    "end_date": "2026-04-26",
+    "line_code": "LINE-02",
+    "planned_qty": 11000,
+    "product_id": "P009",
+    "start_date": "2026-04-22",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000073"
+  },
+  {
+    "end_date": "2026-04-26",
+    "line_code": "LINE-03",
+    "planned_qty": 3400,
+    "product_id": "P005",
+    "start_date": "2026-04-24",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000074"
+  },
+  {
+    "end_date": "2026-04-30",
+    "line_code": "LINE-02",
+    "planned_qty": 5600,
+    "product_id": "P003",
+    "start_date": "2026-04-25",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000075"
+  },
+  {
+    "end_date": "2026-05-01",
+    "line_code": "LINE-06",
+    "planned_qty": 10300,
+    "product_id": "P009",
+    "start_date": "2026-04-27",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000076"
+  },
+  {
+    "end_date": "2026-04-28",
+    "line_code": "LINE-01",
+    "planned_qty": 16700,
+    "product_id": "P003",
+    "start_date": "2026-04-27",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000077"
+  },
+  {
+    "end_date": "2026-04-29",
+    "line_code": "LINE-02",
+    "planned_qty": 18200,
+    "product_id": "P003",
+    "start_date": "2026-04-27",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000078"
+  },
+  {
+    "end_date": "2026-04-30",
+    "line_code": "LINE-03",
+    "planned_qty": 8800,
+    "product_id": "P007",
+    "start_date": "2026-04-28",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000079"
+  },
+  {
+    "end_date": "2026-05-01",
+    "line_code": "LINE-03",
+    "planned_qty": 8700,
+    "product_id": "P002",
+    "start_date": "2026-04-28",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000080"
+  },
+  {
+    "end_date": "2026-05-04",
+    "line_code": "LINE-01",
+    "planned_qty": 15400,
+    "product_id": "P004",
+    "start_date": "2026-04-29",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000081"
+  },
+  {
+    "end_date": "2026-05-07",
+    "line_code": "LINE-02",
+    "planned_qty": 17100,
+    "product_id": "P001",
+    "start_date": "2026-05-02",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000082"
+  },
+  {
+    "end_date": "2026-05-05",
+    "line_code": "LINE-04",
+    "planned_qty": 3800,
+    "product_id": "P010",
+    "start_date": "2026-05-04",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000083"
+  },
+  {
+    "end_date": "2026-05-07",
+    "line_code": "LINE-05",
+    "planned_qty": 10200,
+    "product_id": "P003",
+    "start_date": "2026-05-05",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000084"
+  },
+  {
+    "end_date": "2026-05-08",
+    "line_code": "LINE-01",
+    "planned_qty": 14900,
+    "product_id": "P001",
+    "start_date": "2026-05-06",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000085"
+  },
+  {
+    "end_date": "2026-05-11",
+    "line_code": "LINE-03",
+    "planned_qty": 8700,
+    "product_id": "P006",
+    "start_date": "2026-05-09",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000086"
+  },
+  {
+    "end_date": "2026-05-10",
+    "line_code": "LINE-02",
+    "planned_qty": 10200,
+    "product_id": "P001",
+    "start_date": "2026-05-09",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000087"
+  },
+  {
+    "end_date": "2026-05-15",
+    "line_code": "LINE-01",
+    "planned_qty": 16700,
+    "product_id": "P009",
+    "start_date": "2026-05-13",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000088"
+  },
+  {
+    "end_date": "2026-05-22",
+    "line_code": "LINE-01",
+    "planned_qty": 3100,
+    "product_id": "P004",
+    "start_date": "2026-05-19",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000089"
+  },
+  {
+    "end_date": "2026-05-21",
+    "line_code": "LINE-04",
+    "planned_qty": 6300,
+    "product_id": "P001",
+    "start_date": "2026-05-20",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000090"
+  },
+  {
+    "end_date": "2026-05-24",
+    "line_code": "LINE-03",
+    "planned_qty": 17200,
+    "product_id": "P001",
+    "start_date": "2026-05-20",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000091"
+  },
+  {
+    "end_date": "2026-05-25",
+    "line_code": "LINE-01",
+    "planned_qty": 7900,
+    "product_id": "P007",
+    "start_date": "2026-05-21",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000092"
+  },
+  {
+    "end_date": "2026-05-26",
+    "line_code": "LINE-05",
+    "planned_qty": 11000,
+    "product_id": "P007",
+    "start_date": "2026-05-22",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000093"
+  },
+  {
+    "end_date": "2026-05-24",
+    "line_code": "LINE-04",
+    "planned_qty": 19700,
+    "product_id": "P007",
+    "start_date": "2026-05-23",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000094"
+  },
+  {
+    "end_date": "2026-05-26",
+    "line_code": "LINE-03",
+    "planned_qty": 17600,
+    "product_id": "P001",
+    "start_date": "2026-05-25",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000095"
+  },
+  {
+    "end_date": "2026-05-28",
+    "line_code": "LINE-03",
+    "planned_qty": 11400,
+    "product_id": "P005",
+    "start_date": "2026-05-25",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000096"
+  },
+  {
+    "end_date": "2026-05-29",
+    "line_code": "LINE-01",
+    "planned_qty": 13400,
+    "product_id": "P003",
+    "start_date": "2026-05-26",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000097"
+  },
+  {
+    "end_date": "2026-06-01",
+    "line_code": "LINE-01",
+    "planned_qty": 10400,
+    "product_id": "P010",
+    "start_date": "2026-05-28",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000098"
+  },
+  {
+    "end_date": "2026-05-31",
+    "line_code": "LINE-03",
+    "planned_qty": 5800,
+    "product_id": "P003",
+    "start_date": "2026-05-29",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000099"
+  },
+  {
+    "end_date": "2026-05-31",
+    "line_code": "LINE-03",
+    "planned_qty": 16900,
+    "product_id": "P007",
+    "start_date": "2026-05-29",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000100"
+  },
+  {
+    "end_date": "2026-06-04",
+    "line_code": "LINE-05",
+    "planned_qty": 9300,
+    "product_id": "P002",
+    "start_date": "2026-05-30",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000101"
+  },
+  {
+    "end_date": "2026-06-04",
+    "line_code": "LINE-06",
+    "planned_qty": 11700,
+    "product_id": "P005",
+    "start_date": "2026-05-30",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000102"
+  },
+  {
+    "end_date": "2026-06-04",
+    "line_code": "LINE-02",
+    "planned_qty": 16100,
+    "product_id": "P003",
+    "start_date": "2026-05-30",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000103"
+  },
+  {
+    "end_date": "2026-06-02",
+    "line_code": "LINE-03",
+    "planned_qty": 9400,
+    "product_id": "P001",
+    "start_date": "2026-05-31",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000104"
+  },
+  {
+    "end_date": "2026-06-04",
+    "line_code": "LINE-02",
+    "planned_qty": 5600,
+    "product_id": "P003",
+    "start_date": "2026-06-01",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000105"
+  },
+  {
+    "end_date": "2026-06-03",
+    "line_code": "LINE-02",
+    "planned_qty": 10800,
+    "product_id": "P001",
+    "start_date": "2026-06-01",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000106"
+  },
+  {
+    "end_date": "2026-06-08",
+    "line_code": "LINE-03",
+    "planned_qty": 5000,
+    "product_id": "P005",
+    "start_date": "2026-06-04",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000107"
+  },
+  {
+    "end_date": "2026-06-10",
+    "line_code": "LINE-04",
+    "planned_qty": 4700,
+    "product_id": "P002",
+    "start_date": "2026-06-07",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000108"
+  },
+  {
+    "end_date": "2026-06-10",
+    "line_code": "LINE-06",
+    "planned_qty": 12200,
+    "product_id": "P009",
+    "start_date": "2026-06-08",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000109"
+  },
+  {
+    "end_date": "2026-06-12",
+    "line_code": "LINE-05",
+    "planned_qty": 10600,
+    "product_id": "P009",
+    "start_date": "2026-06-09",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000110"
+  },
+  {
+    "end_date": "2026-06-11",
+    "line_code": "LINE-05",
+    "planned_qty": 6000,
+    "product_id": "P009",
+    "start_date": "2026-06-10",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000111"
+  },
+  {
+    "end_date": "2026-06-11",
+    "line_code": "LINE-06",
+    "planned_qty": 4500,
+    "product_id": "P005",
+    "start_date": "2026-06-11",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000112"
+  },
+  {
+    "end_date": "2026-06-16",
+    "line_code": "LINE-05",
+    "planned_qty": 7100,
+    "product_id": "P003",
+    "start_date": "2026-06-12",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000113"
+  },
+  {
+    "end_date": "2026-06-14",
+    "line_code": "LINE-03",
+    "planned_qty": 7500,
+    "product_id": "P001",
+    "start_date": "2026-06-12",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000114"
+  },
+  {
+    "end_date": "2026-06-16",
+    "line_code": "LINE-01",
+    "planned_qty": 19800,
+    "product_id": "P008",
+    "start_date": "2026-06-15",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000115"
+  },
+  {
+    "end_date": "2026-06-19",
+    "line_code": "LINE-04",
+    "planned_qty": 10000,
+    "product_id": "P010",
+    "start_date": "2026-06-16",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000116"
+  },
+  {
+    "end_date": "2026-06-21",
+    "line_code": "LINE-05",
+    "planned_qty": 2300,
+    "product_id": "P010",
+    "start_date": "2026-06-17",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000117"
+  },
+  {
+    "end_date": "2026-06-19",
+    "line_code": "LINE-04",
+    "planned_qty": 18400,
+    "product_id": "P004",
+    "start_date": "2026-06-18",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000118"
+  },
+  {
+    "end_date": "2026-06-25",
+    "line_code": "LINE-06",
+    "planned_qty": 15000,
+    "product_id": "P001",
+    "start_date": "2026-06-20",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000119"
+  },
+  {
+    "end_date": "2026-06-21",
+    "line_code": "LINE-01",
+    "planned_qty": 15400,
+    "product_id": "P007",
+    "start_date": "2026-06-21",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000120"
+  },
+  {
+    "end_date": "2026-06-23",
+    "line_code": "LINE-01",
+    "planned_qty": 4800,
+    "product_id": "P001",
+    "start_date": "2026-06-21",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000121"
+  },
+  {
+    "end_date": "2026-06-23",
+    "line_code": "LINE-01",
+    "planned_qty": 4800,
+    "product_id": "P007",
+    "start_date": "2026-06-23",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000122"
+  },
+  {
+    "end_date": "2026-06-30",
+    "line_code": "LINE-06",
+    "planned_qty": 18100,
+    "product_id": "P003",
+    "start_date": "2026-06-26",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000123"
+  },
+  {
+    "end_date": "2026-06-30",
+    "line_code": "LINE-05",
+    "planned_qty": 6800,
+    "product_id": "P004",
+    "start_date": "2026-06-27",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000124"
+  },
+  {
+    "end_date": "2026-06-30",
+    "line_code": "LINE-06",
+    "planned_qty": 17400,
+    "product_id": "P001",
+    "start_date": "2026-06-28",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000125"
+  },
+  {
+    "end_date": "2026-07-03",
+    "line_code": "LINE-03",
+    "planned_qty": 3000,
+    "product_id": "P001",
+    "start_date": "2026-06-28",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000126"
+  },
+  {
+    "end_date": "2026-06-28",
+    "line_code": "LINE-05",
+    "planned_qty": 4200,
+    "product_id": "P007",
+    "start_date": "2026-06-28",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000127"
+  },
+  {
+    "end_date": "2026-07-01",
+    "line_code": "LINE-02",
+    "planned_qty": 6000,
+    "product_id": "P001",
+    "start_date": "2026-06-30",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000128"
+  },
+  {
+    "end_date": "2026-07-06",
+    "line_code": "LINE-01",
+    "planned_qty": 15900,
+    "product_id": "P001",
+    "start_date": "2026-07-01",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000129"
+  },
+  {
+    "end_date": "2026-07-03",
+    "line_code": "LINE-02",
+    "planned_qty": 19300,
+    "product_id": "P007",
+    "start_date": "2026-07-02",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000130"
+  },
+  {
+    "end_date": "2026-07-03",
+    "line_code": "LINE-06",
+    "planned_qty": 10600,
+    "product_id": "P007",
+    "start_date": "2026-07-03",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000131"
+  },
+  {
+    "end_date": "2026-07-08",
+    "line_code": "LINE-04",
+    "planned_qty": 13700,
+    "product_id": "P005",
+    "start_date": "2026-07-03",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000132"
+  },
+  {
+    "end_date": "2026-07-05",
+    "line_code": "LINE-02",
+    "planned_qty": 13100,
+    "product_id": "P001",
+    "start_date": "2026-07-03",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000133"
+  },
+  {
+    "end_date": "2026-07-10",
+    "line_code": "LINE-05",
+    "planned_qty": 9100,
+    "product_id": "P006",
+    "start_date": "2026-07-10",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000134"
+  },
+  {
+    "end_date": "2026-07-12",
+    "line_code": "LINE-05",
+    "planned_qty": 10600,
+    "product_id": "P009",
+    "start_date": "2026-07-11",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000135"
+  },
+  {
+    "end_date": "2026-07-14",
+    "line_code": "LINE-06",
+    "planned_qty": 15900,
+    "product_id": "P003",
+    "start_date": "2026-07-11",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000136"
+  },
+  {
+    "end_date": "2026-07-15",
+    "line_code": "LINE-03",
+    "planned_qty": 19500,
+    "product_id": "P001",
+    "start_date": "2026-07-11",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000137"
+  },
+  {
+    "end_date": "2026-07-13",
+    "line_code": "LINE-02",
+    "planned_qty": 4700,
+    "product_id": "P005",
+    "start_date": "2026-07-12",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000138"
+  },
+  {
+    "end_date": "2026-07-18",
+    "line_code": "LINE-06",
+    "planned_qty": 9700,
+    "product_id": "P001",
+    "start_date": "2026-07-13",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000139"
+  },
+  {
+    "end_date": "2026-07-18",
+    "line_code": "LINE-01",
+    "planned_qty": 7000,
+    "product_id": "P002",
+    "start_date": "2026-07-16",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000140"
+  },
+  {
+    "end_date": "2026-07-19",
+    "line_code": "LINE-04",
+    "planned_qty": 7300,
+    "product_id": "P005",
+    "start_date": "2026-07-16",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000141"
+  },
+  {
+    "end_date": "2026-07-18",
+    "line_code": "LINE-02",
+    "planned_qty": 7800,
+    "product_id": "P001",
+    "start_date": "2026-07-16",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000142"
+  },
+  {
+    "end_date": "2026-07-16",
+    "line_code": "LINE-06",
+    "planned_qty": 13300,
+    "product_id": "P007",
+    "start_date": "2026-07-16",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000143"
+  },
+  {
+    "end_date": "2026-07-18",
+    "line_code": "LINE-04",
+    "planned_qty": 19100,
+    "product_id": "P001",
+    "start_date": "2026-07-16",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000144"
+  },
+  {
+    "end_date": "2026-07-20",
+    "line_code": "LINE-03",
+    "planned_qty": 4600,
+    "product_id": "P001",
+    "start_date": "2026-07-17",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000145"
+  },
+  {
+    "end_date": "2026-07-20",
+    "line_code": "LINE-02",
+    "planned_qty": 18100,
+    "product_id": "P009",
+    "start_date": "2026-07-17",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000146"
+  },
+  {
+    "end_date": "2026-07-25",
+    "line_code": "LINE-05",
+    "planned_qty": 13400,
+    "product_id": "P001",
+    "start_date": "2026-07-22",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000147"
+  },
+  {
+    "end_date": "2026-07-25",
+    "line_code": "LINE-04",
+    "planned_qty": 11200,
+    "product_id": "P003",
+    "start_date": "2026-07-23",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000148"
+  },
+  {
+    "end_date": "2026-07-29",
+    "line_code": "LINE-02",
+    "planned_qty": 5900,
+    "product_id": "P002",
+    "start_date": "2026-07-24",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000149"
+  },
+  {
+    "end_date": "2026-07-28",
+    "line_code": "LINE-06",
+    "planned_qty": 11100,
+    "product_id": "P001",
+    "start_date": "2026-07-25",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000150"
+  },
+  {
+    "end_date": "2026-07-25",
+    "line_code": "LINE-02",
+    "planned_qty": 5100,
+    "product_id": "P002",
+    "start_date": "2026-07-25",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000151"
+  },
+  {
+    "end_date": "2026-08-02",
+    "line_code": "LINE-05",
+    "planned_qty": 7000,
+    "product_id": "P005",
+    "start_date": "2026-07-31",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000152"
+  },
+  {
+    "end_date": "2026-08-05",
+    "line_code": "LINE-01",
+    "planned_qty": 7300,
+    "product_id": "P005",
+    "start_date": "2026-08-01",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000153"
+  },
+  {
+    "end_date": "2026-08-01",
+    "line_code": "LINE-05",
+    "planned_qty": 4400,
+    "product_id": "P007",
+    "start_date": "2026-08-01",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000154"
+  },
+  {
+    "end_date": "2026-08-06",
+    "line_code": "LINE-03",
+    "planned_qty": 10100,
+    "product_id": "P002",
+    "start_date": "2026-08-01",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000155"
+  },
+  {
+    "end_date": "2026-08-07",
+    "line_code": "LINE-05",
+    "planned_qty": 8700,
+    "product_id": "P003",
+    "start_date": "2026-08-02",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000156"
+  },
+  {
+    "end_date": "2026-08-05",
+    "line_code": "LINE-03",
+    "planned_qty": 13700,
+    "product_id": "P004",
+    "start_date": "2026-08-03",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000157"
+  },
+  {
+    "end_date": "2026-08-10",
+    "line_code": "LINE-01",
+    "planned_qty": 4300,
+    "product_id": "P001",
+    "start_date": "2026-08-06",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000158"
+  },
+  {
+    "end_date": "2026-08-10",
+    "line_code": "LINE-01",
+    "planned_qty": 5100,
+    "product_id": "P003",
+    "start_date": "2026-08-06",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000159"
+  },
+  {
+    "end_date": "2026-08-06",
+    "line_code": "LINE-04",
+    "planned_qty": 3000,
+    "product_id": "P007",
+    "start_date": "2026-08-06",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000160"
+  },
+  {
+    "end_date": "2026-08-10",
+    "line_code": "LINE-06",
+    "planned_qty": 7600,
+    "product_id": "P009",
+    "start_date": "2026-08-06",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000161"
+  },
+  {
+    "end_date": "2026-08-11",
+    "line_code": "LINE-01",
+    "planned_qty": 6800,
+    "product_id": "P008",
+    "start_date": "2026-08-09",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000162"
+  },
+  {
+    "end_date": "2026-08-14",
+    "line_code": "LINE-03",
+    "planned_qty": 5900,
+    "product_id": "P006",
+    "start_date": "2026-08-10",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000163"
+  },
+  {
+    "end_date": "2026-08-11",
+    "line_code": "LINE-03",
+    "planned_qty": 7000,
+    "product_id": "P009",
+    "start_date": "2026-08-10",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000164"
+  },
+  {
+    "end_date": "2026-08-17",
+    "line_code": "LINE-02",
+    "planned_qty": 12000,
+    "product_id": "P003",
+    "start_date": "2026-08-12",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000165"
+  },
+  {
+    "end_date": "2026-08-18",
+    "line_code": "LINE-03",
+    "planned_qty": 14100,
+    "product_id": "P007",
+    "start_date": "2026-08-13",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000166"
+  },
+  {
+    "end_date": "2026-08-15",
+    "line_code": "LINE-01",
+    "planned_qty": 8200,
+    "product_id": "P001",
+    "start_date": "2026-08-14",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000167"
+  },
+  {
+    "end_date": "2026-08-18",
+    "line_code": "LINE-01",
+    "planned_qty": 14700,
+    "product_id": "P003",
+    "start_date": "2026-08-15",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000168"
+  },
+  {
+    "end_date": "2026-08-22",
+    "line_code": "LINE-03",
+    "planned_qty": 2600,
+    "product_id": "P002",
+    "start_date": "2026-08-18",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000169"
+  },
+  {
+    "end_date": "2026-08-20",
+    "line_code": "LINE-04",
+    "planned_qty": 12700,
+    "product_id": "P001",
+    "start_date": "2026-08-18",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000170"
+  },
+  {
+    "end_date": "2026-08-25",
+    "line_code": "LINE-04",
+    "planned_qty": 14600,
+    "product_id": "P001",
+    "start_date": "2026-08-20",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000171"
+  },
+  {
+    "end_date": "2026-08-26",
+    "line_code": "LINE-01",
+    "planned_qty": 18500,
+    "product_id": "P001",
+    "start_date": "2026-08-22",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000172"
+  },
+  {
+    "end_date": "2026-08-25",
+    "line_code": "LINE-02",
+    "planned_qty": 4900,
+    "product_id": "P009",
+    "start_date": "2026-08-22",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000173"
+  },
+  {
+    "end_date": "2026-08-24",
+    "line_code": "LINE-01",
+    "planned_qty": 7500,
+    "product_id": "P005",
+    "start_date": "2026-08-22",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000174"
+  },
+  {
+    "end_date": "2026-08-25",
+    "line_code": "LINE-04",
+    "planned_qty": 14300,
+    "product_id": "P005",
+    "start_date": "2026-08-23",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000175"
+  },
+  {
+    "end_date": "2026-08-27",
+    "line_code": "LINE-06",
+    "planned_qty": 4600,
+    "product_id": "P004",
+    "start_date": "2026-08-24",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000176"
+  },
+  {
+    "end_date": "2026-08-29",
+    "line_code": "LINE-01",
+    "planned_qty": 15900,
+    "product_id": "P004",
+    "start_date": "2026-08-24",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000177"
+  },
+  {
+    "end_date": "2026-08-30",
+    "line_code": "LINE-03",
+    "planned_qty": 18600,
+    "product_id": "P008",
+    "start_date": "2026-08-25",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000178"
+  },
+  {
+    "end_date": "2026-08-30",
+    "line_code": "LINE-05",
+    "planned_qty": 3800,
+    "product_id": "P001",
+    "start_date": "2026-08-28",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000179"
+  },
+  {
+    "end_date": "2026-08-29",
+    "line_code": "LINE-01",
+    "planned_qty": 13300,
+    "product_id": "P005",
+    "start_date": "2026-08-29",
+    "status": "CANCELLED",
+    "wo_id": "WO-2026-000180"
+  },
+  {
+    "end_date": "2026-09-01",
+    "line_code": "LINE-03",
+    "planned_qty": 5900,
+    "product_id": "P005",
+    "start_date": "2026-08-29",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000181"
+  },
+  {
+    "end_date": "2026-09-06",
+    "line_code": "LINE-05",
+    "planned_qty": 14700,
+    "product_id": "P007",
+    "start_date": "2026-09-01",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000182"
+  },
+  {
+    "end_date": "2026-09-08",
+    "line_code": "LINE-02",
+    "planned_qty": 15700,
+    "product_id": "P005",
+    "start_date": "2026-09-03",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000183"
+  },
+  {
+    "end_date": "2026-09-08",
+    "line_code": "LINE-04",
+    "planned_qty": 9600,
+    "product_id": "P001",
+    "start_date": "2026-09-03",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000184"
+  },
+  {
+    "end_date": "2026-09-07",
+    "line_code": "LINE-01",
+    "planned_qty": 4500,
+    "product_id": "P004",
+    "start_date": "2026-09-05",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000185"
+  },
+  {
+    "end_date": "2026-09-08",
+    "line_code": "LINE-04",
+    "planned_qty": 9800,
+    "product_id": "P010",
+    "start_date": "2026-09-06",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000186"
+  },
+  {
+    "end_date": "2026-09-11",
+    "line_code": "LINE-05",
+    "planned_qty": 18000,
+    "product_id": "P009",
+    "start_date": "2026-09-06",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000187"
+  },
+  {
+    "end_date": "2026-09-08",
+    "line_code": "LINE-01",
+    "planned_qty": 7300,
+    "product_id": "P001",
+    "start_date": "2026-09-07",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000188"
+  },
+  {
+    "end_date": "2026-09-09",
+    "line_code": "LINE-01",
+    "planned_qty": 6300,
+    "product_id": "P010",
+    "start_date": "2026-09-07",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000189"
+  },
+  {
+    "end_date": "2026-09-11",
+    "line_code": "LINE-01",
+    "planned_qty": 13700,
+    "product_id": "P003",
+    "start_date": "2026-09-08",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000190"
+  },
+  {
+    "end_date": "2026-09-12",
+    "line_code": "LINE-05",
+    "planned_qty": 8100,
+    "product_id": "P007",
+    "start_date": "2026-09-08",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000191"
+  },
+  {
+    "end_date": "2026-09-10",
+    "line_code": "LINE-04",
+    "planned_qty": 17500,
+    "product_id": "P007",
+    "start_date": "2026-09-09",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000192"
+  },
+  {
+    "end_date": "2026-09-11",
+    "line_code": "LINE-06",
+    "planned_qty": 3200,
+    "product_id": "P010",
+    "start_date": "2026-09-10",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000193"
+  },
+  {
+    "end_date": "2026-09-16",
+    "line_code": "LINE-01",
+    "planned_qty": 7800,
+    "product_id": "P007",
+    "start_date": "2026-09-12",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000194"
+  },
+  {
+    "end_date": "2026-09-17",
+    "line_code": "LINE-06",
+    "planned_qty": 3300,
+    "product_id": "P005",
+    "start_date": "2026-09-12",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000195"
+  },
+  {
+    "end_date": "2026-09-17",
+    "line_code": "LINE-01",
+    "planned_qty": 14100,
+    "product_id": "P005",
+    "start_date": "2026-09-12",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000196"
+  },
+  {
+    "end_date": "2026-09-16",
+    "line_code": "LINE-02",
+    "planned_qty": 17900,
+    "product_id": "P001",
+    "start_date": "2026-09-13",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000197"
+  },
+  {
+    "end_date": "2026-09-14",
+    "line_code": "LINE-03",
+    "planned_qty": 8300,
+    "product_id": "P010",
+    "start_date": "2026-09-13",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000198"
+  },
+  {
+    "end_date": "2026-09-20",
+    "line_code": "LINE-06",
+    "planned_qty": 3600,
+    "product_id": "P010",
+    "start_date": "2026-09-15",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000199"
+  },
+  {
+    "end_date": "2026-09-16",
+    "line_code": "LINE-06",
+    "planned_qty": 7300,
+    "product_id": "P009",
+    "start_date": "2026-09-15",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000200"
+  },
+  {
+    "end_date": "2026-09-17",
+    "line_code": "LINE-01",
+    "planned_qty": 8000,
+    "product_id": "P007",
+    "start_date": "2026-09-16",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000201"
+  },
+  {
+    "end_date": "2026-09-19",
+    "line_code": "LINE-06",
+    "planned_qty": 3200,
+    "product_id": "P001",
+    "start_date": "2026-09-16",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000202"
+  },
+  {
+    "end_date": "2026-09-21",
+    "line_code": "LINE-01",
+    "planned_qty": 12100,
+    "product_id": "P001",
+    "start_date": "2026-09-17",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000203"
+  },
+  {
+    "end_date": "2026-09-22",
+    "line_code": "LINE-06",
+    "planned_qty": 8500,
+    "product_id": "P004",
+    "start_date": "2026-09-17",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000204"
+  },
+  {
+    "end_date": "2026-09-20",
+    "line_code": "LINE-06",
+    "planned_qty": 10800,
+    "product_id": "P006",
+    "start_date": "2026-09-17",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000205"
+  },
+  {
+    "end_date": "2026-09-22",
+    "line_code": "LINE-06",
+    "planned_qty": 15400,
+    "product_id": "P007",
+    "start_date": "2026-09-19",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000206"
+  },
+  {
+    "end_date": "2026-09-24",
+    "line_code": "LINE-05",
+    "planned_qty": 6700,
+    "product_id": "P001",
+    "start_date": "2026-09-22",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000207"
+  },
+  {
+    "end_date": "2026-09-28",
+    "line_code": "LINE-02",
+    "planned_qty": 3800,
+    "product_id": "P009",
+    "start_date": "2026-09-23",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000208"
+  },
+  {
+    "end_date": "2026-09-25",
+    "line_code": "LINE-06",
+    "planned_qty": 13400,
+    "product_id": "P004",
+    "start_date": "2026-09-23",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000209"
+  },
+  {
+    "end_date": "2026-09-28",
+    "line_code": "LINE-06",
+    "planned_qty": 4800,
+    "product_id": "P001",
+    "start_date": "2026-09-23",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000210"
+  },
+  {
+    "end_date": "2026-09-29",
+    "line_code": "LINE-04",
+    "planned_qty": 3500,
+    "product_id": "P008",
+    "start_date": "2026-09-26",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000211"
+  },
+  {
+    "end_date": "2026-09-27",
+    "line_code": "LINE-04",
+    "planned_qty": 5500,
+    "product_id": "P001",
+    "start_date": "2026-09-26",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000212"
+  },
+  {
+    "end_date": "2026-09-30",
+    "line_code": "LINE-01",
+    "planned_qty": 10700,
+    "product_id": "P002",
+    "start_date": "2026-09-27",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000213"
+  },
+  {
+    "end_date": "2026-10-01",
+    "line_code": "LINE-03",
+    "planned_qty": 11100,
+    "product_id": "P005",
+    "start_date": "2026-09-28",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000214"
+  },
+  {
+    "end_date": "2026-10-03",
+    "line_code": "LINE-05",
+    "planned_qty": 8800,
+    "product_id": "P009",
+    "start_date": "2026-09-28",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000215"
+  },
+  {
+    "end_date": "2026-10-04",
+    "line_code": "LINE-04",
+    "planned_qty": 11300,
+    "product_id": "P005",
+    "start_date": "2026-09-30",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000216"
+  },
+  {
+    "end_date": "2026-10-02",
+    "line_code": "LINE-03",
+    "planned_qty": 10400,
+    "product_id": "P009",
+    "start_date": "2026-09-30",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000217"
+  },
+  {
+    "end_date": "2026-10-04",
+    "line_code": "LINE-02",
+    "planned_qty": 16600,
+    "product_id": "P007",
+    "start_date": "2026-09-30",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000218"
+  },
+  {
+    "end_date": "2026-10-04",
+    "line_code": "LINE-02",
+    "planned_qty": 16400,
+    "product_id": "P009",
+    "start_date": "2026-09-30",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000219"
+  },
+  {
+    "end_date": "2026-10-05",
+    "line_code": "LINE-03",
+    "planned_qty": 8100,
+    "product_id": "P004",
+    "start_date": "2026-09-30",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000220"
+  },
+  {
+    "end_date": "2026-10-04",
+    "line_code": "LINE-04",
+    "planned_qty": 19100,
+    "product_id": "P001",
+    "start_date": "2026-10-01",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000221"
+  },
+  {
+    "end_date": "2026-10-08",
+    "line_code": "LINE-06",
+    "planned_qty": 13100,
+    "product_id": "P001",
+    "start_date": "2026-10-03",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000222"
+  },
+  {
+    "end_date": "2026-10-04",
+    "line_code": "LINE-01",
+    "planned_qty": 14500,
+    "product_id": "P001",
+    "start_date": "2026-10-03",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000223"
+  },
+  {
+    "end_date": "2026-10-07",
+    "line_code": "LINE-06",
+    "planned_qty": 12700,
+    "product_id": "P007",
+    "start_date": "2026-10-04",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000224"
+  },
+  {
+    "end_date": "2026-10-06",
+    "line_code": "LINE-03",
+    "planned_qty": 6900,
+    "product_id": "P007",
+    "start_date": "2026-10-04",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000225"
+  },
+  {
+    "end_date": "2026-10-07",
+    "line_code": "LINE-05",
+    "planned_qty": 18600,
+    "product_id": "P001",
+    "start_date": "2026-10-06",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000226"
+  },
+  {
+    "end_date": "2026-10-08",
+    "line_code": "LINE-06",
+    "planned_qty": 11300,
+    "product_id": "P009",
+    "start_date": "2026-10-06",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000227"
+  },
+  {
+    "end_date": "2026-10-10",
+    "line_code": "LINE-05",
+    "planned_qty": 14700,
+    "product_id": "P005",
+    "start_date": "2026-10-09",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000228"
+  },
+  {
+    "end_date": "2026-10-12",
+    "line_code": "LINE-05",
+    "planned_qty": 8100,
+    "product_id": "P008",
+    "start_date": "2026-10-11",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000229"
+  },
+  {
+    "end_date": "2026-10-12",
+    "line_code": "LINE-05",
+    "planned_qty": 10200,
+    "product_id": "P006",
+    "start_date": "2026-10-11",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000230"
+  },
+  {
+    "end_date": "2026-10-14",
+    "line_code": "LINE-06",
+    "planned_qty": 3400,
+    "product_id": "P010",
+    "start_date": "2026-10-12",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000231"
+  },
+  {
+    "end_date": "2026-10-13",
+    "line_code": "LINE-04",
+    "planned_qty": 17500,
+    "product_id": "P007",
+    "start_date": "2026-10-12",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000232"
+  },
+  {
+    "end_date": "2026-10-18",
+    "line_code": "LINE-03",
+    "planned_qty": 8700,
+    "product_id": "P003",
+    "start_date": "2026-10-13",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000233"
+  },
+  {
+    "end_date": "2026-10-16",
+    "line_code": "LINE-03",
+    "planned_qty": 15700,
+    "product_id": "P009",
+    "start_date": "2026-10-14",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000234"
+  },
+  {
+    "end_date": "2026-10-18",
+    "line_code": "LINE-03",
+    "planned_qty": 8800,
+    "product_id": "P006",
+    "start_date": "2026-10-15",
+    "status": "COMPLETED",
+    "wo_id": "WO-2026-000235"
+  },
+  {
+    "end_date": null,
+    "line_code": "LINE-02",
+    "planned_qty": 10100,
+    "product_id": "P002",
+    "start_date": "2026-10-28",
+    "status": "IN_PROGRESS",
+    "wo_id": "WO-2026-000236"
+  },
+  {
+    "end_date": null,
+    "line_code": "LINE-04",
+    "planned_qty": 4400,
+    "product_id": "P002",
+    "start_date": "2026-10-28",
+    "status": "IN_PROGRESS",
+    "wo_id": "WO-2026-000237"
+  },
+  {
+    "end_date": null,
+    "line_code": "LINE-06",
+    "planned_qty": 3500,
+    "product_id": "P006",
+    "start_date": "2026-10-29",
+    "status": "IN_PROGRESS",
+    "wo_id": "WO-2026-000238"
+  },
+  {
+    "end_date": null,
+    "line_code": "LINE-05",
+    "planned_qty": 19500,
+    "product_id": "P001",
+    "start_date": "2026-10-29",
+    "status": "IN_PROGRESS",
+    "wo_id": "WO-2026-000239"
+  },
+  {
+    "end_date": null,
+    "line_code": "LINE-05",
+    "planned_qty": 19900,
+    "product_id": "P004",
+    "start_date": "2026-10-29",
+    "status": "IN_PROGRESS",
+    "wo_id": "WO-2026-000240"
+  },
+  {
+    "end_date": null,
+    "line_code": "LINE-04",
+    "planned_qty": 7600,
+    "product_id": "P005",
+    "start_date": "2026-10-29",
+    "status": "IN_PROGRESS",
+    "wo_id": "WO-2026-000241"
+  },
+  {
+    "end_date": null,
+    "line_code": "LINE-05",
+    "planned_qty": 4400,
+    "product_id": "P001",
+    "start_date": "2026-10-30",
+    "status": "IN_PROGRESS",
+    "wo_id": "WO-2026-000242"
+  },
+  {
+    "end_date": null,
+    "line_code": "LINE-06",
+    "planned_qty": 13400,
+    "product_id": "P001",
+    "start_date": "2026-10-30",
+    "status": "IN_PROGRESS",
+    "wo_id": "WO-2026-000243"
+  },
+  {
+    "end_date": null,
+    "line_code": "LINE-02",
+    "planned_qty": 11200,
+    "product_id": "P007",
+    "start_date": "2026-10-31",
+    "status": "IN_PROGRESS",
+    "wo_id": "WO-2026-000244"
+  },
+  {
+    "end_date": null,
+    "line_code": "LINE-05",
+    "planned_qty": 7800,
+    "product_id": "P002",
+    "start_date": "2026-10-31",
+    "status": "IN_PROGRESS",
+    "wo_id": "WO-2026-000245"
+  },
+  {
+    "end_date": null,
+    "line_code": "LINE-04",
+    "planned_qty": 10800,
+    "product_id": "P004",
+    "start_date": "2026-11-03",
+    "status": "PLANNED",
+    "wo_id": "WO-2026-000246"
+  },
+  {
+    "end_date": null,
+    "line_code": "LINE-01",
+    "planned_qty": 6900,
+    "product_id": "P009",
+    "start_date": "2026-11-05",
+    "status": "PLANNED",
+    "wo_id": "WO-2026-000247"
+  },
+  {
+    "end_date": null,
+    "line_code": "LINE-02",
+    "planned_qty": 14500,
+    "product_id": "P001",
+    "start_date": "2026-11-14",
+    "status": "PLANNED",
+    "wo_id": "WO-2026-000248"
+  },
+  {
+    "end_date": null,
+    "line_code": "LINE-03",
+    "planned_qty": 6100,
+    "product_id": "P006",
+    "start_date": "2026-11-17",
+    "status": "PLANNED",
+    "wo_id": "WO-2026-000249"
+  },
+  {
+    "end_date": null,
+    "line_code": "LINE-01",
+    "planned_qty": 7700,
+    "product_id": "P002",
+    "start_date": "2026-11-20",
+    "status": "PLANNED",
+    "wo_id": "WO-2026-000250"
+  }
+]

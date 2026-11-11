@@ -1,0 +1,11 @@
+product_id,product_name,category,pack_size_kg,shelf_life_days,status
+P001,Butter Biscuits,BISCUIT,0.25,270,ACTIVE
+P002,Classic Truffles,CHOCOLATE,0.05,350,ACTIVE
+P003,Coconut Rusks,BISCUIT,0.35,258,ACTIVE
+P004,Classic Wafers,BISCUIT,0.25,270,ACTIVE
+P005,Masala Puffs,SNACK,0.1,145,ACTIVE
+P006,Choco Chip Wafers,BISCUIT,0.25,249,ACTIVE
+P007,Hazelnut Rusks,BISCUIT,0.15,248,ACTIVE
+P008,Ginger Biscuits,BISCUIT,0.25,235,ACTIVE
+P009,Cheese Cookies,BISCUIT,0.25,236,ACTIVE
+P010,Multigrain Bites,CHOCOLATE,0.2,286,ACTIVE

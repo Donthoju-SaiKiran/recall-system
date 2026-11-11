@@ -1,0 +1,82 @@
+[
+  {
+    "category": "BISCUIT",
+    "pack_size_kg": 0.25,
+    "product_id": "P001",
+    "product_name": "Butter Biscuits",
+    "shelf_life_days": 270,
+    "status": "ACTIVE"
+  },
+  {
+    "category": "CHOCOLATE",
+    "pack_size_kg": 0.05,
+    "product_id": "P002",
+    "product_name": "Classic Truffles",
+    "shelf_life_days": 350,
+    "status": "ACTIVE"
+  },
+  {
+    "category": "BISCUIT",
+    "pack_size_kg": 0.35,
+    "product_id": "P003",
+    "product_name": "Coconut Rusks",
+    "shelf_life_days": 258,
+    "status": "ACTIVE"
+  },
+  {
+    "category": "BISCUIT",
+    "pack_size_kg": 0.25,
+    "product_id": "P004",
+    "product_name": "Classic Wafers",
+    "shelf_life_days": 270,
+    "status": "ACTIVE"
+  },
+  {
+    "category": "SNACK",
+    "pack_size_kg": 0.1,
+    "product_id": "P005",
+    "product_name": "Masala Puffs",
+    "shelf_life_days": 145,
+    "status": "ACTIVE"
+  },
+  {
+    "category": "BISCUIT",
+    "pack_size_kg": 0.25,
+    "product_id": "P006",
+    "product_name": "Choco Chip Wafers",
+    "shelf_life_days": 249,
+    "status": "ACTIVE"
+  },
+  {
+    "category": "BISCUIT",
+    "pack_size_kg": 0.15,
+    "product_id": "P007",
+    "product_name": "Hazelnut Rusks",
+    "shelf_life_days": 248,
+    "status": "ACTIVE"
+  },
+  {
+    "category": "BISCUIT",
+    "pack_size_kg": 0.25,
+    "product_id": "P008",
+    "product_name": "Ginger Biscuits",
+    "shelf_life_days": 235,
+    "status": "ACTIVE"
+  },
+  {
+    "category": "BISCUIT",
+    "pack_size_kg": 0.25,
+    "product_id": "P009",
+    "product_name": "Cheese Cookies",
+    "shelf_life_days": 236,
+    "status": "ACTIVE"
+  },
+  {
+    "category": "CHOCOLATE",
+    "pack_size_kg": 0.2,
+    "product_id": "P010",
+    "product_name": "Multigrain Bites",
+    "shelf_life_days": 286,
+    "status": "ACTIVE"
+  }
+]

@@ -1,0 +1,143 @@
+{
+  "as_of": "2026-11-01",
+  "checks": {
+    "ARITH_CONSUMED": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "ARITH_DELIVERED": {
+      "issues": 2,
+      "status": "FAIL"
+    },
+    "ARITH_RECOVERED": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "CASE_STATUS": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "DATE_ORDER": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "DATE_VALID": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "DUPLICATE": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "ENUM": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "FK": {
+      "issues": 2,
+      "status": "FAIL"
+    },
+    "ID_FORMAT": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "LIFECYCLE_ORDER": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "PK_UNIQUE": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "POLY_TARGET": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "RANGE": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "REQUIRED": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "SALE_STATUS": {
+      "issues": 2,
+      "status": "FAIL"
+    },
+    "SCOPE_COVERAGE": {
+      "issues": 2,
+      "status": "FAIL"
+    },
+    "TYPE": {
+      "issues": 0,
+      "status": "PASS"
+    }
+  },
+  "result": "FAIL",
+  "row_counts": {
+    "bom_line": 54,
+    "customer": 75,
+    "delivery": 1000,
+    "finished_lot": 400,
+    "material_lot": 500,
+    "product": 10,
+    "production_order": 250,
+    "recall_action": 413,
+    "recall_case": 3,
+    "shipment": 600,
+    "supplier": 25,
+    "wo_input_lot": 1173
+  },
+  "sample_issues": [
+    {
+      "check": "FK",
+      "message": "raw_lot_id='RAWLOT-S0009-2026-900001' not found in material_lot.raw_lot_id",
+      "row_key": "WO-2026-000182|RAWLOT-S0009-2026-900001",
+      "table": "wo_input_lot"
+    },
+    {
+      "check": "FK",
+      "message": "raw_lot_id='RAWLOT-S0008-2026-900002' not found in material_lot.raw_lot_id",
+      "row_key": "WO-2026-000235|RAWLOT-S0008-2026-900002",
+      "table": "wo_input_lot"
+    },
+    {
+      "check": "ARITH_DELIVERED",
+      "message": "delivered 4799 exceeds produced 4162",
+      "row_key": "FINLOT-2026-000109",
+      "table": "finished_lot"
+    },
+    {
+      "check": "ARITH_DELIVERED",
+      "message": "delivered 1692 exceeds produced 1539",
+      "row_key": "FINLOT-2026-000396",
+      "table": "finished_lot"
+    },
+    {
+      "check": "SALE_STATUS",
+      "message": "lot is under recall but still AVAILABLE for sale",
+      "row_key": "FINLOT-2026-000170",
+      "table": "finished_lot"
+    },
+    {
+      "check": "SALE_STATUS",
+      "message": "lot is under recall but still AVAILABLE for sale",
+      "row_key": "FINLOT-2026-000231",
+      "table": "finished_lot"
+    },
+    {
+      "check": "SCOPE_COVERAGE",
+      "message": "customer C00042 received delivery DEL-2026-000514 in scope but was never notified",
+      "row_key": "REC-2026-000001|DEL-2026-000514",
+      "table": "recall_action"
+    },
+    {
+      "check": "SCOPE_COVERAGE",
+      "message": "customer C00022 received delivery DEL-2026-000217 in scope but was never notified",
+      "row_key": "REC-2026-000003|DEL-2026-000217",
+      "table": "recall_action"
+    }
+  ],
+  "total_issues": 8
+}

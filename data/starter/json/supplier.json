@@ -1,0 +1,202 @@
+[
+  {
+    "country": "CI",
+    "onboarded_date": "2019-07-16",
+    "status": "ACTIVE",
+    "supplier_id": "S0001",
+    "supplier_name": "Silverleaf Farms SA",
+    "tier": "C"
+  },
+  {
+    "country": "NL",
+    "onboarded_date": "2021-04-13",
+    "status": "ACTIVE",
+    "supplier_id": "S0002",
+    "supplier_name": "Summit Grain Pvt Ltd",
+    "tier": "B"
+  },
+  {
+    "country": "VN",
+    "onboarded_date": "2023-01-31",
+    "status": "SUSPENDED",
+    "supplier_id": "S0003",
+    "supplier_name": "Harbor Grain Pvt Ltd",
+    "tier": "B"
+  },
+  {
+    "country": "CI",
+    "onboarded_date": "2018-03-22",
+    "status": "SUSPENDED",
+    "supplier_id": "S0004",
+    "supplier_name": "Riverbend Refinery Inc",
+    "tier": "C"
+  },
+  {
+    "country": "VN",
+    "onboarded_date": "2021-01-29",
+    "status": "ACTIVE",
+    "supplier_id": "S0005",
+    "supplier_name": "Stonebridge Harvest SA",
+    "tier": "B"
+  },
+  {
+    "country": "VN",
+    "onboarded_date": "2021-10-04",
+    "status": "ACTIVE",
+    "supplier_id": "S0006",
+    "supplier_name": "Silverleaf Naturals Inc",
+    "tier": "B"
+  },
+  {
+    "country": "CI",
+    "onboarded_date": "2020-10-30",
+    "status": "SUSPENDED",
+    "supplier_id": "S0007",
+    "supplier_name": "Silverleaf Commodities SA",
+    "tier": "B"
+  },
+  {
+    "country": "BR",
+    "onboarded_date": "2019-11-08",
+    "status": "ACTIVE",
+    "supplier_id": "S0008",
+    "supplier_name": "Blue Naturals Pvt Ltd",
+    "tier": "C"
+  },
+  {
+    "country": "BR",
+    "onboarded_date": "2018-06-14",
+    "status": "ACTIVE",
+    "supplier_id": "S0009",
+    "supplier_name": "Meadow Mills Inc",
+    "tier": "B"
+  },
+  {
+    "country": "GH",
+    "onboarded_date": "2022-06-21",
+    "status": "ACTIVE",
+    "supplier_id": "S0010",
+    "supplier_name": "Clearwater Supply Inc",
+    "tier": "A"
+  },
+  {
+    "country": "GH",
+    "onboarded_date": "2018-03-23",
+    "status": "ACTIVE",
+    "supplier_id": "S0011",
+    "supplier_name": "Highland Foods Pvt Ltd",
+    "tier": "B"
+  },
+  {
+    "country": "US",
+    "onboarded_date": "2019-02-19",
+    "status": "ACTIVE",
+    "supplier_id": "S0012",
+    "supplier_name": "Highland Ingredients Inc",
+    "tier": "B"
+  },
+  {
+    "country": "ID",
+    "onboarded_date": "2024-07-29",
+    "status": "ACTIVE",
+    "supplier_id": "S0013",
+    "supplier_name": "Blue Commodities Ltd",
+    "tier": "A"
+  },
+  {
+    "country": "IN",
+    "onboarded_date": "2023-08-19",
+    "status": "ACTIVE",
+    "supplier_id": "S0014",
+    "supplier_name": "Oakline Foods GmbH",
+    "tier": "B"
+  },
+  {
+    "country": "IN",
+    "onboarded_date": "2024-08-25",
+    "status": "ACTIVE",
+    "supplier_id": "S0015",
+    "supplier_name": "Maple Cooperative SA",
+    "tier": "A"
+  },
+  {
+    "country": "ID",
+    "onboarded_date": "2022-03-04",
+    "status": "ACTIVE",
+    "supplier_id": "S0016",
+    "supplier_name": "Riverbend Naturals Co",
+    "tier": "B"
+  },
+  {
+    "country": "IN",
+    "onboarded_date": "2025-01-26",
+    "status": "ACTIVE",
+    "supplier_id": "S0017",
+    "supplier_name": "Northern Foods Pvt Ltd",
+    "tier": "A"
+  },
+  {
+    "country": "CI",
+    "onboarded_date": "2023-01-01",
+    "status": "ACTIVE",
+    "supplier_id": "S0018",
+    "supplier_name": "Summit Harvest Pvt Ltd",
+    "tier": "B"
+  },
+  {
+    "country": "IN",
+    "onboarded_date": "2025-03-31",
+    "status": "ACTIVE",
+    "supplier_id": "S0019",
+    "supplier_name": "Highland Refinery GmbH",
+    "tier": "B"
+  },
+  {
+    "country": "IN",
+    "onboarded_date": "2018-09-20",
+    "status": "ACTIVE",
+    "supplier_id": "S0020",
+    "supplier_name": "Redstone Traders Co",
+    "tier": "B"
+  },
+  {
+    "country": "NL",
+    "onboarded_date": "2021-05-08",
+    "status": "SUSPENDED",
+    "supplier_id": "S0021",
+    "supplier_name": "Maple Traders Inc",
+    "tier": "B"
+  },
+  {
+    "country": "IN",
+    "onboarded_date": "2025-05-25",
+    "status": "ACTIVE",
+    "supplier_id": "S0022",
+    "supplier_name": "Evergreen Harvest Ltd",
+    "tier": "A"
+  },
+  {
+    "country": "TR",
+    "onboarded_date": "2021-10-26",
+    "status": "ACTIVE",
+    "supplier_id": "S0023",
+    "supplier_name": "Golden Commodities Co",
+    "tier": "B"
+  },
+  {
+    "country": "GH",
+    "onboarded_date": "2025-01-18",
+    "status": "SUSPENDED",
+    "supplier_id": "S0024",
+    "supplier_name": "Sunrise Refinery Pvt Ltd",
+    "tier": "A"
+  },
+  {
+    "country": "IN",
+    "onboarded_date": "2023-04-23",
+    "status": "ACTIVE",
+    "supplier_id": "S0025",
+    "supplier_name": "Clearwater Agro Pvt Ltd",
+    "tier": "C"
+  }
+]

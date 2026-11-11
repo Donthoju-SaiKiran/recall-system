@@ -1,0 +1,156 @@
+{
+  "clean": {
+    "completion": {
+      "cases": 3,
+      "cases_closed_pct": 0.6667,
+      "deliveries_recovered_pct": 0.9404,
+      "notified_deliveries": 151,
+      "units_notified": 234661,
+      "units_recovered": 29555,
+      "units_recovered_pct": 0.1259
+    },
+    "scope": {
+      "overall": {
+        "customers_precision": 1.0,
+        "customers_recall": 1.0,
+        "deliveries_precision": 1.0,
+        "deliveries_recall": 1.0,
+        "finished_lots_precision": 1.0,
+        "finished_lots_recall": 1.0
+      },
+      "per_case": [
+        {
+          "bucket": "medium",
+          "customers_precision": 1.0,
+          "customers_recall": 1.0,
+          "deliveries_precision": 1.0,
+          "deliveries_recall": 1.0,
+          "finished_lots_precision": 1.0,
+          "finished_lots_recall": 1.0,
+          "recall_id": "REC-2026-000001"
+        },
+        {
+          "bucket": "unused",
+          "customers_precision": 1.0,
+          "customers_recall": 1.0,
+          "deliveries_precision": 1.0,
+          "deliveries_recall": 1.0,
+          "finished_lots_precision": 1.0,
+          "finished_lots_recall": 1.0,
+          "recall_id": "REC-2026-000002"
+        },
+        {
+          "bucket": "large",
+          "customers_precision": 1.0,
+          "customers_recall": 1.0,
+          "deliveries_precision": 1.0,
+          "deliveries_recall": 1.0,
+          "finished_lots_precision": 1.0,
+          "finished_lots_recall": 1.0,
+          "recall_id": "REC-2026-000003"
+        }
+      ]
+    },
+    "time_to_notify": {
+      "by_channel": {
+        "EMAIL": {
+          "count": 73,
+          "median_hours": 24.0,
+          "p90_hours": 31.0
+        },
+        "PHONE": {
+          "count": 18,
+          "median_hours": 78.0,
+          "p90_hours": 100.0
+        },
+        "PORTAL": {
+          "count": 60,
+          "median_hours": 28.0,
+          "p90_hours": 55.0
+        }
+      },
+      "overall": {
+        "count": 151,
+        "median_hours": 27.0,
+        "p90_hours": 55.0
+      }
+    }
+  },
+  "shipped": {
+    "completion": {
+      "cases": 3,
+      "cases_closed_pct": 0.6667,
+      "deliveries_recovered_pct": 0.9396,
+      "notified_deliveries": 149,
+      "units_notified": 232688,
+      "units_recovered": 29242,
+      "units_recovered_pct": 0.1257
+    },
+    "scope": {
+      "overall": {
+        "customers_precision": 1.0,
+        "customers_recall": 0.94,
+        "deliveries_precision": 1.0,
+        "deliveries_recall": 0.9603,
+        "finished_lots_precision": 1.0,
+        "finished_lots_recall": 0.9508
+      },
+      "per_case": [
+        {
+          "bucket": "medium",
+          "customers_precision": 1.0,
+          "customers_recall": 1.0,
+          "deliveries_precision": 1.0,
+          "deliveries_recall": 1.0,
+          "finished_lots_precision": 1.0,
+          "finished_lots_recall": 1.0,
+          "recall_id": "REC-2026-000001"
+        },
+        {
+          "bucket": "unused",
+          "customers_precision": 1.0,
+          "customers_recall": 1.0,
+          "deliveries_precision": 1.0,
+          "deliveries_recall": 1.0,
+          "finished_lots_precision": 1.0,
+          "finished_lots_recall": 1.0,
+          "recall_id": "REC-2026-000002"
+        },
+        {
+          "bucket": "large",
+          "customers_precision": 1.0,
+          "customers_recall": 0.9375,
+          "deliveries_precision": 1.0,
+          "deliveries_recall": 0.9597,
+          "finished_lots_precision": 1.0,
+          "finished_lots_recall": 0.95,
+          "recall_id": "REC-2026-000003"
+        }
+      ]
+    },
+    "time_to_notify": {
+      "by_channel": {
+        "EMAIL": {
+          "count": 72,
+          "median_hours": 24.0,
+          "p90_hours": 31.0
+        },
+        "PHONE": {
+          "count": 18,
+          "median_hours": 78.0,
+          "p90_hours": 100.0
+        },
+        "PORTAL": {
+          "count": 59,
+          "median_hours": 29.0,
+          "p90_hours": 55.0
+        }
+      },
+      "overall": {
+        "count": 149,
+        "median_hours": 27.0,
+        "p90_hours": 55.0
+      }
+    }
+  }
+}

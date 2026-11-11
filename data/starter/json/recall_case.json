@@ -1,0 +1,32 @@
+[
+  {
+    "closed_date": "2026-07-11",
+    "opened_date": "2026-07-05",
+    "reason_code": "CHEMICAL",
+    "recall_id": "REC-2026-000001",
+    "severity": "CLASS_I",
+    "status": "CLOSED",
+    "trigger_lot_id": "FINLOT-2026-000170",
+    "trigger_lot_type": "FINISHED"
+  },
+  {
+    "closed_date": "2026-08-21",
+    "opened_date": "2026-08-10",
+    "reason_code": "CHEMICAL",
+    "recall_id": "REC-2026-000002",
+    "severity": "CLASS_III",
+    "status": "CLOSED",
+    "trigger_lot_id": "RAWLOT-S0002-2026-000359",
+    "trigger_lot_type": "RAW"
+  },
+  {
+    "closed_date": null,
+    "opened_date": "2026-10-06",
+    "reason_code": "PATHOGEN",
+    "recall_id": "REC-2026-000003",
+    "severity": "CLASS_I",
+    "status": "IN_PROGRESS",
+    "trigger_lot_id": "RAWLOT-S0009-2026-000143",
+    "trigger_lot_type": "RAW"
+  }
+]

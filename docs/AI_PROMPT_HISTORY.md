@@ -118,5 +118,15 @@ next
 go
 ```
 
+**P22.** (asked to explain Phase 7)
+```
+next
+```
+
+**P23.** (approved building Phase 7; gave no choice on the two open decisions, recommended 1a and 2 yes were used)
+```
+go
+```
+
 ## Claude Code in Antigravity IDE
 Continue the list here. Copy each prompt you send.

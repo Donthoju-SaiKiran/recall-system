@@ -1,0 +1,3202 @@
+[
+  {
+    "expiry_date": "2026-10-03",
+    "finished_lot_id": "FINLOT-2026-000001",
+    "produced_date": "2026-02-09",
+    "qty_produced": 10455,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000005"
+  },
+  {
+    "expiry_date": "2026-10-04",
+    "finished_lot_id": "FINLOT-2026-000002",
+    "produced_date": "2026-02-10",
+    "qty_produced": 6813,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000005"
+  },
+  {
+    "expiry_date": "2026-11-08",
+    "finished_lot_id": "FINLOT-2026-000003",
+    "produced_date": "2026-02-11",
+    "qty_produced": 14634,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000007"
+  },
+  {
+    "expiry_date": "2026-10-27",
+    "finished_lot_id": "FINLOT-2026-000004",
+    "produced_date": "2026-02-11",
+    "qty_produced": 3467,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000008"
+  },
+  {
+    "expiry_date": "2026-10-28",
+    "finished_lot_id": "FINLOT-2026-000005",
+    "produced_date": "2026-02-12",
+    "qty_produced": 3776,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000008"
+  },
+  {
+    "expiry_date": "2026-10-28",
+    "finished_lot_id": "FINLOT-2026-000006",
+    "produced_date": "2026-02-12",
+    "qty_produced": 5635,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000008"
+  },
+  {
+    "expiry_date": "2026-10-06",
+    "finished_lot_id": "FINLOT-2026-000007",
+    "produced_date": "2026-02-12",
+    "qty_produced": 2486,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000010"
+  },
+  {
+    "expiry_date": "2026-10-07",
+    "finished_lot_id": "FINLOT-2026-000008",
+    "produced_date": "2026-02-13",
+    "qty_produced": 2249,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000011"
+  },
+  {
+    "expiry_date": "2026-10-07",
+    "finished_lot_id": "FINLOT-2026-000009",
+    "produced_date": "2026-02-13",
+    "qty_produced": 5821,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000011"
+  },
+  {
+    "expiry_date": "2026-10-08",
+    "finished_lot_id": "FINLOT-2026-000010",
+    "produced_date": "2026-02-14",
+    "qty_produced": 1406,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000011"
+  },
+  {
+    "expiry_date": "2026-10-08",
+    "finished_lot_id": "FINLOT-2026-000011",
+    "produced_date": "2026-02-14",
+    "qty_produced": 3572,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000011"
+  },
+  {
+    "expiry_date": "2026-10-30",
+    "finished_lot_id": "FINLOT-2026-000012",
+    "produced_date": "2026-02-14",
+    "qty_produced": 1932,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000014"
+  },
+  {
+    "expiry_date": "2026-10-30",
+    "finished_lot_id": "FINLOT-2026-000013",
+    "produced_date": "2026-02-14",
+    "qty_produced": 10072,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000014"
+  },
+  {
+    "expiry_date": "2026-10-10",
+    "finished_lot_id": "FINLOT-2026-000014",
+    "produced_date": "2026-02-16",
+    "qty_produced": 7407,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000010"
+  },
+  {
+    "expiry_date": "2026-10-17",
+    "finished_lot_id": "FINLOT-2026-000015",
+    "produced_date": "2026-02-23",
+    "qty_produced": 10982,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000019"
+  },
+  {
+    "expiry_date": "2026-10-23",
+    "finished_lot_id": "FINLOT-2026-000016",
+    "produced_date": "2026-03-01",
+    "qty_produced": 7825,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000026"
+  },
+  {
+    "expiry_date": "2026-12-03",
+    "finished_lot_id": "FINLOT-2026-000017",
+    "produced_date": "2026-03-08",
+    "qty_produced": 14098,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000029"
+  },
+  {
+    "expiry_date": "2026-12-04",
+    "finished_lot_id": "FINLOT-2026-000018",
+    "produced_date": "2026-03-09",
+    "qty_produced": 3426,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000029"
+  },
+  {
+    "expiry_date": "2026-12-11",
+    "finished_lot_id": "FINLOT-2026-000019",
+    "produced_date": "2026-03-16",
+    "qty_produced": 3784,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000031"
+  },
+  {
+    "expiry_date": "2026-12-11",
+    "finished_lot_id": "FINLOT-2026-000020",
+    "produced_date": "2026-03-16",
+    "qty_produced": 6057,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000031"
+  },
+  {
+    "expiry_date": "2026-11-29",
+    "finished_lot_id": "FINLOT-2026-000021",
+    "produced_date": "2026-03-16",
+    "qty_produced": 13230,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000034"
+  },
+  {
+    "expiry_date": "2026-12-12",
+    "finished_lot_id": "FINLOT-2026-000022",
+    "produced_date": "2026-03-17",
+    "qty_produced": 17255,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000032"
+  },
+  {
+    "expiry_date": "2026-12-29",
+    "finished_lot_id": "FINLOT-2026-000023",
+    "produced_date": "2026-03-18",
+    "qty_produced": 2426,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000036"
+  },
+  {
+    "expiry_date": "2026-12-29",
+    "finished_lot_id": "FINLOT-2026-000024",
+    "produced_date": "2026-03-18",
+    "qty_produced": 6373,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000036"
+  },
+  {
+    "expiry_date": "2026-12-02",
+    "finished_lot_id": "FINLOT-2026-000025",
+    "produced_date": "2026-03-19",
+    "qty_produced": 3800,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000034"
+  },
+  {
+    "expiry_date": "2026-11-11",
+    "finished_lot_id": "FINLOT-2026-000026",
+    "produced_date": "2026-03-20",
+    "qty_produced": 4108,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000035"
+  },
+  {
+    "expiry_date": "2026-11-11",
+    "finished_lot_id": "FINLOT-2026-000027",
+    "produced_date": "2026-03-20",
+    "qty_produced": 7389,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000035"
+  },
+  {
+    "expiry_date": "2026-11-24",
+    "finished_lot_id": "FINLOT-2026-000028",
+    "produced_date": "2026-03-20",
+    "qty_produced": 5626,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000037"
+  },
+  {
+    "expiry_date": "2026-11-12",
+    "finished_lot_id": "FINLOT-2026-000029",
+    "produced_date": "2026-03-21",
+    "qty_produced": 4513,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000035"
+  },
+  {
+    "expiry_date": "2026-12-16",
+    "finished_lot_id": "FINLOT-2026-000030",
+    "produced_date": "2026-03-21",
+    "qty_produced": 1904,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000041"
+  },
+  {
+    "expiry_date": "2026-12-17",
+    "finished_lot_id": "FINLOT-2026-000031",
+    "produced_date": "2026-03-22",
+    "qty_produced": 4258,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000038"
+  },
+  {
+    "expiry_date": "2026-12-05",
+    "finished_lot_id": "FINLOT-2026-000032",
+    "produced_date": "2026-03-22",
+    "qty_produced": 1607,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000039"
+  },
+  {
+    "expiry_date": "2026-12-05",
+    "finished_lot_id": "FINLOT-2026-000033",
+    "produced_date": "2026-03-22",
+    "qty_produced": 2905,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000039"
+  },
+  {
+    "expiry_date": "2026-12-17",
+    "finished_lot_id": "FINLOT-2026-000034",
+    "produced_date": "2026-03-22",
+    "qty_produced": 2470,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000041"
+  },
+  {
+    "expiry_date": "2026-12-17",
+    "finished_lot_id": "FINLOT-2026-000035",
+    "produced_date": "2026-03-22",
+    "qty_produced": 15145,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000043"
+  },
+  {
+    "expiry_date": "2026-11-27",
+    "finished_lot_id": "FINLOT-2026-000036",
+    "produced_date": "2026-03-23",
+    "qty_produced": 8237,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000037"
+  },
+  {
+    "expiry_date": "2026-12-19",
+    "finished_lot_id": "FINLOT-2026-000037",
+    "produced_date": "2026-03-24",
+    "qty_produced": 5249,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000040"
+  },
+  {
+    "expiry_date": "2026-11-28",
+    "finished_lot_id": "FINLOT-2026-000038",
+    "produced_date": "2026-03-25",
+    "qty_produced": 14056,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000045"
+  },
+  {
+    "expiry_date": "2026-11-29",
+    "finished_lot_id": "FINLOT-2026-000039",
+    "produced_date": "2026-03-26",
+    "qty_produced": 3077,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000044"
+  },
+  {
+    "expiry_date": "2026-11-29",
+    "finished_lot_id": "FINLOT-2026-000040",
+    "produced_date": "2026-03-26",
+    "qty_produced": 5515,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000044"
+  },
+  {
+    "expiry_date": "2026-11-18",
+    "finished_lot_id": "FINLOT-2026-000041",
+    "produced_date": "2026-03-28",
+    "qty_produced": 932,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000047"
+  },
+  {
+    "expiry_date": "2026-12-01",
+    "finished_lot_id": "FINLOT-2026-000042",
+    "produced_date": "2026-03-28",
+    "qty_produced": 4545,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000048"
+  },
+  {
+    "expiry_date": "2026-12-01",
+    "finished_lot_id": "FINLOT-2026-000043",
+    "produced_date": "2026-03-28",
+    "qty_produced": 5409,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000048"
+  },
+  {
+    "expiry_date": "2027-03-13",
+    "finished_lot_id": "FINLOT-2026-000044",
+    "produced_date": "2026-03-28",
+    "qty_produced": 3636,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000049"
+  },
+  {
+    "expiry_date": "2026-12-01",
+    "finished_lot_id": "FINLOT-2026-000045",
+    "produced_date": "2026-03-28",
+    "qty_produced": 5441,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000051"
+  },
+  {
+    "expiry_date": "2026-12-01",
+    "finished_lot_id": "FINLOT-2026-000046",
+    "produced_date": "2026-03-28",
+    "qty_produced": 7089,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000051"
+  },
+  {
+    "expiry_date": "2026-11-19",
+    "finished_lot_id": "FINLOT-2026-000047",
+    "produced_date": "2026-03-29",
+    "qty_produced": 2928,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000047"
+  },
+  {
+    "expiry_date": "2026-12-03",
+    "finished_lot_id": "FINLOT-2026-000048",
+    "produced_date": "2026-03-29",
+    "qty_produced": 1895,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000050"
+  },
+  {
+    "expiry_date": "2026-12-03",
+    "finished_lot_id": "FINLOT-2026-000049",
+    "produced_date": "2026-03-29",
+    "qty_produced": 2007,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000050"
+  },
+  {
+    "expiry_date": "2026-12-03",
+    "finished_lot_id": "FINLOT-2026-000050",
+    "produced_date": "2026-03-29",
+    "qty_produced": 7655,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000050"
+  },
+  {
+    "expiry_date": "2026-12-02",
+    "finished_lot_id": "FINLOT-2026-000051",
+    "produced_date": "2026-03-29",
+    "qty_produced": 2996,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000051"
+  },
+  {
+    "expiry_date": "2026-12-02",
+    "finished_lot_id": "FINLOT-2026-000052",
+    "produced_date": "2026-03-29",
+    "qty_produced": 3124,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000051"
+  },
+  {
+    "expiry_date": "2027-03-16",
+    "finished_lot_id": "FINLOT-2026-000053",
+    "produced_date": "2026-03-31",
+    "qty_produced": 441,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000049"
+  },
+  {
+    "expiry_date": "2026-12-26",
+    "finished_lot_id": "FINLOT-2026-000054",
+    "produced_date": "2026-03-31",
+    "qty_produced": 1509,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000052"
+  },
+  {
+    "expiry_date": "2026-08-23",
+    "finished_lot_id": "FINLOT-2026-000055",
+    "produced_date": "2026-03-31",
+    "qty_produced": 5635,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000053"
+  },
+  {
+    "expiry_date": "2026-12-27",
+    "finished_lot_id": "FINLOT-2026-000056",
+    "produced_date": "2026-04-01",
+    "qty_produced": 1832,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000052"
+  },
+  {
+    "expiry_date": "2026-12-27",
+    "finished_lot_id": "FINLOT-2026-000057",
+    "produced_date": "2026-04-01",
+    "qty_produced": 3889,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000052"
+  },
+  {
+    "expiry_date": "2026-08-24",
+    "finished_lot_id": "FINLOT-2026-000058",
+    "produced_date": "2026-04-01",
+    "qty_produced": 10929,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000053"
+  },
+  {
+    "expiry_date": "2026-12-28",
+    "finished_lot_id": "FINLOT-2026-000059",
+    "produced_date": "2026-04-02",
+    "qty_produced": 4265,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000052"
+  },
+  {
+    "expiry_date": "2026-12-07",
+    "finished_lot_id": "FINLOT-2026-000060",
+    "produced_date": "2026-04-03",
+    "qty_produced": 7019,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000055"
+  },
+  {
+    "expiry_date": "2026-08-26",
+    "finished_lot_id": "FINLOT-2026-000061",
+    "produced_date": "2026-04-03",
+    "qty_produced": 4251,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000056"
+  },
+  {
+    "expiry_date": "2026-08-27",
+    "finished_lot_id": "FINLOT-2026-000062",
+    "produced_date": "2026-04-04",
+    "qty_produced": 1206,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000056"
+  },
+  {
+    "expiry_date": "2026-08-29",
+    "finished_lot_id": "FINLOT-2026-000063",
+    "produced_date": "2026-04-06",
+    "qty_produced": 2338,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000056"
+  },
+  {
+    "expiry_date": "2026-11-28",
+    "finished_lot_id": "FINLOT-2026-000064",
+    "produced_date": "2026-04-06",
+    "qty_produced": 6126,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000057"
+  },
+  {
+    "expiry_date": "2026-11-28",
+    "finished_lot_id": "FINLOT-2026-000065",
+    "produced_date": "2026-04-06",
+    "qty_produced": 8936,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000057"
+  },
+  {
+    "expiry_date": "2027-01-02",
+    "finished_lot_id": "FINLOT-2026-000066",
+    "produced_date": "2026-04-07",
+    "qty_produced": 1227,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000059"
+  },
+  {
+    "expiry_date": "2026-12-23",
+    "finished_lot_id": "FINLOT-2026-000067",
+    "produced_date": "2026-04-09",
+    "qty_produced": 2301,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000058"
+  },
+  {
+    "expiry_date": "2026-12-23",
+    "finished_lot_id": "FINLOT-2026-000068",
+    "produced_date": "2026-04-09",
+    "qty_produced": 3498,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000058"
+  },
+  {
+    "expiry_date": "2027-01-04",
+    "finished_lot_id": "FINLOT-2026-000069",
+    "produced_date": "2026-04-09",
+    "qty_produced": 2565,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000059"
+  },
+  {
+    "expiry_date": "2027-01-06",
+    "finished_lot_id": "FINLOT-2026-000070",
+    "produced_date": "2026-04-11",
+    "qty_produced": 4862,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000059"
+  },
+  {
+    "expiry_date": "2027-01-07",
+    "finished_lot_id": "FINLOT-2026-000071",
+    "produced_date": "2026-04-12",
+    "qty_produced": 5192,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000061"
+  },
+  {
+    "expiry_date": "2026-12-16",
+    "finished_lot_id": "FINLOT-2026-000072",
+    "produced_date": "2026-04-12",
+    "qty_produced": 7121,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000063"
+  },
+  {
+    "expiry_date": "2026-12-16",
+    "finished_lot_id": "FINLOT-2026-000073",
+    "produced_date": "2026-04-12",
+    "qty_produced": 2502,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000064"
+  },
+  {
+    "expiry_date": "2026-12-16",
+    "finished_lot_id": "FINLOT-2026-000074",
+    "produced_date": "2026-04-12",
+    "qty_produced": 6214,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000064"
+  },
+  {
+    "expiry_date": "2026-09-05",
+    "finished_lot_id": "FINLOT-2026-000075",
+    "produced_date": "2026-04-13",
+    "qty_produced": 10011,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000062"
+  },
+  {
+    "expiry_date": "2026-12-17",
+    "finished_lot_id": "FINLOT-2026-000076",
+    "produced_date": "2026-04-13",
+    "qty_produced": 1170,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000064"
+  },
+  {
+    "expiry_date": "2027-03-29",
+    "finished_lot_id": "FINLOT-2026-000077",
+    "produced_date": "2026-04-13",
+    "qty_produced": 302,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000065"
+  },
+  {
+    "expiry_date": "2026-12-08",
+    "finished_lot_id": "FINLOT-2026-000078",
+    "produced_date": "2026-04-16",
+    "qty_produced": 4528,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000069"
+  },
+  {
+    "expiry_date": "2027-01-27",
+    "finished_lot_id": "FINLOT-2026-000079",
+    "produced_date": "2026-04-16",
+    "qty_produced": 1240,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000070"
+  },
+  {
+    "expiry_date": "2027-04-02",
+    "finished_lot_id": "FINLOT-2026-000080",
+    "produced_date": "2026-04-17",
+    "qty_produced": 661,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000065"
+  },
+  {
+    "expiry_date": "2027-04-02",
+    "finished_lot_id": "FINLOT-2026-000081",
+    "produced_date": "2026-04-17",
+    "qty_produced": 1433,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000065"
+  },
+  {
+    "expiry_date": "2026-12-21",
+    "finished_lot_id": "FINLOT-2026-000082",
+    "produced_date": "2026-04-17",
+    "qty_produced": 17512,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000066"
+  },
+  {
+    "expiry_date": "2027-01-12",
+    "finished_lot_id": "FINLOT-2026-000083",
+    "produced_date": "2026-04-17",
+    "qty_produced": 3107,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000068"
+  },
+  {
+    "expiry_date": "2026-12-09",
+    "finished_lot_id": "FINLOT-2026-000084",
+    "produced_date": "2026-04-17",
+    "qty_produced": 674,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000069"
+  },
+  {
+    "expiry_date": "2026-12-09",
+    "finished_lot_id": "FINLOT-2026-000085",
+    "produced_date": "2026-04-17",
+    "qty_produced": 774,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000069"
+  },
+  {
+    "expiry_date": "2027-01-29",
+    "finished_lot_id": "FINLOT-2026-000086",
+    "produced_date": "2026-04-18",
+    "qty_produced": 2406,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000070"
+  },
+  {
+    "expiry_date": "2027-01-15",
+    "finished_lot_id": "FINLOT-2026-000087",
+    "produced_date": "2026-04-20",
+    "qty_produced": 9137,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000068"
+  },
+  {
+    "expiry_date": "2027-01-15",
+    "finished_lot_id": "FINLOT-2026-000088",
+    "produced_date": "2026-04-20",
+    "qty_produced": 3716,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000071"
+  },
+  {
+    "expiry_date": "2027-01-16",
+    "finished_lot_id": "FINLOT-2026-000089",
+    "produced_date": "2026-04-21",
+    "qty_produced": 14255,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000071"
+  },
+  {
+    "expiry_date": "2027-04-06",
+    "finished_lot_id": "FINLOT-2026-000090",
+    "produced_date": "2026-04-21",
+    "qty_produced": 4254,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000072"
+  },
+  {
+    "expiry_date": "2027-04-07",
+    "finished_lot_id": "FINLOT-2026-000091",
+    "produced_date": "2026-04-22",
+    "qty_produced": 2143,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000072"
+  },
+  {
+    "expiry_date": "2026-12-14",
+    "finished_lot_id": "FINLOT-2026-000092",
+    "produced_date": "2026-04-22",
+    "qty_produced": 4348,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000073"
+  },
+  {
+    "expiry_date": "2026-09-17",
+    "finished_lot_id": "FINLOT-2026-000093",
+    "produced_date": "2026-04-25",
+    "qty_produced": 3274,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000074"
+  },
+  {
+    "expiry_date": "2026-12-18",
+    "finished_lot_id": "FINLOT-2026-000094",
+    "produced_date": "2026-04-26",
+    "qty_produced": 6511,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000073"
+  },
+  {
+    "expiry_date": "2027-01-09",
+    "finished_lot_id": "FINLOT-2026-000095",
+    "produced_date": "2026-04-26",
+    "qty_produced": 4265,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000075"
+  },
+  {
+    "expiry_date": "2027-01-10",
+    "finished_lot_id": "FINLOT-2026-000096",
+    "produced_date": "2026-04-27",
+    "qty_produced": 3800,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000077"
+  },
+  {
+    "expiry_date": "2027-01-10",
+    "finished_lot_id": "FINLOT-2026-000097",
+    "produced_date": "2026-04-27",
+    "qty_produced": 12542,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000077"
+  },
+  {
+    "expiry_date": "2027-01-10",
+    "finished_lot_id": "FINLOT-2026-000098",
+    "produced_date": "2026-04-27",
+    "qty_produced": 12076,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000078"
+  },
+  {
+    "expiry_date": "2027-01-11",
+    "finished_lot_id": "FINLOT-2026-000099",
+    "produced_date": "2026-04-28",
+    "qty_produced": 4908,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000078"
+  },
+  {
+    "expiry_date": "2027-01-12",
+    "finished_lot_id": "FINLOT-2026-000100",
+    "produced_date": "2026-04-29",
+    "qty_produced": 1087,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000075"
+  },
+  {
+    "expiry_date": "2026-12-21",
+    "finished_lot_id": "FINLOT-2026-000101",
+    "produced_date": "2026-04-29",
+    "qty_produced": 10003,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000076"
+  },
+  {
+    "expiry_date": "2027-01-02",
+    "finished_lot_id": "FINLOT-2026-000102",
+    "produced_date": "2026-04-29",
+    "qty_produced": 1201,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000079"
+  },
+  {
+    "expiry_date": "2027-01-02",
+    "finished_lot_id": "FINLOT-2026-000103",
+    "produced_date": "2026-04-29",
+    "qty_produced": 2446,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000079"
+  },
+  {
+    "expiry_date": "2027-01-24",
+    "finished_lot_id": "FINLOT-2026-000104",
+    "produced_date": "2026-04-29",
+    "qty_produced": 8153,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000081"
+  },
+  {
+    "expiry_date": "2027-01-03",
+    "finished_lot_id": "FINLOT-2026-000105",
+    "produced_date": "2026-04-30",
+    "qty_produced": 2189,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000079"
+  },
+  {
+    "expiry_date": "2027-01-03",
+    "finished_lot_id": "FINLOT-2026-000106",
+    "produced_date": "2026-04-30",
+    "qty_produced": 2347,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000079"
+  },
+  {
+    "expiry_date": "2027-04-16",
+    "finished_lot_id": "FINLOT-2026-000107",
+    "produced_date": "2026-05-01",
+    "qty_produced": 8334,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000080"
+  },
+  {
+    "expiry_date": "2027-01-26",
+    "finished_lot_id": "FINLOT-2026-000108",
+    "produced_date": "2026-05-01",
+    "qty_produced": 2805,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000081"
+  },
+  {
+    "expiry_date": "2027-01-29",
+    "finished_lot_id": "FINLOT-2026-000109",
+    "produced_date": "2026-05-04",
+    "qty_produced": 4162,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000081"
+  },
+  {
+    "expiry_date": "2027-02-15",
+    "finished_lot_id": "FINLOT-2026-000110",
+    "produced_date": "2026-05-05",
+    "qty_produced": 3630,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000083"
+  },
+  {
+    "expiry_date": "2027-01-19",
+    "finished_lot_id": "FINLOT-2026-000111",
+    "produced_date": "2026-05-06",
+    "qty_produced": 2249,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000084"
+  },
+  {
+    "expiry_date": "2027-01-19",
+    "finished_lot_id": "FINLOT-2026-000112",
+    "produced_date": "2026-05-06",
+    "qty_produced": 7794,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000084"
+  },
+  {
+    "expiry_date": "2027-01-31",
+    "finished_lot_id": "FINLOT-2026-000113",
+    "produced_date": "2026-05-06",
+    "qty_produced": 3764,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000085"
+  },
+  {
+    "expiry_date": "2027-02-01",
+    "finished_lot_id": "FINLOT-2026-000114",
+    "produced_date": "2026-05-07",
+    "qty_produced": 15776,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000082"
+  },
+  {
+    "expiry_date": "2027-02-01",
+    "finished_lot_id": "FINLOT-2026-000115",
+    "produced_date": "2026-05-07",
+    "qty_produced": 3612,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000085"
+  },
+  {
+    "expiry_date": "2027-02-02",
+    "finished_lot_id": "FINLOT-2026-000116",
+    "produced_date": "2026-05-08",
+    "qty_produced": 6513,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000085"
+  },
+  {
+    "expiry_date": "2027-01-14",
+    "finished_lot_id": "FINLOT-2026-000117",
+    "produced_date": "2026-05-10",
+    "qty_produced": 3408,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000086"
+  },
+  {
+    "expiry_date": "2027-01-15",
+    "finished_lot_id": "FINLOT-2026-000118",
+    "produced_date": "2026-05-11",
+    "qty_produced": 4936,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000086"
+  },
+  {
+    "expiry_date": "2027-01-04",
+    "finished_lot_id": "FINLOT-2026-000119",
+    "produced_date": "2026-05-13",
+    "qty_produced": 3049,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000088"
+  },
+  {
+    "expiry_date": "2027-01-04",
+    "finished_lot_id": "FINLOT-2026-000120",
+    "produced_date": "2026-05-13",
+    "qty_produced": 3322,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000088"
+  },
+  {
+    "expiry_date": "2027-01-06",
+    "finished_lot_id": "FINLOT-2026-000121",
+    "produced_date": "2026-05-15",
+    "qty_produced": 9713,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000088"
+  },
+  {
+    "expiry_date": "2027-02-13",
+    "finished_lot_id": "FINLOT-2026-000122",
+    "produced_date": "2026-05-19",
+    "qty_produced": 1856,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000089"
+  },
+  {
+    "expiry_date": "2027-02-14",
+    "finished_lot_id": "FINLOT-2026-000123",
+    "produced_date": "2026-05-20",
+    "qty_produced": 1200,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000089"
+  },
+  {
+    "expiry_date": "2027-01-24",
+    "finished_lot_id": "FINLOT-2026-000124",
+    "produced_date": "2026-05-21",
+    "qty_produced": 7878,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000092"
+  },
+  {
+    "expiry_date": "2027-01-25",
+    "finished_lot_id": "FINLOT-2026-000125",
+    "produced_date": "2026-05-22",
+    "qty_produced": 4862,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000093"
+  },
+  {
+    "expiry_date": "2027-02-17",
+    "finished_lot_id": "FINLOT-2026-000126",
+    "produced_date": "2026-05-23",
+    "qty_produced": 16650,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000091"
+  },
+  {
+    "expiry_date": "2027-01-26",
+    "finished_lot_id": "FINLOT-2026-000127",
+    "produced_date": "2026-05-23",
+    "qty_produced": 5722,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000094"
+  },
+  {
+    "expiry_date": "2027-01-27",
+    "finished_lot_id": "FINLOT-2026-000128",
+    "produced_date": "2026-05-24",
+    "qty_produced": 13407,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000094"
+  },
+  {
+    "expiry_date": "2027-02-19",
+    "finished_lot_id": "FINLOT-2026-000129",
+    "produced_date": "2026-05-25",
+    "qty_produced": 2183,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000095"
+  },
+  {
+    "expiry_date": "2027-02-19",
+    "finished_lot_id": "FINLOT-2026-000130",
+    "produced_date": "2026-05-25",
+    "qty_produced": 2708,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000095"
+  },
+  {
+    "expiry_date": "2027-02-19",
+    "finished_lot_id": "FINLOT-2026-000131",
+    "produced_date": "2026-05-25",
+    "qty_produced": 4074,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000095"
+  },
+  {
+    "expiry_date": "2027-01-29",
+    "finished_lot_id": "FINLOT-2026-000132",
+    "produced_date": "2026-05-26",
+    "qty_produced": 5275,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000093"
+  },
+  {
+    "expiry_date": "2027-02-20",
+    "finished_lot_id": "FINLOT-2026-000133",
+    "produced_date": "2026-05-26",
+    "qty_produced": 7714,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000095"
+  },
+  {
+    "expiry_date": "2026-10-19",
+    "finished_lot_id": "FINLOT-2026-000134",
+    "produced_date": "2026-05-27",
+    "qty_produced": 9412,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000096"
+  },
+  {
+    "expiry_date": "2026-10-20",
+    "finished_lot_id": "FINLOT-2026-000135",
+    "produced_date": "2026-05-28",
+    "qty_produced": 1098,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000096"
+  },
+  {
+    "expiry_date": "2027-02-10",
+    "finished_lot_id": "FINLOT-2026-000136",
+    "produced_date": "2026-05-28",
+    "qty_produced": 6017,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000097"
+  },
+  {
+    "expiry_date": "2027-02-10",
+    "finished_lot_id": "FINLOT-2026-000137",
+    "produced_date": "2026-05-28",
+    "qty_produced": 6842,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000097"
+  },
+  {
+    "expiry_date": "2027-02-11",
+    "finished_lot_id": "FINLOT-2026-000138",
+    "produced_date": "2026-05-29",
+    "qty_produced": 899,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000099"
+  },
+  {
+    "expiry_date": "2027-02-11",
+    "finished_lot_id": "FINLOT-2026-000139",
+    "produced_date": "2026-05-29",
+    "qty_produced": 1336,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000099"
+  },
+  {
+    "expiry_date": "2027-02-01",
+    "finished_lot_id": "FINLOT-2026-000140",
+    "produced_date": "2026-05-29",
+    "qty_produced": 16666,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000100"
+  },
+  {
+    "expiry_date": "2027-02-12",
+    "finished_lot_id": "FINLOT-2026-000141",
+    "produced_date": "2026-05-30",
+    "qty_produced": 1579,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000099"
+  },
+  {
+    "expiry_date": "2027-02-12",
+    "finished_lot_id": "FINLOT-2026-000142",
+    "produced_date": "2026-05-30",
+    "qty_produced": 1779,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000099"
+  },
+  {
+    "expiry_date": "2027-05-15",
+    "finished_lot_id": "FINLOT-2026-000143",
+    "produced_date": "2026-05-30",
+    "qty_produced": 8749,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000101"
+  },
+  {
+    "expiry_date": "2027-03-14",
+    "finished_lot_id": "FINLOT-2026-000144",
+    "produced_date": "2026-06-01",
+    "qty_produced": 10297,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000098"
+  },
+  {
+    "expiry_date": "2026-10-24",
+    "finished_lot_id": "FINLOT-2026-000145",
+    "produced_date": "2026-06-01",
+    "qty_produced": 6154,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000102"
+  },
+  {
+    "expiry_date": "2027-02-14",
+    "finished_lot_id": "FINLOT-2026-000146",
+    "produced_date": "2026-06-01",
+    "qty_produced": 15990,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000103"
+  },
+  {
+    "expiry_date": "2027-02-26",
+    "finished_lot_id": "FINLOT-2026-000147",
+    "produced_date": "2026-06-01",
+    "qty_produced": 2234,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000104"
+  },
+  {
+    "expiry_date": "2027-02-26",
+    "finished_lot_id": "FINLOT-2026-000148",
+    "produced_date": "2026-06-01",
+    "qty_produced": 3370,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000106"
+  },
+  {
+    "expiry_date": "2026-10-25",
+    "finished_lot_id": "FINLOT-2026-000149",
+    "produced_date": "2026-06-02",
+    "qty_produced": 5427,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000102"
+  },
+  {
+    "expiry_date": "2027-02-27",
+    "finished_lot_id": "FINLOT-2026-000150",
+    "produced_date": "2026-06-02",
+    "qty_produced": 1684,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000104"
+  },
+  {
+    "expiry_date": "2027-02-27",
+    "finished_lot_id": "FINLOT-2026-000151",
+    "produced_date": "2026-06-02",
+    "qty_produced": 5078,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000104"
+  },
+  {
+    "expiry_date": "2027-02-27",
+    "finished_lot_id": "FINLOT-2026-000152",
+    "produced_date": "2026-06-02",
+    "qty_produced": 1624,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000106"
+  },
+  {
+    "expiry_date": "2027-02-28",
+    "finished_lot_id": "FINLOT-2026-000153",
+    "produced_date": "2026-06-03",
+    "qty_produced": 5584,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000106"
+  },
+  {
+    "expiry_date": "2027-02-17",
+    "finished_lot_id": "FINLOT-2026-000154",
+    "produced_date": "2026-06-04",
+    "qty_produced": 5206,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000105"
+  },
+  {
+    "expiry_date": "2026-10-27",
+    "finished_lot_id": "FINLOT-2026-000155",
+    "produced_date": "2026-06-04",
+    "qty_produced": 1665,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000107"
+  },
+  {
+    "expiry_date": "2026-10-28",
+    "finished_lot_id": "FINLOT-2026-000156",
+    "produced_date": "2026-06-05",
+    "qty_produced": 518,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000107"
+  },
+  {
+    "expiry_date": "2026-10-29",
+    "finished_lot_id": "FINLOT-2026-000157",
+    "produced_date": "2026-06-06",
+    "qty_produced": 627,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000107"
+  },
+  {
+    "expiry_date": "2026-10-30",
+    "finished_lot_id": "FINLOT-2026-000158",
+    "produced_date": "2026-06-07",
+    "qty_produced": 1899,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000107"
+  },
+  {
+    "expiry_date": "2027-01-30",
+    "finished_lot_id": "FINLOT-2026-000159",
+    "produced_date": "2026-06-08",
+    "qty_produced": 11295,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000109"
+  },
+  {
+    "expiry_date": "2027-05-25",
+    "finished_lot_id": "FINLOT-2026-000160",
+    "produced_date": "2026-06-09",
+    "qty_produced": 1264,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000108"
+  },
+  {
+    "expiry_date": "2027-05-26",
+    "finished_lot_id": "FINLOT-2026-000161",
+    "produced_date": "2026-06-10",
+    "qty_produced": 806,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000108"
+  },
+  {
+    "expiry_date": "2027-05-26",
+    "finished_lot_id": "FINLOT-2026-000162",
+    "produced_date": "2026-06-10",
+    "qty_produced": 2355,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000108"
+  },
+  {
+    "expiry_date": "2027-02-01",
+    "finished_lot_id": "FINLOT-2026-000163",
+    "produced_date": "2026-06-10",
+    "qty_produced": 1782,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000110"
+  },
+  {
+    "expiry_date": "2027-02-01",
+    "finished_lot_id": "FINLOT-2026-000164",
+    "produced_date": "2026-06-10",
+    "qty_produced": 4862,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000111"
+  },
+  {
+    "expiry_date": "2027-02-02",
+    "finished_lot_id": "FINLOT-2026-000165",
+    "produced_date": "2026-06-11",
+    "qty_produced": 907,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000111"
+  },
+  {
+    "expiry_date": "2027-02-03",
+    "finished_lot_id": "FINLOT-2026-000166",
+    "produced_date": "2026-06-12",
+    "qty_produced": 8403,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000110"
+  },
+  {
+    "expiry_date": "2027-03-09",
+    "finished_lot_id": "FINLOT-2026-000167",
+    "produced_date": "2026-06-12",
+    "qty_produced": 1090,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000114"
+  },
+  {
+    "expiry_date": "2027-03-09",
+    "finished_lot_id": "FINLOT-2026-000168",
+    "produced_date": "2026-06-12",
+    "qty_produced": 1527,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000114"
+  },
+  {
+    "expiry_date": "2027-03-10",
+    "finished_lot_id": "FINLOT-2026-000169",
+    "produced_date": "2026-06-13",
+    "qty_produced": 1129,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000114"
+  },
+  {
+    "expiry_date": "2027-02-27",
+    "finished_lot_id": "FINLOT-2026-000170",
+    "produced_date": "2026-06-14",
+    "qty_produced": 2204,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000113"
+  },
+  {
+    "expiry_date": "2027-03-11",
+    "finished_lot_id": "FINLOT-2026-000171",
+    "produced_date": "2026-06-14",
+    "qty_produced": 3598,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000114"
+  },
+  {
+    "expiry_date": "2027-02-28",
+    "finished_lot_id": "FINLOT-2026-000172",
+    "produced_date": "2026-06-15",
+    "qty_produced": 1754,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000113"
+  },
+  {
+    "expiry_date": "2027-02-28",
+    "finished_lot_id": "FINLOT-2026-000173",
+    "produced_date": "2026-06-15",
+    "qty_produced": 2042,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000113"
+  },
+  {
+    "expiry_date": "2027-02-05",
+    "finished_lot_id": "FINLOT-2026-000174",
+    "produced_date": "2026-06-15",
+    "qty_produced": 2852,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000115"
+  },
+  {
+    "expiry_date": "2027-03-01",
+    "finished_lot_id": "FINLOT-2026-000175",
+    "produced_date": "2026-06-16",
+    "qty_produced": 1052,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000113"
+  },
+  {
+    "expiry_date": "2027-02-06",
+    "finished_lot_id": "FINLOT-2026-000176",
+    "produced_date": "2026-06-16",
+    "qty_produced": 3173,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000115"
+  },
+  {
+    "expiry_date": "2027-02-06",
+    "finished_lot_id": "FINLOT-2026-000177",
+    "produced_date": "2026-06-16",
+    "qty_produced": 12746,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000115"
+  },
+  {
+    "expiry_date": "2027-03-29",
+    "finished_lot_id": "FINLOT-2026-000178",
+    "produced_date": "2026-06-16",
+    "qty_produced": 3359,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000116"
+  },
+  {
+    "expiry_date": "2027-03-30",
+    "finished_lot_id": "FINLOT-2026-000179",
+    "produced_date": "2026-06-17",
+    "qty_produced": 1004,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000116"
+  },
+  {
+    "expiry_date": "2027-03-30",
+    "finished_lot_id": "FINLOT-2026-000180",
+    "produced_date": "2026-06-17",
+    "qty_produced": 273,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000117"
+  },
+  {
+    "expiry_date": "2027-03-31",
+    "finished_lot_id": "FINLOT-2026-000181",
+    "produced_date": "2026-06-18",
+    "qty_produced": 1849,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000116"
+  },
+  {
+    "expiry_date": "2027-03-15",
+    "finished_lot_id": "FINLOT-2026-000182",
+    "produced_date": "2026-06-18",
+    "qty_produced": 17615,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000118"
+  },
+  {
+    "expiry_date": "2027-04-01",
+    "finished_lot_id": "FINLOT-2026-000183",
+    "produced_date": "2026-06-19",
+    "qty_produced": 3611,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000116"
+  },
+  {
+    "expiry_date": "2027-04-03",
+    "finished_lot_id": "FINLOT-2026-000184",
+    "produced_date": "2026-06-21",
+    "qty_produced": 1976,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000117"
+  },
+  {
+    "expiry_date": "2027-03-18",
+    "finished_lot_id": "FINLOT-2026-000185",
+    "produced_date": "2026-06-21",
+    "qty_produced": 9238,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000119"
+  },
+  {
+    "expiry_date": "2027-03-18",
+    "finished_lot_id": "FINLOT-2026-000186",
+    "produced_date": "2026-06-21",
+    "qty_produced": 1063,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000121"
+  },
+  {
+    "expiry_date": "2027-03-18",
+    "finished_lot_id": "FINLOT-2026-000187",
+    "produced_date": "2026-06-21",
+    "qty_produced": 2674,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000121"
+  },
+  {
+    "expiry_date": "2027-03-19",
+    "finished_lot_id": "FINLOT-2026-000188",
+    "produced_date": "2026-06-22",
+    "qty_produced": 1020,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000121"
+  },
+  {
+    "expiry_date": "2027-03-22",
+    "finished_lot_id": "FINLOT-2026-000189",
+    "produced_date": "2026-06-25",
+    "qty_produced": 5630,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000119"
+  },
+  {
+    "expiry_date": "2027-03-14",
+    "finished_lot_id": "FINLOT-2026-000190",
+    "produced_date": "2026-06-29",
+    "qty_produced": 3100,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000123"
+  },
+  {
+    "expiry_date": "2027-03-26",
+    "finished_lot_id": "FINLOT-2026-000191",
+    "produced_date": "2026-06-29",
+    "qty_produced": 6534,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000124"
+  },
+  {
+    "expiry_date": "2027-03-26",
+    "finished_lot_id": "FINLOT-2026-000192",
+    "produced_date": "2026-06-29",
+    "qty_produced": 2965,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000126"
+  },
+  {
+    "expiry_date": "2027-03-15",
+    "finished_lot_id": "FINLOT-2026-000193",
+    "produced_date": "2026-06-30",
+    "qty_produced": 14849,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000123"
+  },
+  {
+    "expiry_date": "2027-03-27",
+    "finished_lot_id": "FINLOT-2026-000194",
+    "produced_date": "2026-06-30",
+    "qty_produced": 16095,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000125"
+  },
+  {
+    "expiry_date": "2027-03-27",
+    "finished_lot_id": "FINLOT-2026-000195",
+    "produced_date": "2026-06-30",
+    "qty_produced": 1343,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000128"
+  },
+  {
+    "expiry_date": "2027-03-27",
+    "finished_lot_id": "FINLOT-2026-000196",
+    "produced_date": "2026-06-30",
+    "qty_produced": 4626,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000128"
+  },
+  {
+    "expiry_date": "2026-11-25",
+    "finished_lot_id": "FINLOT-2026-000197",
+    "produced_date": "2026-07-03",
+    "qty_produced": 10674,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000132"
+  },
+  {
+    "expiry_date": "2027-03-31",
+    "finished_lot_id": "FINLOT-2026-000198",
+    "produced_date": "2026-07-04",
+    "qty_produced": 15271,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000129"
+  },
+  {
+    "expiry_date": "2026-11-27",
+    "finished_lot_id": "FINLOT-2026-000199",
+    "produced_date": "2026-07-05",
+    "qty_produced": 2194,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000132"
+  },
+  {
+    "expiry_date": "2027-04-01",
+    "finished_lot_id": "FINLOT-2026-000200",
+    "produced_date": "2026-07-05",
+    "qty_produced": 12997,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000133"
+  },
+  {
+    "expiry_date": "2027-03-27",
+    "finished_lot_id": "FINLOT-2026-000201",
+    "produced_date": "2026-07-12",
+    "qty_produced": 5822,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000136"
+  },
+  {
+    "expiry_date": "2027-03-28",
+    "finished_lot_id": "FINLOT-2026-000202",
+    "produced_date": "2026-07-13",
+    "qty_produced": 3667,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000136"
+  },
+  {
+    "expiry_date": "2027-03-28",
+    "finished_lot_id": "FINLOT-2026-000203",
+    "produced_date": "2026-07-13",
+    "qty_produced": 5398,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000136"
+  },
+  {
+    "expiry_date": "2026-12-05",
+    "finished_lot_id": "FINLOT-2026-000204",
+    "produced_date": "2026-07-13",
+    "qty_produced": 4533,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000138"
+  },
+  {
+    "expiry_date": "2027-04-10",
+    "finished_lot_id": "FINLOT-2026-000205",
+    "produced_date": "2026-07-14",
+    "qty_produced": 18615,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000137"
+  },
+  {
+    "expiry_date": "2027-04-11",
+    "finished_lot_id": "FINLOT-2026-000206",
+    "produced_date": "2026-07-15",
+    "qty_produced": 3303,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000139"
+  },
+  {
+    "expiry_date": "2027-04-12",
+    "finished_lot_id": "FINLOT-2026-000207",
+    "produced_date": "2026-07-16",
+    "qty_produced": 5749,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000139"
+  },
+  {
+    "expiry_date": "2027-07-01",
+    "finished_lot_id": "FINLOT-2026-000208",
+    "produced_date": "2026-07-16",
+    "qty_produced": 3366,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000140"
+  },
+  {
+    "expiry_date": "2026-12-08",
+    "finished_lot_id": "FINLOT-2026-000209",
+    "produced_date": "2026-07-16",
+    "qty_produced": 945,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000141"
+  },
+  {
+    "expiry_date": "2027-04-12",
+    "finished_lot_id": "FINLOT-2026-000210",
+    "produced_date": "2026-07-16",
+    "qty_produced": 758,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000142"
+  },
+  {
+    "expiry_date": "2027-04-12",
+    "finished_lot_id": "FINLOT-2026-000211",
+    "produced_date": "2026-07-16",
+    "qty_produced": 2311,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000142"
+  },
+  {
+    "expiry_date": "2027-04-12",
+    "finished_lot_id": "FINLOT-2026-000212",
+    "produced_date": "2026-07-16",
+    "qty_produced": 4279,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000142"
+  },
+  {
+    "expiry_date": "2027-04-12",
+    "finished_lot_id": "FINLOT-2026-000213",
+    "produced_date": "2026-07-16",
+    "qty_produced": 6551,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000144"
+  },
+  {
+    "expiry_date": "2027-04-12",
+    "finished_lot_id": "FINLOT-2026-000214",
+    "produced_date": "2026-07-16",
+    "qty_produced": 12343,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000144"
+  },
+  {
+    "expiry_date": "2027-07-02",
+    "finished_lot_id": "FINLOT-2026-000215",
+    "produced_date": "2026-07-17",
+    "qty_produced": 1281,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000140"
+  },
+  {
+    "expiry_date": "2027-07-03",
+    "finished_lot_id": "FINLOT-2026-000216",
+    "produced_date": "2026-07-18",
+    "qty_produced": 776,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000140"
+  },
+  {
+    "expiry_date": "2027-07-03",
+    "finished_lot_id": "FINLOT-2026-000217",
+    "produced_date": "2026-07-18",
+    "qty_produced": 1324,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000140"
+  },
+  {
+    "expiry_date": "2026-12-10",
+    "finished_lot_id": "FINLOT-2026-000218",
+    "produced_date": "2026-07-18",
+    "qty_produced": 2259,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000141"
+  },
+  {
+    "expiry_date": "2027-04-14",
+    "finished_lot_id": "FINLOT-2026-000219",
+    "produced_date": "2026-07-18",
+    "qty_produced": 1571,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000145"
+  },
+  {
+    "expiry_date": "2027-03-11",
+    "finished_lot_id": "FINLOT-2026-000220",
+    "produced_date": "2026-07-18",
+    "qty_produced": 11772,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000146"
+  },
+  {
+    "expiry_date": "2026-12-11",
+    "finished_lot_id": "FINLOT-2026-000221",
+    "produced_date": "2026-07-19",
+    "qty_produced": 4017,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000141"
+  },
+  {
+    "expiry_date": "2027-04-15",
+    "finished_lot_id": "FINLOT-2026-000222",
+    "produced_date": "2026-07-19",
+    "qty_produced": 1231,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000145"
+  },
+  {
+    "expiry_date": "2027-04-16",
+    "finished_lot_id": "FINLOT-2026-000223",
+    "produced_date": "2026-07-20",
+    "qty_produced": 833,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000145"
+  },
+  {
+    "expiry_date": "2027-04-16",
+    "finished_lot_id": "FINLOT-2026-000224",
+    "produced_date": "2026-07-20",
+    "qty_produced": 924,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000145"
+  },
+  {
+    "expiry_date": "2027-03-13",
+    "finished_lot_id": "FINLOT-2026-000225",
+    "produced_date": "2026-07-20",
+    "qty_produced": 2165,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000146"
+  },
+  {
+    "expiry_date": "2027-03-13",
+    "finished_lot_id": "FINLOT-2026-000226",
+    "produced_date": "2026-07-20",
+    "qty_produced": 4116,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000146"
+  },
+  {
+    "expiry_date": "2027-04-18",
+    "finished_lot_id": "FINLOT-2026-000227",
+    "produced_date": "2026-07-22",
+    "qty_produced": 2415,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000147"
+  },
+  {
+    "expiry_date": "2027-04-18",
+    "finished_lot_id": "FINLOT-2026-000228",
+    "produced_date": "2026-07-22",
+    "qty_produced": 10531,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000147"
+  },
+  {
+    "expiry_date": "2027-04-07",
+    "finished_lot_id": "FINLOT-2026-000229",
+    "produced_date": "2026-07-23",
+    "qty_produced": 1909,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000148"
+  },
+  {
+    "expiry_date": "2027-04-07",
+    "finished_lot_id": "FINLOT-2026-000230",
+    "produced_date": "2026-07-23",
+    "qty_produced": 8498,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000148"
+  },
+  {
+    "expiry_date": "2027-07-10",
+    "finished_lot_id": "FINLOT-2026-000231",
+    "produced_date": "2026-07-25",
+    "qty_produced": 630,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000149"
+  },
+  {
+    "expiry_date": "2027-04-23",
+    "finished_lot_id": "FINLOT-2026-000232",
+    "produced_date": "2026-07-27",
+    "qty_produced": 10853,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000150"
+  },
+  {
+    "expiry_date": "2027-07-13",
+    "finished_lot_id": "FINLOT-2026-000233",
+    "produced_date": "2026-07-28",
+    "qty_produced": 4157,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000149"
+  },
+  {
+    "expiry_date": "2027-07-14",
+    "finished_lot_id": "FINLOT-2026-000234",
+    "produced_date": "2026-07-29",
+    "qty_produced": 856,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000149"
+  },
+  {
+    "expiry_date": "2026-12-24",
+    "finished_lot_id": "FINLOT-2026-000235",
+    "produced_date": "2026-08-01",
+    "qty_produced": 6540,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000152"
+  },
+  {
+    "expiry_date": "2026-12-24",
+    "finished_lot_id": "FINLOT-2026-000236",
+    "produced_date": "2026-08-01",
+    "qty_produced": 1372,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000153"
+  },
+  {
+    "expiry_date": "2026-12-24",
+    "finished_lot_id": "FINLOT-2026-000237",
+    "produced_date": "2026-08-01",
+    "qty_produced": 4106,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000153"
+  },
+  {
+    "expiry_date": "2027-07-17",
+    "finished_lot_id": "FINLOT-2026-000238",
+    "produced_date": "2026-08-01",
+    "qty_produced": 5249,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000155"
+  },
+  {
+    "expiry_date": "2026-12-25",
+    "finished_lot_id": "FINLOT-2026-000239",
+    "produced_date": "2026-08-02",
+    "qty_produced": 1331,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000153"
+  },
+  {
+    "expiry_date": "2027-07-18",
+    "finished_lot_id": "FINLOT-2026-000240",
+    "produced_date": "2026-08-02",
+    "qty_produced": 4824,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000155"
+  },
+  {
+    "expiry_date": "2027-04-17",
+    "finished_lot_id": "FINLOT-2026-000241",
+    "produced_date": "2026-08-02",
+    "qty_produced": 1484,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000156"
+  },
+  {
+    "expiry_date": "2027-04-18",
+    "finished_lot_id": "FINLOT-2026-000242",
+    "produced_date": "2026-08-03",
+    "qty_produced": 3323,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000156"
+  },
+  {
+    "expiry_date": "2027-04-19",
+    "finished_lot_id": "FINLOT-2026-000243",
+    "produced_date": "2026-08-04",
+    "qty_produced": 1630,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000156"
+  },
+  {
+    "expiry_date": "2027-05-02",
+    "finished_lot_id": "FINLOT-2026-000244",
+    "produced_date": "2026-08-05",
+    "qty_produced": 5526,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000157"
+  },
+  {
+    "expiry_date": "2027-05-02",
+    "finished_lot_id": "FINLOT-2026-000245",
+    "produced_date": "2026-08-05",
+    "qty_produced": 7172,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000157"
+  },
+  {
+    "expiry_date": "2027-04-21",
+    "finished_lot_id": "FINLOT-2026-000246",
+    "produced_date": "2026-08-06",
+    "qty_produced": 1974,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000156"
+  },
+  {
+    "expiry_date": "2027-04-21",
+    "finished_lot_id": "FINLOT-2026-000247",
+    "produced_date": "2026-08-06",
+    "qty_produced": 537,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000159"
+  },
+  {
+    "expiry_date": "2027-03-30",
+    "finished_lot_id": "FINLOT-2026-000248",
+    "produced_date": "2026-08-06",
+    "qty_produced": 7020,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000161"
+  },
+  {
+    "expiry_date": "2027-04-22",
+    "finished_lot_id": "FINLOT-2026-000249",
+    "produced_date": "2026-08-07",
+    "qty_produced": 4346,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000159"
+  },
+  {
+    "expiry_date": "2027-05-07",
+    "finished_lot_id": "FINLOT-2026-000250",
+    "produced_date": "2026-08-10",
+    "qty_produced": 4245,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000158"
+  },
+  {
+    "expiry_date": "2027-04-02",
+    "finished_lot_id": "FINLOT-2026-000251",
+    "produced_date": "2026-08-10",
+    "qty_produced": 3384,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000162"
+  },
+  {
+    "expiry_date": "2027-04-16",
+    "finished_lot_id": "FINLOT-2026-000252",
+    "produced_date": "2026-08-10",
+    "qty_produced": 614,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000163"
+  },
+  {
+    "expiry_date": "2027-04-03",
+    "finished_lot_id": "FINLOT-2026-000253",
+    "produced_date": "2026-08-11",
+    "qty_produced": 753,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000162"
+  },
+  {
+    "expiry_date": "2027-04-03",
+    "finished_lot_id": "FINLOT-2026-000254",
+    "produced_date": "2026-08-11",
+    "qty_produced": 2467,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000162"
+  },
+  {
+    "expiry_date": "2027-04-04",
+    "finished_lot_id": "FINLOT-2026-000255",
+    "produced_date": "2026-08-11",
+    "qty_produced": 6961,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000164"
+  },
+  {
+    "expiry_date": "2027-04-18",
+    "finished_lot_id": "FINLOT-2026-000256",
+    "produced_date": "2026-08-12",
+    "qty_produced": 5036,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000163"
+  },
+  {
+    "expiry_date": "2027-04-28",
+    "finished_lot_id": "FINLOT-2026-000257",
+    "produced_date": "2026-08-13",
+    "qty_produced": 2058,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000165"
+  },
+  {
+    "expiry_date": "2027-04-28",
+    "finished_lot_id": "FINLOT-2026-000258",
+    "produced_date": "2026-08-13",
+    "qty_produced": 9207,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000165"
+  },
+  {
+    "expiry_date": "2027-04-18",
+    "finished_lot_id": "FINLOT-2026-000259",
+    "produced_date": "2026-08-13",
+    "qty_produced": 8821,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000166"
+  },
+  {
+    "expiry_date": "2027-05-11",
+    "finished_lot_id": "FINLOT-2026-000260",
+    "produced_date": "2026-08-14",
+    "qty_produced": 2595,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000167"
+  },
+  {
+    "expiry_date": "2027-05-11",
+    "finished_lot_id": "FINLOT-2026-000261",
+    "produced_date": "2026-08-14",
+    "qty_produced": 2734,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000167"
+  },
+  {
+    "expiry_date": "2027-05-12",
+    "finished_lot_id": "FINLOT-2026-000262",
+    "produced_date": "2026-08-15",
+    "qty_produced": 2446,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000167"
+  },
+  {
+    "expiry_date": "2027-04-30",
+    "finished_lot_id": "FINLOT-2026-000263",
+    "produced_date": "2026-08-15",
+    "qty_produced": 3816,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000168"
+  },
+  {
+    "expiry_date": "2027-04-30",
+    "finished_lot_id": "FINLOT-2026-000264",
+    "produced_date": "2026-08-15",
+    "qty_produced": 10052,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000168"
+  },
+  {
+    "expiry_date": "2027-04-22",
+    "finished_lot_id": "FINLOT-2026-000265",
+    "produced_date": "2026-08-17",
+    "qty_produced": 4421,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000166"
+  },
+  {
+    "expiry_date": "2027-05-15",
+    "finished_lot_id": "FINLOT-2026-000266",
+    "produced_date": "2026-08-18",
+    "qty_produced": 1766,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000170"
+  },
+  {
+    "expiry_date": "2027-08-04",
+    "finished_lot_id": "FINLOT-2026-000267",
+    "produced_date": "2026-08-19",
+    "qty_produced": 880,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000169"
+  },
+  {
+    "expiry_date": "2027-05-16",
+    "finished_lot_id": "FINLOT-2026-000268",
+    "produced_date": "2026-08-19",
+    "qty_produced": 10773,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000170"
+  },
+  {
+    "expiry_date": "2027-08-06",
+    "finished_lot_id": "FINLOT-2026-000269",
+    "produced_date": "2026-08-21",
+    "qty_produced": 387,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000169"
+  },
+  {
+    "expiry_date": "2027-08-07",
+    "finished_lot_id": "FINLOT-2026-000270",
+    "produced_date": "2026-08-22",
+    "qty_produced": 1224,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000169"
+  },
+  {
+    "expiry_date": "2027-05-19",
+    "finished_lot_id": "FINLOT-2026-000271",
+    "produced_date": "2026-08-22",
+    "qty_produced": 2615,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000172"
+  },
+  {
+    "expiry_date": "2027-01-14",
+    "finished_lot_id": "FINLOT-2026-000272",
+    "produced_date": "2026-08-22",
+    "qty_produced": 1578,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000174"
+  },
+  {
+    "expiry_date": "2027-04-16",
+    "finished_lot_id": "FINLOT-2026-000273",
+    "produced_date": "2026-08-23",
+    "qty_produced": 4881,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000173"
+  },
+  {
+    "expiry_date": "2027-01-15",
+    "finished_lot_id": "FINLOT-2026-000274",
+    "produced_date": "2026-08-23",
+    "qty_produced": 915,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000174"
+  },
+  {
+    "expiry_date": "2027-01-15",
+    "finished_lot_id": "FINLOT-2026-000275",
+    "produced_date": "2026-08-23",
+    "qty_produced": 4606,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000175"
+  },
+  {
+    "expiry_date": "2027-01-15",
+    "finished_lot_id": "FINLOT-2026-000276",
+    "produced_date": "2026-08-23",
+    "qty_produced": 8861,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000175"
+  },
+  {
+    "expiry_date": "2027-05-21",
+    "finished_lot_id": "FINLOT-2026-000277",
+    "produced_date": "2026-08-24",
+    "qty_produced": 14516,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000171"
+  },
+  {
+    "expiry_date": "2027-05-21",
+    "finished_lot_id": "FINLOT-2026-000278",
+    "produced_date": "2026-08-24",
+    "qty_produced": 15268,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000172"
+  },
+  {
+    "expiry_date": "2027-01-16",
+    "finished_lot_id": "FINLOT-2026-000279",
+    "produced_date": "2026-08-24",
+    "qty_produced": 4709,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000174"
+  },
+  {
+    "expiry_date": "2027-05-21",
+    "finished_lot_id": "FINLOT-2026-000280",
+    "produced_date": "2026-08-24",
+    "qty_produced": 4329,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000176"
+  },
+  {
+    "expiry_date": "2027-04-18",
+    "finished_lot_id": "FINLOT-2026-000281",
+    "produced_date": "2026-08-26",
+    "qty_produced": 3035,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000178"
+  },
+  {
+    "expiry_date": "2027-04-18",
+    "finished_lot_id": "FINLOT-2026-000282",
+    "produced_date": "2026-08-26",
+    "qty_produced": 10824,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000178"
+  },
+  {
+    "expiry_date": "2027-05-24",
+    "finished_lot_id": "FINLOT-2026-000283",
+    "produced_date": "2026-08-27",
+    "qty_produced": 15617,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000177"
+  },
+  {
+    "expiry_date": "2027-04-20",
+    "finished_lot_id": "FINLOT-2026-000284",
+    "produced_date": "2026-08-28",
+    "qty_produced": 3294,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000178"
+  },
+  {
+    "expiry_date": "2027-05-26",
+    "finished_lot_id": "FINLOT-2026-000285",
+    "produced_date": "2026-08-29",
+    "qty_produced": 1193,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000179"
+  },
+  {
+    "expiry_date": "2027-05-26",
+    "finished_lot_id": "FINLOT-2026-000286",
+    "produced_date": "2026-08-29",
+    "qty_produced": 1694,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000179"
+  },
+  {
+    "expiry_date": "2027-01-21",
+    "finished_lot_id": "FINLOT-2026-000287",
+    "produced_date": "2026-08-29",
+    "qty_produced": 3986,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000181"
+  },
+  {
+    "expiry_date": "2027-05-27",
+    "finished_lot_id": "FINLOT-2026-000288",
+    "produced_date": "2026-08-30",
+    "qty_produced": 736,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000179"
+  },
+  {
+    "expiry_date": "2027-01-22",
+    "finished_lot_id": "FINLOT-2026-000289",
+    "produced_date": "2026-08-30",
+    "qty_produced": 1625,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000181"
+  },
+  {
+    "expiry_date": "2027-05-07",
+    "finished_lot_id": "FINLOT-2026-000290",
+    "produced_date": "2026-09-01",
+    "qty_produced": 4196,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000182"
+  },
+  {
+    "expiry_date": "2027-05-09",
+    "finished_lot_id": "FINLOT-2026-000291",
+    "produced_date": "2026-09-03",
+    "qty_produced": 7803,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000182"
+  },
+  {
+    "expiry_date": "2027-01-26",
+    "finished_lot_id": "FINLOT-2026-000292",
+    "produced_date": "2026-09-03",
+    "qty_produced": 3208,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000183"
+  },
+  {
+    "expiry_date": "2027-05-31",
+    "finished_lot_id": "FINLOT-2026-000293",
+    "produced_date": "2026-09-03",
+    "qty_produced": 5025,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000184"
+  },
+  {
+    "expiry_date": "2027-01-27",
+    "finished_lot_id": "FINLOT-2026-000294",
+    "produced_date": "2026-09-04",
+    "qty_produced": 8541,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000183"
+  },
+  {
+    "expiry_date": "2027-05-11",
+    "finished_lot_id": "FINLOT-2026-000295",
+    "produced_date": "2026-09-05",
+    "qty_produced": 1890,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000182"
+  },
+  {
+    "expiry_date": "2027-06-02",
+    "finished_lot_id": "FINLOT-2026-000296",
+    "produced_date": "2026-09-05",
+    "qty_produced": 880,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000185"
+  },
+  {
+    "expiry_date": "2027-06-03",
+    "finished_lot_id": "FINLOT-2026-000297",
+    "produced_date": "2026-09-06",
+    "qty_produced": 1008,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000184"
+  },
+  {
+    "expiry_date": "2027-06-03",
+    "finished_lot_id": "FINLOT-2026-000298",
+    "produced_date": "2026-09-06",
+    "qty_produced": 1435,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000185"
+  },
+  {
+    "expiry_date": "2027-06-03",
+    "finished_lot_id": "FINLOT-2026-000299",
+    "produced_date": "2026-09-06",
+    "qty_produced": 1946,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000185"
+  },
+  {
+    "expiry_date": "2027-06-04",
+    "finished_lot_id": "FINLOT-2026-000300",
+    "produced_date": "2026-09-07",
+    "qty_produced": 2846,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000184"
+  },
+  {
+    "expiry_date": "2027-06-20",
+    "finished_lot_id": "FINLOT-2026-000301",
+    "produced_date": "2026-09-07",
+    "qty_produced": 9359,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000186"
+  },
+  {
+    "expiry_date": "2027-06-04",
+    "finished_lot_id": "FINLOT-2026-000302",
+    "produced_date": "2026-09-07",
+    "qty_produced": 7222,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000188"
+  },
+  {
+    "expiry_date": "2027-01-31",
+    "finished_lot_id": "FINLOT-2026-000303",
+    "produced_date": "2026-09-08",
+    "qty_produced": 3061,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000183"
+  },
+  {
+    "expiry_date": "2027-06-21",
+    "finished_lot_id": "FINLOT-2026-000304",
+    "produced_date": "2026-09-08",
+    "qty_produced": 6176,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000189"
+  },
+  {
+    "expiry_date": "2027-05-03",
+    "finished_lot_id": "FINLOT-2026-000305",
+    "produced_date": "2026-09-09",
+    "qty_produced": 17767,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000187"
+  },
+  {
+    "expiry_date": "2027-05-25",
+    "finished_lot_id": "FINLOT-2026-000306",
+    "produced_date": "2026-09-09",
+    "qty_produced": 12697,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000190"
+  },
+  {
+    "expiry_date": "2027-05-15",
+    "finished_lot_id": "FINLOT-2026-000307",
+    "produced_date": "2026-09-09",
+    "qty_produced": 2029,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000191"
+  },
+  {
+    "expiry_date": "2027-05-16",
+    "finished_lot_id": "FINLOT-2026-000308",
+    "produced_date": "2026-09-10",
+    "qty_produced": 2722,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000191"
+  },
+  {
+    "expiry_date": "2027-05-16",
+    "finished_lot_id": "FINLOT-2026-000309",
+    "produced_date": "2026-09-10",
+    "qty_produced": 2897,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000191"
+  },
+  {
+    "expiry_date": "2027-05-16",
+    "finished_lot_id": "FINLOT-2026-000310",
+    "produced_date": "2026-09-10",
+    "qty_produced": 17360,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000192"
+  },
+  {
+    "expiry_date": "2027-06-23",
+    "finished_lot_id": "FINLOT-2026-000311",
+    "produced_date": "2026-09-10",
+    "qty_produced": 3151,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000193"
+  },
+  {
+    "expiry_date": "2027-02-04",
+    "finished_lot_id": "FINLOT-2026-000312",
+    "produced_date": "2026-09-12",
+    "qty_produced": 660,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000195"
+  },
+  {
+    "expiry_date": "2027-05-19",
+    "finished_lot_id": "FINLOT-2026-000313",
+    "produced_date": "2026-09-13",
+    "qty_produced": 2948,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000194"
+  },
+  {
+    "expiry_date": "2027-02-05",
+    "finished_lot_id": "FINLOT-2026-000314",
+    "produced_date": "2026-09-13",
+    "qty_produced": 699,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000195"
+  },
+  {
+    "expiry_date": "2027-02-05",
+    "finished_lot_id": "FINLOT-2026-000315",
+    "produced_date": "2026-09-13",
+    "qty_produced": 13589,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000196"
+  },
+  {
+    "expiry_date": "2027-06-26",
+    "finished_lot_id": "FINLOT-2026-000316",
+    "produced_date": "2026-09-13",
+    "qty_produced": 7987,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000198"
+  },
+  {
+    "expiry_date": "2027-05-21",
+    "finished_lot_id": "FINLOT-2026-000317",
+    "produced_date": "2026-09-15",
+    "qty_produced": 4711,
+    "sale_status": "RECALLED",
+    "wo_id": "WO-2026-000194"
+  },
+  {
+    "expiry_date": "2027-05-09",
+    "finished_lot_id": "FINLOT-2026-000318",
+    "produced_date": "2026-09-15",
+    "qty_produced": 1118,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000200"
+  },
+  {
+    "expiry_date": "2027-05-09",
+    "finished_lot_id": "FINLOT-2026-000319",
+    "produced_date": "2026-09-15",
+    "qty_produced": 2190,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000200"
+  },
+  {
+    "expiry_date": "2027-06-13",
+    "finished_lot_id": "FINLOT-2026-000320",
+    "produced_date": "2026-09-16",
+    "qty_produced": 1815,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000197"
+  },
+  {
+    "expiry_date": "2027-06-13",
+    "finished_lot_id": "FINLOT-2026-000321",
+    "produced_date": "2026-09-16",
+    "qty_produced": 15042,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000197"
+  },
+  {
+    "expiry_date": "2027-05-10",
+    "finished_lot_id": "FINLOT-2026-000322",
+    "produced_date": "2026-09-16",
+    "qty_produced": 1024,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000200"
+  },
+  {
+    "expiry_date": "2027-05-10",
+    "finished_lot_id": "FINLOT-2026-000323",
+    "produced_date": "2026-09-16",
+    "qty_produced": 2781,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000200"
+  },
+  {
+    "expiry_date": "2027-05-22",
+    "finished_lot_id": "FINLOT-2026-000324",
+    "produced_date": "2026-09-16",
+    "qty_produced": 7520,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000201"
+  },
+  {
+    "expiry_date": "2027-02-09",
+    "finished_lot_id": "FINLOT-2026-000325",
+    "produced_date": "2026-09-17",
+    "qty_produced": 1880,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000195"
+  },
+  {
+    "expiry_date": "2027-06-30",
+    "finished_lot_id": "FINLOT-2026-000326",
+    "produced_date": "2026-09-17",
+    "qty_produced": 1419,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000199"
+  },
+  {
+    "expiry_date": "2027-06-14",
+    "finished_lot_id": "FINLOT-2026-000327",
+    "produced_date": "2026-09-17",
+    "qty_produced": 2739,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000202"
+  },
+  {
+    "expiry_date": "2027-06-14",
+    "finished_lot_id": "FINLOT-2026-000328",
+    "produced_date": "2026-09-17",
+    "qty_produced": 11597,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000203"
+  },
+  {
+    "expiry_date": "2027-05-24",
+    "finished_lot_id": "FINLOT-2026-000329",
+    "produced_date": "2026-09-17",
+    "qty_produced": 1513,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000205"
+  },
+  {
+    "expiry_date": "2027-07-01",
+    "finished_lot_id": "FINLOT-2026-000330",
+    "produced_date": "2026-09-18",
+    "qty_produced": 2003,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000199"
+  },
+  {
+    "expiry_date": "2027-06-15",
+    "finished_lot_id": "FINLOT-2026-000331",
+    "produced_date": "2026-09-18",
+    "qty_produced": 3422,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000204"
+  },
+  {
+    "expiry_date": "2027-06-16",
+    "finished_lot_id": "FINLOT-2026-000332",
+    "produced_date": "2026-09-19",
+    "qty_produced": 427,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000202"
+  },
+  {
+    "expiry_date": "2027-05-26",
+    "finished_lot_id": "FINLOT-2026-000333",
+    "produced_date": "2026-09-19",
+    "qty_produced": 8471,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000205"
+  },
+  {
+    "expiry_date": "2027-05-25",
+    "finished_lot_id": "FINLOT-2026-000334",
+    "produced_date": "2026-09-19",
+    "qty_produced": 1783,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000206"
+  },
+  {
+    "expiry_date": "2027-05-25",
+    "finished_lot_id": "FINLOT-2026-000335",
+    "produced_date": "2026-09-19",
+    "qty_produced": 2350,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000206"
+  },
+  {
+    "expiry_date": "2027-05-26",
+    "finished_lot_id": "FINLOT-2026-000336",
+    "produced_date": "2026-09-20",
+    "qty_produced": 10347,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000206"
+  },
+  {
+    "expiry_date": "2027-06-18",
+    "finished_lot_id": "FINLOT-2026-000337",
+    "produced_date": "2026-09-21",
+    "qty_produced": 5071,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000204"
+  },
+  {
+    "expiry_date": "2027-06-19",
+    "finished_lot_id": "FINLOT-2026-000338",
+    "produced_date": "2026-09-22",
+    "qty_produced": 5514,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000207"
+  },
+  {
+    "expiry_date": "2027-06-20",
+    "finished_lot_id": "FINLOT-2026-000339",
+    "produced_date": "2026-09-23",
+    "qty_produced": 774,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000207"
+  },
+  {
+    "expiry_date": "2027-06-20",
+    "finished_lot_id": "FINLOT-2026-000340",
+    "produced_date": "2026-09-23",
+    "qty_produced": 2028,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000209"
+  },
+  {
+    "expiry_date": "2027-06-20",
+    "finished_lot_id": "FINLOT-2026-000341",
+    "produced_date": "2026-09-23",
+    "qty_produced": 2215,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000209"
+  },
+  {
+    "expiry_date": "2027-06-20",
+    "finished_lot_id": "FINLOT-2026-000342",
+    "produced_date": "2026-09-23",
+    "qty_produced": 4332,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000209"
+  },
+  {
+    "expiry_date": "2027-06-20",
+    "finished_lot_id": "FINLOT-2026-000343",
+    "produced_date": "2026-09-23",
+    "qty_produced": 4784,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000209"
+  },
+  {
+    "expiry_date": "2027-06-21",
+    "finished_lot_id": "FINLOT-2026-000344",
+    "produced_date": "2026-09-24",
+    "qty_produced": 3291,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000210"
+  },
+  {
+    "expiry_date": "2027-05-20",
+    "finished_lot_id": "FINLOT-2026-000345",
+    "produced_date": "2026-09-26",
+    "qty_produced": 2552,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000208"
+  },
+  {
+    "expiry_date": "2027-06-23",
+    "finished_lot_id": "FINLOT-2026-000346",
+    "produced_date": "2026-09-26",
+    "qty_produced": 1315,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000210"
+  },
+  {
+    "expiry_date": "2027-06-23",
+    "finished_lot_id": "FINLOT-2026-000347",
+    "produced_date": "2026-09-26",
+    "qty_produced": 581,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000212"
+  },
+  {
+    "expiry_date": "2027-06-23",
+    "finished_lot_id": "FINLOT-2026-000348",
+    "produced_date": "2026-09-26",
+    "qty_produced": 1833,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000212"
+  },
+  {
+    "expiry_date": "2027-06-23",
+    "finished_lot_id": "FINLOT-2026-000349",
+    "produced_date": "2026-09-26",
+    "qty_produced": 2691,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000212"
+  },
+  {
+    "expiry_date": "2027-05-21",
+    "finished_lot_id": "FINLOT-2026-000350",
+    "produced_date": "2026-09-27",
+    "qty_produced": 1155,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000208"
+  },
+  {
+    "expiry_date": "2027-05-20",
+    "finished_lot_id": "FINLOT-2026-000351",
+    "produced_date": "2026-09-27",
+    "qty_produced": 609,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000211"
+  },
+  {
+    "expiry_date": "2027-05-20",
+    "finished_lot_id": "FINLOT-2026-000352",
+    "produced_date": "2026-09-27",
+    "qty_produced": 808,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000211"
+  },
+  {
+    "expiry_date": "2027-05-20",
+    "finished_lot_id": "FINLOT-2026-000353",
+    "produced_date": "2026-09-27",
+    "qty_produced": 1949,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000211"
+  },
+  {
+    "expiry_date": "2027-09-13",
+    "finished_lot_id": "FINLOT-2026-000354",
+    "produced_date": "2026-09-28",
+    "qty_produced": 6933,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000213"
+  },
+  {
+    "expiry_date": "2027-09-14",
+    "finished_lot_id": "FINLOT-2026-000355",
+    "produced_date": "2026-09-29",
+    "qty_produced": 3202,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000213"
+  },
+  {
+    "expiry_date": "2027-02-21",
+    "finished_lot_id": "FINLOT-2026-000356",
+    "produced_date": "2026-09-29",
+    "qty_produced": 7636,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000214"
+  },
+  {
+    "expiry_date": "2027-02-22",
+    "finished_lot_id": "FINLOT-2026-000357",
+    "produced_date": "2026-09-30",
+    "qty_produced": 2666,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000214"
+  },
+  {
+    "expiry_date": "2027-05-24",
+    "finished_lot_id": "FINLOT-2026-000358",
+    "produced_date": "2026-09-30",
+    "qty_produced": 2446,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000215"
+  },
+  {
+    "expiry_date": "2027-05-24",
+    "finished_lot_id": "FINLOT-2026-000359",
+    "produced_date": "2026-09-30",
+    "qty_produced": 10052,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000217"
+  },
+  {
+    "expiry_date": "2027-05-24",
+    "finished_lot_id": "FINLOT-2026-000360",
+    "produced_date": "2026-09-30",
+    "qty_produced": 2332,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000219"
+  },
+  {
+    "expiry_date": "2027-05-25",
+    "finished_lot_id": "FINLOT-2026-000361",
+    "produced_date": "2026-10-01",
+    "qty_produced": 6213,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000215"
+  },
+  {
+    "expiry_date": "2027-02-23",
+    "finished_lot_id": "FINLOT-2026-000362",
+    "produced_date": "2026-10-01",
+    "qty_produced": 4659,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000216"
+  },
+  {
+    "expiry_date": "2027-02-23",
+    "finished_lot_id": "FINLOT-2026-000363",
+    "produced_date": "2026-10-01",
+    "qty_produced": 6345,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000216"
+  },
+  {
+    "expiry_date": "2027-06-06",
+    "finished_lot_id": "FINLOT-2026-000364",
+    "produced_date": "2026-10-01",
+    "qty_produced": 9693,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000218"
+  },
+  {
+    "expiry_date": "2027-06-28",
+    "finished_lot_id": "FINLOT-2026-000365",
+    "produced_date": "2026-10-01",
+    "qty_produced": 16425,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000221"
+  },
+  {
+    "expiry_date": "2027-05-26",
+    "finished_lot_id": "FINLOT-2026-000366",
+    "produced_date": "2026-10-02",
+    "qty_produced": 2758,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000219"
+  },
+  {
+    "expiry_date": "2027-06-29",
+    "finished_lot_id": "FINLOT-2026-000367",
+    "produced_date": "2026-10-02",
+    "qty_produced": 6098,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000220"
+  },
+  {
+    "expiry_date": "2027-06-08",
+    "finished_lot_id": "FINLOT-2026-000368",
+    "produced_date": "2026-10-03",
+    "qty_produced": 6003,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000218"
+  },
+  {
+    "expiry_date": "2027-06-30",
+    "finished_lot_id": "FINLOT-2026-000369",
+    "produced_date": "2026-10-03",
+    "qty_produced": 2173,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000221"
+  },
+  {
+    "expiry_date": "2027-05-28",
+    "finished_lot_id": "FINLOT-2026-000370",
+    "produced_date": "2026-10-04",
+    "qty_produced": 2582,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000219"
+  },
+  {
+    "expiry_date": "2027-05-28",
+    "finished_lot_id": "FINLOT-2026-000371",
+    "produced_date": "2026-10-04",
+    "qty_produced": 7448,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000219"
+  },
+  {
+    "expiry_date": "2027-07-01",
+    "finished_lot_id": "FINLOT-2026-000372",
+    "produced_date": "2026-10-04",
+    "qty_produced": 14488,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000223"
+  },
+  {
+    "expiry_date": "2027-06-09",
+    "finished_lot_id": "FINLOT-2026-000373",
+    "produced_date": "2026-10-04",
+    "qty_produced": 5466,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000224"
+  },
+  {
+    "expiry_date": "2027-07-02",
+    "finished_lot_id": "FINLOT-2026-000374",
+    "produced_date": "2026-10-05",
+    "qty_produced": 1961,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000220"
+  },
+  {
+    "expiry_date": "2027-07-02",
+    "finished_lot_id": "FINLOT-2026-000375",
+    "produced_date": "2026-10-05",
+    "qty_produced": 11080,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000222"
+  },
+  {
+    "expiry_date": "2027-06-10",
+    "finished_lot_id": "FINLOT-2026-000376",
+    "produced_date": "2026-10-05",
+    "qty_produced": 6447,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000225"
+  },
+  {
+    "expiry_date": "2027-06-11",
+    "finished_lot_id": "FINLOT-2026-000377",
+    "produced_date": "2026-10-06",
+    "qty_produced": 7121,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000224"
+  },
+  {
+    "expiry_date": "2027-07-03",
+    "finished_lot_id": "FINLOT-2026-000378",
+    "produced_date": "2026-10-06",
+    "qty_produced": 2263,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000226"
+  },
+  {
+    "expiry_date": "2027-07-03",
+    "finished_lot_id": "FINLOT-2026-000379",
+    "produced_date": "2026-10-06",
+    "qty_produced": 5722,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000226"
+  },
+  {
+    "expiry_date": "2027-05-30",
+    "finished_lot_id": "FINLOT-2026-000380",
+    "produced_date": "2026-10-06",
+    "qty_produced": 10816,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000227"
+  },
+  {
+    "expiry_date": "2027-07-04",
+    "finished_lot_id": "FINLOT-2026-000381",
+    "produced_date": "2026-10-07",
+    "qty_produced": 9589,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000226"
+  },
+  {
+    "expiry_date": "2027-07-05",
+    "finished_lot_id": "FINLOT-2026-000382",
+    "produced_date": "2026-10-08",
+    "qty_produced": 1662,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000222"
+  },
+  {
+    "expiry_date": "2027-03-04",
+    "finished_lot_id": "FINLOT-2026-000383",
+    "produced_date": "2026-10-10",
+    "qty_produced": 5760,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000228"
+  },
+  {
+    "expiry_date": "2027-03-04",
+    "finished_lot_id": "FINLOT-2026-000384",
+    "produced_date": "2026-10-10",
+    "qty_produced": 7764,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000228"
+  },
+  {
+    "expiry_date": "2027-06-17",
+    "finished_lot_id": "FINLOT-2026-000385",
+    "produced_date": "2026-10-11",
+    "qty_produced": 4121,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000230"
+  },
+  {
+    "expiry_date": "2027-06-17",
+    "finished_lot_id": "FINLOT-2026-000386",
+    "produced_date": "2026-10-11",
+    "qty_produced": 5939,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000230"
+  },
+  {
+    "expiry_date": "2027-06-04",
+    "finished_lot_id": "FINLOT-2026-000387",
+    "produced_date": "2026-10-12",
+    "qty_produced": 826,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000229"
+  },
+  {
+    "expiry_date": "2027-06-04",
+    "finished_lot_id": "FINLOT-2026-000388",
+    "produced_date": "2026-10-12",
+    "qty_produced": 6652,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000229"
+  },
+  {
+    "expiry_date": "2027-06-17",
+    "finished_lot_id": "FINLOT-2026-000389",
+    "produced_date": "2026-10-12",
+    "qty_produced": 4375,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000232"
+  },
+  {
+    "expiry_date": "2027-06-17",
+    "finished_lot_id": "FINLOT-2026-000390",
+    "produced_date": "2026-10-12",
+    "qty_produced": 12469,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000232"
+  },
+  {
+    "expiry_date": "2027-07-26",
+    "finished_lot_id": "FINLOT-2026-000391",
+    "produced_date": "2026-10-13",
+    "qty_produced": 600,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000231"
+  },
+  {
+    "expiry_date": "2027-06-28",
+    "finished_lot_id": "FINLOT-2026-000392",
+    "produced_date": "2026-10-13",
+    "qty_produced": 1095,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000233"
+  },
+  {
+    "expiry_date": "2027-06-28",
+    "finished_lot_id": "FINLOT-2026-000393",
+    "produced_date": "2026-10-13",
+    "qty_produced": 5769,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000233"
+  },
+  {
+    "expiry_date": "2027-07-27",
+    "finished_lot_id": "FINLOT-2026-000394",
+    "produced_date": "2026-10-14",
+    "qty_produced": 1211,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000231"
+  },
+  {
+    "expiry_date": "2027-07-27",
+    "finished_lot_id": "FINLOT-2026-000395",
+    "produced_date": "2026-10-14",
+    "qty_produced": 1335,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000231"
+  },
+  {
+    "expiry_date": "2027-06-30",
+    "finished_lot_id": "FINLOT-2026-000396",
+    "produced_date": "2026-10-15",
+    "qty_produced": 1539,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000233"
+  },
+  {
+    "expiry_date": "2027-06-08",
+    "finished_lot_id": "FINLOT-2026-000397",
+    "produced_date": "2026-10-15",
+    "qty_produced": 2286,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000234"
+  },
+  {
+    "expiry_date": "2027-06-09",
+    "finished_lot_id": "FINLOT-2026-000398",
+    "produced_date": "2026-10-16",
+    "qty_produced": 2577,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000234"
+  },
+  {
+    "expiry_date": "2027-06-09",
+    "finished_lot_id": "FINLOT-2026-000399",
+    "produced_date": "2026-10-16",
+    "qty_produced": 9592,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000234"
+  },
+  {
+    "expiry_date": "2027-06-23",
+    "finished_lot_id": "FINLOT-2026-000400",
+    "produced_date": "2026-10-17",
+    "qty_produced": 8371,
+    "sale_status": "AVAILABLE",
+    "wo_id": "WO-2026-000235"
+  }
+]

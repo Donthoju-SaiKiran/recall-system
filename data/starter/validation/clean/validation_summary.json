@@ -1,0 +1,94 @@
+{
+  "as_of": "2026-11-01",
+  "checks": {
+    "ARITH_CONSUMED": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "ARITH_DELIVERED": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "ARITH_RECOVERED": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "CASE_STATUS": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "DATE_ORDER": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "DATE_VALID": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "DUPLICATE": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "ENUM": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "FK": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "ID_FORMAT": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "LIFECYCLE_ORDER": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "PK_UNIQUE": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "POLY_TARGET": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "RANGE": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "REQUIRED": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "SALE_STATUS": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "SCOPE_COVERAGE": {
+      "issues": 0,
+      "status": "PASS"
+    },
+    "TYPE": {
+      "issues": 0,
+      "status": "PASS"
+    }
+  },
+  "result": "PASS",
+  "row_counts": {
+    "bom_line": 54,
+    "customer": 75,
+    "delivery": 1000,
+    "finished_lot": 400,
+    "material_lot": 500,
+    "product": 10,
+    "production_order": 250,
+    "recall_action": 417,
+    "recall_case": 3,
+    "shipment": 600,
+    "supplier": 25,
+    "wo_input_lot": 1173
+  },
+  "sample_issues": [],
+  "total_issues": 0
+}

@@ -1,0 +1,4002 @@
+[
+  {
+    "expiry_date": "2027-11-13",
+    "material_code": "SUGAR",
+    "qty_received": 561.593,
+    "raw_lot_id": "RAWLOT-S0007-2026-000001",
+    "received_date": "2026-01-02",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-12-10",
+    "material_code": "SUGAR",
+    "qty_received": 977.444,
+    "raw_lot_id": "RAWLOT-S0007-2026-000002",
+    "received_date": "2026-01-02",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-08-21",
+    "material_code": "SUGAR",
+    "qty_received": 356.416,
+    "raw_lot_id": "RAWLOT-S0011-2026-000003",
+    "received_date": "2026-01-02",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-11-09",
+    "material_code": "SUGAR",
+    "qty_received": 1162.931,
+    "raw_lot_id": "RAWLOT-S0011-2026-000004",
+    "received_date": "2026-01-02",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-07-09",
+    "material_code": "SUGAR",
+    "qty_received": 609.986,
+    "raw_lot_id": "RAWLOT-S0011-2026-000005",
+    "received_date": "2026-01-03",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2026-10-05",
+    "material_code": "FLOUR",
+    "qty_received": 897.877,
+    "raw_lot_id": "RAWLOT-S0022-2026-000006",
+    "received_date": "2026-01-05",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2026-09-28",
+    "material_code": "FLOUR",
+    "qty_received": 963.113,
+    "raw_lot_id": "RAWLOT-S0022-2026-000007",
+    "received_date": "2026-01-06",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-08-08",
+    "material_code": "SUGAR",
+    "qty_received": 737.847,
+    "raw_lot_id": "RAWLOT-S0007-2026-000008",
+    "received_date": "2026-01-06",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2026-11-21",
+    "material_code": "FLOUR",
+    "qty_received": 1927.053,
+    "raw_lot_id": "RAWLOT-S0022-2026-000009",
+    "received_date": "2026-01-07",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-07-22",
+    "material_code": "SUGAR",
+    "qty_received": 935.815,
+    "raw_lot_id": "RAWLOT-S0007-2026-000010",
+    "received_date": "2026-01-07",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2026-10-07",
+    "material_code": "FLOUR",
+    "qty_received": 3001.571,
+    "raw_lot_id": "RAWLOT-S0024-2026-000011",
+    "received_date": "2026-01-11",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-01-15",
+    "material_code": "COCOA",
+    "qty_received": 2012.119,
+    "raw_lot_id": "RAWLOT-S0019-2026-000012",
+    "received_date": "2026-01-13",
+    "supplier_id": "S0019"
+  },
+  {
+    "expiry_date": "2027-07-28",
+    "material_code": "SUGAR",
+    "qty_received": 537.001,
+    "raw_lot_id": "RAWLOT-S0011-2026-000013",
+    "received_date": "2026-01-13",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-11-29",
+    "material_code": "SUGAR",
+    "qty_received": 650.569,
+    "raw_lot_id": "RAWLOT-S0011-2026-000014",
+    "received_date": "2026-01-13",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-11-08",
+    "material_code": "SUGAR",
+    "qty_received": 1366.807,
+    "raw_lot_id": "RAWLOT-S0011-2026-000015",
+    "received_date": "2026-01-13",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-07-25",
+    "material_code": "VANILLA",
+    "qty_received": 1237.224,
+    "raw_lot_id": "RAWLOT-S0015-2026-000016",
+    "received_date": "2026-01-13",
+    "supplier_id": "S0015"
+  },
+  {
+    "expiry_date": "2027-10-11",
+    "material_code": "SUGAR",
+    "qty_received": 1853.116,
+    "raw_lot_id": "RAWLOT-S0011-2026-000017",
+    "received_date": "2026-01-16",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2026-10-15",
+    "material_code": "FLOUR",
+    "qty_received": 821.729,
+    "raw_lot_id": "RAWLOT-S0003-2026-000018",
+    "received_date": "2026-01-17",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2027-12-15",
+    "material_code": "SUGAR",
+    "qty_received": 550.63,
+    "raw_lot_id": "RAWLOT-S0011-2026-000019",
+    "received_date": "2026-01-17",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-12-25",
+    "material_code": "SUGAR",
+    "qty_received": 951.502,
+    "raw_lot_id": "RAWLOT-S0011-2026-000020",
+    "received_date": "2026-01-18",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2026-10-20",
+    "material_code": "FLOUR",
+    "qty_received": 1039.181,
+    "raw_lot_id": "RAWLOT-S0022-2026-000021",
+    "received_date": "2026-01-19",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-11-15",
+    "material_code": "SUGAR",
+    "qty_received": 1329.151,
+    "raw_lot_id": "RAWLOT-S0011-2026-000022",
+    "received_date": "2026-01-20",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2026-10-03",
+    "material_code": "FLOUR",
+    "qty_received": 1262.901,
+    "raw_lot_id": "RAWLOT-S0003-2026-000023",
+    "received_date": "2026-01-21",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2026-10-10",
+    "material_code": "FLOUR",
+    "qty_received": 529.893,
+    "raw_lot_id": "RAWLOT-S0022-2026-000024",
+    "received_date": "2026-01-21",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-01-06",
+    "material_code": "FLOUR",
+    "qty_received": 767.45,
+    "raw_lot_id": "RAWLOT-S0022-2026-000025",
+    "received_date": "2026-01-21",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-08-18",
+    "material_code": "SUGAR",
+    "qty_received": 568.66,
+    "raw_lot_id": "RAWLOT-S0011-2026-000026",
+    "received_date": "2026-01-22",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2026-11-07",
+    "material_code": "FLOUR",
+    "qty_received": 1256.529,
+    "raw_lot_id": "RAWLOT-S0022-2026-000027",
+    "received_date": "2026-01-23",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-08-05",
+    "material_code": "VANILLA",
+    "qty_received": 2112.046,
+    "raw_lot_id": "RAWLOT-S0023-2026-000028",
+    "received_date": "2026-01-23",
+    "supplier_id": "S0023"
+  },
+  {
+    "expiry_date": "2027-01-18",
+    "material_code": "FLOUR",
+    "qty_received": 440.989,
+    "raw_lot_id": "RAWLOT-S0024-2026-000029",
+    "received_date": "2026-01-26",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-08-27",
+    "material_code": "SALT",
+    "qty_received": 903.644,
+    "raw_lot_id": "RAWLOT-S0001-2026-000030",
+    "received_date": "2026-01-26",
+    "supplier_id": "S0001"
+  },
+  {
+    "expiry_date": "2026-09-21",
+    "material_code": "EGG_POWDER",
+    "qty_received": 1120.429,
+    "raw_lot_id": "RAWLOT-S0010-2026-000031",
+    "received_date": "2026-01-28",
+    "supplier_id": "S0010"
+  },
+  {
+    "expiry_date": "2026-11-21",
+    "material_code": "FLOUR",
+    "qty_received": 1847.551,
+    "raw_lot_id": "RAWLOT-S0003-2026-000032",
+    "received_date": "2026-01-28",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2026-10-29",
+    "material_code": "FLOUR",
+    "qty_received": 538.452,
+    "raw_lot_id": "RAWLOT-S0024-2026-000033",
+    "received_date": "2026-01-28",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2026-10-16",
+    "material_code": "FLOUR",
+    "qty_received": 962.397,
+    "raw_lot_id": "RAWLOT-S0024-2026-000034",
+    "received_date": "2026-01-28",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-01-17",
+    "material_code": "FLOUR",
+    "qty_received": 1534.575,
+    "raw_lot_id": "RAWLOT-S0024-2026-000035",
+    "received_date": "2026-01-28",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2026-12-30",
+    "material_code": "FLOUR",
+    "qty_received": 645.675,
+    "raw_lot_id": "RAWLOT-S0022-2026-000036",
+    "received_date": "2026-01-29",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2026-10-03",
+    "material_code": "FLOUR",
+    "qty_received": 1383.676,
+    "raw_lot_id": "RAWLOT-S0024-2026-000037",
+    "received_date": "2026-01-29",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2026-10-17",
+    "material_code": "FLOUR",
+    "qty_received": 1554.993,
+    "raw_lot_id": "RAWLOT-S0024-2026-000038",
+    "received_date": "2026-01-29",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2026-12-22",
+    "material_code": "FLOUR",
+    "qty_received": 837.433,
+    "raw_lot_id": "RAWLOT-S0022-2026-000039",
+    "received_date": "2026-02-01",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2026-10-01",
+    "material_code": "FLOUR",
+    "qty_received": 784.726,
+    "raw_lot_id": "RAWLOT-S0024-2026-000040",
+    "received_date": "2026-02-01",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2026-12-06",
+    "material_code": "FLOUR",
+    "qty_received": 1205.536,
+    "raw_lot_id": "RAWLOT-S0024-2026-000041",
+    "received_date": "2026-02-01",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-01-22",
+    "material_code": "SUGAR",
+    "qty_received": 1650.57,
+    "raw_lot_id": "RAWLOT-S0011-2026-000042",
+    "received_date": "2026-02-01",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-01-17",
+    "material_code": "SUGAR",
+    "qty_received": 1303.404,
+    "raw_lot_id": "RAWLOT-S0011-2026-000043",
+    "received_date": "2026-02-02",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2026-06-06",
+    "material_code": "BUTTER",
+    "qty_received": 671.304,
+    "raw_lot_id": "RAWLOT-S0011-2026-000044",
+    "received_date": "2026-02-03",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-01-27",
+    "material_code": "FLOUR",
+    "qty_received": 2129.917,
+    "raw_lot_id": "RAWLOT-S0024-2026-000045",
+    "received_date": "2026-02-03",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2026-05-09",
+    "material_code": "BUTTER",
+    "qty_received": 1293.458,
+    "raw_lot_id": "RAWLOT-S0011-2026-000046",
+    "received_date": "2026-02-04",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-11-28",
+    "material_code": "SUGAR",
+    "qty_received": 1299.406,
+    "raw_lot_id": "RAWLOT-S0007-2026-000047",
+    "received_date": "2026-02-04",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2026-11-18",
+    "material_code": "FLOUR",
+    "qty_received": 1074.848,
+    "raw_lot_id": "RAWLOT-S0003-2026-000048",
+    "received_date": "2026-02-05",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2026-12-05",
+    "material_code": "FLOUR",
+    "qty_received": 1051.993,
+    "raw_lot_id": "RAWLOT-S0024-2026-000049",
+    "received_date": "2026-02-05",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-11-15",
+    "material_code": "SUGAR",
+    "qty_received": 1163.131,
+    "raw_lot_id": "RAWLOT-S0011-2026-000050",
+    "received_date": "2026-02-05",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-12-03",
+    "material_code": "SUGAR",
+    "qty_received": 1111.236,
+    "raw_lot_id": "RAWLOT-S0011-2026-000051",
+    "received_date": "2026-02-06",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-10-19",
+    "material_code": "VANILLA",
+    "qty_received": 1005.335,
+    "raw_lot_id": "RAWLOT-S0017-2026-000052",
+    "received_date": "2026-02-06",
+    "supplier_id": "S0017"
+  },
+  {
+    "expiry_date": "2027-01-16",
+    "material_code": "FLOUR",
+    "qty_received": 1031.351,
+    "raw_lot_id": "RAWLOT-S0022-2026-000053",
+    "received_date": "2026-02-07",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-12-02",
+    "material_code": "SUGAR",
+    "qty_received": 1663.53,
+    "raw_lot_id": "RAWLOT-S0007-2026-000054",
+    "received_date": "2026-02-07",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2026-10-07",
+    "material_code": "FLOUR",
+    "qty_received": 556.248,
+    "raw_lot_id": "RAWLOT-S0022-2026-000055",
+    "received_date": "2026-02-09",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-02-01",
+    "material_code": "FLOUR",
+    "qty_received": 1165.219,
+    "raw_lot_id": "RAWLOT-S0022-2026-000056",
+    "received_date": "2026-02-09",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-10-02",
+    "material_code": "SUGAR",
+    "qty_received": 1646.22,
+    "raw_lot_id": "RAWLOT-S0011-2026-000057",
+    "received_date": "2026-02-09",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-09-07",
+    "material_code": "SUGAR",
+    "qty_received": 348.154,
+    "raw_lot_id": "RAWLOT-S0011-2026-000058",
+    "received_date": "2026-02-10",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-09-21",
+    "material_code": "SUGAR",
+    "qty_received": 2268.348,
+    "raw_lot_id": "RAWLOT-S0011-2026-000059",
+    "received_date": "2026-02-10",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2026-11-03",
+    "material_code": "EGG_POWDER",
+    "qty_received": 2024.504,
+    "raw_lot_id": "RAWLOT-S0010-2026-000060",
+    "received_date": "2026-02-11",
+    "supplier_id": "S0010"
+  },
+  {
+    "expiry_date": "2026-10-12",
+    "material_code": "FLOUR",
+    "qty_received": 777.645,
+    "raw_lot_id": "RAWLOT-S0022-2026-000061",
+    "received_date": "2026-02-12",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-02-10",
+    "material_code": "FLOUR",
+    "qty_received": 652.928,
+    "raw_lot_id": "RAWLOT-S0024-2026-000062",
+    "received_date": "2026-02-12",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-02-08",
+    "material_code": "FLOUR",
+    "qty_received": 723.064,
+    "raw_lot_id": "RAWLOT-S0022-2026-000063",
+    "received_date": "2026-02-13",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-02-03",
+    "material_code": "PALM_OIL",
+    "qty_received": 874.793,
+    "raw_lot_id": "RAWLOT-S0006-2026-000064",
+    "received_date": "2026-02-13",
+    "supplier_id": "S0006"
+  },
+  {
+    "expiry_date": "2027-01-27",
+    "material_code": "PALM_OIL",
+    "qty_received": 2219.867,
+    "raw_lot_id": "RAWLOT-S0006-2026-000065",
+    "received_date": "2026-02-13",
+    "supplier_id": "S0006"
+  },
+  {
+    "expiry_date": "2027-10-13",
+    "material_code": "SUGAR",
+    "qty_received": 1127.335,
+    "raw_lot_id": "RAWLOT-S0011-2026-000066",
+    "received_date": "2026-02-13",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-06-09",
+    "material_code": "COCOA",
+    "qty_received": 1043.748,
+    "raw_lot_id": "RAWLOT-S0019-2026-000067",
+    "received_date": "2026-02-14",
+    "supplier_id": "S0019"
+  },
+  {
+    "expiry_date": "2026-12-19",
+    "material_code": "FLOUR",
+    "qty_received": 631.8,
+    "raw_lot_id": "RAWLOT-S0003-2026-000068",
+    "received_date": "2026-02-14",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2026-11-22",
+    "material_code": "FLOUR",
+    "qty_received": 769.247,
+    "raw_lot_id": "RAWLOT-S0022-2026-000069",
+    "received_date": "2026-02-14",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-01-18",
+    "material_code": "FLOUR",
+    "qty_received": 1077.919,
+    "raw_lot_id": "RAWLOT-S0022-2026-000070",
+    "received_date": "2026-02-14",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-08-17",
+    "material_code": "SUGAR",
+    "qty_received": 1501.816,
+    "raw_lot_id": "RAWLOT-S0007-2026-000071",
+    "received_date": "2026-02-14",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2026-12-04",
+    "material_code": "EGG_POWDER",
+    "qty_received": 1737.358,
+    "raw_lot_id": "RAWLOT-S0010-2026-000072",
+    "received_date": "2026-02-15",
+    "supplier_id": "S0010"
+  },
+  {
+    "expiry_date": "2027-01-29",
+    "material_code": "FLOUR",
+    "qty_received": 1096.83,
+    "raw_lot_id": "RAWLOT-S0024-2026-000073",
+    "received_date": "2026-02-16",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-09-02",
+    "material_code": "SALT",
+    "qty_received": 2365.042,
+    "raw_lot_id": "RAWLOT-S0015-2026-000074",
+    "received_date": "2026-02-16",
+    "supplier_id": "S0015"
+  },
+  {
+    "expiry_date": "2027-11-04",
+    "material_code": "SUGAR",
+    "qty_received": 1914.486,
+    "raw_lot_id": "RAWLOT-S0007-2026-000075",
+    "received_date": "2026-02-16",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-10-25",
+    "material_code": "SUGAR",
+    "qty_received": 910.165,
+    "raw_lot_id": "RAWLOT-S0011-2026-000076",
+    "received_date": "2026-02-16",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-11-18",
+    "material_code": "SUGAR",
+    "qty_received": 1845.89,
+    "raw_lot_id": "RAWLOT-S0011-2026-000077",
+    "received_date": "2026-02-16",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-02-13",
+    "material_code": "FLOUR",
+    "qty_received": 1170.431,
+    "raw_lot_id": "RAWLOT-S0022-2026-000078",
+    "received_date": "2026-02-17",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-01-04",
+    "material_code": "FLOUR",
+    "qty_received": 1378.405,
+    "raw_lot_id": "RAWLOT-S0022-2026-000079",
+    "received_date": "2026-02-17",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2026-11-13",
+    "material_code": "FLOUR",
+    "qty_received": 2197.789,
+    "raw_lot_id": "RAWLOT-S0024-2026-000080",
+    "received_date": "2026-02-17",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-10-05",
+    "material_code": "SUGAR",
+    "qty_received": 1396.634,
+    "raw_lot_id": "RAWLOT-S0007-2026-000081",
+    "received_date": "2026-02-17",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-01-11",
+    "material_code": "PALM_OIL",
+    "qty_received": 1596.747,
+    "raw_lot_id": "RAWLOT-S0006-2026-000082",
+    "received_date": "2026-02-18",
+    "supplier_id": "S0006"
+  },
+  {
+    "expiry_date": "2028-09-30",
+    "material_code": "SALT",
+    "qty_received": 680.029,
+    "raw_lot_id": "RAWLOT-S0001-2026-000083",
+    "received_date": "2026-02-18",
+    "supplier_id": "S0001"
+  },
+  {
+    "expiry_date": "2026-11-21",
+    "material_code": "FLOUR",
+    "qty_received": 1795.129,
+    "raw_lot_id": "RAWLOT-S0022-2026-000084",
+    "received_date": "2026-02-21",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2029-01-09",
+    "material_code": "SALT",
+    "qty_received": 3136.443,
+    "raw_lot_id": "RAWLOT-S0015-2026-000085",
+    "received_date": "2026-02-21",
+    "supplier_id": "S0015"
+  },
+  {
+    "expiry_date": "2027-12-12",
+    "material_code": "SUGAR",
+    "qty_received": 787.627,
+    "raw_lot_id": "RAWLOT-S0007-2026-000086",
+    "received_date": "2026-02-21",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2026-11-26",
+    "material_code": "FLOUR",
+    "qty_received": 1270.441,
+    "raw_lot_id": "RAWLOT-S0022-2026-000087",
+    "received_date": "2026-02-22",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-08-29",
+    "material_code": "SUGAR",
+    "qty_received": 1338.206,
+    "raw_lot_id": "RAWLOT-S0011-2026-000088",
+    "received_date": "2026-02-22",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-11-28",
+    "material_code": "SUGAR",
+    "qty_received": 854.726,
+    "raw_lot_id": "RAWLOT-S0011-2026-000089",
+    "received_date": "2026-02-23",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-10-11",
+    "material_code": "SUGAR",
+    "qty_received": 1370.052,
+    "raw_lot_id": "RAWLOT-S0011-2026-000090",
+    "received_date": "2026-02-24",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-11-25",
+    "material_code": "VANILLA",
+    "qty_received": 1989.449,
+    "raw_lot_id": "RAWLOT-S0017-2026-000091",
+    "received_date": "2026-02-24",
+    "supplier_id": "S0017"
+  },
+  {
+    "expiry_date": "2026-12-31",
+    "material_code": "FLOUR",
+    "qty_received": 1165.686,
+    "raw_lot_id": "RAWLOT-S0022-2026-000092",
+    "received_date": "2026-02-25",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2026-12-04",
+    "material_code": "FLOUR",
+    "qty_received": 644.37,
+    "raw_lot_id": "RAWLOT-S0024-2026-000093",
+    "received_date": "2026-02-25",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-12-27",
+    "material_code": "SUGAR",
+    "qty_received": 376.15,
+    "raw_lot_id": "RAWLOT-S0007-2026-000094",
+    "received_date": "2026-02-25",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2026-11-19",
+    "material_code": "FLOUR",
+    "qty_received": 2029.112,
+    "raw_lot_id": "RAWLOT-S0022-2026-000095",
+    "received_date": "2026-02-26",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-08-21",
+    "material_code": "SUGAR",
+    "qty_received": 827.286,
+    "raw_lot_id": "RAWLOT-S0007-2026-000096",
+    "received_date": "2026-02-26",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-02-17",
+    "material_code": "FLOUR",
+    "qty_received": 2089.431,
+    "raw_lot_id": "RAWLOT-S0022-2026-000097",
+    "received_date": "2026-02-27",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-06-13",
+    "material_code": "SALT",
+    "qty_received": 525.736,
+    "raw_lot_id": "RAWLOT-S0015-2026-000098",
+    "received_date": "2026-02-27",
+    "supplier_id": "S0015"
+  },
+  {
+    "expiry_date": "2028-01-24",
+    "material_code": "SUGAR",
+    "qty_received": 904.477,
+    "raw_lot_id": "RAWLOT-S0011-2026-000099",
+    "received_date": "2026-02-27",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-01-22",
+    "material_code": "FLOUR",
+    "qty_received": 457.931,
+    "raw_lot_id": "RAWLOT-S0003-2026-000100",
+    "received_date": "2026-02-28",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2027-11-20",
+    "material_code": "SUGAR",
+    "qty_received": 1840.013,
+    "raw_lot_id": "RAWLOT-S0011-2026-000101",
+    "received_date": "2026-02-28",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-02-04",
+    "material_code": "FLOUR",
+    "qty_received": 1580.997,
+    "raw_lot_id": "RAWLOT-S0022-2026-000102",
+    "received_date": "2026-03-02",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-01-06",
+    "material_code": "FLOUR",
+    "qty_received": 645.055,
+    "raw_lot_id": "RAWLOT-S0024-2026-000103",
+    "received_date": "2026-03-04",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2026-09-10",
+    "material_code": "PEANUT",
+    "qty_received": 1344.231,
+    "raw_lot_id": "RAWLOT-S0002-2026-000104",
+    "received_date": "2026-03-04",
+    "supplier_id": "S0002"
+  },
+  {
+    "expiry_date": "2027-10-04",
+    "material_code": "SUGAR",
+    "qty_received": 658.867,
+    "raw_lot_id": "RAWLOT-S0011-2026-000105",
+    "received_date": "2026-03-04",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-11-08",
+    "material_code": "SUGAR",
+    "qty_received": 772.587,
+    "raw_lot_id": "RAWLOT-S0011-2026-000106",
+    "received_date": "2026-03-04",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-01-20",
+    "material_code": "SUGAR",
+    "qty_received": 1008.959,
+    "raw_lot_id": "RAWLOT-S0011-2026-000107",
+    "received_date": "2026-03-04",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-02-22",
+    "material_code": "FLOUR",
+    "qty_received": 1059.394,
+    "raw_lot_id": "RAWLOT-S0022-2026-000108",
+    "received_date": "2026-03-05",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-09-08",
+    "material_code": "SUGAR",
+    "qty_received": 683.367,
+    "raw_lot_id": "RAWLOT-S0011-2026-000109",
+    "received_date": "2026-03-06",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2026-10-18",
+    "material_code": "EGG_POWDER",
+    "qty_received": 1205.57,
+    "raw_lot_id": "RAWLOT-S0010-2026-000110",
+    "received_date": "2026-03-07",
+    "supplier_id": "S0010"
+  },
+  {
+    "expiry_date": "2027-02-07",
+    "material_code": "FLOUR",
+    "qty_received": 1265.057,
+    "raw_lot_id": "RAWLOT-S0022-2026-000111",
+    "received_date": "2026-03-07",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-11-11",
+    "material_code": "SUGAR",
+    "qty_received": 1412.317,
+    "raw_lot_id": "RAWLOT-S0011-2026-000112",
+    "received_date": "2026-03-07",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-01-06",
+    "material_code": "VANILLA",
+    "qty_received": 1206.45,
+    "raw_lot_id": "RAWLOT-S0017-2026-000113",
+    "received_date": "2026-03-07",
+    "supplier_id": "S0017"
+  },
+  {
+    "expiry_date": "2027-01-15",
+    "material_code": "FLOUR",
+    "qty_received": 838.728,
+    "raw_lot_id": "RAWLOT-S0022-2026-000114",
+    "received_date": "2026-03-08",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-01-02",
+    "material_code": "SUGAR",
+    "qty_received": 588.685,
+    "raw_lot_id": "RAWLOT-S0011-2026-000115",
+    "received_date": "2026-03-08",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-01-14",
+    "material_code": "FLOUR",
+    "qty_received": 1249.237,
+    "raw_lot_id": "RAWLOT-S0003-2026-000116",
+    "received_date": "2026-03-09",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2027-01-29",
+    "material_code": "FLOUR",
+    "qty_received": 2675.755,
+    "raw_lot_id": "RAWLOT-S0022-2026-000117",
+    "received_date": "2026-03-10",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2026-12-28",
+    "material_code": "PALM_OIL",
+    "qty_received": 2029.117,
+    "raw_lot_id": "RAWLOT-S0006-2026-000118",
+    "received_date": "2026-03-10",
+    "supplier_id": "S0006"
+  },
+  {
+    "expiry_date": "2027-01-20",
+    "material_code": "FLOUR",
+    "qty_received": 654.341,
+    "raw_lot_id": "RAWLOT-S0022-2026-000119",
+    "received_date": "2026-03-11",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2026-12-16",
+    "material_code": "FLOUR",
+    "qty_received": 1191.129,
+    "raw_lot_id": "RAWLOT-S0022-2026-000120",
+    "received_date": "2026-03-11",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-01-23",
+    "material_code": "FLOUR",
+    "qty_received": 1701.811,
+    "raw_lot_id": "RAWLOT-S0022-2026-000121",
+    "received_date": "2026-03-11",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-02-05",
+    "material_code": "FLOUR",
+    "qty_received": 555.053,
+    "raw_lot_id": "RAWLOT-S0024-2026-000122",
+    "received_date": "2026-03-11",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-01-21",
+    "material_code": "FLOUR",
+    "qty_received": 919.274,
+    "raw_lot_id": "RAWLOT-S0024-2026-000123",
+    "received_date": "2026-03-12",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-01-04",
+    "material_code": "MILK_POWDER",
+    "qty_received": 759.999,
+    "raw_lot_id": "RAWLOT-S0008-2026-000124",
+    "received_date": "2026-03-12",
+    "supplier_id": "S0008"
+  },
+  {
+    "expiry_date": "2027-12-11",
+    "material_code": "SUGAR",
+    "qty_received": 678.968,
+    "raw_lot_id": "RAWLOT-S0011-2026-000125",
+    "received_date": "2026-03-13",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-09-12",
+    "material_code": "VANILLA",
+    "qty_received": 1707.551,
+    "raw_lot_id": "RAWLOT-S0023-2026-000126",
+    "received_date": "2026-03-13",
+    "supplier_id": "S0023"
+  },
+  {
+    "expiry_date": "2026-11-10",
+    "material_code": "FLOUR",
+    "qty_received": 2284.72,
+    "raw_lot_id": "RAWLOT-S0022-2026-000127",
+    "received_date": "2026-03-14",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-02-27",
+    "material_code": "FLOUR",
+    "qty_received": 585.069,
+    "raw_lot_id": "RAWLOT-S0022-2026-000128",
+    "received_date": "2026-03-15",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-01-23",
+    "material_code": "SUGAR",
+    "qty_received": 1193.236,
+    "raw_lot_id": "RAWLOT-S0011-2026-000129",
+    "received_date": "2026-03-15",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2026-11-28",
+    "material_code": "EGG_POWDER",
+    "qty_received": 693.37,
+    "raw_lot_id": "RAWLOT-S0010-2026-000130",
+    "received_date": "2026-03-16",
+    "supplier_id": "S0010"
+  },
+  {
+    "expiry_date": "2026-12-11",
+    "material_code": "FLOUR",
+    "qty_received": 581.923,
+    "raw_lot_id": "RAWLOT-S0022-2026-000131",
+    "received_date": "2026-03-16",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-09-21",
+    "material_code": "SUGAR",
+    "qty_received": 782.572,
+    "raw_lot_id": "RAWLOT-S0007-2026-000132",
+    "received_date": "2026-03-16",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-09-23",
+    "material_code": "SUGAR",
+    "qty_received": 1117.008,
+    "raw_lot_id": "RAWLOT-S0011-2026-000133",
+    "received_date": "2026-03-16",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-09-25",
+    "material_code": "SUGAR",
+    "qty_received": 2010.545,
+    "raw_lot_id": "RAWLOT-S0011-2026-000134",
+    "received_date": "2026-03-16",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-04-27",
+    "material_code": "COCOA",
+    "qty_received": 967.152,
+    "raw_lot_id": "RAWLOT-S0019-2026-000135",
+    "received_date": "2026-03-18",
+    "supplier_id": "S0019"
+  },
+  {
+    "expiry_date": "2026-12-06",
+    "material_code": "FLOUR",
+    "qty_received": 1833.312,
+    "raw_lot_id": "RAWLOT-S0003-2026-000136",
+    "received_date": "2026-03-18",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2026-12-16",
+    "material_code": "FLOUR",
+    "qty_received": 2539.591,
+    "raw_lot_id": "RAWLOT-S0022-2026-000137",
+    "received_date": "2026-03-18",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-03-18",
+    "material_code": "PALM_OIL",
+    "qty_received": 1515.426,
+    "raw_lot_id": "RAWLOT-S0006-2026-000138",
+    "received_date": "2026-03-18",
+    "supplier_id": "S0006"
+  },
+  {
+    "expiry_date": "2026-11-05",
+    "material_code": "PEANUT",
+    "qty_received": 860.874,
+    "raw_lot_id": "RAWLOT-S0005-2026-000139",
+    "received_date": "2026-03-18",
+    "supplier_id": "S0005"
+  },
+  {
+    "expiry_date": "2028-02-23",
+    "material_code": "SUGAR",
+    "qty_received": 1191.87,
+    "raw_lot_id": "RAWLOT-S0011-2026-000140",
+    "received_date": "2026-03-18",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2026-12-30",
+    "material_code": "FLOUR",
+    "qty_received": 1492.462,
+    "raw_lot_id": "RAWLOT-S0024-2026-000141",
+    "received_date": "2026-03-19",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-02-23",
+    "material_code": "FLOUR",
+    "qty_received": 2783.389,
+    "raw_lot_id": "RAWLOT-S0022-2026-000142",
+    "received_date": "2026-03-20",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-09-02",
+    "material_code": "LECITHIN",
+    "qty_received": 1220.933,
+    "raw_lot_id": "RAWLOT-S0009-2026-000143",
+    "received_date": "2026-03-20",
+    "supplier_id": "S0009"
+  },
+  {
+    "expiry_date": "2027-12-31",
+    "material_code": "SUGAR",
+    "qty_received": 902.941,
+    "raw_lot_id": "RAWLOT-S0007-2026-000144",
+    "received_date": "2026-03-21",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2028-02-08",
+    "material_code": "SUGAR",
+    "qty_received": 407.077,
+    "raw_lot_id": "RAWLOT-S0011-2026-000145",
+    "received_date": "2026-03-21",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-11-21",
+    "material_code": "SUGAR",
+    "qty_received": 503.771,
+    "raw_lot_id": "RAWLOT-S0011-2026-000146",
+    "received_date": "2026-03-21",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2026-11-30",
+    "material_code": "FLOUR",
+    "qty_received": 2980.019,
+    "raw_lot_id": "RAWLOT-S0022-2026-000147",
+    "received_date": "2026-03-22",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-03-07",
+    "material_code": "FLOUR",
+    "qty_received": 667.027,
+    "raw_lot_id": "RAWLOT-S0022-2026-000148",
+    "received_date": "2026-03-23",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2026-12-04",
+    "material_code": "FLOUR",
+    "qty_received": 1036.466,
+    "raw_lot_id": "RAWLOT-S0003-2026-000149",
+    "received_date": "2026-03-24",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2027-12-29",
+    "material_code": "VANILLA",
+    "qty_received": 824.563,
+    "raw_lot_id": "RAWLOT-S0017-2026-000150",
+    "received_date": "2026-03-25",
+    "supplier_id": "S0017"
+  },
+  {
+    "expiry_date": "2027-01-04",
+    "material_code": "FLOUR",
+    "qty_received": 990.239,
+    "raw_lot_id": "RAWLOT-S0022-2026-000151",
+    "received_date": "2026-03-26",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-02-15",
+    "material_code": "MILK_POWDER",
+    "qty_received": 1537.34,
+    "raw_lot_id": "RAWLOT-S0008-2026-000152",
+    "received_date": "2026-03-26",
+    "supplier_id": "S0008"
+  },
+  {
+    "expiry_date": "2028-03-15",
+    "material_code": "SUGAR",
+    "qty_received": 383.543,
+    "raw_lot_id": "RAWLOT-S0011-2026-000153",
+    "received_date": "2026-03-26",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-11-02",
+    "material_code": "SUGAR",
+    "qty_received": 776.41,
+    "raw_lot_id": "RAWLOT-S0011-2026-000154",
+    "received_date": "2026-03-26",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-03-24",
+    "material_code": "ALMOND",
+    "qty_received": 514.682,
+    "raw_lot_id": "RAWLOT-S0014-2026-000155",
+    "received_date": "2026-03-27",
+    "supplier_id": "S0014"
+  },
+  {
+    "expiry_date": "2026-12-27",
+    "material_code": "FLOUR",
+    "qty_received": 836.08,
+    "raw_lot_id": "RAWLOT-S0003-2026-000156",
+    "received_date": "2026-03-27",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2027-01-30",
+    "material_code": "FLOUR",
+    "qty_received": 1035.918,
+    "raw_lot_id": "RAWLOT-S0022-2026-000157",
+    "received_date": "2026-03-27",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-02-25",
+    "material_code": "PALM_OIL",
+    "qty_received": 690.624,
+    "raw_lot_id": "RAWLOT-S0021-2026-000158",
+    "received_date": "2026-03-27",
+    "supplier_id": "S0021"
+  },
+  {
+    "expiry_date": "2026-12-13",
+    "material_code": "FLOUR",
+    "qty_received": 669.602,
+    "raw_lot_id": "RAWLOT-S0022-2026-000159",
+    "received_date": "2026-03-29",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-01-14",
+    "material_code": "SUGAR",
+    "qty_received": 432.319,
+    "raw_lot_id": "RAWLOT-S0011-2026-000160",
+    "received_date": "2026-03-29",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2026-12-31",
+    "material_code": "FLOUR",
+    "qty_received": 512.172,
+    "raw_lot_id": "RAWLOT-S0003-2026-000161",
+    "received_date": "2026-03-30",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2027-01-25",
+    "material_code": "ALMOND",
+    "qty_received": 589.651,
+    "raw_lot_id": "RAWLOT-S0023-2026-000162",
+    "received_date": "2026-03-31",
+    "supplier_id": "S0023"
+  },
+  {
+    "expiry_date": "2027-12-21",
+    "material_code": "SUGAR",
+    "qty_received": 661.328,
+    "raw_lot_id": "RAWLOT-S0011-2026-000163",
+    "received_date": "2026-03-31",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-03-18",
+    "material_code": "FLOUR",
+    "qty_received": 831.74,
+    "raw_lot_id": "RAWLOT-S0022-2026-000164",
+    "received_date": "2026-04-01",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-01-28",
+    "material_code": "SUGAR",
+    "qty_received": 1051.434,
+    "raw_lot_id": "RAWLOT-S0011-2026-000165",
+    "received_date": "2026-04-01",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2026-10-13",
+    "material_code": "EGG_POWDER",
+    "qty_received": 1186.342,
+    "raw_lot_id": "RAWLOT-S0010-2026-000166",
+    "received_date": "2026-04-02",
+    "supplier_id": "S0010"
+  },
+  {
+    "expiry_date": "2027-01-08",
+    "material_code": "FLOUR",
+    "qty_received": 1065.396,
+    "raw_lot_id": "RAWLOT-S0003-2026-000167",
+    "received_date": "2026-04-03",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2026-11-29",
+    "material_code": "FLOUR",
+    "qty_received": 886.941,
+    "raw_lot_id": "RAWLOT-S0024-2026-000168",
+    "received_date": "2026-04-03",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-11-03",
+    "material_code": "SALT",
+    "qty_received": 1723.582,
+    "raw_lot_id": "RAWLOT-S0015-2026-000169",
+    "received_date": "2026-04-04",
+    "supplier_id": "S0015"
+  },
+  {
+    "expiry_date": "2028-08-27",
+    "material_code": "SALT",
+    "qty_received": 1512.26,
+    "raw_lot_id": "RAWLOT-S0001-2026-000170",
+    "received_date": "2026-04-05",
+    "supplier_id": "S0001"
+  },
+  {
+    "expiry_date": "2026-12-04",
+    "material_code": "FLOUR",
+    "qty_received": 1638.716,
+    "raw_lot_id": "RAWLOT-S0022-2026-000171",
+    "received_date": "2026-04-06",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-06-12",
+    "material_code": "COCOA",
+    "qty_received": 799.071,
+    "raw_lot_id": "RAWLOT-S0012-2026-000172",
+    "received_date": "2026-04-07",
+    "supplier_id": "S0012"
+  },
+  {
+    "expiry_date": "2027-02-27",
+    "material_code": "PALM_OIL",
+    "qty_received": 2580.139,
+    "raw_lot_id": "RAWLOT-S0006-2026-000173",
+    "received_date": "2026-04-07",
+    "supplier_id": "S0006"
+  },
+  {
+    "expiry_date": "2027-01-22",
+    "material_code": "FLOUR",
+    "qty_received": 836.673,
+    "raw_lot_id": "RAWLOT-S0003-2026-000174",
+    "received_date": "2026-04-08",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2027-04-04",
+    "material_code": "FLOUR",
+    "qty_received": 765.069,
+    "raw_lot_id": "RAWLOT-S0022-2026-000175",
+    "received_date": "2026-04-08",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2026-12-20",
+    "material_code": "FLOUR",
+    "qty_received": 1791.321,
+    "raw_lot_id": "RAWLOT-S0022-2026-000176",
+    "received_date": "2026-04-08",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2026-12-25",
+    "material_code": "FLOUR",
+    "qty_received": 717.528,
+    "raw_lot_id": "RAWLOT-S0024-2026-000177",
+    "received_date": "2026-04-08",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-01-15",
+    "material_code": "FLOUR",
+    "qty_received": 559.971,
+    "raw_lot_id": "RAWLOT-S0022-2026-000178",
+    "received_date": "2026-04-10",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-02-09",
+    "material_code": "FLOUR",
+    "qty_received": 1475.492,
+    "raw_lot_id": "RAWLOT-S0022-2026-000179",
+    "received_date": "2026-04-10",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-02-23",
+    "material_code": "PALM_OIL",
+    "qty_received": 745.608,
+    "raw_lot_id": "RAWLOT-S0006-2026-000180",
+    "received_date": "2026-04-10",
+    "supplier_id": "S0006"
+  },
+  {
+    "expiry_date": "2026-12-12",
+    "material_code": "FLOUR",
+    "qty_received": 967.951,
+    "raw_lot_id": "RAWLOT-S0022-2026-000181",
+    "received_date": "2026-04-11",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-10-21",
+    "material_code": "SUGAR",
+    "qty_received": 1892.812,
+    "raw_lot_id": "RAWLOT-S0011-2026-000182",
+    "received_date": "2026-04-11",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-02-01",
+    "material_code": "EGG_POWDER",
+    "qty_received": 1077.506,
+    "raw_lot_id": "RAWLOT-S0010-2026-000183",
+    "received_date": "2026-04-12",
+    "supplier_id": "S0010"
+  },
+  {
+    "expiry_date": "2027-03-08",
+    "material_code": "FLOUR",
+    "qty_received": 731.591,
+    "raw_lot_id": "RAWLOT-S0003-2026-000184",
+    "received_date": "2026-04-12",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2027-10-09",
+    "material_code": "SUGAR",
+    "qty_received": 2259.377,
+    "raw_lot_id": "RAWLOT-S0007-2026-000185",
+    "received_date": "2026-04-12",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2026-11-24",
+    "material_code": "PEANUT",
+    "qty_received": 1475.615,
+    "raw_lot_id": "RAWLOT-S0023-2026-000186",
+    "received_date": "2026-04-13",
+    "supplier_id": "S0023"
+  },
+  {
+    "expiry_date": "2027-10-10",
+    "material_code": "SUGAR",
+    "qty_received": 1539.245,
+    "raw_lot_id": "RAWLOT-S0011-2026-000187",
+    "received_date": "2026-04-14",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-01-10",
+    "material_code": "FLOUR",
+    "qty_received": 2101.019,
+    "raw_lot_id": "RAWLOT-S0022-2026-000188",
+    "received_date": "2026-04-16",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2026-12-26",
+    "material_code": "FLOUR",
+    "qty_received": 1646.643,
+    "raw_lot_id": "RAWLOT-S0003-2026-000189",
+    "received_date": "2026-04-17",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2028-03-29",
+    "material_code": "SUGAR",
+    "qty_received": 774.889,
+    "raw_lot_id": "RAWLOT-S0007-2026-000190",
+    "received_date": "2026-04-17",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2028-02-11",
+    "material_code": "SUGAR",
+    "qty_received": 1112.622,
+    "raw_lot_id": "RAWLOT-S0007-2026-000191",
+    "received_date": "2026-04-18",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2028-02-08",
+    "material_code": "SUGAR",
+    "qty_received": 1122.101,
+    "raw_lot_id": "RAWLOT-S0011-2026-000192",
+    "received_date": "2026-04-18",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-01-31",
+    "material_code": "FLOUR",
+    "qty_received": 469.51,
+    "raw_lot_id": "RAWLOT-S0022-2026-000193",
+    "received_date": "2026-04-19",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-02-15",
+    "material_code": "SUGAR",
+    "qty_received": 558.239,
+    "raw_lot_id": "RAWLOT-S0007-2026-000194",
+    "received_date": "2026-04-19",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2028-04-01",
+    "material_code": "SUGAR",
+    "qty_received": 1739.288,
+    "raw_lot_id": "RAWLOT-S0011-2026-000195",
+    "received_date": "2026-04-19",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-02-01",
+    "material_code": "MILK_POWDER",
+    "qty_received": 1275.424,
+    "raw_lot_id": "RAWLOT-S0025-2026-000196",
+    "received_date": "2026-04-21",
+    "supplier_id": "S0025"
+  },
+  {
+    "expiry_date": "2027-01-26",
+    "material_code": "EGG_POWDER",
+    "qty_received": 836.587,
+    "raw_lot_id": "RAWLOT-S0010-2026-000197",
+    "received_date": "2026-04-22",
+    "supplier_id": "S0010"
+  },
+  {
+    "expiry_date": "2026-12-29",
+    "material_code": "FLOUR",
+    "qty_received": 1580.714,
+    "raw_lot_id": "RAWLOT-S0022-2026-000198",
+    "received_date": "2026-04-22",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-01-29",
+    "material_code": "FLOUR",
+    "qty_received": 578.898,
+    "raw_lot_id": "RAWLOT-S0024-2026-000199",
+    "received_date": "2026-04-22",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-02-20",
+    "material_code": "SUGAR",
+    "qty_received": 626.837,
+    "raw_lot_id": "RAWLOT-S0007-2026-000200",
+    "received_date": "2026-04-22",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-11-05",
+    "material_code": "SUGAR",
+    "qty_received": 686.057,
+    "raw_lot_id": "RAWLOT-S0007-2026-000201",
+    "received_date": "2026-04-22",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-10-30",
+    "material_code": "SUGAR",
+    "qty_received": 2346.929,
+    "raw_lot_id": "RAWLOT-S0011-2026-000202",
+    "received_date": "2026-04-22",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-03-24",
+    "material_code": "SUGAR",
+    "qty_received": 1115.026,
+    "raw_lot_id": "RAWLOT-S0011-2026-000203",
+    "received_date": "2026-04-23",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-03-23",
+    "material_code": "SUGAR",
+    "qty_received": 2235.345,
+    "raw_lot_id": "RAWLOT-S0011-2026-000204",
+    "received_date": "2026-04-23",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-01-12",
+    "material_code": "FLOUR",
+    "qty_received": 894.646,
+    "raw_lot_id": "RAWLOT-S0022-2026-000205",
+    "received_date": "2026-04-24",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-01-25",
+    "material_code": "SUGAR",
+    "qty_received": 936.988,
+    "raw_lot_id": "RAWLOT-S0011-2026-000206",
+    "received_date": "2026-04-24",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-03-23",
+    "material_code": "FLOUR",
+    "qty_received": 3240.855,
+    "raw_lot_id": "RAWLOT-S0024-2026-000207",
+    "received_date": "2026-04-25",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-01-03",
+    "material_code": "FLOUR",
+    "qty_received": 827.328,
+    "raw_lot_id": "RAWLOT-S0024-2026-000208",
+    "received_date": "2026-04-27",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-10-30",
+    "material_code": "SUGAR",
+    "qty_received": 1221.661,
+    "raw_lot_id": "RAWLOT-S0011-2026-000209",
+    "received_date": "2026-04-27",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-03-25",
+    "material_code": "FLOUR",
+    "qty_received": 510.051,
+    "raw_lot_id": "RAWLOT-S0003-2026-000210",
+    "received_date": "2026-04-28",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2027-04-02",
+    "material_code": "FLOUR",
+    "qty_received": 1295.791,
+    "raw_lot_id": "RAWLOT-S0024-2026-000211",
+    "received_date": "2026-04-28",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-01-13",
+    "material_code": "FLOUR",
+    "qty_received": 1713.759,
+    "raw_lot_id": "RAWLOT-S0022-2026-000212",
+    "received_date": "2026-04-29",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-02-27",
+    "material_code": "FLOUR",
+    "qty_received": 1621.043,
+    "raw_lot_id": "RAWLOT-S0024-2026-000213",
+    "received_date": "2026-04-29",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-11-14",
+    "material_code": "SUGAR",
+    "qty_received": 1223.774,
+    "raw_lot_id": "RAWLOT-S0011-2026-000214",
+    "received_date": "2026-04-29",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-12-23",
+    "material_code": "SUGAR",
+    "qty_received": 697.621,
+    "raw_lot_id": "RAWLOT-S0011-2026-000215",
+    "received_date": "2026-04-30",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-04-22",
+    "material_code": "FLOUR",
+    "qty_received": 486.968,
+    "raw_lot_id": "RAWLOT-S0022-2026-000216",
+    "received_date": "2026-05-01",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-03-26",
+    "material_code": "SUGAR",
+    "qty_received": 1466.885,
+    "raw_lot_id": "RAWLOT-S0007-2026-000217",
+    "received_date": "2026-05-01",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-02-02",
+    "material_code": "MILK_POWDER",
+    "qty_received": 576.254,
+    "raw_lot_id": "RAWLOT-S0008-2026-000218",
+    "received_date": "2026-05-03",
+    "supplier_id": "S0008"
+  },
+  {
+    "expiry_date": "2027-04-02",
+    "material_code": "PALM_OIL",
+    "qty_received": 830.322,
+    "raw_lot_id": "RAWLOT-S0006-2026-000219",
+    "received_date": "2026-05-03",
+    "supplier_id": "S0006"
+  },
+  {
+    "expiry_date": "2027-03-06",
+    "material_code": "FLOUR",
+    "qty_received": 763.277,
+    "raw_lot_id": "RAWLOT-S0022-2026-000220",
+    "received_date": "2026-05-04",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-02-13",
+    "material_code": "SUGAR",
+    "qty_received": 695.586,
+    "raw_lot_id": "RAWLOT-S0011-2026-000221",
+    "received_date": "2026-05-04",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-03-27",
+    "material_code": "SUGAR",
+    "qty_received": 2056.569,
+    "raw_lot_id": "RAWLOT-S0011-2026-000222",
+    "received_date": "2026-05-05",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-12-12",
+    "material_code": "SUGAR",
+    "qty_received": 1214.045,
+    "raw_lot_id": "RAWLOT-S0011-2026-000223",
+    "received_date": "2026-05-07",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-12-25",
+    "material_code": "VANILLA",
+    "qty_received": 935.865,
+    "raw_lot_id": "RAWLOT-S0017-2026-000224",
+    "received_date": "2026-05-07",
+    "supplier_id": "S0017"
+  },
+  {
+    "expiry_date": "2027-01-25",
+    "material_code": "FLOUR",
+    "qty_received": 465.074,
+    "raw_lot_id": "RAWLOT-S0022-2026-000225",
+    "received_date": "2026-05-09",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-04-01",
+    "material_code": "FLOUR",
+    "qty_received": 596.993,
+    "raw_lot_id": "RAWLOT-S0022-2026-000226",
+    "received_date": "2026-05-09",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-03-07",
+    "material_code": "PALM_OIL",
+    "qty_received": 632.154,
+    "raw_lot_id": "RAWLOT-S0006-2026-000227",
+    "received_date": "2026-05-09",
+    "supplier_id": "S0006"
+  },
+  {
+    "expiry_date": "2028-09-12",
+    "material_code": "SALT",
+    "qty_received": 893.358,
+    "raw_lot_id": "RAWLOT-S0015-2026-000228",
+    "received_date": "2026-05-09",
+    "supplier_id": "S0015"
+  },
+  {
+    "expiry_date": "2026-12-24",
+    "material_code": "EGG_POWDER",
+    "qty_received": 700.498,
+    "raw_lot_id": "RAWLOT-S0010-2026-000229",
+    "received_date": "2026-05-11",
+    "supplier_id": "S0010"
+  },
+  {
+    "expiry_date": "2027-02-17",
+    "material_code": "FLOUR",
+    "qty_received": 1078.711,
+    "raw_lot_id": "RAWLOT-S0022-2026-000230",
+    "received_date": "2026-05-11",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-01-29",
+    "material_code": "FLOUR",
+    "qty_received": 1123.224,
+    "raw_lot_id": "RAWLOT-S0022-2026-000231",
+    "received_date": "2026-05-11",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-04-04",
+    "material_code": "FLOUR",
+    "qty_received": 1328.263,
+    "raw_lot_id": "RAWLOT-S0022-2026-000232",
+    "received_date": "2026-05-12",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-02-21",
+    "material_code": "FLOUR",
+    "qty_received": 1181.395,
+    "raw_lot_id": "RAWLOT-S0024-2026-000233",
+    "received_date": "2026-05-12",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-01-07",
+    "material_code": "SUGAR",
+    "qty_received": 1375.317,
+    "raw_lot_id": "RAWLOT-S0011-2026-000234",
+    "received_date": "2026-05-12",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-04-22",
+    "material_code": "FLOUR",
+    "qty_received": 828.455,
+    "raw_lot_id": "RAWLOT-S0022-2026-000235",
+    "received_date": "2026-05-13",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-04-07",
+    "material_code": "PALM_OIL",
+    "qty_received": 1085.691,
+    "raw_lot_id": "RAWLOT-S0006-2026-000236",
+    "received_date": "2026-05-13",
+    "supplier_id": "S0006"
+  },
+  {
+    "expiry_date": "2027-11-10",
+    "material_code": "SUGAR",
+    "qty_received": 905.158,
+    "raw_lot_id": "RAWLOT-S0011-2026-000237",
+    "received_date": "2026-05-13",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-11-11",
+    "material_code": "SUGAR",
+    "qty_received": 2024.323,
+    "raw_lot_id": "RAWLOT-S0011-2026-000238",
+    "received_date": "2026-05-13",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-03-23",
+    "material_code": "FLOUR",
+    "qty_received": 469.709,
+    "raw_lot_id": "RAWLOT-S0022-2026-000239",
+    "received_date": "2026-05-14",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-08-15",
+    "material_code": "COCOA",
+    "qty_received": 797.161,
+    "raw_lot_id": "RAWLOT-S0019-2026-000240",
+    "received_date": "2026-05-15",
+    "supplier_id": "S0019"
+  },
+  {
+    "expiry_date": "2027-02-15",
+    "material_code": "FLOUR",
+    "qty_received": 686.666,
+    "raw_lot_id": "RAWLOT-S0022-2026-000241",
+    "received_date": "2026-05-15",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-04-06",
+    "material_code": "FLOUR",
+    "qty_received": 894.961,
+    "raw_lot_id": "RAWLOT-S0024-2026-000242",
+    "received_date": "2026-05-15",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-04-05",
+    "material_code": "PALM_OIL",
+    "qty_received": 649.104,
+    "raw_lot_id": "RAWLOT-S0006-2026-000243",
+    "received_date": "2026-05-15",
+    "supplier_id": "S0006"
+  },
+  {
+    "expiry_date": "2028-02-12",
+    "material_code": "SUGAR",
+    "qty_received": 739.915,
+    "raw_lot_id": "RAWLOT-S0011-2026-000244",
+    "received_date": "2026-05-15",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-02-09",
+    "material_code": "FLOUR",
+    "qty_received": 1834.537,
+    "raw_lot_id": "RAWLOT-S0003-2026-000245",
+    "received_date": "2026-05-16",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2027-02-21",
+    "material_code": "FLOUR",
+    "qty_received": 793.382,
+    "raw_lot_id": "RAWLOT-S0022-2026-000246",
+    "received_date": "2026-05-16",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-02-26",
+    "material_code": "PALM_OIL",
+    "qty_received": 1222.451,
+    "raw_lot_id": "RAWLOT-S0004-2026-000247",
+    "received_date": "2026-05-18",
+    "supplier_id": "S0004"
+  },
+  {
+    "expiry_date": "2027-02-25",
+    "material_code": "MILK_POWDER",
+    "qty_received": 1542.719,
+    "raw_lot_id": "RAWLOT-S0008-2026-000248",
+    "received_date": "2026-05-19",
+    "supplier_id": "S0008"
+  },
+  {
+    "expiry_date": "2027-03-26",
+    "material_code": "PALM_OIL",
+    "qty_received": 848.499,
+    "raw_lot_id": "RAWLOT-S0021-2026-000249",
+    "received_date": "2026-05-19",
+    "supplier_id": "S0021"
+  },
+  {
+    "expiry_date": "2028-04-02",
+    "material_code": "SUGAR",
+    "qty_received": 1329.949,
+    "raw_lot_id": "RAWLOT-S0011-2026-000250",
+    "received_date": "2026-05-19",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-02-09",
+    "material_code": "FLOUR",
+    "qty_received": 1586.578,
+    "raw_lot_id": "RAWLOT-S0022-2026-000251",
+    "received_date": "2026-05-20",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-07-31",
+    "material_code": "SALT",
+    "qty_received": 1043.841,
+    "raw_lot_id": "RAWLOT-S0015-2026-000252",
+    "received_date": "2026-05-20",
+    "supplier_id": "S0015"
+  },
+  {
+    "expiry_date": "2027-12-01",
+    "material_code": "SUGAR",
+    "qty_received": 759.289,
+    "raw_lot_id": "RAWLOT-S0011-2026-000253",
+    "received_date": "2026-05-20",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-09-09",
+    "material_code": "COCOA",
+    "qty_received": 1463.733,
+    "raw_lot_id": "RAWLOT-S0019-2026-000254",
+    "received_date": "2026-05-22",
+    "supplier_id": "S0019"
+  },
+  {
+    "expiry_date": "2027-02-02",
+    "material_code": "FLOUR",
+    "qty_received": 1640.698,
+    "raw_lot_id": "RAWLOT-S0024-2026-000255",
+    "received_date": "2026-05-22",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-03-14",
+    "material_code": "SUGAR",
+    "qty_received": 791.059,
+    "raw_lot_id": "RAWLOT-S0011-2026-000256",
+    "received_date": "2026-05-23",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-03-12",
+    "material_code": "FLOUR",
+    "qty_received": 931.638,
+    "raw_lot_id": "RAWLOT-S0022-2026-000257",
+    "received_date": "2026-05-24",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-11-24",
+    "material_code": "SUGAR",
+    "qty_received": 703.128,
+    "raw_lot_id": "RAWLOT-S0007-2026-000258",
+    "received_date": "2026-05-24",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-11-17",
+    "material_code": "SUGAR",
+    "qty_received": 414.932,
+    "raw_lot_id": "RAWLOT-S0007-2026-000259",
+    "received_date": "2026-05-25",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-11-20",
+    "material_code": "SUGAR",
+    "qty_received": 2044.468,
+    "raw_lot_id": "RAWLOT-S0007-2026-000260",
+    "received_date": "2026-05-25",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2028-12-06",
+    "material_code": "SALT",
+    "qty_received": 670.455,
+    "raw_lot_id": "RAWLOT-S0015-2026-000261",
+    "received_date": "2026-05-28",
+    "supplier_id": "S0015"
+  },
+  {
+    "expiry_date": "2027-04-10",
+    "material_code": "FLOUR",
+    "qty_received": 931.985,
+    "raw_lot_id": "RAWLOT-S0022-2026-000262",
+    "received_date": "2026-05-29",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-02-16",
+    "material_code": "FLOUR",
+    "qty_received": 1635.78,
+    "raw_lot_id": "RAWLOT-S0022-2026-000263",
+    "received_date": "2026-05-29",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-04-30",
+    "material_code": "FLOUR",
+    "qty_received": 1017.378,
+    "raw_lot_id": "RAWLOT-S0022-2026-000264",
+    "received_date": "2026-05-30",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-05-04",
+    "material_code": "SUGAR",
+    "qty_received": 1247.906,
+    "raw_lot_id": "RAWLOT-S0011-2026-000265",
+    "received_date": "2026-05-30",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-12-24",
+    "material_code": "SUGAR",
+    "qty_received": 1776.015,
+    "raw_lot_id": "RAWLOT-S0011-2026-000266",
+    "received_date": "2026-05-30",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-04-03",
+    "material_code": "VANILLA",
+    "qty_received": 719.942,
+    "raw_lot_id": "RAWLOT-S0013-2026-000267",
+    "received_date": "2026-05-31",
+    "supplier_id": "S0013"
+  },
+  {
+    "expiry_date": "2027-05-21",
+    "material_code": "FLOUR",
+    "qty_received": 1087.203,
+    "raw_lot_id": "RAWLOT-S0022-2026-000268",
+    "received_date": "2026-06-01",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-03-24",
+    "material_code": "FLOUR",
+    "qty_received": 1130.153,
+    "raw_lot_id": "RAWLOT-S0024-2026-000269",
+    "received_date": "2026-06-01",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-05-25",
+    "material_code": "MILK_POWDER",
+    "qty_received": 834.199,
+    "raw_lot_id": "RAWLOT-S0004-2026-000270",
+    "received_date": "2026-06-01",
+    "supplier_id": "S0004"
+  },
+  {
+    "expiry_date": "2028-01-20",
+    "material_code": "SUGAR",
+    "qty_received": 1127.181,
+    "raw_lot_id": "RAWLOT-S0011-2026-000271",
+    "received_date": "2026-06-01",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-03-04",
+    "material_code": "SUGAR",
+    "qty_received": 1624.646,
+    "raw_lot_id": "RAWLOT-S0011-2026-000272",
+    "received_date": "2026-06-01",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-05-13",
+    "material_code": "FLOUR",
+    "qty_received": 1482.845,
+    "raw_lot_id": "RAWLOT-S0024-2026-000273",
+    "received_date": "2026-06-02",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2026-12-26",
+    "material_code": "EGG_POWDER",
+    "qty_received": 879.347,
+    "raw_lot_id": "RAWLOT-S0010-2026-000274",
+    "received_date": "2026-06-03",
+    "supplier_id": "S0010"
+  },
+  {
+    "expiry_date": "2028-04-10",
+    "material_code": "SUGAR",
+    "qty_received": 461.221,
+    "raw_lot_id": "RAWLOT-S0011-2026-000275",
+    "received_date": "2026-06-03",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-03-07",
+    "material_code": "SUGAR",
+    "qty_received": 1093.849,
+    "raw_lot_id": "RAWLOT-S0011-2026-000276",
+    "received_date": "2026-06-03",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-05-19",
+    "material_code": "PALM_OIL",
+    "qty_received": 1146.998,
+    "raw_lot_id": "RAWLOT-S0006-2026-000277",
+    "received_date": "2026-06-04",
+    "supplier_id": "S0006"
+  },
+  {
+    "expiry_date": "2028-03-14",
+    "material_code": "SUGAR",
+    "qty_received": 1953.865,
+    "raw_lot_id": "RAWLOT-S0011-2026-000278",
+    "received_date": "2026-06-04",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-04-19",
+    "material_code": "MILK_POWDER",
+    "qty_received": 704.875,
+    "raw_lot_id": "RAWLOT-S0004-2026-000279",
+    "received_date": "2026-06-05",
+    "supplier_id": "S0004"
+  },
+  {
+    "expiry_date": "2027-05-07",
+    "material_code": "FLOUR",
+    "qty_received": 1031.829,
+    "raw_lot_id": "RAWLOT-S0022-2026-000280",
+    "received_date": "2026-06-06",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-12-29",
+    "material_code": "SUGAR",
+    "qty_received": 1137.232,
+    "raw_lot_id": "RAWLOT-S0007-2026-000281",
+    "received_date": "2026-06-07",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-12-08",
+    "material_code": "SUGAR",
+    "qty_received": 1116.393,
+    "raw_lot_id": "RAWLOT-S0011-2026-000282",
+    "received_date": "2026-06-07",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-03-15",
+    "material_code": "FLOUR",
+    "qty_received": 613.698,
+    "raw_lot_id": "RAWLOT-S0022-2026-000283",
+    "received_date": "2026-06-09",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-02-09",
+    "material_code": "SUGAR",
+    "qty_received": 912.817,
+    "raw_lot_id": "RAWLOT-S0007-2026-000284",
+    "received_date": "2026-06-09",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-04-10",
+    "material_code": "FLOUR",
+    "qty_received": 414.85,
+    "raw_lot_id": "RAWLOT-S0022-2026-000285",
+    "received_date": "2026-06-11",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-05-13",
+    "material_code": "FLOUR",
+    "qty_received": 1208.196,
+    "raw_lot_id": "RAWLOT-S0022-2026-000286",
+    "received_date": "2026-06-11",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-05-01",
+    "material_code": "PALM_OIL",
+    "qty_received": 989.059,
+    "raw_lot_id": "RAWLOT-S0006-2026-000287",
+    "received_date": "2026-06-11",
+    "supplier_id": "S0006"
+  },
+  {
+    "expiry_date": "2027-03-05",
+    "material_code": "FLOUR",
+    "qty_received": 694.501,
+    "raw_lot_id": "RAWLOT-S0022-2026-000288",
+    "received_date": "2026-06-12",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-05-03",
+    "material_code": "FLOUR",
+    "qty_received": 1831.714,
+    "raw_lot_id": "RAWLOT-S0024-2026-000289",
+    "received_date": "2026-06-13",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-12-19",
+    "material_code": "SUGAR",
+    "qty_received": 1789.101,
+    "raw_lot_id": "RAWLOT-S0011-2026-000290",
+    "received_date": "2026-06-13",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-04-21",
+    "material_code": "SUGAR",
+    "qty_received": 2773.62,
+    "raw_lot_id": "RAWLOT-S0007-2026-000291",
+    "received_date": "2026-06-14",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-06-09",
+    "material_code": "FLOUR",
+    "qty_received": 620.451,
+    "raw_lot_id": "RAWLOT-S0022-2026-000292",
+    "received_date": "2026-06-15",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-02-05",
+    "material_code": "SUGAR",
+    "qty_received": 386.373,
+    "raw_lot_id": "RAWLOT-S0007-2026-000293",
+    "received_date": "2026-06-15",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-05-05",
+    "material_code": "MILK_POWDER",
+    "qty_received": 989.121,
+    "raw_lot_id": "RAWLOT-S0025-2026-000294",
+    "received_date": "2026-06-16",
+    "supplier_id": "S0025"
+  },
+  {
+    "expiry_date": "2028-02-26",
+    "material_code": "SUGAR",
+    "qty_received": 600.614,
+    "raw_lot_id": "RAWLOT-S0007-2026-000295",
+    "received_date": "2026-06-16",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2028-03-18",
+    "material_code": "SUGAR",
+    "qty_received": 879.231,
+    "raw_lot_id": "RAWLOT-S0011-2026-000296",
+    "received_date": "2026-06-16",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-05-07",
+    "material_code": "FLOUR",
+    "qty_received": 1415.077,
+    "raw_lot_id": "RAWLOT-S0022-2026-000297",
+    "received_date": "2026-06-17",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-03-27",
+    "material_code": "FLOUR",
+    "qty_received": 1731.632,
+    "raw_lot_id": "RAWLOT-S0022-2026-000298",
+    "received_date": "2026-06-17",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-03-17",
+    "material_code": "FLOUR",
+    "qty_received": 658.237,
+    "raw_lot_id": "RAWLOT-S0024-2026-000299",
+    "received_date": "2026-06-17",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-04-26",
+    "material_code": "FLOUR",
+    "qty_received": 987.37,
+    "raw_lot_id": "RAWLOT-S0024-2026-000300",
+    "received_date": "2026-06-20",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-02-25",
+    "material_code": "SUGAR",
+    "qty_received": 1278.251,
+    "raw_lot_id": "RAWLOT-S0011-2026-000301",
+    "received_date": "2026-06-20",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-03-05",
+    "material_code": "SUGAR",
+    "qty_received": 1527.948,
+    "raw_lot_id": "RAWLOT-S0011-2026-000302",
+    "received_date": "2026-06-20",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-05-07",
+    "material_code": "FLOUR",
+    "qty_received": 1443.745,
+    "raw_lot_id": "RAWLOT-S0022-2026-000303",
+    "received_date": "2026-06-22",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-06-13",
+    "material_code": "FLOUR",
+    "qty_received": 1191.416,
+    "raw_lot_id": "RAWLOT-S0022-2026-000304",
+    "received_date": "2026-06-24",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-03-26",
+    "material_code": "SUGAR",
+    "qty_received": 1251.939,
+    "raw_lot_id": "RAWLOT-S0007-2026-000305",
+    "received_date": "2026-06-24",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2028-02-23",
+    "material_code": "SUGAR",
+    "qty_received": 797.878,
+    "raw_lot_id": "RAWLOT-S0011-2026-000306",
+    "received_date": "2026-06-24",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-03-24",
+    "material_code": "FLOUR",
+    "qty_received": 3118.047,
+    "raw_lot_id": "RAWLOT-S0022-2026-000307",
+    "received_date": "2026-06-25",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-06-11",
+    "material_code": "PALM_OIL",
+    "qty_received": 568.113,
+    "raw_lot_id": "RAWLOT-S0021-2026-000308",
+    "received_date": "2026-06-25",
+    "supplier_id": "S0021"
+  },
+  {
+    "expiry_date": "2027-04-09",
+    "material_code": "EGG_POWDER",
+    "qty_received": 2460.096,
+    "raw_lot_id": "RAWLOT-S0010-2026-000309",
+    "received_date": "2026-06-26",
+    "supplier_id": "S0010"
+  },
+  {
+    "expiry_date": "2028-03-25",
+    "material_code": "SUGAR",
+    "qty_received": 674.466,
+    "raw_lot_id": "RAWLOT-S0011-2026-000310",
+    "received_date": "2026-06-27",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-11-29",
+    "material_code": "SALT",
+    "qty_received": 910.379,
+    "raw_lot_id": "RAWLOT-S0001-2026-000311",
+    "received_date": "2026-06-28",
+    "supplier_id": "S0001"
+  },
+  {
+    "expiry_date": "2028-03-15",
+    "material_code": "SUGAR",
+    "qty_received": 590.622,
+    "raw_lot_id": "RAWLOT-S0011-2026-000312",
+    "received_date": "2026-06-28",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-02-17",
+    "material_code": "EGG_POWDER",
+    "qty_received": 803.736,
+    "raw_lot_id": "RAWLOT-S0010-2026-000313",
+    "received_date": "2026-06-30",
+    "supplier_id": "S0010"
+  },
+  {
+    "expiry_date": "2027-06-28",
+    "material_code": "FLOUR",
+    "qty_received": 1334.995,
+    "raw_lot_id": "RAWLOT-S0003-2026-000314",
+    "received_date": "2026-07-02",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2027-05-19",
+    "material_code": "FLOUR",
+    "qty_received": 1007.184,
+    "raw_lot_id": "RAWLOT-S0022-2026-000315",
+    "received_date": "2026-07-03",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-03-18",
+    "material_code": "FLOUR",
+    "qty_received": 1441.878,
+    "raw_lot_id": "RAWLOT-S0022-2026-000316",
+    "received_date": "2026-07-03",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-04-28",
+    "material_code": "FLOUR",
+    "qty_received": 1318.043,
+    "raw_lot_id": "RAWLOT-S0024-2026-000317",
+    "received_date": "2026-07-03",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-02-14",
+    "material_code": "SUGAR",
+    "qty_received": 1353.31,
+    "raw_lot_id": "RAWLOT-S0011-2026-000318",
+    "received_date": "2026-07-03",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-06-01",
+    "material_code": "SUGAR",
+    "qty_received": 861.028,
+    "raw_lot_id": "RAWLOT-S0011-2026-000319",
+    "received_date": "2026-07-04",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-03-14",
+    "material_code": "FLOUR",
+    "qty_received": 558.952,
+    "raw_lot_id": "RAWLOT-S0022-2026-000320",
+    "received_date": "2026-07-05",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-05-11",
+    "material_code": "SUGAR",
+    "qty_received": 810.903,
+    "raw_lot_id": "RAWLOT-S0007-2026-000321",
+    "received_date": "2026-07-05",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2028-02-10",
+    "material_code": "SUGAR",
+    "qty_received": 1478.164,
+    "raw_lot_id": "RAWLOT-S0007-2026-000322",
+    "received_date": "2026-07-05",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2028-06-03",
+    "material_code": "SUGAR",
+    "qty_received": 2121.942,
+    "raw_lot_id": "RAWLOT-S0011-2026-000323",
+    "received_date": "2026-07-05",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-09-04",
+    "material_code": "SALT",
+    "qty_received": 1565.776,
+    "raw_lot_id": "RAWLOT-S0001-2026-000324",
+    "received_date": "2026-07-06",
+    "supplier_id": "S0001"
+  },
+  {
+    "expiry_date": "2028-05-27",
+    "material_code": "SUGAR",
+    "qty_received": 1015.798,
+    "raw_lot_id": "RAWLOT-S0007-2026-000325",
+    "received_date": "2026-07-06",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2028-03-06",
+    "material_code": "SUGAR",
+    "qty_received": 1066.966,
+    "raw_lot_id": "RAWLOT-S0007-2026-000326",
+    "received_date": "2026-07-06",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-02-03",
+    "material_code": "EGG_POWDER",
+    "qty_received": 1224.982,
+    "raw_lot_id": "RAWLOT-S0010-2026-000327",
+    "received_date": "2026-07-07",
+    "supplier_id": "S0010"
+  },
+  {
+    "expiry_date": "2027-05-25",
+    "material_code": "FLOUR",
+    "qty_received": 2627.124,
+    "raw_lot_id": "RAWLOT-S0003-2026-000328",
+    "received_date": "2026-07-07",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2027-06-25",
+    "material_code": "FLOUR",
+    "qty_received": 1059.972,
+    "raw_lot_id": "RAWLOT-S0024-2026-000329",
+    "received_date": "2026-07-07",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-04-05",
+    "material_code": "FLOUR",
+    "qty_received": 1426.787,
+    "raw_lot_id": "RAWLOT-S0024-2026-000330",
+    "received_date": "2026-07-07",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-05-05",
+    "material_code": "FLOUR",
+    "qty_received": 1099.161,
+    "raw_lot_id": "RAWLOT-S0024-2026-000331",
+    "received_date": "2026-07-08",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-04-04",
+    "material_code": "SUGAR",
+    "qty_received": 781.454,
+    "raw_lot_id": "RAWLOT-S0011-2026-000332",
+    "received_date": "2026-07-08",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-06-02",
+    "material_code": "SUGAR",
+    "qty_received": 1084.834,
+    "raw_lot_id": "RAWLOT-S0011-2026-000333",
+    "received_date": "2026-07-08",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-03-18",
+    "material_code": "SUGAR",
+    "qty_received": 1830.907,
+    "raw_lot_id": "RAWLOT-S0011-2026-000334",
+    "received_date": "2026-07-08",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-01-25",
+    "material_code": "EGG_POWDER",
+    "qty_received": 878.477,
+    "raw_lot_id": "RAWLOT-S0010-2026-000335",
+    "received_date": "2026-07-09",
+    "supplier_id": "S0010"
+  },
+  {
+    "expiry_date": "2028-03-24",
+    "material_code": "SUGAR",
+    "qty_received": 809.609,
+    "raw_lot_id": "RAWLOT-S0011-2026-000336",
+    "received_date": "2026-07-09",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-02-04",
+    "material_code": "SUGAR",
+    "qty_received": 1094.332,
+    "raw_lot_id": "RAWLOT-S0011-2026-000337",
+    "received_date": "2026-07-09",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-03-15",
+    "material_code": "FLOUR",
+    "qty_received": 635.073,
+    "raw_lot_id": "RAWLOT-S0024-2026-000338",
+    "received_date": "2026-07-10",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-03-14",
+    "material_code": "FLOUR",
+    "qty_received": 1300.366,
+    "raw_lot_id": "RAWLOT-S0024-2026-000339",
+    "received_date": "2026-07-11",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-06-01",
+    "material_code": "FLOUR",
+    "qty_received": 911.902,
+    "raw_lot_id": "RAWLOT-S0003-2026-000340",
+    "received_date": "2026-07-13",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2027-05-01",
+    "material_code": "MILK_POWDER",
+    "qty_received": 2031.735,
+    "raw_lot_id": "RAWLOT-S0025-2026-000341",
+    "received_date": "2026-07-13",
+    "supplier_id": "S0025"
+  },
+  {
+    "expiry_date": "2028-01-12",
+    "material_code": "SUGAR",
+    "qty_received": 1680.745,
+    "raw_lot_id": "RAWLOT-S0011-2026-000342",
+    "received_date": "2026-07-13",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-01-22",
+    "material_code": "SUGAR",
+    "qty_received": 1230.492,
+    "raw_lot_id": "RAWLOT-S0011-2026-000343",
+    "received_date": "2026-07-14",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-03-19",
+    "material_code": "FLOUR",
+    "qty_received": 1286.582,
+    "raw_lot_id": "RAWLOT-S0024-2026-000344",
+    "received_date": "2026-07-15",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-04-17",
+    "material_code": "SUGAR",
+    "qty_received": 774.768,
+    "raw_lot_id": "RAWLOT-S0011-2026-000345",
+    "received_date": "2026-07-16",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-03-17",
+    "material_code": "FLOUR",
+    "qty_received": 545.985,
+    "raw_lot_id": "RAWLOT-S0024-2026-000346",
+    "received_date": "2026-07-17",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-06-23",
+    "material_code": "FLOUR",
+    "qty_received": 491.753,
+    "raw_lot_id": "RAWLOT-S0022-2026-000347",
+    "received_date": "2026-07-19",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-05-29",
+    "material_code": "FLOUR",
+    "qty_received": 588.068,
+    "raw_lot_id": "RAWLOT-S0022-2026-000348",
+    "received_date": "2026-07-19",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-03-17",
+    "material_code": "SUGAR",
+    "qty_received": 942.462,
+    "raw_lot_id": "RAWLOT-S0011-2026-000349",
+    "received_date": "2026-07-19",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-04-29",
+    "material_code": "SUGAR",
+    "qty_received": 972.085,
+    "raw_lot_id": "RAWLOT-S0011-2026-000350",
+    "received_date": "2026-07-20",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-05-10",
+    "material_code": "FLOUR",
+    "qty_received": 741.423,
+    "raw_lot_id": "RAWLOT-S0022-2026-000351",
+    "received_date": "2026-07-21",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-07-04",
+    "material_code": "FLOUR",
+    "qty_received": 1842.671,
+    "raw_lot_id": "RAWLOT-S0022-2026-000352",
+    "received_date": "2026-07-21",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-07-07",
+    "material_code": "MILK_POWDER",
+    "qty_received": 1282.434,
+    "raw_lot_id": "RAWLOT-S0008-2026-000353",
+    "received_date": "2026-07-21",
+    "supplier_id": "S0008"
+  },
+  {
+    "expiry_date": "2027-07-13",
+    "material_code": "FLOUR",
+    "qty_received": 1431.255,
+    "raw_lot_id": "RAWLOT-S0022-2026-000354",
+    "received_date": "2026-07-22",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2029-04-26",
+    "material_code": "SALT",
+    "qty_received": 987.023,
+    "raw_lot_id": "RAWLOT-S0001-2026-000355",
+    "received_date": "2026-07-22",
+    "supplier_id": "S0001"
+  },
+  {
+    "expiry_date": "2028-06-30",
+    "material_code": "SUGAR",
+    "qty_received": 901.305,
+    "raw_lot_id": "RAWLOT-S0011-2026-000356",
+    "received_date": "2026-07-22",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-05-08",
+    "material_code": "FLOUR",
+    "qty_received": 498.701,
+    "raw_lot_id": "RAWLOT-S0022-2026-000357",
+    "received_date": "2026-07-23",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-04-24",
+    "material_code": "FLOUR",
+    "qty_received": 963.442,
+    "raw_lot_id": "RAWLOT-S0022-2026-000358",
+    "received_date": "2026-07-23",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-02-03",
+    "material_code": "PEANUT",
+    "qty_received": 1190.358,
+    "raw_lot_id": "RAWLOT-S0002-2026-000359",
+    "received_date": "2026-07-24",
+    "supplier_id": "S0002"
+  },
+  {
+    "expiry_date": "2028-06-17",
+    "material_code": "SUGAR",
+    "qty_received": 1114.69,
+    "raw_lot_id": "RAWLOT-S0011-2026-000360",
+    "received_date": "2026-07-24",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-05-20",
+    "material_code": "FLOUR",
+    "qty_received": 1246.331,
+    "raw_lot_id": "RAWLOT-S0022-2026-000361",
+    "received_date": "2026-07-25",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-04-01",
+    "material_code": "FLOUR",
+    "qty_received": 962.454,
+    "raw_lot_id": "RAWLOT-S0022-2026-000362",
+    "received_date": "2026-07-26",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-06-21",
+    "material_code": "MILK_POWDER",
+    "qty_received": 824.797,
+    "raw_lot_id": "RAWLOT-S0008-2026-000363",
+    "received_date": "2026-07-26",
+    "supplier_id": "S0008"
+  },
+  {
+    "expiry_date": "2028-01-19",
+    "material_code": "SUGAR",
+    "qty_received": 620.254,
+    "raw_lot_id": "RAWLOT-S0007-2026-000364",
+    "received_date": "2026-07-26",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-05-15",
+    "material_code": "FLOUR",
+    "qty_received": 3981.88,
+    "raw_lot_id": "RAWLOT-S0022-2026-000365",
+    "received_date": "2026-07-27",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-04-09",
+    "material_code": "SUGAR",
+    "qty_received": 1388.156,
+    "raw_lot_id": "RAWLOT-S0011-2026-000366",
+    "received_date": "2026-07-27",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-06-16",
+    "material_code": "FLOUR",
+    "qty_received": 2328.32,
+    "raw_lot_id": "RAWLOT-S0022-2026-000367",
+    "received_date": "2026-07-28",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-07-04",
+    "material_code": "SUGAR",
+    "qty_received": 677.007,
+    "raw_lot_id": "RAWLOT-S0007-2026-000368",
+    "received_date": "2026-07-28",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2028-02-09",
+    "material_code": "SUGAR",
+    "qty_received": 1095.094,
+    "raw_lot_id": "RAWLOT-S0011-2026-000369",
+    "received_date": "2026-07-28",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-02-17",
+    "material_code": "SUGAR",
+    "qty_received": 1185.42,
+    "raw_lot_id": "RAWLOT-S0011-2026-000370",
+    "received_date": "2026-07-28",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-05-14",
+    "material_code": "FLOUR",
+    "qty_received": 808.156,
+    "raw_lot_id": "RAWLOT-S0022-2026-000371",
+    "received_date": "2026-07-29",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-07-21",
+    "material_code": "FLOUR",
+    "qty_received": 2109.434,
+    "raw_lot_id": "RAWLOT-S0024-2026-000372",
+    "received_date": "2026-07-29",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-09-08",
+    "material_code": "SALT",
+    "qty_received": 664.045,
+    "raw_lot_id": "RAWLOT-S0015-2026-000373",
+    "received_date": "2026-07-29",
+    "supplier_id": "S0015"
+  },
+  {
+    "expiry_date": "2028-03-13",
+    "material_code": "SUGAR",
+    "qty_received": 1755.732,
+    "raw_lot_id": "RAWLOT-S0007-2026-000374",
+    "received_date": "2026-07-29",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-05-01",
+    "material_code": "FLOUR",
+    "qty_received": 1146.195,
+    "raw_lot_id": "RAWLOT-S0022-2026-000375",
+    "received_date": "2026-07-31",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-07-16",
+    "material_code": "SUGAR",
+    "qty_received": 723.94,
+    "raw_lot_id": "RAWLOT-S0007-2026-000376",
+    "received_date": "2026-07-31",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2028-05-23",
+    "material_code": "SUGAR",
+    "qty_received": 718.894,
+    "raw_lot_id": "RAWLOT-S0011-2026-000377",
+    "received_date": "2026-07-31",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-04-09",
+    "material_code": "SUGAR",
+    "qty_received": 1438.632,
+    "raw_lot_id": "RAWLOT-S0011-2026-000378",
+    "received_date": "2026-07-31",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-07-31",
+    "material_code": "FLOUR",
+    "qty_received": 1457.638,
+    "raw_lot_id": "RAWLOT-S0003-2026-000379",
+    "received_date": "2026-08-01",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2027-05-21",
+    "material_code": "FLOUR",
+    "qty_received": 378.309,
+    "raw_lot_id": "RAWLOT-S0022-2026-000380",
+    "received_date": "2026-08-01",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-06-22",
+    "material_code": "FLOUR",
+    "qty_received": 907.889,
+    "raw_lot_id": "RAWLOT-S0024-2026-000381",
+    "received_date": "2026-08-01",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-07-20",
+    "material_code": "SUGAR",
+    "qty_received": 944.977,
+    "raw_lot_id": "RAWLOT-S0007-2026-000382",
+    "received_date": "2026-08-01",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2028-07-05",
+    "material_code": "SUGAR",
+    "qty_received": 2646.128,
+    "raw_lot_id": "RAWLOT-S0011-2026-000383",
+    "received_date": "2026-08-01",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-04-23",
+    "material_code": "VANILLA",
+    "qty_received": 643.825,
+    "raw_lot_id": "RAWLOT-S0017-2026-000384",
+    "received_date": "2026-08-01",
+    "supplier_id": "S0017"
+  },
+  {
+    "expiry_date": "2027-03-31",
+    "material_code": "FLOUR",
+    "qty_received": 738.457,
+    "raw_lot_id": "RAWLOT-S0022-2026-000385",
+    "received_date": "2026-08-02",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-03-01",
+    "material_code": "SUGAR",
+    "qty_received": 839.389,
+    "raw_lot_id": "RAWLOT-S0011-2026-000386",
+    "received_date": "2026-08-02",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-05-30",
+    "material_code": "FLOUR",
+    "qty_received": 772.914,
+    "raw_lot_id": "RAWLOT-S0022-2026-000387",
+    "received_date": "2026-08-03",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-06-17",
+    "material_code": "FLOUR",
+    "qty_received": 633.484,
+    "raw_lot_id": "RAWLOT-S0022-2026-000388",
+    "received_date": "2026-08-04",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-07-04",
+    "material_code": "FLOUR",
+    "qty_received": 773.198,
+    "raw_lot_id": "RAWLOT-S0022-2026-000389",
+    "received_date": "2026-08-04",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-05-10",
+    "material_code": "SUGAR",
+    "qty_received": 1592.359,
+    "raw_lot_id": "RAWLOT-S0011-2026-000390",
+    "received_date": "2026-08-04",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-06-29",
+    "material_code": "FLOUR",
+    "qty_received": 844.884,
+    "raw_lot_id": "RAWLOT-S0022-2026-000391",
+    "received_date": "2026-08-05",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-04-09",
+    "material_code": "FLOUR",
+    "qty_received": 1024.104,
+    "raw_lot_id": "RAWLOT-S0024-2026-000392",
+    "received_date": "2026-08-05",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-05-01",
+    "material_code": "FLOUR",
+    "qty_received": 1222.544,
+    "raw_lot_id": "RAWLOT-S0024-2026-000393",
+    "received_date": "2026-08-05",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-06-29",
+    "material_code": "PALM_OIL",
+    "qty_received": 464.525,
+    "raw_lot_id": "RAWLOT-S0021-2026-000394",
+    "received_date": "2026-08-05",
+    "supplier_id": "S0021"
+  },
+  {
+    "expiry_date": "2027-06-18",
+    "material_code": "FLOUR",
+    "qty_received": 936.53,
+    "raw_lot_id": "RAWLOT-S0022-2026-000395",
+    "received_date": "2026-08-06",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-04-13",
+    "material_code": "SUGAR",
+    "qty_received": 668.68,
+    "raw_lot_id": "RAWLOT-S0011-2026-000396",
+    "received_date": "2026-08-06",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-07-03",
+    "material_code": "SUGAR",
+    "qty_received": 2344.699,
+    "raw_lot_id": "RAWLOT-S0011-2026-000397",
+    "received_date": "2026-08-06",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-06-11",
+    "material_code": "FLOUR",
+    "qty_received": 427.599,
+    "raw_lot_id": "RAWLOT-S0024-2026-000398",
+    "received_date": "2026-08-07",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-03-18",
+    "material_code": "SUGAR",
+    "qty_received": 955.228,
+    "raw_lot_id": "RAWLOT-S0007-2026-000399",
+    "received_date": "2026-08-07",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2026-11-27",
+    "material_code": "BUTTER",
+    "qty_received": 996.892,
+    "raw_lot_id": "RAWLOT-S0011-2026-000400",
+    "received_date": "2026-08-09",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-08-06",
+    "material_code": "FLOUR",
+    "qty_received": 1502.789,
+    "raw_lot_id": "RAWLOT-S0003-2026-000401",
+    "received_date": "2026-08-09",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2028-01-14",
+    "material_code": "COCOA",
+    "qty_received": 1382.653,
+    "raw_lot_id": "RAWLOT-S0012-2026-000402",
+    "received_date": "2026-08-10",
+    "supplier_id": "S0012"
+  },
+  {
+    "expiry_date": "2027-05-20",
+    "material_code": "FLOUR",
+    "qty_received": 3153.579,
+    "raw_lot_id": "RAWLOT-S0022-2026-000403",
+    "received_date": "2026-08-11",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-06-07",
+    "material_code": "PALM_OIL",
+    "qty_received": 1276.823,
+    "raw_lot_id": "RAWLOT-S0006-2026-000404",
+    "received_date": "2026-08-11",
+    "supplier_id": "S0006"
+  },
+  {
+    "expiry_date": "2028-06-13",
+    "material_code": "SUGAR",
+    "qty_received": 484.899,
+    "raw_lot_id": "RAWLOT-S0011-2026-000405",
+    "received_date": "2026-08-11",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-06-04",
+    "material_code": "SUGAR",
+    "qty_received": 1182.78,
+    "raw_lot_id": "RAWLOT-S0011-2026-000406",
+    "received_date": "2026-08-11",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-07-01",
+    "material_code": "FLOUR",
+    "qty_received": 888.465,
+    "raw_lot_id": "RAWLOT-S0022-2026-000407",
+    "received_date": "2026-08-12",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-04-29",
+    "material_code": "FLOUR",
+    "qty_received": 1874.085,
+    "raw_lot_id": "RAWLOT-S0022-2026-000408",
+    "received_date": "2026-08-12",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-04-13",
+    "material_code": "SUGAR",
+    "qty_received": 515.014,
+    "raw_lot_id": "RAWLOT-S0007-2026-000409",
+    "received_date": "2026-08-12",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2028-04-01",
+    "material_code": "SUGAR",
+    "qty_received": 1088.022,
+    "raw_lot_id": "RAWLOT-S0011-2026-000410",
+    "received_date": "2026-08-12",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-07-08",
+    "material_code": "FLOUR",
+    "qty_received": 1087.277,
+    "raw_lot_id": "RAWLOT-S0003-2026-000411",
+    "received_date": "2026-08-13",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2027-05-02",
+    "material_code": "FLOUR",
+    "qty_received": 725.094,
+    "raw_lot_id": "RAWLOT-S0022-2026-000412",
+    "received_date": "2026-08-14",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-07-12",
+    "material_code": "FLOUR",
+    "qty_received": 760.088,
+    "raw_lot_id": "RAWLOT-S0024-2026-000413",
+    "received_date": "2026-08-14",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-03-25",
+    "material_code": "SUGAR",
+    "qty_received": 616.903,
+    "raw_lot_id": "RAWLOT-S0011-2026-000414",
+    "received_date": "2026-08-14",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-06-20",
+    "material_code": "SUGAR",
+    "qty_received": 1395.311,
+    "raw_lot_id": "RAWLOT-S0011-2026-000415",
+    "received_date": "2026-08-14",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-04-26",
+    "material_code": "SUGAR",
+    "qty_received": 848.316,
+    "raw_lot_id": "RAWLOT-S0011-2026-000416",
+    "received_date": "2026-08-15",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-02-22",
+    "material_code": "SUGAR",
+    "qty_received": 1585.565,
+    "raw_lot_id": "RAWLOT-S0011-2026-000417",
+    "received_date": "2026-08-16",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-07-08",
+    "material_code": "FLOUR",
+    "qty_received": 2494.976,
+    "raw_lot_id": "RAWLOT-S0003-2026-000418",
+    "received_date": "2026-08-17",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2027-04-17",
+    "material_code": "FLOUR",
+    "qty_received": 579.353,
+    "raw_lot_id": "RAWLOT-S0022-2026-000419",
+    "received_date": "2026-08-17",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-06-14",
+    "material_code": "FLOUR",
+    "qty_received": 1027.758,
+    "raw_lot_id": "RAWLOT-S0022-2026-000420",
+    "received_date": "2026-08-17",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-06-21",
+    "material_code": "SUGAR",
+    "qty_received": 1015.373,
+    "raw_lot_id": "RAWLOT-S0007-2026-000421",
+    "received_date": "2026-08-18",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-12-15",
+    "material_code": "LECITHIN",
+    "qty_received": 1485.71,
+    "raw_lot_id": "RAWLOT-S0011-2026-000422",
+    "received_date": "2026-08-19",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-06-29",
+    "material_code": "SUGAR",
+    "qty_received": 818.388,
+    "raw_lot_id": "RAWLOT-S0011-2026-000423",
+    "received_date": "2026-08-19",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-04-25",
+    "material_code": "FLOUR",
+    "qty_received": 844.038,
+    "raw_lot_id": "RAWLOT-S0024-2026-000424",
+    "received_date": "2026-08-20",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-08-14",
+    "material_code": "FLOUR",
+    "qty_received": 1582.243,
+    "raw_lot_id": "RAWLOT-S0024-2026-000425",
+    "received_date": "2026-08-20",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-02-15",
+    "material_code": "VANILLA",
+    "qty_received": 1119.461,
+    "raw_lot_id": "RAWLOT-S0023-2026-000426",
+    "received_date": "2026-08-20",
+    "supplier_id": "S0023"
+  },
+  {
+    "expiry_date": "2027-04-22",
+    "material_code": "EGG_POWDER",
+    "qty_received": 1759.685,
+    "raw_lot_id": "RAWLOT-S0010-2026-000427",
+    "received_date": "2026-08-21",
+    "supplier_id": "S0010"
+  },
+  {
+    "expiry_date": "2027-10-16",
+    "material_code": "COCOA",
+    "qty_received": 1683.531,
+    "raw_lot_id": "RAWLOT-S0019-2026-000428",
+    "received_date": "2026-08-22",
+    "supplier_id": "S0019"
+  },
+  {
+    "expiry_date": "2027-06-25",
+    "material_code": "FLOUR",
+    "qty_received": 1011.532,
+    "raw_lot_id": "RAWLOT-S0022-2026-000429",
+    "received_date": "2026-08-23",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-05-11",
+    "material_code": "FLOUR",
+    "qty_received": 1719.376,
+    "raw_lot_id": "RAWLOT-S0022-2026-000430",
+    "received_date": "2026-08-23",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-07-25",
+    "material_code": "SUGAR",
+    "qty_received": 3227.088,
+    "raw_lot_id": "RAWLOT-S0007-2026-000431",
+    "received_date": "2026-08-23",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2028-08-01",
+    "material_code": "SUGAR",
+    "qty_received": 666.048,
+    "raw_lot_id": "RAWLOT-S0011-2026-000432",
+    "received_date": "2026-08-23",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-03-07",
+    "material_code": "EGG_POWDER",
+    "qty_received": 940.196,
+    "raw_lot_id": "RAWLOT-S0010-2026-000433",
+    "received_date": "2026-08-24",
+    "supplier_id": "S0010"
+  },
+  {
+    "expiry_date": "2027-06-14",
+    "material_code": "FLOUR",
+    "qty_received": 750.812,
+    "raw_lot_id": "RAWLOT-S0022-2026-000434",
+    "received_date": "2026-08-24",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-07-21",
+    "material_code": "FLOUR",
+    "qty_received": 922.056,
+    "raw_lot_id": "RAWLOT-S0022-2026-000435",
+    "received_date": "2026-08-24",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-07-24",
+    "material_code": "SUGAR",
+    "qty_received": 3543.171,
+    "raw_lot_id": "RAWLOT-S0007-2026-000436",
+    "received_date": "2026-08-25",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-05-27",
+    "material_code": "FLOUR",
+    "qty_received": 1047.073,
+    "raw_lot_id": "RAWLOT-S0024-2026-000437",
+    "received_date": "2026-08-26",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-02-27",
+    "material_code": "SUGAR",
+    "qty_received": 1479.696,
+    "raw_lot_id": "RAWLOT-S0011-2026-000438",
+    "received_date": "2026-08-26",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-07-16",
+    "material_code": "FLOUR",
+    "qty_received": 498.701,
+    "raw_lot_id": "RAWLOT-S0022-2026-000439",
+    "received_date": "2026-08-28",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-08-24",
+    "material_code": "FLOUR",
+    "qty_received": 1032.551,
+    "raw_lot_id": "RAWLOT-S0022-2026-000440",
+    "received_date": "2026-08-28",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-05-25",
+    "material_code": "PALM_OIL",
+    "qty_received": 871.006,
+    "raw_lot_id": "RAWLOT-S0004-2026-000441",
+    "received_date": "2026-08-28",
+    "supplier_id": "S0004"
+  },
+  {
+    "expiry_date": "2026-12-10",
+    "material_code": "BUTTER",
+    "qty_received": 2166.712,
+    "raw_lot_id": "RAWLOT-S0008-2026-000442",
+    "received_date": "2026-08-29",
+    "supplier_id": "S0008"
+  },
+  {
+    "expiry_date": "2027-07-01",
+    "material_code": "FLOUR",
+    "qty_received": 1159.983,
+    "raw_lot_id": "RAWLOT-S0022-2026-000443",
+    "received_date": "2026-08-29",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-05-28",
+    "material_code": "SUGAR",
+    "qty_received": 740.07,
+    "raw_lot_id": "RAWLOT-S0011-2026-000444",
+    "received_date": "2026-08-29",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-03-16",
+    "material_code": "EGG_POWDER",
+    "qty_received": 468.897,
+    "raw_lot_id": "RAWLOT-S0010-2026-000445",
+    "received_date": "2026-09-01",
+    "supplier_id": "S0010"
+  },
+  {
+    "expiry_date": "2027-06-30",
+    "material_code": "FLOUR",
+    "qty_received": 555.604,
+    "raw_lot_id": "RAWLOT-S0022-2026-000446",
+    "received_date": "2026-09-01",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-06-22",
+    "material_code": "FLOUR",
+    "qty_received": 638.93,
+    "raw_lot_id": "RAWLOT-S0022-2026-000447",
+    "received_date": "2026-09-01",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-08-21",
+    "material_code": "SUGAR",
+    "qty_received": 462.852,
+    "raw_lot_id": "RAWLOT-S0007-2026-000448",
+    "received_date": "2026-09-01",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2028-06-06",
+    "material_code": "SUGAR",
+    "qty_received": 890.429,
+    "raw_lot_id": "RAWLOT-S0007-2026-000449",
+    "received_date": "2026-09-02",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-12-20",
+    "material_code": "COCOA",
+    "qty_received": 670.881,
+    "raw_lot_id": "RAWLOT-S0012-2026-000450",
+    "received_date": "2026-09-03",
+    "supplier_id": "S0012"
+  },
+  {
+    "expiry_date": "2027-07-04",
+    "material_code": "FLOUR",
+    "qty_received": 572.886,
+    "raw_lot_id": "RAWLOT-S0022-2026-000451",
+    "received_date": "2026-09-03",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-08-27",
+    "material_code": "FLOUR",
+    "qty_received": 1637.926,
+    "raw_lot_id": "RAWLOT-S0022-2026-000452",
+    "received_date": "2026-09-04",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-07-26",
+    "material_code": "MILK_POWDER",
+    "qty_received": 2497.713,
+    "raw_lot_id": "RAWLOT-S0008-2026-000453",
+    "received_date": "2026-09-04",
+    "supplier_id": "S0008"
+  },
+  {
+    "expiry_date": "2028-05-20",
+    "material_code": "SUGAR",
+    "qty_received": 966.107,
+    "raw_lot_id": "RAWLOT-S0007-2026-000454",
+    "received_date": "2026-09-04",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2028-05-29",
+    "material_code": "SUGAR",
+    "qty_received": 766.717,
+    "raw_lot_id": "RAWLOT-S0011-2026-000455",
+    "received_date": "2026-09-04",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-08-03",
+    "material_code": "FLOUR",
+    "qty_received": 1186.557,
+    "raw_lot_id": "RAWLOT-S0022-2026-000456",
+    "received_date": "2026-09-05",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-06-20",
+    "material_code": "FLOUR",
+    "qty_received": 910.06,
+    "raw_lot_id": "RAWLOT-S0003-2026-000457",
+    "received_date": "2026-09-06",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2027-07-17",
+    "material_code": "FLOUR",
+    "qty_received": 617.692,
+    "raw_lot_id": "RAWLOT-S0022-2026-000458",
+    "received_date": "2026-09-06",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-07-18",
+    "material_code": "PALM_OIL",
+    "qty_received": 1264.019,
+    "raw_lot_id": "RAWLOT-S0006-2026-000459",
+    "received_date": "2026-09-07",
+    "supplier_id": "S0006"
+  },
+  {
+    "expiry_date": "2028-06-27",
+    "material_code": "SUGAR",
+    "qty_received": 1286.473,
+    "raw_lot_id": "RAWLOT-S0011-2026-000460",
+    "received_date": "2026-09-07",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-05-06",
+    "material_code": "FLOUR",
+    "qty_received": 1895.422,
+    "raw_lot_id": "RAWLOT-S0003-2026-000461",
+    "received_date": "2026-09-08",
+    "supplier_id": "S0003"
+  },
+  {
+    "expiry_date": "2028-06-01",
+    "material_code": "SUGAR",
+    "qty_received": 782.099,
+    "raw_lot_id": "RAWLOT-S0007-2026-000462",
+    "received_date": "2026-09-08",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-06-21",
+    "material_code": "FLOUR",
+    "qty_received": 4364.727,
+    "raw_lot_id": "RAWLOT-S0022-2026-000463",
+    "received_date": "2026-09-09",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-08-11",
+    "material_code": "FLOUR",
+    "qty_received": 926.667,
+    "raw_lot_id": "RAWLOT-S0024-2026-000464",
+    "received_date": "2026-09-09",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-03-26",
+    "material_code": "SUGAR",
+    "qty_received": 1652.631,
+    "raw_lot_id": "RAWLOT-S0007-2026-000465",
+    "received_date": "2026-09-09",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2028-04-13",
+    "material_code": "SUGAR",
+    "qty_received": 762.732,
+    "raw_lot_id": "RAWLOT-S0011-2026-000466",
+    "received_date": "2026-09-09",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-07-25",
+    "material_code": "FLOUR",
+    "qty_received": 419.105,
+    "raw_lot_id": "RAWLOT-S0022-2026-000467",
+    "received_date": "2026-09-10",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-07-24",
+    "material_code": "FLOUR",
+    "qty_received": 698.353,
+    "raw_lot_id": "RAWLOT-S0022-2026-000468",
+    "received_date": "2026-09-10",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-05-19",
+    "material_code": "FLOUR",
+    "qty_received": 658.837,
+    "raw_lot_id": "RAWLOT-S0024-2026-000469",
+    "received_date": "2026-09-10",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-07-24",
+    "material_code": "PALM_OIL",
+    "qty_received": 1129.952,
+    "raw_lot_id": "RAWLOT-S0004-2026-000470",
+    "received_date": "2026-09-10",
+    "supplier_id": "S0004"
+  },
+  {
+    "expiry_date": "2028-05-01",
+    "material_code": "SUGAR",
+    "qty_received": 634.734,
+    "raw_lot_id": "RAWLOT-S0007-2026-000471",
+    "received_date": "2026-09-10",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-05-20",
+    "material_code": "FLOUR",
+    "qty_received": 871.81,
+    "raw_lot_id": "RAWLOT-S0024-2026-000472",
+    "received_date": "2026-09-11",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-08-22",
+    "material_code": "SUGAR",
+    "qty_received": 1277.898,
+    "raw_lot_id": "RAWLOT-S0011-2026-000473",
+    "received_date": "2026-09-11",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-08-24",
+    "material_code": "SUGAR",
+    "qty_received": 2386.872,
+    "raw_lot_id": "RAWLOT-S0011-2026-000474",
+    "received_date": "2026-09-11",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-07-03",
+    "material_code": "FLOUR",
+    "qty_received": 586.732,
+    "raw_lot_id": "RAWLOT-S0022-2026-000475",
+    "received_date": "2026-09-13",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-03-18",
+    "material_code": "SUGAR",
+    "qty_received": 2003.442,
+    "raw_lot_id": "RAWLOT-S0011-2026-000476",
+    "received_date": "2026-09-15",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-06-18",
+    "material_code": "FLOUR",
+    "qty_received": 1408.887,
+    "raw_lot_id": "RAWLOT-S0024-2026-000477",
+    "received_date": "2026-09-16",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2027-07-16",
+    "material_code": "MILK_POWDER",
+    "qty_received": 786.904,
+    "raw_lot_id": "RAWLOT-S0008-2026-000478",
+    "received_date": "2026-09-16",
+    "supplier_id": "S0008"
+  },
+  {
+    "expiry_date": "2028-08-16",
+    "material_code": "SUGAR",
+    "qty_received": 992.947,
+    "raw_lot_id": "RAWLOT-S0007-2026-000479",
+    "received_date": "2026-09-16",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-08-31",
+    "material_code": "FLOUR",
+    "qty_received": 709.69,
+    "raw_lot_id": "RAWLOT-S0022-2026-000480",
+    "received_date": "2026-09-17",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-08-19",
+    "material_code": "PALM_OIL",
+    "qty_received": 2490.377,
+    "raw_lot_id": "RAWLOT-S0006-2026-000481",
+    "received_date": "2026-09-18",
+    "supplier_id": "S0006"
+  },
+  {
+    "expiry_date": "2029-08-13",
+    "material_code": "SALT",
+    "qty_received": 480.255,
+    "raw_lot_id": "RAWLOT-S0001-2026-000482",
+    "received_date": "2026-09-20",
+    "supplier_id": "S0001"
+  },
+  {
+    "expiry_date": "2028-06-27",
+    "material_code": "SUGAR",
+    "qty_received": 771.628,
+    "raw_lot_id": "RAWLOT-S0007-2026-000483",
+    "received_date": "2026-09-20",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-08-23",
+    "material_code": "FLOUR",
+    "qty_received": 540.037,
+    "raw_lot_id": "RAWLOT-S0022-2026-000484",
+    "received_date": "2026-09-21",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-06-13",
+    "material_code": "FLOUR",
+    "qty_received": 1351.026,
+    "raw_lot_id": "RAWLOT-S0022-2026-000485",
+    "received_date": "2026-09-22",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-07-20",
+    "material_code": "PALM_OIL",
+    "qty_received": 569.658,
+    "raw_lot_id": "RAWLOT-S0006-2026-000486",
+    "received_date": "2026-09-22",
+    "supplier_id": "S0006"
+  },
+  {
+    "expiry_date": "2027-06-08",
+    "material_code": "FLOUR",
+    "qty_received": 1338.734,
+    "raw_lot_id": "RAWLOT-S0022-2026-000487",
+    "received_date": "2026-09-23",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-08-28",
+    "material_code": "FLOUR",
+    "qty_received": 692.073,
+    "raw_lot_id": "RAWLOT-S0024-2026-000488",
+    "received_date": "2026-09-24",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-04-26",
+    "material_code": "SUGAR",
+    "qty_received": 1970.96,
+    "raw_lot_id": "RAWLOT-S0007-2026-000489",
+    "received_date": "2026-09-24",
+    "supplier_id": "S0007"
+  },
+  {
+    "expiry_date": "2027-05-31",
+    "material_code": "FLOUR",
+    "qty_received": 1790.839,
+    "raw_lot_id": "RAWLOT-S0024-2026-000490",
+    "received_date": "2026-09-25",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-03-23",
+    "material_code": "SUGAR",
+    "qty_received": 562.046,
+    "raw_lot_id": "RAWLOT-S0011-2026-000491",
+    "received_date": "2026-09-25",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2027-07-25",
+    "material_code": "FLOUR",
+    "qty_received": 917.275,
+    "raw_lot_id": "RAWLOT-S0024-2026-000492",
+    "received_date": "2026-09-26",
+    "supplier_id": "S0024"
+  },
+  {
+    "expiry_date": "2028-04-18",
+    "material_code": "SUGAR",
+    "qty_received": 1766.264,
+    "raw_lot_id": "RAWLOT-S0011-2026-000493",
+    "received_date": "2026-09-26",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-03-19",
+    "material_code": "SUGAR",
+    "qty_received": 3146.475,
+    "raw_lot_id": "RAWLOT-S0011-2026-000494",
+    "received_date": "2026-09-26",
+    "supplier_id": "S0011"
+  },
+  {
+    "expiry_date": "2028-06-27",
+    "material_code": "VANILLA",
+    "qty_received": 909.413,
+    "raw_lot_id": "RAWLOT-S0016-2026-000495",
+    "received_date": "2026-09-27",
+    "supplier_id": "S0016"
+  },
+  {
+    "expiry_date": "2027-09-10",
+    "material_code": "FLOUR",
+    "qty_received": 1053.987,
+    "raw_lot_id": "RAWLOT-S0022-2026-000496",
+    "received_date": "2026-09-29",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2028-12-05",
+    "material_code": "SALT",
+    "qty_received": 710.674,
+    "raw_lot_id": "RAWLOT-S0015-2026-000497",
+    "received_date": "2026-09-29",
+    "supplier_id": "S0015"
+  },
+  {
+    "expiry_date": "2027-06-05",
+    "material_code": "FLOUR",
+    "qty_received": 669.442,
+    "raw_lot_id": "RAWLOT-S0022-2026-000498",
+    "received_date": "2026-10-02",
+    "supplier_id": "S0022"
+  },
+  {
+    "expiry_date": "2027-07-28",
+    "material_code": "PALM_OIL",
+    "qty_received": 1037.816,
+    "raw_lot_id": "RAWLOT-S0006-2026-000499",
+    "received_date": "2026-10-02",
+    "supplier_id": "S0006"
+  },
+  {
+    "expiry_date": "2028-08-06",
+    "material_code": "SUGAR",
+    "qty_received": 1648.022,
+    "raw_lot_id": "RAWLOT-S0007-2026-000500",
+    "received_date": "2026-10-10",
+    "supplier_id": "S0007"
+  }
+]

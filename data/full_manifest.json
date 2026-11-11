@@ -1,0 +1,252 @@
+{
+  "anomalies": {
+    "DELIVERED_EXCEEDS_PRODUCED": 5,
+    "ORPHAN_INPUT_LOT": 5,
+    "RECALLED_STILL_AVAILABLE": 5,
+    "RECALL_MISSED_CUSTOMER": 5
+  },
+  "as_of": "2026-11-01",
+  "clean_row_counts": {
+    "bom_line": 217,
+    "customer": 1500,
+    "delivery": 20000,
+    "finished_lot": 8000,
+    "material_lot": 10000,
+    "product": 40,
+    "production_order": 5000,
+    "recall_action": 346,
+    "recall_case": 15,
+    "shipment": 12000,
+    "supplier": 500,
+    "wo_input_lot": 28048
+  },
+  "command": "python -m recallsim generate --seed 20261022 --scale full --out <output-dir>",
+  "files": {
+    "csv/bom_line.csv": {
+      "bytes": 9703,
+      "sha256": "227b7d79f640e5df6b7c88283e019968f8d2574f0074cd647076873d130e20d9"
+    },
+    "csv/customer.csv": {
+      "bytes": 87750,
+      "sha256": "46550357d0927ae4d511c62ccd85b7c4f225a1df22ff81b89e2193e0e2f880af"
+    },
+    "csv/delivery.csv": {
+      "bytes": 1672773,
+      "sha256": "e0475ce188909f2991acff70029078d9d9fb6c62b54758946605a1984ef69421"
+    },
+    "csv/finished_lot.csv": {
+      "bytes": 568375,
+      "sha256": "5351c9e950c7722d4d80aa22948ba00713beebe199c1ef5d61ee60e7bd1988f9"
+    },
+    "csv/material_lot.csv": {
+      "bytes": 681851,
+      "sha256": "2deffbc111621753b856bd19c33db558dba81cd030e2c8ab480b5f7193216a06"
+    },
+    "csv/product.csv": {
+      "bytes": 1914,
+      "sha256": "124e6d368525afb979b8fafd24e76cfb7257c5ef2553485a3e36dda967eccdc0"
+    },
+    "csv/production_order.csv": {
+      "bytes": 324479,
+      "sha256": "2baca464eda5afb21f4810358f7d0bca84eea2d4109339a86c7eef1d59028e63"
+    },
+    "csv/recall_action.csv": {
+      "bytes": 36525,
+      "sha256": "1cb8321ada22d4b76506e75a9bf37e38d784c7d7b101e4c81c27b6e3a4a64645"
+    },
+    "csv/recall_case.csv": {
+      "bytes": 1507,
+      "sha256": "22d8d3b874813eda227b209418b282042da9783c7931e56d7e0bcc2c1dc7fae6"
+    },
+    "csv/shipment.csv": {
+      "bytes": 612061,
+      "sha256": "74a3d47c941ca1c14fcc2fc454210bebaf96a9b045af4382d7390d5d004bd651"
+    },
+    "csv/supplier.csv": {
+      "bytes": 25329,
+      "sha256": "a22b4272c8b516bad5dd6ca112b31871e64ee0dd932299274b58c72c710d3614"
+    },
+    "csv/wo_input_lot.csv": {
+      "bytes": 1647111,
+      "sha256": "19ac2ad2b572a53190d1df4709af628d50672d74e577ed69efa5513fe7c38d2f"
+    },
+    "csv_clean/bom_line.csv": {
+      "bytes": 9703,
+      "sha256": "227b7d79f640e5df6b7c88283e019968f8d2574f0074cd647076873d130e20d9"
+    },
+    "csv_clean/customer.csv": {
+      "bytes": 87750,
+      "sha256": "46550357d0927ae4d511c62ccd85b7c4f225a1df22ff81b89e2193e0e2f880af"
+    },
+    "csv_clean/delivery.csv": {
+      "bytes": 1672773,
+      "sha256": "c489e70d5ae41b035411f88e3d6d6273fc815f7315525db3f0143d486053f5fa"
+    },
+    "csv_clean/finished_lot.csv": {
+      "bytes": 568370,
+      "sha256": "e389cc77e57c237281f49a89b0dea5f309bfb66774b6fcfce72a2d2277816b68"
+    },
+    "csv_clean/material_lot.csv": {
+      "bytes": 681851,
+      "sha256": "2deffbc111621753b856bd19c33db558dba81cd030e2c8ab480b5f7193216a06"
+    },
+    "csv_clean/product.csv": {
+      "bytes": 1914,
+      "sha256": "124e6d368525afb979b8fafd24e76cfb7257c5ef2553485a3e36dda967eccdc0"
+    },
+    "csv_clean/production_order.csv": {
+      "bytes": 324479,
+      "sha256": "2baca464eda5afb21f4810358f7d0bca84eea2d4109339a86c7eef1d59028e63"
+    },
+    "csv_clean/recall_action.csv": {
+      "bytes": 37597,
+      "sha256": "bcb957a728be410bee88d69617b2ae6c80aa486d44d5123615453c471db52be1"
+    },
+    "csv_clean/recall_case.csv": {
+      "bytes": 1507,
+      "sha256": "22d8d3b874813eda227b209418b282042da9783c7931e56d7e0bcc2c1dc7fae6"
+    },
+    "csv_clean/shipment.csv": {
+      "bytes": 612061,
+      "sha256": "74a3d47c941ca1c14fcc2fc454210bebaf96a9b045af4382d7390d5d004bd651"
+    },
+    "csv_clean/supplier.csv": {
+      "bytes": 25329,
+      "sha256": "a22b4272c8b516bad5dd6ca112b31871e64ee0dd932299274b58c72c710d3614"
+    },
+    "csv_clean/wo_input_lot.csv": {
+      "bytes": 1647111,
+      "sha256": "fb296ef90d92e9d2ccc565b4f5e0589a528bc9eaabdc411b1fe8081381442c01"
+    },
+    "docs/DATA_DICTIONARY.md": {
+      "bytes": 13579,
+      "sha256": "e92ff933e782ad0ddc259280d0815ab4c29428e0e1712e8a19eaaaa27f956a41"
+    },
+    "ground_truth/ground_truth.csv": {
+      "bytes": 6457,
+      "sha256": "7c5371e8e847652f7d2c70443d7f6efe53fae6d91415da1b519c64aacb6573ca"
+    },
+    "ground_truth/ground_truth.json": {
+      "bytes": 10361,
+      "sha256": "718b820fffd2844d1d6fc80841e262df14b14f12384fa4c5f10ad37d1c0b11f5"
+    },
+    "ground_truth/recall_answer_key.json": {
+      "bytes": 16516,
+      "sha256": "a101edde02348249a53da7fe112406472f6c611ba76148d20e92f6d29426c59c"
+    },
+    "json/bom_line.json": {
+      "bytes": 41226,
+      "sha256": "e8ecb9cbf36a0d8a42d7f7d27f22c0d0c5415b12fe0952e309dd4c7ccdcd19ae"
+    },
+    "json/customer.json": {
+      "bytes": 294683,
+      "sha256": "b71007829297323dfc58ca0c989cb668fa101016200ab58062e10bfc8be74463"
+    },
+    "json/delivery.json": {
+      "bytes": 4932689,
+      "sha256": "01942a54bf3c821016b42183f9ba081511634b0f83124800c9856a74e68b22e0"
+    },
+    "json/finished_lot.json": {
+      "bytes": 1680305,
+      "sha256": "a2519c0f8838db9668c0d4a869c590850c92bf5d561dd69568d0868a15fce66f"
+    },
+    "json/material_lot.json": {
+      "bytes": 2101778,
+      "sha256": "757d37b57beff1495b4c7a1e0aae9748f5b129dd6f1d3c643426bffb781f1816"
+    },
+    "json/product.json": {
+      "bytes": 7168,
+      "sha256": "42a6cbe608f9a3e79c43188af9de9f55f5fc3e2d148da4109c7249bab5adfe69"
+    },
+    "json/production_order.json": {
+      "bytes": 1035016,
+      "sha256": "a2c3bf7928f25d65eb7dcf85095b3a2a62cb537c7e3f1a4d7dae57ee6babc1ba"
+    },
+    "json/recall_action.json": {
+      "bytes": 111093,
+      "sha256": "375864216233a841a31cdde4a132581e323edca3d62cfbb61212f702e48ee351"
+    },
+    "json/recall_case.json": {
+      "bytes": 4150,
+      "sha256": "885aefa3cf74499b853c209c0cc68ac80a9e85ee23c8f1559667cc7f9b583011"
+    },
+    "json/shipment.json": {
+      "bytes": 1992007,
+      "sha256": "0befd7545b26921d11ea45c8d952010dc7fa12131658118f3e2f46d82ec71bac"
+    },
+    "json/supplier.json": {
+      "bytes": 89771,
+      "sha256": "382c49d14ffad96341e748f8130ad3bb55ef9354533844d5074e0e6337c72a89"
+    },
+    "json/wo_input_lot.json": {
+      "bytes": 4171390,
+      "sha256": "2c4d7cc540781e932796a554debb5c78df73138465b1570aab53207d09ef73e0"
+    },
+    "metrics/recall_metrics.json": {
+      "bytes": 11779,
+      "sha256": "836ddc918e14324faa941a32c4c5686f47e7f26069d43a18e765863f334e93ce"
+    },
+    "sql/schema.sql": {
+      "bytes": 7636,
+      "sha256": "bb5d02c489cdc9626172ce21884baca405a90af430779a0e4649da851e5272df"
+    },
+    "sql/seed.sql": {
+      "bytes": 15831808,
+      "sha256": "23aa6b25bd1e04145792aafc216aea99e2618575b70aef05b5030ae61d82a5d8"
+    },
+    "validation/clean/validation_summary.json": {
+      "bytes": 1658,
+      "sha256": "3585f75a5acaafed04227553c7d99037b232778ee69c591416d2f6a98d4c88e1"
+    },
+    "validation/clean/validation_summary.md": {
+      "bytes": 870,
+      "sha256": "0488c7af797aa2139c22002d0c6914e6008074f03780c44517806045ad1db794"
+    },
+    "validation/detection_score.json": {
+      "bytes": 487,
+      "sha256": "2ab3402bb92723571f64c7a5322acc861843d36554775b3b6333d3c9aabf9469"
+    },
+    "validation/shipped/validation_summary.json": {
+      "bytes": 5682,
+      "sha256": "3b1b7f52bcef5babac18b7b87de372f9d4a4f33e9263bbe2c8d547ffca3b4a96"
+    },
+    "validation/shipped/validation_summary.md": {
+      "bytes": 871,
+      "sha256": "ab530e6e94d7ed4629ca4b5e9df2fc1cddf8f8411210552370d285e71946d686"
+    }
+  },
+  "generator_version": "1.0.0",
+  "project": "recallsim",
+  "provenance": {
+    "external_data": "none",
+    "personal_data": "none",
+    "source": "synthetic, generated by the code in this repository"
+  },
+  "row_counts": {
+    "bom_line": 217,
+    "customer": 1500,
+    "delivery": 20000,
+    "finished_lot": 8000,
+    "material_lot": 10000,
+    "product": 40,
+    "production_order": 5000,
+    "recall_action": 336,
+    "recall_case": 15,
+    "shipment": 12000,
+    "supplier": 500,
+    "wo_input_lot": 28048
+  },
+  "scale": "full",
+  "scale_parameters": {
+    "customers": 1500,
+    "deliveries": 20000,
+    "finished_lots": 8000,
+    "name": "full",
+    "products": 40,
+    "raw_lots": 10000,
+    "shipments": 12000,
+    "suppliers": 500,
+    "work_orders": 5000
+  },
+  "seed": 20261022
+}

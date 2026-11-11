@@ -1,0 +1,27 @@
+{
+  "detected": 8,
+  "expected": 8,
+  "per_type": {
+    "DELIVERED_EXCEEDS_PRODUCED": {
+      "detected": 2,
+      "expected": 2,
+      "missed": []
+    },
+    "ORPHAN_INPUT_LOT": {
+      "detected": 2,
+      "expected": 2,
+      "missed": []
+    },
+    "RECALLED_STILL_AVAILABLE": {
+      "detected": 2,
+      "expected": 2,
+      "missed": []
+    },
+    "RECALL_MISSED_CUSTOMER": {
+      "detected": 2,
+      "expected": 2,
+      "missed": []
+    }
+  },
+  "unexplained_issues": []
+}

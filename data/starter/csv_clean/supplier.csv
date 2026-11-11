@@ -1,0 +1,26 @@
+supplier_id,supplier_name,country,tier,status,onboarded_date
+S0001,Silverleaf Farms SA,CI,C,ACTIVE,2019-07-16
+S0002,Summit Grain Pvt Ltd,NL,B,ACTIVE,2021-04-13
+S0003,Harbor Grain Pvt Ltd,VN,B,SUSPENDED,2023-01-31
+S0004,Riverbend Refinery Inc,CI,C,SUSPENDED,2018-03-22
+S0005,Stonebridge Harvest SA,VN,B,ACTIVE,2021-01-29
+S0006,Silverleaf Naturals Inc,VN,B,ACTIVE,2021-10-04
+S0007,Silverleaf Commodities SA,CI,B,SUSPENDED,2020-10-30
+S0008,Blue Naturals Pvt Ltd,BR,C,ACTIVE,2019-11-08
+S0009,Meadow Mills Inc,BR,B,ACTIVE,2018-06-14
+S0010,Clearwater Supply Inc,GH,A,ACTIVE,2022-06-21
+S0011,Highland Foods Pvt Ltd,GH,B,ACTIVE,2018-03-23
+S0012,Highland Ingredients Inc,US,B,ACTIVE,2019-02-19
+S0013,Blue Commodities Ltd,ID,A,ACTIVE,2024-07-29
+S0014,Oakline Foods GmbH,IN,B,ACTIVE,2023-08-19
+S0015,Maple Cooperative SA,IN,A,ACTIVE,2024-08-25
+S0016,Riverbend Naturals Co,ID,B,ACTIVE,2022-03-04
+S0017,Northern Foods Pvt Ltd,IN,A,ACTIVE,2025-01-26
+S0018,Summit Harvest Pvt Ltd,CI,B,ACTIVE,2023-01-01
+S0019,Highland Refinery GmbH,IN,B,ACTIVE,2025-03-31
+S0020,Redstone Traders Co,IN,B,ACTIVE,2018-09-20
+S0021,Maple Traders Inc,NL,B,SUSPENDED,2021-05-08
+S0022,Evergreen Harvest Ltd,IN,A,ACTIVE,2025-05-25
+S0023,Golden Commodities Co,TR,B,ACTIVE,2021-10-26
+S0024,Sunrise Refinery Pvt Ltd,GH,A,SUSPENDED,2025-01-18
+S0025,Clearwater Agro Pvt Ltd,IN,C,ACTIVE,2023-04-23
