@@ -1,6 +1,6 @@
 # AI usage record
 
-Tool used so far: Claude (chat session, then Claude Code). Sessions continue in Claude Code inside Antigravity IDE.
+Tool used: Claude (claude.ai chat, with a cloud coding session). All work so far was done in that one tool. The cloud session could not push to GitHub, so the candidate applied patches with `git am` and pushed.
 
 Columns marked **YOU FILL** must be completed honestly by the candidate. They are left blank on purpose, AI cannot know what you personally reviewed.
 

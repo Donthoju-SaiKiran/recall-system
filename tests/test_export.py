@@ -87,7 +87,7 @@ def test_readme_numbers_come_from_manifest(out):
         assert f"| {t} | {n:,} |" in text
     for k, v in m["anomalies"].items():
         assert f"| {k} | {v} |" in text
-    assert "—" not in text and str(d) not in text
+    assert chr(0x2014) not in text and str(d) not in text
 
 
 def test_no_machine_specific_text(out):

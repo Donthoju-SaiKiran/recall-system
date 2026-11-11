@@ -128,5 +128,15 @@ next
 go
 ```
 
+**P24.** (asked to explain Phase 8)
+```
+next
+```
+
+**P25.** (approved running Phase 8)
+```
+go
+```
+
 ## Claude Code in Antigravity IDE
 Continue the list here. Copy each prompt you send.

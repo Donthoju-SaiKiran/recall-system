@@ -11,7 +11,7 @@ Problem statement: `docs/problem_statement.txt` (recall traceability synthetic d
 - Replies terse. No em dashes in any content or drafted text. No filler.
 - Challenge poor decisions. No fake praise.
 - Keep `docs/AI_USAGE.md` and `docs/AI_PROMPT_HISTORY.md` current. Never invent history or claim the candidate did something they did not.
-- Commits: one per logical milestone, authored as Donthoju Sai Kiran <donthojusaikiran@gmail.com> (set in repo git config). No fake or backdated history. Do not add secrets. Public repo, safe sample data only.
+- Commits: one per logical milestone, authored as Donthoju SaiKiran <donthojusaikiran@gmail.com> (set in repo git config). No fake or backdated history. Do not add secrets. Public repo, safe sample data only.
 
 ## Stack (approved)
 Python 3.11+, stdlib only for the generator (csv, json, sqlite3, hashlib, random), pytest for tests. SQLite for FK enforcement and recursive-CTE trace cross-check. No pandas, no numpy.
@@ -23,7 +23,7 @@ Python 3.11+, stdlib only for the generator (csv, json, sqlite3, hashlib, random
 - Units: raw kg, finished packs. Dates ISO text.
 - Delivery is the bridge finished_lot x shipment x customer (no separate shipment_line). No Warehouse table (`warehouse_code` field on shipment).
 - Recall status is derived from `recall_action` rows (append-only). `trigger_lot_id` and `target_id` are polymorphic, checked by validator, not DB FKs.
-- "Recalled stock still for sale" = finished lot in recall scope with on-hand (qty_produced minus delivered) greater than 0 and no QUARANTINE action.
+- "Recalled stock still for sale" = finished lot in a recall scope (or with a QUARANTINE action) whose `sale_status` is AVAILABLE. Clean data derives `sale_status` from recall scopes (`apply_sale_status`).
 - Each stage uses its own RNG: `stage_rng(seed, "stage.name")`.
 
 ## Done so far (all tests executed and passing: 124 passed)
@@ -35,25 +35,17 @@ Python 3.11+, stdlib only for the generator (csv, json, sqlite3, hashlib, random
 - Phase 5: `inject.py` (4 rule-based anomalies, 5 each at full scale = 20, 2 each at starter), `pipeline.py` (`build_clean`), `tests/test_inject.py` (12 tests). Schema change: `finished_lot.sale_status` (AVAILABLE/RECALLED, derived from recall scopes by `apply_sale_status`). Ground truth written by `write_ground_truth` to a separate folder, nothing outside inject.py reads it (test enforces). A1 changes the recall trace for 2 cases (inside scope), others outside; A3 leaves the trace intact, removes NOTIFY+RECOVER; A4 targets lots with a QUARANTINE action. A1 data loads only with FK off, 5 FK violations found by `foreign_key_check`.
 - Phase 6: `validate.py` (18 checks, schema driven plus lifecycle/scope rules), `metrics.py` (scope precision/recall, completion, time to notify), `score.py` (only module joining validator output with ground truth), `tests/test_validate.py` (28 tests). Clean data: 0 issues. Damaged data: 20 of 20 planted anomalies detected, 0 unexplained issues (starter 8 of 8). Validator found a real rule gap: 5 IN_TRANSIT deliveries have future dates (expected arrival), so DATE_ORDER exempts IN_TRANSIT and the schema rule text was updated. Metrics (full, clean): 13/15 cases closed (86.7%), 96.8% of notified deliveries recovered but only 54.7% of units, notify median 28 h / p90 72 h (PHONE slowest). On damaged data scope recall drops to ~0.92 (finished lots), precision stays 1.0.
 - Phase 7: `export.py`, `__main__.py` (`generate`, `verify`, `docs`), root `README.md`, `tests/test_export.py` (14 tests). Output: csv, json, sql/seed.sql (shipped, damaged data), csv_clean, ground_truth/ (labels + clean answer key), validation/, metrics/, manifest.json (SHA-256 per file), generated README. Committed: `data/starter/` (2.6 MB) and `data/full_manifest.json`; tests fail if either is stale. `verify` runs two separate processes with different PYTHONHASHSEED and compares every file: PASS at starter and full (full about 10 s). verify caught a real leak (output folder name inside manifest and README), fixed with a fixed placeholder. seed.sql needed foreign_keys=OFF after the DDL (the DDL turns it back on): fixed. Decisions taken when user said only 'go': 1a (commit starter + full manifest) and 2 yes (shipped = damaged, plus csv_clean).
-- On-hand definition for later phases: `qty_produced - sum(qty_delivered where status != FAILED)`. FAILED deliveries never reached the customer, so exclude them from recall notification scope (candidate to confirm).
+- On-hand definition for later phases: `qty_produced - sum(qty_delivered where status != FAILED)`. FAILED deliveries never reached the customer, so exclude them from recall notification scope (decided: excluded).
 - Known gap (honest): supplier country is weighted but not linked to material origin. Optional P3.
-- Git: repo initialised, 2 commits (Phase 0, Phase 1), authored as Donthoju Sai Kiran. Remote: https://github.com/Donthoju-SaiKiran/recall-system.git (push done by the candidate, Claude had no push access). Not done: README, all later phases.
+- Git: 8 commits, one per phase (Phase 0 to Phase 7), all authored as Donthoju SaiKiran. Remote: https://github.com/Donthoju-SaiKiran/recall-system.git. The cloud session cannot push, the candidate applies patches with `git am` and pushes.
 
-## Next phases
-2. DONE (see above). Original draft design kept for reference:
-   - Raw lots: dates across 2026, supplier weighted by tier, received_date >= supplier onboarded_date, 1 to 3 materials per supplier (derived, no table), qty about 500 to 5000 kg, expiry by material.
-   - Work orders: product weighted to ACTIVE, status mostly COMPLETED, few IN_PROGRESS and CANCELLED (cancelled consume nothing). Use BOM version effective on start_date.
-   - Consume from raw lots of the right material received before start date, track remaining balance per lot, split across lots when needed (this creates the N:M rows). Decide produced packs, then consume required kg with a small loss factor. Never exceed lot balance.
-   - Completed WOs yield 1 to 3 finished lots, tune so total is about 8000 at full scale.
-3. DONE (see above).
-4. Recall engine: BFS downstream plus SQL recursive CTE cross-check, RecallCase and RecallAction events, notify, quarantine, recover, completion simulation.
-5. Anomaly injection (4 required) plus separate `ground_truth` files, never read by generator or recall engine.
-6. Validator (PK, FK, enum, dates, arithmetic, lifecycle, duplicates) plus 3 metrics (scope precision and recall, completion %, time to notify).
-7. Export CSV/JSON/SQL, manifest with SHA-256, README, reproducibility check (run twice same seed same checksums), validation summary.
-8. Final audit, fresh-clone test, interview drill (ask questions one at a time, honest evaluation).
+## Phase status
+Phases 0 to 7 DONE (see above). Phase 8: final audit (`docs/REQUIREMENTS_AUDIT.md`), fresh-clone test, interview drill.
 
 ## Commands
 ```
 python -m pytest -q
 python -m recallsim docs
+python -m recallsim generate --scale full --out out
+python -m recallsim verify --scale full
 ```
