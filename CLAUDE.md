@@ -26,10 +26,12 @@ Python 3.11+, stdlib only for the generator (csv, json, sqlite3, hashlib, random
 - "Recalled stock still for sale" = finished lot in recall scope with on-hand (qty_produced minus delivered) greater than 0 and no QUARANTINE action.
 - Each stage uses its own RNG: `stage_rng(seed, "stage.name")`.
 
-## Done so far (all tests executed and passing: 43 passed)
+## Done so far (all tests executed and passing: 56 passed)
 - Phase 0: `recallsim/schema.py`, `ddl.py`, `dictionary.py`, `sql/schema.sql`, `docs/DATA_DICTIONARY.md`, `tests/test_schema.py`. Regenerate docs: `python -m recallsim docs`.
 - Phase 1: `config.py`, `rng.py`, `ids.py`, `db.py`, `generate/master.py`, `tests/test_master.py`. Full scale output: 500 / 1500 / 40 / 217 BOM lines, 9 products with two recipe versions.
 - Phase 2: `generate/production.py`, `tests/test_production.py`, `AS_OF = 2026-11-01` in config. Full scale output: 10000 raw lots, 5000 WOs (4500 completed, 200 cancelled, 200 in progress, 100 planned), 28048 wo_input_lot rows, 8000 finished lots, 1977 unused raw lots (19.8%), zero shortages, runs in about 2 s. Design: demand-driven supply (factor 1.25), FEFO with running balance in integer grams, loss 1 to 4 percent, only COMPLETED jobs consume or produce.
+- Phase 3: `generate/distribution.py`, `util.py` (shared `allocate`), `tests/test_distribution.py`. Full scale: exactly 12000 shipments, 20000 deliveries, 1457 of 1500 customers served, top 10% customers get 44% of deliveries, on-hand share 17.4%, 402 FAILED deliveries (2%), 117 CANCELLED shipments (all members failed), only 5 IN_TRANSIT (all finished lots are older than 11 days at AS_OF). Design: deliveries first from per-lot dispatch ledger, then contiguous chunking into shipments, ship_date = max ready date of members, region to warehouse map, no warehouse table.
+- On-hand definition for later phases: `qty_produced - sum(qty_delivered where status != FAILED)`. FAILED deliveries never reached the customer, so exclude them from recall notification scope (candidate to confirm).
 - Known gap (honest): supplier country is weighted but not linked to material origin. Optional P3.
 - Git: repo initialised, 2 commits (Phase 0, Phase 1), authored as Donthoju Sai Kiran. Remote: https://github.com/Donthoju-SaiKiran/recall-system.git (push done by the candidate, Claude had no push access). Not done: README, all later phases.
 
@@ -39,7 +41,7 @@ Python 3.11+, stdlib only for the generator (csv, json, sqlite3, hashlib, random
    - Work orders: product weighted to ACTIVE, status mostly COMPLETED, few IN_PROGRESS and CANCELLED (cancelled consume nothing). Use BOM version effective on start_date.
    - Consume from raw lots of the right material received before start date, track remaining balance per lot, split across lots when needed (this creates the N:M rows). Decide produced packs, then consume required kg with a small loss factor. Never exceed lot balance.
    - Completed WOs yield 1 to 3 finished lots, tune so total is about 8000 at full scale.
-3. Shipments and deliveries (delivered never exceeds produced, delivery_date >= ship_date >= produced_date).
+3. DONE (see above).
 4. Recall engine: BFS downstream plus SQL recursive CTE cross-check, RecallCase and RecallAction events, notify, quarantine, recover, completion simulation.
 5. Anomaly injection (4 required) plus separate `ground_truth` files, never read by generator or recall engine.
 6. Validator (PK, FK, enum, dates, arithmetic, lifecycle, duplicates) plus 3 metrics (scope precision and recall, completion %, time to notify).

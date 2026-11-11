@@ -17,6 +17,7 @@ from ..config import AS_OF, SEED, Scale
 from ..ids import IdCounter
 from ..rng import stage_rng
 from ..schema import MATERIAL_CODES
+from ..util import allocate
 
 # ---- tunables (documented in README later) ----
 SUPPLY_FACTOR = 1.25                      # total raw supply = demand x this
@@ -48,28 +49,6 @@ LINE_CODES = tuple(f"LINE-{i:02d}" for i in range(1, 7))
 
 def _day(rng, start: date, end: date) -> date:
     return start + timedelta(days=rng.randint(0, (end - start).days))
-
-
-def _allocate(total: int, weights: dict[str, float]) -> dict[str, int]:
-    """Split `total` into integer counts proportional to weights, at least 1 each."""
-    s = sum(weights.values())
-    raw = {k: total * w / s for k, w in weights.items()}
-    counts = {k: max(1, math.floor(v)) for k, v in raw.items()}
-    order = sorted(raw, key=lambda k: (raw[k] - math.floor(raw[k]), k), reverse=True)
-    diff = total - sum(counts.values())
-    i = 0
-    while diff != 0:
-        key = order[i % len(order)] if diff > 0 else max(counts, key=lambda k: (counts[k], k))
-        if diff > 0:
-            counts[key] += 1
-            diff -= 1
-        elif counts[key] > 1:
-            counts[key] -= 1
-            diff += 1
-        else:
-            raise ValueError("cannot allocate: total smaller than number of groups")
-        i += 1
-    return counts
 
 
 def _supplier_materials(rng, suppliers: list[dict]) -> dict[str, list[str]]:
@@ -163,7 +142,7 @@ def _make_lots(rng, scale: Scale, suppliers: list[dict], sup_mats: dict[str, lis
                 demand[m] += g
                 events[m].append((p["start"], g))
     materials = [m for m in MATERIAL_CODES if demand[m] > 0]
-    counts = _allocate(scale.raw_lots, {m: demand[m] for m in materials})
+    counts = allocate(scale.raw_lots, {m: demand[m] for m in materials})
 
     lots = []
     for m in materials:
