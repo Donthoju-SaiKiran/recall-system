@@ -26,7 +26,7 @@ Python 3.11+, stdlib only for the generator (csv, json, sqlite3, hashlib, random
 - "Recalled stock still for sale" = finished lot in a recall scope (or with a QUARANTINE action) whose `sale_status` is AVAILABLE. Clean data derives `sale_status` from recall scopes (`apply_sale_status`).
 - Each stage uses its own RNG: `stage_rng(seed, "stage.name")`.
 
-## Done so far (all tests executed and passing: 124 passed)
+## Done so far (all tests executed and passing: 125 passed)
 - Phase 0: `recallsim/schema.py`, `ddl.py`, `dictionary.py`, `sql/schema.sql`, `docs/DATA_DICTIONARY.md`, `tests/test_schema.py`. Regenerate docs: `python -m recallsim docs`.
 - Phase 1: `config.py`, `rng.py`, `ids.py`, `db.py`, `generate/master.py`, `tests/test_master.py`. Full scale output: 500 / 1500 / 40 / 217 BOM lines, 9 products with two recipe versions.
 - Phase 2: `generate/production.py`, `tests/test_production.py`, `AS_OF = 2026-11-01` in config. Full scale output: 10000 raw lots, 5000 WOs (4500 completed, 200 cancelled, 200 in progress, 100 planned), 28048 wo_input_lot rows, 8000 finished lots, 1977 unused raw lots (19.8%), zero shortages, runs in about 2 s. Design: demand-driven supply (factor 1.25), FEFO with running balance in integer grams, loss 1 to 4 percent, only COMPLETED jobs consume or produce.
@@ -38,6 +38,9 @@ Python 3.11+, stdlib only for the generator (csv, json, sqlite3, hashlib, random
 - On-hand definition for later phases: `qty_produced - sum(qty_delivered where status != FAILED)`. FAILED deliveries never reached the customer, so exclude them from recall notification scope (decided: excluded).
 - Known gap (honest): supplier country is weighted but not linked to material origin. Optional P3.
 - Git: 8 commits, one per phase (Phase 0 to Phase 7), all authored as Donthoju SaiKiran. Remote: https://github.com/Donthoju-SaiKiran/recall-system.git. The cloud session cannot push, the candidate applies patches with `git am` and pushes.
+
+## Assumptions from the Phase 8 review
+- FINISHED trigger traces downstream only (siblings of the same work order not in scope). A1 hits 2 recall trigger edges on purpose. A3 leaves action ID gaps. `metrics.scope_metrics` reads the clean answer key (engine trace on clean data), independent check is `test_all_scopes_match_independent_plain_loop_trace`. Hashes verified on Python 3.13 only.
 
 ## Phase status
 Phases 0 to 7 DONE (see above). Phase 8: final audit (`docs/REQUIREMENTS_AUDIT.md`), fresh-clone test, interview drill.

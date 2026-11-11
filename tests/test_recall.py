@@ -84,6 +84,24 @@ def test_scope_matches_independent_manual_join(world):
     assert sorted(dels) == k["expected_scope"]["deliveries"]
 
 
+def test_all_scopes_match_independent_plain_loop_trace(world):
+    """Second opinion with no graph code, no SQL: plain joins on the rows, all 15 cases."""
+    rows, _, key, _ = world
+    for k in key:
+        if k["trigger_lot_type"] == "RAW":
+            wos = {r["wo_id"] for r in rows["wo_input_lot"] if r["raw_lot_id"] == k["trigger_lot_id"]}
+            fins = {f["finished_lot_id"] for f in rows["finished_lot"] if f["wo_id"] in wos}
+        else:
+            wos, fins = set(), {k["trigger_lot_id"]}
+        dels = [d for d in rows["delivery"] if d["finished_lot_id"] in fins and d["status"] != "FAILED"]
+        exp = k["expected_scope"]
+        assert sorted(wos) == exp["work_orders"]
+        assert sorted(fins) == exp["finished_lots"]
+        assert sorted(d["delivery_id"] for d in dels) == exp["deliveries"]
+        assert sorted({d["customer_id"] for d in dels}) == exp["customers"]
+        assert sorted({d["shipment_id"] for d in dels}) == exp["shipments"]
+
+
 def test_scopes_are_disjoint(world):
     _, _, key, _ = world
     seen = set()

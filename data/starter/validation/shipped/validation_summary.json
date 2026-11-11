@@ -92,14 +92,14 @@
   "sample_issues": [
     {
       "check": "FK",
-      "message": "raw_lot_id='RAWLOT-S0009-2026-900001' not found in material_lot.raw_lot_id",
-      "row_key": "WO-2026-000182|RAWLOT-S0009-2026-900001",
+      "message": "raw_lot_id='RAWLOT-S0009-2026-000501' not found in material_lot.raw_lot_id",
+      "row_key": "WO-2026-000182|RAWLOT-S0009-2026-000501",
       "table": "wo_input_lot"
     },
     {
       "check": "FK",
-      "message": "raw_lot_id='RAWLOT-S0008-2026-900002' not found in material_lot.raw_lot_id",
-      "row_key": "WO-2026-000235|RAWLOT-S0008-2026-900002",
+      "message": "raw_lot_id='RAWLOT-S0008-2026-000502' not found in material_lot.raw_lot_id",
+      "row_key": "WO-2026-000235|RAWLOT-S0008-2026-000502",
       "table": "wo_input_lot"
     },
     {

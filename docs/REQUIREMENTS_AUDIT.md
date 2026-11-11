@@ -4,7 +4,7 @@ Every requirement from the problem statement (`docs/problem_statement.txt`) and 
 submission guidelines and FAQ, with where it is met and how to check it. Status is MET, PARTIAL or NOT MET.
 Nothing is marked MET without a command or file you can run or open.
 
-Run everything: `python -m pytest -q` (124 tests) and `python -m recallsim verify --scale full`.
+Run everything: `python -m pytest -q` (125 tests) and `python -m recallsim verify --scale full`.
 
 ## A. YottaFlex submission guidelines and FAQ
 
@@ -47,13 +47,13 @@ Run everything: `python -m pytest -q` (124 tests) and `python -m recallsim verif
 | Step 4 hidden labels on contaminated lots, fixed seed, parameterised scale | `ground_truth/recall_answer_key.json`, `config.py` SEED and `--scale` | MET |
 | Step 5 four anomalies | A1 to A4 in `inject.py`; `test_a1_orphans`, `test_a2_over_delivery`, `test_a3_missed_customer`, `test_a4_recalled_still_available` | MET |
 | Step 6 derived values from source | `test_status_rules`, sale_status from scope, case status from actions, on-hand from ledger | MET |
-| Step 7 separate ground_truth.csv/json, never leaked | `write_ground_truth`; `test_nothing_reads_ground_truth_or_injector`, `test_ground_truth_kept_apart` | MET |
+| Step 7 separate ground_truth.csv/json, never leaked | `write_ground_truth`; `test_nothing_reads_ground_truth_or_injector` (a text check on the source, not a data-flow proof; the independent review also read the imports), `test_ground_truth_kept_apart`. The generator, engine and validator never read the labels. `metrics.py` does take the clean recall answer key (the engine's own trace on clean data) as an input | MET, see C |
 | Step 8 validation: PK, FK, enums, dates, arithmetic, lifecycle, duplicates | `validate.py` 18 checks, one test each (`test_every_check_has_a_test`) | MET |
 | Step 9 CSV, JSON, SQL, README, dictionary, command, seed, manifest, validation summary | `export.py`; `test_exact_file_set`, `test_manifest_checksums_match_files` | MET |
 | Step 10 regenerate twice, compare counts and checksums | `python -m recallsim verify`; `test_reproducible_across_processes_full` | MET |
 | Acceptance: genealogy complete | `test_bfs_equals_sql_cte_for_every_case`, `test_scope_matches_independent_manual_join` | MET |
 | Acceptance: quantities reconcile | production and distribution reconciliation tests, validator ARITH checks | MET |
-| Acceptance: recall scope matches planted lots | `answer_key` vs engine, `scope_metrics` is 1.0 on clean data | MET |
+| Acceptance: recall scope matches planted lots | `test_all_scopes_match_independent_plain_loop_trace` (plain loops, all 15 cases), `test_bfs_equals_sql_cte_for_every_case`. `scope_metrics` is 1.0 on clean data but that part is circular, since key and metric both use `trace_scope`; the independent test is the real evidence | MET |
 | Acceptance: actions track affected quantity and disposition | `test_quarantine_qty_equals_on_hand`, `test_recovered_never_exceeds_delivered` | MET |
 | Evaluation (a) realistic distributions | `test_distribution_shapes`, `test_distribution_near_targets`, `test_materials_and_lot_sizes_are_varied`. Shapes are chosen by me, not fitted to real data | PARTIAL by nature |
 | Evaluation (e) normal, boundary, failure, exception coverage | FAILED deliveries, non-responders, unused-lot recall, 4 anomalies. Only 5 IN_TRANSIT deliveries | PARTIAL |
@@ -70,10 +70,17 @@ Run everything: `python -m pytest -q` (124 tests) and `python -m recallsim verif
 - The planted anomalies are fixed in number (5 per type at full scale) by a rule, not drawn at random.
 - `data/starter/` is committed, the full dataset is not (42 MB); the full manifest is committed and checked by a test.
 
+- A FINISHED-lot trigger traces only downstream. Sibling finished lots from the same work order are not pulled into scope (an assumption, 5 such siblings across 3 cases).
+- A1 puts 2 of its 5 anomalies on the trigger edge of recalls, so scope recall on the shipped data drops for those cases on purpose.
+- Detectability: A3 leaves gaps in the `recall_action` ID sequence (deleted rows), and `csv_clean/` ships next to `csv/`, so a diff reveals every anomaly. This is a validator test set with documented rules, not a blind detection benchmark.
+- Cross-version determinism is checked on Python 3.13 only. The committed checksums may differ on other Python versions if the standard library `random` changes its stream.
+- An independent review (a separate agent that did not build the project) tried to break determinism across hash seeds, working directories, output paths, TZ and locale, found no difference, and found no mismatch between the trace and an independent plain-loop trace for all 15 cases.
+
 ## D. Fresh-clone test
 
-Clone, install, run only the README commands, compare with the committed manifest. Result recorded at the end
-of Phase 8 in the commit message and in the reply.
+Cloned the repo, applied all phase commits, ran only the README commands: 124 tests passed, `generate --scale full`
+produced a manifest equal to `data/full_manifest.json`, `verify --scale full` printed PASS, and a fresh starter
+run was identical to `data/starter/`. (Re-run after the last change, see the Phase 8 commit.)
 
 ## E. Hygiene scans (tree and history)
 

@@ -87,6 +87,7 @@ def inject(rows: dict[str, list[dict]], scale: Scale, seed: int = SEED):
 
     # ---- A1 orphan input lot
     existing_raw = {l["raw_lot_id"] for l in rows["material_lot"]}
+    top_seq = max(int(i.rsplit("-", 1)[1]) for i in existing_raw)
     by_raw = defaultdict(list)
     for i, r in enumerate(bad["wo_input_lot"]):
         by_raw[r["raw_lot_id"]].append(i)
@@ -106,7 +107,7 @@ def inject(rows: dict[str, list[dict]], scale: Scale, seed: int = SEED):
     for k, (i, rid) in enumerate(plan, start=1):
         r = bad["wo_input_lot"][i]
         old = r["raw_lot_id"]
-        new = old.rsplit("-", 1)[0] + f"-{900000 + k:06d}"
+        new = old.rsplit("-", 1)[0] + f"-{top_seq + k:06d}"   # looks like a lot that was never recorded
         assert re.fullmatch(ID_PATTERNS["raw_lot_id"], new) and new not in existing_raw
         r["raw_lot_id"] = new
         add("A1", "wo_input_lot", f"{r['wo_id']}|{old}", "raw_lot_id", old, new, rid,

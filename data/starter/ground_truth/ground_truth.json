@@ -1,7 +1,7 @@
 [
   {
     "anomaly_id": "ANOM-0001",
-    "corrupted_value": "RAWLOT-S0009-2026-900001",
+    "corrupted_value": "RAWLOT-S0009-2026-000501",
     "detail": "{\"in_recall_scope\": true, \"wo_id\": \"WO-2026-000182\"}",
     "field": "raw_lot_id",
     "issue_type": "ORPHAN_INPUT_LOT",
@@ -13,7 +13,7 @@
   },
   {
     "anomaly_id": "ANOM-0002",
-    "corrupted_value": "RAWLOT-S0008-2026-900002",
+    "corrupted_value": "RAWLOT-S0008-2026-000502",
     "detail": "{\"in_recall_scope\": false, \"wo_id\": \"WO-2026-000235\"}",
     "field": "raw_lot_id",
     "issue_type": "ORPHAN_INPUT_LOT",

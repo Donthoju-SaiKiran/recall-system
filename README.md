@@ -59,3 +59,6 @@ planted and is never read by the generator, engine or validator (a test enforces
 - Very few deliveries are IN_TRANSIT, because every finished lot is older than a week at the as-of date.
 - Recall blast radii are small and most cases close; recovered units are well below 100%.
 - No warehouse table, only a warehouse code on each shipment.
+- A recall on a finished lot traces downstream only: sibling lots from the same work order are not included.
+- This is a test set for a validator with documented rules, not a blind benchmark: the action ID gaps left by anomaly A3 are visible, and `csv_clean/` ships next to `csv/`.
+- Checksums were verified on Python 3.13 only; other Python versions may change the random stream.

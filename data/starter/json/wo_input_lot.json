@@ -5066,7 +5066,7 @@
   {
     "consumed_date": "2026-09-04",
     "qty_consumed": 60.332,
-    "raw_lot_id": "RAWLOT-S0009-2026-900001",
+    "raw_lot_id": "RAWLOT-S0009-2026-000501",
     "wo_id": "WO-2026-000182"
   },
   {
@@ -7010,7 +7010,7 @@
   {
     "consumed_date": "2026-10-16",
     "qty_consumed": 224.113,
-    "raw_lot_id": "RAWLOT-S0008-2026-900002",
+    "raw_lot_id": "RAWLOT-S0008-2026-000502",
     "wo_id": "WO-2026-000235"
   },
   {
