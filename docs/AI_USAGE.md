@@ -14,6 +14,7 @@ Columns marked **YOU FILL** must be completed honestly by the candidate. They ar
 | 6 | 2026-11-12 | Claude (chat) | Phase 3: shipments and deliveries generator, shared allocate helper, tests | `generate/distribution.py`, `util.py`, `tests/test_distribution.py` | YOU FILL | YOU FILL | `pytest`: 56 passed total (executed in the AI session), statistics printed |
 | 7 | 2026-11-12 | Claude (chat) | Phase 4: recall engine (trace, planner, action simulation) and tests | `recall.py`, `tests/test_recall.py` | YOU FILL | YOU FILL | `pytest`: 70 passed total (executed in the AI session), BFS vs SQL CTE agree on all cases |
 | 8 | 2026-11-12 | Claude (chat) | Phase 5: anomaly injection, ground truth, sale_status column, pipeline helper, tests | `inject.py`, `pipeline.py`, `schema.py`, `tests/test_inject.py` | YOU FILL | YOU FILL | `pytest`: 82 passed total (executed in the AI session) |
+| 9 | 2026-11-12 | Claude (chat) | Phase 6: validator, metrics, detection scoring, tests | `validate.py`, `metrics.py`, `score.py`, `tests/test_validate.py` | YOU FILL | YOU FILL | `pytest`: 110 passed total (executed in the AI session) |
 
 ## Where AI accelerated work
 Design, boilerplate, code generation, test writing, documentation drafting.

@@ -178,7 +178,7 @@ def test_ground_truth_files_roundtrip(world, tmp_path):
 def test_nothing_reads_ground_truth_or_injector():
     """Isolation: only inject.py (and the CLI/exporter later) may mention the injector."""
     for path in ROOT.rglob("*.py"):
-        if path.name in {"inject.py", "__main__.py", "export.py"}:
+        if path.name in {"inject.py", "score.py", "__main__.py", "export.py"}:
             continue
         text = path.read_text(encoding="utf-8")
         assert "inject" not in text.lower(), path

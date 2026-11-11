@@ -108,5 +108,15 @@ next
 go
 ```
 
+**P20.** (asked to explain Phase 6)
+```
+next
+```
+
+**P21.** (approved building Phase 6)
+```
+go
+```
+
 ## Claude Code in Antigravity IDE
 Continue the list here. Copy each prompt you send.

@@ -190,7 +190,7 @@ Bridge: quantity of one finished lot dropped to one customer on one shipment.
 | finished_lot_id | text | required |  |  |  | FK -> finished_lot.finished_lot_id | matches ^FINLOT-2026-\d{6}$; must exist in finished_lot.finished_lot_id | Finished lot delivered. |
 | customer_id | text | required |  |  |  | FK -> customer.customer_id | matches ^C\d{5}$; must exist in customer.customer_id | Receiving customer. |
 | qty_delivered | integer | required | pack |  |  |  | >= 1; sum per finished lot <= finished_lot.qty_produced | Packs delivered. |
-| delivery_date | date (ISO) | required |  |  |  |  | >= shipment.ship_date and >= produced_date | Date delivered. |
+| delivery_date | date (ISO) | required |  |  |  |  | >= shipment.ship_date and >= produced_date; <= as-of date unless IN_TRANSIT | Date delivered, or expected arrival while IN_TRANSIT. |
 | status | text | required |  | IN_TRANSIT, DELIVERED, FAILED |  |  |  | Delivery state. |
 
 ## recall_case
