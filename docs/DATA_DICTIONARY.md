@@ -157,6 +157,7 @@ Batch of packs produced by one job.
 | qty_produced | integer | required | pack |  |  |  | >= 1; <= packs possible from consumed inputs | Packs produced. |
 | produced_date | date (ISO) | required |  |  |  |  | within job start_date..end_date | Production date. |
 | expiry_date | date (ISO) | required |  |  |  |  | > produced_date | Best-before date. |
+| sale_status | text | required |  | AVAILABLE, RECALLED |  |  | RECALLED if the lot is in any recall scope, else AVAILABLE; a lot with a QUARANTINE action must not be AVAILABLE | Whether the lot may be sold. |
 
 ## shipment
 

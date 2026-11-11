@@ -279,7 +279,8 @@ def generate_production(scale: Scale, master: dict[str, list[dict]], seed: int =
             produced = _day(rng, plan["start"], plan["end"])
             finished.append({"wo_id": plan["wo_id"], "qty_produced": qty,
                              "produced_date": produced.isoformat(),
-                             "expiry_date": (produced + timedelta(days=shelf)).isoformat()})
+                             "expiry_date": (produced + timedelta(days=shelf)).isoformat(),
+                             "sale_status": "AVAILABLE"})
     finished.sort(key=lambda f: (f["produced_date"], f["wo_id"], f["qty_produced"]))
     fl_ids = IdCounter("finished_lot_id")
     for f in finished:

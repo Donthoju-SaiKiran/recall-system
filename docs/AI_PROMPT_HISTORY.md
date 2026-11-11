@@ -98,5 +98,15 @@ next
 go
 ```
 
+**P18.** (asked to explain Phase 5)
+```
+next
+```
+
+**P19.** (approved building Phase 5, option a: sale_status column)
+```
+go
+```
+
 ## Claude Code in Antigravity IDE
 Continue the list here. Copy each prompt you send.

@@ -332,3 +332,17 @@ def generate_recalls(scale: Scale, rows: dict[str, list[dict]], seed: int = SEED
     stats = {"cases": len(case_rows), "actions": len(actions),
              "closed": sum(1 for c in case_rows if c["status"] == "CLOSED")}
     return out, answer_key, stats
+
+
+def apply_sale_status(rows: dict[str, list[dict]], recall_out: dict[str, list[dict]]) -> list[dict]:
+    """Return finished_lot rows with sale_status derived from the recall scopes.
+
+    Uses the engine trace, not the answer key. A lot in any recall scope is RECALLED.
+    """
+    g = build_graph(rows)
+    recalled: set[str] = set()
+    for c in recall_out["recall_case"]:
+        kind = "RAW" if c["trigger_lot_type"] == "RAW" else "FINISHED"
+        recalled |= trace_scope(g, kind, c["trigger_lot_id"]).finished_lots
+    return [{**f, "sale_status": "RECALLED" if f["finished_lot_id"] in recalled else "AVAILABLE"}
+            for f in rows["finished_lot"]]

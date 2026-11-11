@@ -27,6 +27,7 @@ LOT_TYPES = ("RAW", "FINISHED")
 REASON_CODES = ("PATHOGEN", "ALLERGEN_UNDECLARED", "FOREIGN_MATTER", "CHEMICAL")
 SEVERITIES = ("CLASS_I", "CLASS_II", "CLASS_III")
 RECALL_STATUS = ("OPEN", "IN_PROGRESS", "CLOSED")
+SALE_STATUS = ("AVAILABLE", "RECALLED")
 ACTION_TYPES = ("NOTIFY", "QUARANTINE", "RECOVER", "DISPOSE")
 TARGET_TYPES = ("RAW_LOT", "FINISHED_LOT", "DELIVERY")
 DISPOSITIONS = ("PENDING", "QUARANTINED", "RETURNED", "DESTROYED", "REWORKED")
@@ -221,6 +222,9 @@ TABLES: tuple[Table, ...] = (
             day("produced_date", "Production date.",
                 rule="within job start_date..end_date"),
             day("expiry_date", "Best-before date.", rule="> produced_date"),
+            txt("sale_status", "Whether the lot may be sold.", allowed=SALE_STATUS,
+                rule="RECALLED if the lot is in any recall scope, else AVAILABLE; "
+                     "a lot with a QUARANTINE action must not be AVAILABLE"),
         ),
         cardinality="1 production_order : N finished_lot, 1 finished_lot : N delivery",
         lifecycle="PRODUCED -> DELIVERED (derived) -> QUARANTINED (derived from recall_action)",

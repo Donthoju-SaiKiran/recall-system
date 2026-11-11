@@ -94,6 +94,7 @@ CREATE TABLE finished_lot (
     qty_produced INTEGER NOT NULL CHECK (qty_produced >= 1),
     produced_date TEXT NOT NULL CHECK (date(produced_date) IS NOT NULL),
     expiry_date TEXT NOT NULL CHECK (date(expiry_date) IS NOT NULL),
+    sale_status TEXT NOT NULL CHECK (sale_status IN ('AVAILABLE', 'RECALLED')),
     PRIMARY KEY (finished_lot_id),
     FOREIGN KEY (wo_id) REFERENCES production_order(wo_id)
 );
