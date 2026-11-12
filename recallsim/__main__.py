@@ -12,8 +12,8 @@ from .dictionary import build_markdown
 def write_docs(root: Path) -> None:
     (root / "sql").mkdir(exist_ok=True)
     (root / "docs").mkdir(exist_ok=True)
-    (root / "sql" / "schema.sql").write_text(build_ddl() + "\n", encoding="utf-8")
-    (root / "docs" / "DATA_DICTIONARY.md").write_text(build_markdown() + "\n", encoding="utf-8")
+    (root / "sql" / "schema.sql").write_text(build_ddl() + "\n", encoding="utf-8", newline="\n")
+    (root / "docs" / "DATA_DICTIONARY.md").write_text(build_markdown() + "\n", encoding="utf-8", newline="\n")
 
 
 def main() -> None:

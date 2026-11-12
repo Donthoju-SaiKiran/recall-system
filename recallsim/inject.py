@@ -177,4 +177,4 @@ def write_ground_truth(truth: list[dict], out_dir: Path) -> None:
         w.writeheader()
         w.writerows(truth)
     (out_dir / "ground_truth.json").write_text(
-        json.dumps(truth, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+        json.dumps(truth, indent=2, sort_keys=True) + "\n", encoding="utf-8", newline="\n")

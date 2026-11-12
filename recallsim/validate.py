@@ -262,11 +262,11 @@ def write_summary(issues: list[dict], rows: dict[str, list[dict]], out_dir: Path
     summary = summarize(issues, rows)
     summary["sample_issues"] = issues[:max_listed]
     (out_dir / "validation_summary.json").write_text(
-        json.dumps(summary, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+        json.dumps(summary, indent=2, sort_keys=True) + "\n", encoding="utf-8", newline="\n")
     lines = ["# Validation summary", "", f"Result: **{summary['result']}**, total issues: {summary['total_issues']}",
              "", "| Check | Status | Issues |", "|---|---|---|"]
     lines += [f"| {c} | {v['status']} | {v['issues']} |" for c, v in summary["checks"].items()]
     lines += ["", "## Row counts", "", "| Table | Rows |", "|---|---|"]
     lines += [f"| {t} | {n} |" for t, n in summary["row_counts"].items()]
-    (out_dir / "validation_summary.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    (out_dir / "validation_summary.md").write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
     return summary
