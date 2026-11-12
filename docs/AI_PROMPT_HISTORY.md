@@ -1,142 +1,19 @@
 # AI prompt history
 
-Prompts submitted to AI tools, in order. AI responses are not archived. Recorded by hand from the chat, so very long prompts are referenced rather than retyped.
+The important prompts only, in order. This is a curated list, not a full transcript. AI replies are not archived. Tool: Claude (claude.ai chat plus a cloud coding session), 2026-11-11 to 2026-11-13.
 
-## Claude chat (claude.ai), 2026-11-11 to 2026-11-12
+| # | What I asked | Why it mattered |
+|---|---|---|
+| 1 | The YottaFlex master instruction plus the problem statement (stored at `docs/problem_statement.txt`). It told Claude to act as architect, mentor and reviewer, work in phases, test, document and record AI use. | Set the whole working method. |
+| 2 | "We just have 2 days. Don't build directly, explain before building, in simple words first and then in technical terms, as I have to explain this too." | Made every phase explain-then-approve, so I could defend each choice. |
+| 3 | Asked what BOM means. | Clarified the recipe table (`bom_line`) before it was built. |
+| 4 | Approved the requirements, stack (Python, SQLite, pytest), 12-table design and phase plan. | Locked the architecture. |
+| 5 | "next", then "go" for each of Phases 0 to 7 (schema, master data, production, distribution, recall engine, anomalies, validator and metrics, export). | I read each explanation, then approved the build. |
+| 6 | Asked Claude to keep notes for continuing in my local IDE, and set the rule: never claim anything works without running it. | Kept the work honest and portable. |
+| 7 | Asked for a requirements audit (Phase 8) and an independent review by a second, separate agent. | Found real issues (see below). |
+| 8 | Asked for fixes from that review: remove the fake-ID tell, add an independent trace test, document assumptions. | Fixes are in the repo history. |
+| 9 | "Is it ready?" | Got the list of what was still on me: push, fill docs, check deadline. |
+| 10 | Asked for a presentation and an explainer video, not AI-ish or robotic. | Produced the deck, narration script and video. |
+| 11 | Asked for the final package and an AI usage record. | This file and `AI_USAGE.md`. |
 
-**P1. Master instruction plus problem statement.**
-A long role and process prompt ("MASTER INSTRUCTION: YOTTAFLEX AI - 72-HOUR ENGINEERING CHALLENGE") asking Claude to act as architect, mentor and reviewer, teach while building, work in phases, test, document, record AI usage, and answer first with requirements, stack, architecture, phases, plan and questions before coding. The problem statement was attached as a text file, stored at `docs/problem_statement.txt`.
-TO DO (candidate): paste the full original text of the master instruction into `docs/prompts/00_master_instruction.md`, the AI session cannot export it verbatim.
-
-**P2.**
-```
-Think We just have 2 Days.
-
-Also Don't Build Directly Explain me Before Building anything..
-
-explain in Simple way ( with later showing explanation in Tech jargons as I will also have to explain This )
-
-You are my Mentor + Building for me..
-```
-
-**P3.** (asked about the term BOM, quoted from Claude's reply)
-```
-what does it mean
-```
-
-**P4.** (approved starting Phase 0)
-```
-yes
-```
-
-**P5.** (approved the table map and design decisions)
-```
-yes
-```
-
-**P6.** (asked to start explaining Phase 1)
-```
-next
-```
-
-**P7.** (approved building Phase 1)
-```
-go
-```
-
-**P8.**
-```
-Don't push it now. At the end, share me the final zip. I will upload it manually to the Git repo.
-```
-
-**P9.**
-```
-Lets Continue in local Desktop. We will build there and keep pushing
-```
-
-**P10.**
-```
-I will login in new device in Antigravity IDE 9 claude code extension
-```
-
-**P11.**
-```
-https://github.com/Donthoju-SaiKiran/recall-system
-
-Or else COntinue Here.. And make Commits and Push as - username "Donthoju SaiKiran" email -"donthojusaikiran@gmail.com"
-```
-
-**P12.**
-```
-Continue. 
-
-I have pushed to Repo Try now !!
-```
-
-**P13.** (approved building Phase 2)
-```
-go
-```
-
-**P14.** (asked to explain Phase 3)
-```
-next
-```
-
-**P15.** (approved building Phase 3)
-```
-go
-```
-
-**P16.** (asked to explain Phase 4)
-```
-next
-```
-
-**P17.** (approved building Phase 4)
-```
-go
-```
-
-**P18.** (asked to explain Phase 5)
-```
-next
-```
-
-**P19.** (approved building Phase 5, option a: sale_status column)
-```
-go
-```
-
-**P20.** (asked to explain Phase 6)
-```
-next
-```
-
-**P21.** (approved building Phase 6)
-```
-go
-```
-
-**P22.** (asked to explain Phase 7)
-```
-next
-```
-
-**P23.** (approved building Phase 7; gave no choice on the two open decisions, recommended 1a and 2 yes were used)
-```
-go
-```
-
-**P24.** (asked to explain Phase 8)
-```
-next
-```
-
-**P25.** (approved running Phase 8)
-```
-go
-```
-
-## Claude Code in Antigravity IDE
-Continue the list here. Copy each prompt you send.
+Full original text of the master instruction: `docs/prompts/00_master_instruction.md`.

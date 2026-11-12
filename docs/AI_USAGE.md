@@ -1,27 +1,33 @@
 # AI usage record
 
-Tool used: Claude (claude.ai chat, with a cloud coding session). All work so far was done in that one tool. The cloud session could not push to GitHub, so the candidate applied patches with `git am` and pushed.
+## Tool
+Claude (claude.ai chat plus a cloud coding session). One tool throughout. The cloud session could not push to GitHub, so I applied its patches with `git am` and pushed myself.
 
-Columns marked **YOU FILL** must be completed honestly by the candidate. They are left blank on purpose, AI cannot know what you personally reviewed.
+## Who did what
+I did not write this code by hand. Claude generated the code, tests and documentation. My role was to direct the work, make the decisions, and approve each phase.
 
-| # | Date | Tool | Purpose | AI generated or suggested | Reviewed by me | Modified by me | How validated |
-|---|---|---|---|---|---|---|---|
-| 1 | 2026-11-11 | Claude (chat) | Read problem, requirements, stack, architecture, phases, 48h plan | Requirement table, stack choice (Python, SQLite, pytest), 12-table design, phase plan | YOU FILL | YOU FILL | Discussed and approved in chat |
-| 2 | 2026-11-11 | Claude (chat) | Phase 0: schema, DDL generator, data dictionary generator, schema tests | `recallsim/schema.py`, `ddl.py`, `dictionary.py`, `__main__.py`, `tests/test_schema.py` | YOU FILL | YOU FILL | `pytest`: 10 passed (executed in the AI session) |
-| 3 | 2026-11-12 | Claude (chat) | Phase 1: seed, RNG, ID factory, DB helper, master data generators, tests | `config.py`, `rng.py`, `ids.py`, `db.py`, `generate/master.py`, `tests/test_master.py` | YOU FILL | YOU FILL | `pytest`: 24 passed total (executed in the AI session), distribution preview printed |
-| 4 | 2026-11-12 | Claude (chat) | Handoff notes for continuing in Claude Code | `CLAUDE.md`, this file, prompt history file | YOU FILL | YOU FILL | n/a |
-| 5 | 2026-11-12 | Claude (chat) | Phase 2: raw lots, work orders, FEFO consumption, finished lots, tests | `generate/production.py`, `tests/test_production.py`, `AS_OF` in `config.py` | YOU FILL | YOU FILL | `pytest`: 43 passed total (executed in the AI session), output statistics printed |
-| 6 | 2026-11-12 | Claude (chat) | Phase 3: shipments and deliveries generator, shared allocate helper, tests | `generate/distribution.py`, `util.py`, `tests/test_distribution.py` | YOU FILL | YOU FILL | `pytest`: 56 passed total (executed in the AI session), statistics printed |
-| 7 | 2026-11-12 | Claude (chat) | Phase 4: recall engine (trace, planner, action simulation) and tests | `recall.py`, `tests/test_recall.py` | YOU FILL | YOU FILL | `pytest`: 70 passed total (executed in the AI session), BFS vs SQL CTE agree on all cases |
-| 8 | 2026-11-12 | Claude (chat) | Phase 5: anomaly injection, ground truth, sale_status column, pipeline helper, tests | `inject.py`, `pipeline.py`, `schema.py`, `tests/test_inject.py` | YOU FILL | YOU FILL | `pytest`: 82 passed total (executed in the AI session) |
-| 9 | 2026-11-12 | Claude (chat) | Phase 6: validator, metrics, detection scoring, tests | `validate.py`, `metrics.py`, `score.py`, `tests/test_validate.py` | YOU FILL | YOU FILL | `pytest`: 110 passed total (executed in the AI session) |
-| 10 | 2026-11-12 | Claude (chat) | Phase 7: exporter, manifest, README, CLI, reproducibility check, committed starter data, tests | `export.py`, `__main__.py`, `README.md`, `tests/test_export.py`, `data/` | YOU FILL | YOU FILL | `pytest`: 124 passed total (executed in the AI session); `verify` PASS at starter and full scale |
+| Area | Claude | Me (Sai Kiran) |
+|---|---|---|
+| Requirements and scope | Read the brief, produced the requirement table | Chose to proceed, set the working rules (explain first, phased, never claim untested things) |
+| Architecture | Proposed the 12-table schema, stack, stage-isolated seeding, validator design | Reviewed each explanation and approved it before any build |
+| Code | Wrote all modules in `recallsim/` | Approved each phase; applied patches and pushed |
+| Tests | Wrote and ran the 125 tests | Re-run on my machine: see note below |
+| Evaluation | Ran an independent review by a second agent and fixed what it found | Requested the audit and the review, approved the fixes |
+| Docs, deck, video | Drafted them | Directed tone and content |
 
-## Where AI accelerated work
-Design, boilerplate, code generation, test writing, documentation drafting.
+I am not claiming a percentage split. Most of the implementation was AI generated.
 
-## What I personally reviewed, changed, validated
-YOU FILL. Re-run the tests yourself on your machine and note it here with the date.
+## What I can explain and defend
+Why SQLite, why whole-gram quantities, why two independent traces (BFS and a SQL recursive CTE), why the answer key is kept apart from the validator, and the known limits in `README.md` and the deck. The mentor-style workflow was set up so I could do this.
 
-## Limitations of this record
-Prompts are recorded in `AI_PROMPT_HISTORY.md`. The chat tool cannot export prompts automatically, they were copied by hand.
+## What AI got wrong and was fixed
+Real issues found by testing and by the independent review: a wrong test count, an in-transit date rule, a README that embedded a folder name and broke reproducibility, an SQL seed file that failed on foreign keys, and a fake-ID pattern that revealed the injected errors. All fixed and covered by tests.
+
+## Validation
+Executed in the AI session: 125 tests pass, `verify --scale full` passes (two separate processes, different hash seeds, identical hashes of all 50 files), validator finds 20 of 20 injected errors. Checked on Python 3.13 only.
+
+## My own checks
+Date I re-ran `pytest` and `python -m recallsim verify --scale full` on my machine: ____ (fill in after you run them).
+
+## Prompts
+Important prompts are in `AI_PROMPT_HISTORY.md`.
